@@ -2185,68 +2185,226 @@ function doSyncAction() {
   }
 }
 
-init();
-</script>
 
-<!-- 数据同步弹窗 -->
-<div class="sync-modal" id="syncModal" style="display:none">
-  <div class="sync-modal-overlay" onclick="closeSyncModal()"></div>
-  <div class="sync-modal-content">
-    <div class="sync-modal-header">
-      <h3>📊 数据同步</h3>
-      <button class="sync-close-btn" onclick="closeSyncModal()">✕</button>
-    </div>
-    <div class="sync-modal-body">
-      <!-- 同步码方式 -->
-      <div class="sync-section">
-        <h4>🔑 同步码方式（无需注册）</h4>
-        <p class="sync-desc">将当前设备的所有答题数据生成同步码，在其他设备粘贴即可恢复</p>
-        <div class="sync-actions">
-          <button class="sync-btn sync-btn-primary" onclick="generateSyncCode()">📋 复制同步码</button>
-        </div>
-        <div class="sync-input-group">
-          <textarea class="sync-textarea" id="syncCodeInput" placeholder="粘贴同步码..."></textarea>
-          <button class="sync-btn sync-btn-success" onclick="importSyncCode()">✅ 导入同步码</button>
-        </div>
-      </div>
+init();
+
+// ============ Supabase云端同步 ============
+let supabaseClient = null;
+let supabaseUser = null;
+
+// 初始化Supabase
+function initSupabase() {
+  const config = JSON.parse(localStorage.getItem('supabase_config') || '{}');
+  if (config.url && config.anonKey && typeof supabase !== 'undefined') {
+    try {
+      supabaseClient = supabase.createClient(config.url, config.anonKey);
+      supabaseClient.auth.getUser().then(({ data }) => {
+        if (data && data.user) {
+          supabaseUser = data.user;
+        }
+      });
+      return true;
+    } catch (e) {
+      console.error('Supabase初始化失败:', e);
+    }
+  }
+  return false;
+}
+
+// 打开Supabase配置弹窗
+function openSupabaseConfig() {
+  const config = JSON.parse(localStorage.getItem('supabase_config') || '{}');
+  const url = prompt('请输入Supabase项目URL（在Supabase项目Settings > API中获取）:', config.url || '');
+  if (url === null) return;
+  const anonKey = prompt('请输入Supabase anon key（在Supabase项目Settings > API中获取）:', config.anonKey || '');
+  if (anonKey === null) return;
+  
+  localStorage.setItem('supabase_config', JSON.stringify({ url: url.trim(), anonKey: anonKey.trim() }));
+  
+  if (initSupabase()) {
+    alert('Supabase配置成功！\n\n请在Supabase中创建user_data表后使用云端同步。\n\n建表SQL：\nCREATE TABLE user_data (\n  user_id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,\n  data JSONB NOT NULL,\n  updated_at TIMESTAMPTZ DEFAULT NOW()\n);');
+  } else {
+    alert('配置已保存，但初始化失败，请检查URL和key是否正确');
+  }
+}
+
+// Supabase登录
+async function supabaseLogin() {
+  if (!supabaseClient) {
+    openSupabaseConfig();
+    return;
+  }
+  const email = prompt('请输入邮箱:');
+  if (!email) return;
+  const password = prompt('请输入密码:');
+  if (!password) return;
+  
+  try {
+    const { data, error } = await supabaseClient.auth.signInWithPassword({ email, password });
+    if (error) throw error;
+    supabaseUser = data.user;
+    alert('登录成功！当前用户: ' + supabaseUser.email);
+  } catch (e) {
+    alert('登录失败: ' + e.message);
+  }
+}
+
+// Supabase注册
+async function supabaseRegister() {
+  if (!supabaseClient) {
+    openSupabaseConfig();
+    return;
+  }
+  const email = prompt('请输入邮箱:');
+  if (!email) return;
+  const password = prompt('请输入密码（至少6位）:');
+  if (!password || password.length < 6) {
+    alert('密码至少6位');
+    return;
+  }
+  
+  try {
+    const { data, error } = await supabaseClient.auth.signUp({ email, password });
+    if (error) throw error;
+    if (data.user) {
+      supabaseUser = data.user;
+      alert('注册成功！已自动登录');
+    } else {
+      alert('注册成功！请检查邮箱验证后登录');
+    }
+  } catch (e) {
+    alert('注册失败: ' + e.message);
+  }
+}
+
+// 上传数据到Supabase
+async function uploadToSupabase() {
+  if (!supabaseClient || !supabaseUser) {
+    alert('请先登录Supabase');
+    return;
+  }
+  if (!confirm('确定要上传数据到云端吗？这将覆盖云端数据。')) return;
+  
+  try {
+    const data = {
+      v: 1,
+      t: Date.now(),
+      wrong: localStorage.getItem('quiz_wrong_book') || '[]',
+      fav: localStorage.getItem('quiz_favorites') || '[]',
+      done: localStorage.getItem('quiz_done_book') || '[]',
+      plan: localStorage.getItem('quiz_10day_plan') || 'null',
+      prog: localStorage.getItem('quiz_progress') || 'null'
+    };
+    
+    const { error } = await supabaseClient
+      .from('user_data')
+      .upsert({
+        user_id: supabaseUser.id,
+        data: data,
+        updated_at: new Date().toISOString()
+      }, { onConflict: 'user_id' });
+    
+    if (error) throw error;
+    alert('数据上传成功！');
+  } catch (e) {
+    alert('上传失败: ' + e.message + '\n\n请确保已在Supabase创建user_data表');
+  }
+}
+
+// 从Supabase下载数据
+async function downloadFromSupabase() {
+  if (!supabaseClient || !supabaseUser) {
+    alert('请先登录Supabase');
+    return;
+  }
+  if (!confirm('确定要从云端下载数据吗？这将覆盖本地数据。')) return;
+  
+  try {
+    const { data, error } = await supabaseClient
+      .from('user_data')
+      .select('data')
+      .eq('user_id', supabaseUser.id)
+      .single();
+    
+    if (error) throw error;
+    
+    if (data && data.data) {
+      const d = data.data;
+      if (d.wrong) localStorage.setItem('quiz_wrong_book', d.wrong);
+      if (d.fav) localStorage.setItem('quiz_favorites', d.fav);
+      if (d.done) localStorage.setItem('quiz_done_book', d.done);
+      if (d.plan) localStorage.setItem('quiz_10day_plan', d.plan);
+      if (d.prog) localStorage.setItem('quiz_progress', d.prog);
       
-      <!-- Supabase云端同步 -->
-      <div class="sync-section">
-        <h4>☁️ 云端同步（Supabase）</h4>
-        <p class="sync-desc">注册账号后实现多设备自动同步</p>
-        <div id="supabaseLoginSection" style="display:none">
-          <div class="sync-input-group">
-            <input type="email" id="supabaseEmail" placeholder="邮箱" class="sync-input">
-            <input type="password" id="supabasePassword" placeholder="密码" class="sync-input">
-          </div>
-          <div class="sync-actions">
-            <button class="sync-btn sync-btn-primary" onclick="supabaseLogin()">🔐 登录</button>
-            <button class="sync-btn sync-btn-secondary" onclick="supabaseRegister()">📝 注册</button>
-          </div>
-        </div>
-        <div id="supabaseUserSection" style="display:none">
-          <p class="sync-user-info">当前用户：<span id="supabaseUserEmail"></span></p>
-          <div class="sync-actions">
-            <button class="sync-btn sync-btn-primary" onclick="uploadToSupabase()">⬆️ 上传数据</button>
-            <button class="sync-btn sync-btn-success" onclick="downloadFromSupabase()">⬇️ 下载数据</button>
-            <button class="sync-btn sync-btn-danger" onclick="supabaseLogout()">🚪 退出登录</button>
-          </div>
-        </div>
-        <div class="sync-config-section">
-          <details>
-            <summary>⚙️ Supabase配置（首次使用需配置）</summary>
-            <div class="sync-input-group">
-              <input type="text" id="supabaseUrl" placeholder="Supabase项目URL" class="sync-input">
-              <input type="text" id="supabaseAnonKey" placeholder="Supabase anon key" class="sync-input">
-              <button class="sync-btn sync-btn-secondary" onclick="saveSupabaseConfig()">💾 保存配置</button>
-            </div>
-            <p class="sync-hint">配置保存在本地，不会上传到任何服务器</p>
-          </details>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+      // 重新加载内存数据
+      wrongBook = JSON.parse(localStorage.getItem('quiz_wrong_book') || '[]');
+      favorites = JSON.parse(localStorage.getItem('quiz_favorites') || '[]');
+      doneBook = JSON.parse(localStorage.getItem('quiz_done_book') || '[]');
+      planData = JSON.parse(localStorage.getItem('quiz_10day_plan') || 'null');
+      quizProgress = JSON.parse(localStorage.getItem('quiz_progress') || 'null');
+      
+      updateBadges();
+      renderQuestion();
+      alert('数据下载成功！已覆盖本地数据');
+    } else {
+      alert('云端没有数据');
+    }
+  } catch (e) {
+    alert('下载失败: ' + e.message);
+  }
+}
+
+// Supabase退出登录
+async function supabaseLogout() {
+  if (!supabaseClient) return;
+  await supabaseClient.auth.signOut();
+  supabaseUser = null;
+  alert('已退出登录');
+}
+
+// 打开云端同步菜单
+function openCloudSync() {
+  if (!supabaseClient) {
+    if (confirm('尚未配置Supabase，是否现在配置？')) {
+      openSupabaseConfig();
+    }
+    return;
+  }
+  
+  const options = [];
+  if (supabaseUser) {
+    options.push('当前用户: ' + supabaseUser.email);
+    options.push('1. 上传数据到云端');
+    options.push('2. 从云端下载数据');
+    options.push('3. 退出登录');
+    options.push('4. 重新配置Supabase');
+  } else {
+    options.push('1. 登录');
+    options.push('2. 注册');
+    options.push('3. 重新配置Supabase');
+  }
+  
+  const choice = prompt('☁️ 云端同步（Supabase）\n\n' + options.join('\n') + '\n\n请输入选项数字:');
+  
+  if (supabaseUser) {
+    if (choice === '1') uploadToSupabase();
+    else if (choice === '2') downloadFromSupabase();
+    else if (choice === '3') supabaseLogout();
+    else if (choice === '4') openSupabaseConfig();
+  } else {
+    if (choice === '1') supabaseLogin();
+    else if (choice === '2') supabaseRegister();
+    else if (choice === '3') openSupabaseConfig();
+  }
+}
+
+// 页面加载时初始化Supabase
+if (typeof supabase !== 'undefined') {
+  initSupabase();
+}
+
+
+
 
 <!-- 确认操作弹窗 -->
 <div class="confirm-modal" id="confirmModal" style="display:none">

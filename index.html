@@ -1,0 +1,1831 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#0f4c75">
+<title>两河口二次专业理论题库</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body {
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: linear-gradient(180deg, #e8f4f8 0%, #f0f4f8 100%);
+    color: #333;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  body { padding-bottom: 100px; }
+
+  .header {
+    background: linear-gradient(135deg, #0f4c75 0%, #3282b8 50%, #bbe1fa 100%);
+    color: white;
+    padding: 12px 16px;
+    box-shadow: 0 4px 20px rgba(15, 76, 117, 0.3);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .header h1 { font-size: 16px; font-weight: 600; }
+  .header .stats { font-size: 12px; opacity: 0.9; }
+
+  .mode-tabs {
+    display: flex;
+    gap: 0;
+    background: rgba(255,255,255,0.15);
+    border-radius: 8px;
+    padding: 3px;
+  }
+  .mode-tab {
+    flex: 1;
+    padding: 6px 2px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+    color: rgba(255,255,255,0.8);
+    border: none;
+    background: none;
+  }
+  .mode-tab.active {
+    background: white;
+    color: #0f4c75;
+    font-weight: 600;
+  }
+  .mode-tab .badge {
+    display: inline-block;
+    background: #e74c3c;
+    color: white;
+    font-size: 10px;
+    padding: 1px 5px;
+    border-radius: 8px;
+    margin-left: 2px;
+    min-width: 14px;
+  }
+
+  .toolbar-toggle {
+    background: white;
+    padding: 8px 16px;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+  }
+  .toolbar-toggle span { font-size: 14px; color: #555; }
+  .toolbar-toggle .arrow { transition: transform 0.3s; font-size: 12px; color: #999; }
+  .toolbar-toggle.open .arrow { transform: rotate(180deg); }
+  .toolbar {
+    background: white;
+    padding: 12px 16px;
+    border-bottom: 1px solid #e0e0e0;
+    display: none;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+  .toolbar.open { display: flex; }
+  .toolbar label { font-size: 13px; color: #555; display: flex; align-items: center; gap: 6px; }
+  .toolbar select, .toolbar input {
+    padding: 8px 10px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; min-height: 36px;
+  }
+  .toolbar select { min-width: 100px; }
+  .toolbar input { flex: 1; min-width: 120px; }
+  .toolbar button {
+    padding: 8px 14px; border: none; border-radius: 6px; cursor: pointer;
+    font-size: 13px; min-height: 36px; font-weight: 500;
+  }
+  .btn-primary { background: #2980b9; color: white; }
+  .btn-secondary { background: #e8e8e8; color: #333; }
+  .btn-danger { background: #e74c3c; color: white; }
+  .btn-success { background: #27ae60; color: white; }
+
+  .main { max-width: 100%; margin: 0 auto; padding: 12px; }
+  .progress-bar { width: 100%; height: 4px; background: #e0e0e0; border-radius: 2px; margin-bottom: 12px; overflow: hidden; }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, #0f4c75, #3282b8, #bbe1fa); transition: width 0.4s ease; box-shadow: 0 0 8px rgba(50, 130, 184, 0.4); }
+
+  .card {
+    background: white; border-radius: 16px; box-shadow: 0 4px 20px rgba(15, 76, 117, 0.1);
+    overflow: hidden; margin-bottom: 16px; border: 1px solid rgba(50, 130, 184, 0.1);
+  }
+  .card-header {
+    padding: 14px 18px; border-bottom: 1px solid #e8f4f8;
+    display: flex; justify-content: space-between; align-items: center;
+    background: linear-gradient(90deg, #f8fcff 0%, white 100%);
+  }
+  .card-header .qid { font-size: 15px; font-weight: 600; color: #0f4c75; }
+  .card-header .type-badge { padding: 3px 10px; border-radius: 10px; font-size: 11px; font-weight: 500; }
+  .type-A { background: linear-gradient(135deg, #d6eaf8, #aed6f1); color: #0f4c75; }
+  .type-B { background: linear-gradient(135deg, #d5f5e3, #abebc6); color: #1e8449; }
+  .type-C { background: linear-gradient(135deg, #fdebd0, #f9e79f); color: #b9770e; }
+  .type-D { background: linear-gradient(135deg, #ebdef0, #d2b4de); color: #6c3483; }
+  .type-E { background: linear-gradient(135deg, #fadbd8, #f5b7b1); color: #c0392b; }
+  .type-F { background: linear-gradient(135deg, #d1f2eb, #a3e4d7); color: #117a65; }
+
+  .card-body { padding: 12px; text-align: center; }
+  .card-body img {
+    max-width: 100%; height: auto; border: 1px solid #e0e8f0; border-radius: 10px;
+    cursor: zoom-in; transition: transform 0.2s;
+  }
+  .card-body img.zoomed {
+    cursor: zoom-out; position: fixed; top: 50%; left: 50%;
+    transform: translate(-50%, -50%); max-width: 95vw; max-height: 90vh;
+    z-index: 1000; box-shadow: 0 4px 30px rgba(0,0,0,0.4);
+  }
+  .zoom-overlay {
+    display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.7); z-index: 999;
+  }
+  .zoom-overlay.show { display: block; }
+
+  .answer-options {
+    display: flex; flex-direction: column; gap: 8px; margin-top: 12px; padding: 0 4px;
+  }
+  .option-btn {
+    padding: 12px 16px; border: 2px solid #e0e0e0; border-radius: 8px;
+    background: white; font-size: 15px; text-align: left; cursor: pointer;
+    transition: all 0.2s; display: flex; align-items: center; gap: 10px;
+  }
+  .option-btn:active { transform: scale(0.98); }
+  .option-btn .opt-letter {
+    width: 28px; height: 28px; border-radius: 50%; background: #f0f0f0;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 600; font-size: 14px; flex-shrink: 0;
+  }
+  .option-btn.selected { border-color: #2980b9; background: #ebf5fb; }
+  .option-btn.selected .opt-letter { background: #2980b9; color: white; }
+  .option-btn.correct { border-color: #27ae60; background: #eafaf1; }
+  .option-btn.correct .opt-letter { background: #27ae60; color: white; }
+  .option-btn.wrong { border-color: #e74c3c; background: #fdedec; }
+  .option-btn.wrong .opt-letter { background: #e74c3c; color: white; }
+  .option-btn.disabled { pointer-events: none; opacity: 0.8; }
+
+  .result-tip {
+    margin-top: 10px; padding: 10px; border-radius: 6px; font-size: 14px;
+    text-align: center; display: none;
+  }
+  .result-tip.show { display: block; }
+  .result-tip.correct { background: #eafaf1; color: #1e8449; }
+  .result-tip.wrong { background: #fdedec; color: #c0392b; }
+
+  .action-row {
+    display: flex; gap: 8px; margin-top: 12px; padding: 0 4px;
+  }
+  .action-btn {
+    flex: 1; padding: 10px; border: none; border-radius: 8px;
+    font-size: 13px; cursor: pointer; transition: all 0.15s;
+    display: flex; align-items: center; justify-content: center; gap: 4px;
+  }
+  .action-btn:active { transform: scale(0.96); }
+  .action-btn.fav { background: #fef9e7; color: #b7950b; border: 1px solid #f9e79f; }
+  .action-btn.fav.active { background: #f9e79f; color: #7d6608; }
+  .action-btn.wrong-mark { background: #fdedec; color: #c0392b; border: 1px solid #f5b7b1; }
+  .action-btn.wrong-mark.active { background: #f5b7b1; color: #922b21; }
+  .action-btn.done-mark { background: #eafaf1; color: #1e8449; border: 1px solid #a9dfbf; }
+  .action-btn.done-mark.active { background: #a9dfbf; color: #0e6251; }
+
+  .answer-section {
+    max-height: 0; overflow: hidden; transition: max-height 0.4s ease, margin 0.3s, padding 0.3s;
+    margin-top: 0; padding-top: 0;
+  }
+  .answer-section.show { max-height: 5000px; margin-top: 12px; padding-top: 12px; border-top: 2px dashed #e0e0e0; }
+  .answer-label {
+    display: inline-block; padding: 4px 14px; background: #f39c12; color: white;
+    border-radius: 4px; font-size: 13px; font-weight: 600; margin-bottom: 10px;
+  }
+
+  .list-mode { display: none; }
+  .list-mode.active { display: block; }
+  .quiz-mode { display: block; }
+  .quiz-mode.hidden { display: none; }
+
+  .question-list { display: flex; flex-direction: column; gap: 8px; }
+  .list-item {
+    background: white; border-radius: 8px; padding: 12px 14px;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.06); cursor: pointer;
+    display: flex; justify-content: space-between; align-items: center;
+    transition: all 0.15s;
+  }
+  .list-item:active { transform: scale(0.98); background: #f8f9fa; }
+  .list-item.done { background: #eafaf1; border-left: 4px solid #27ae60; }
+  .list-item .item-info { flex: 1; min-width: 0; }
+  .list-item .item-id { font-size: 14px; font-weight: 600; color: #0f4c75; }
+  .list-item .item-text {
+    font-size: 12px; color: #888; margin-top: 2px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .list-item .item-actions { display: flex; gap: 6px; align-items: center; flex-shrink: 0; margin-left: 8px; }
+  .list-item .del-btn {
+    width: 30px; height: 30px; border-radius: 50%; border: none;
+    background: #fadbd8; color: #c0392b; font-size: 16px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .list-item .del-btn:active { background: #f5b7b1; }
+  .list-item .done-check {
+    width: 24px; height: 24px; border-radius: 50%; border: 2px solid #27ae60;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px; color: #27ae60; background: white;
+  }
+  .list-item.done .done-check { background: #27ae60; color: white; }
+  .empty-list {
+    text-align: center; padding: 60px 20px; color: #bbb; font-size: 14px;
+  }
+  .empty-list .icon { font-size: 48px; margin-bottom: 12px; opacity: 0.5; }
+
+  /* 10天计划样式 */
+  .plan-mode { display: none; }
+  .plan-mode.active { display: block; }
+  .plan-header {
+    background: white; border-radius: 10px; padding: 16px; margin-bottom: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  }
+  .plan-header h2 { font-size: 16px; color: #0f4c75; margin-bottom: 8px; }
+  .plan-progress-text { font-size: 13px; color: #666; margin-bottom: 8px; }
+  .plan-progress-bar {
+    width: 100%; height: 10px; background: #e0e0e0; border-radius: 5px; overflow: hidden;
+  }
+  .plan-progress-fill {
+    height: 100%; background: linear-gradient(90deg, #27ae60, #2ecc71);
+    transition: width 0.3s; border-radius: 5px;
+  }
+  .plan-actions { display: flex; gap: 8px; margin-top: 12px; }
+  .plan-actions button {
+    flex: 1; padding: 10px; border: none; border-radius: 8px; font-size: 13px; cursor: pointer;
+  }
+
+  .plan-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;
+  }
+  .plan-day-card {
+    background: white; border-radius: 10px; padding: 14px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06); cursor: pointer;
+    transition: all 0.15s; border-left: 4px solid #3498db;
+  }
+  .plan-day-card:active { transform: scale(0.97); }
+  .plan-day-card.completed { border-left-color: #27ae60; background: #eafaf1; }
+  .plan-day-card.current { border-left-color: #f39c12; background: #fef9e7; }
+  .plan-day-title {
+    font-size: 15px; font-weight: 600; color: #0f4c75; margin-bottom: 4px;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .plan-day-count { font-size: 12px; color: #888; margin-bottom: 6px; }
+  .plan-day-progress {
+    width: 100%; height: 6px; background: #e0e0e0; border-radius: 3px; overflow: hidden;
+  }
+  .plan-day-progress-fill {
+    height: 100%; background: #27ae60; transition: width 0.3s;
+  }
+  .plan-day-status {
+    font-size: 11px; margin-top: 4px; font-weight: 500;
+  }
+  .plan-day-status.done { color: #27ae60; }
+  .plan-day-status.current { color: #f39c12; }
+  .plan-day-status.pending { color: #999; }
+
+  .plan-quiz-header {
+    background: white; border-radius: 8px; padding: 10px 14px; margin-bottom: 10px;
+    display: flex; justify-content: space-between; align-items: center;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+  }
+  .plan-quiz-title { font-size: 14px; font-weight: 600; color: #0f4c75; }
+  .plan-quiz-progress { font-size: 12px; color: #666; }
+  .plan-back-btn {
+    padding: 6px 12px; border: none; border-radius: 6px; background: #e8e8e8;
+    color: #333; font-size: 12px; cursor: pointer;
+  }
+  .plan-type-filter {
+    display: flex; gap: 6px; padding: 8px 10px; margin-bottom: 8px;
+    background: white; border-radius: 8px; overflow-x: auto;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+  }
+  .type-filter-btn {
+    padding: 7px 14px; border: 1px solid #d0e0ec; border-radius: 20px;
+    background: white; color: #5a7a8a; font-size: 13px; font-weight: 500; 
+    cursor: pointer; white-space: nowrap; transition: all 0.25s;
+  }
+  .type-filter-btn:hover {
+    border-color: #3282b8;
+    color: #3282b8;
+    background: #f0f8ff;
+  }
+  .type-filter-btn:hover { border-color: #2980b9; color: #2980b9; }
+  .type-filter-btn.active { 
+    background: linear-gradient(135deg, #0f4c75, #3282b8); 
+    color: white; 
+    border-color: #3282b8;
+    box-shadow: 0 2px 8px rgba(50, 130, 184, 0.3);
+  }
+  .list-type-filter {
+    display: flex; gap: 6px; padding: 10px; margin-bottom: 10px;
+    background: white; border-radius: 8px; overflow-x: auto;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+  }
+
+  .bottom-nav {
+    position: fixed; bottom: 12px; left: 12px; right: 12px; 
+    background: linear-gradient(180deg, #ffffff 0%, #f8fcff 100%);
+    border-top: 1px solid #e0e8f0; 
+    box-shadow: 0 -4px 24px rgba(15, 76, 117, 0.15);
+    display: flex; z-index: 100; padding-bottom: env(safe-area-inset-bottom, 0);
+    border-radius: 18px; overflow: hidden;
+    backdrop-filter: blur(10px);
+  }
+  .bottom-nav button {
+    flex: 1; padding: 10px 4px; border: none; background: none; cursor: pointer;
+    font-size: 12px; font-weight: 600; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; gap: 2px; transition: background 0.15s;
+    min-height: 52px; white-space: nowrap;
+  }
+  .bottom-nav button:active { background: #f0f0f0; }
+  .bottom-nav button:disabled { opacity: 0.35; }
+  .bottom-nav .nav-icon { font-size: 18px; }
+  .bottom-nav .nav-text { font-size: 11px; font-weight: 600; }
+  .bottom-nav .btn-prev { color: #555; }
+  .bottom-nav .btn-prev-undo { color: #888; }
+  .bottom-nav .btn-answer { color: #27ae60; }
+  .bottom-nav .btn-answer.active { color: #f39c12; }
+  .bottom-nav .btn-next-undo { color: #888; }
+  .bottom-nav .btn-next { color: #2980b9; }
+
+  .hint { text-align: center; color: #aaa; font-size: 11px; margin-top: 8px; padding-bottom: 8px; }
+  .empty-state { text-align: center; padding: 40px 20px; color: #999; font-size: 14px; }
+
+  .modal-overlay {
+    display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.5); z-index: 2000; align-items: center; justify-content: center;
+  }
+  .modal-overlay.show { display: flex; }
+  .modal-box {
+    background: white; border-radius: 12px; padding: 20px; margin: 20px;
+    max-width: 320px; width: 100%; text-align: center;
+  }
+  .modal-box h3 { font-size: 16px; margin-bottom: 10px; color: #333; }
+  .modal-box p { font-size: 14px; color: #666; margin-bottom: 16px; }
+  .modal-buttons { display: flex; gap: 10px; }
+  .modal-buttons button {
+    flex: 1; padding: 10px; border: none; border-radius: 8px; font-size: 14px; cursor: pointer;
+  }
+  .modal-buttons .cancel { background: #e8e8e8; color: #333; }
+  .modal-buttons .confirm { background: #e74c3c; color: white; }
+
+  /* 隐藏Netlify徽章，避免遮挡底部按钮 */
+  #netlify-badge, .netlify-badge, iframe[src*="netlify"], div[class*="netlify"], a[href*="netlify.com"] { display: none !important; visibility: hidden !important; }
+
+  @media (min-width: 768px) {
+    .main { max-width: 800px; padding: 20px; }
+    .header h1 { font-size: 20px; }
+    .bottom-nav { max-width: 776px; left: 50%; right: auto; transform: translateX(-50%); border-radius: 14px 14px 0 0; }
+    .plan-grid { grid-template-columns: repeat(5, 1fr); }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-top">
+    <h1>两河口二次专业理论题库</h1>
+    <div class="stats" id="stats">共 0 题</div>
+  </div>
+  <div class="mode-tabs">
+    <button class="mode-tab active" data-mode="quiz" onclick="switchMode('quiz')">答题</button>
+    <button class="mode-tab" data-mode="plan" onclick="switchMode('plan')">10天计划</button>
+    <button class="mode-tab" data-mode="wrong" onclick="switchMode('wrong')">错题本<span class="badge" id="wrongBadge">0</span></button>
+    <button class="mode-tab" data-mode="fav" onclick="switchMode('fav')">收藏夹<span class="badge" id="favBadge">0</span></button>
+  </div>
+</div>
+
+<div class="toolbar-toggle" onclick="toggleToolbar()">
+  <span>⚙️ 筛选与工具</span>
+  <span class="arrow">▼</span>
+</div>
+<div class="toolbar" id="toolbar">
+  <label>题型：
+    <select id="typeFilter" onchange="filterByType()">
+      <option value="">全部</option>
+      <option value="A">选择题</option>
+      <option value="B">判断题</option>
+      <option value="C">简答题</option>
+      <option value="D">计算题</option>
+      <option value="E">绘图题</option>
+      <option value="F">论述题</option>
+    </select>
+  </label>
+  <label>跳转：<input type="text" id="jumpInput" placeholder="题号如 LA5A1001"></label>
+  <button class="btn-primary" onclick="jumpTo()">跳转</button>
+  <button class="btn-secondary" onclick="shuffleQuestions()">随机</button>
+  <button class="btn-secondary" onclick="resetOrder()">顺序</button>
+  <button class="btn-success" onclick="openSyncModal('export')">📤导出数据</button>
+  <button class="btn-primary" onclick="openSyncModal('import')">📥导入数据</button>
+  <button class="btn-danger" onclick="clearWrongConfirm()">清空错题</button>
+</div>
+
+<div class="main">
+  <!-- 答题模式 -->
+  <div class="quiz-mode" id="quizMode">
+    <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+    <div class="card" id="questionCard">
+      <div class="card-header">
+        <span class="qid" id="qid">--</span>
+        <span class="type-badge" id="typeBadge">--</span>
+      </div>
+      <div class="card-body">
+        <img id="qImg" src="" alt="题干" onclick="toggleZoom(this)">
+        <div class="answer-options" id="answerOptions"></div>
+        <div class="result-tip" id="resultTip"></div>
+        <div class="action-row">
+          <button class="action-btn done-mark" id="doneBtn" onclick="toggleDoneMark()">✅ 标记已做</button>
+          <button class="action-btn fav" id="favBtn" onclick="toggleFavorite()">⭐ 收藏</button>
+          <button class="action-btn wrong-mark" id="wrongBtn" onclick="toggleWrongMark()">❌ 标记错题</button>
+        </div>
+        <div class="answer-section" id="answerSection">
+          <span class="answer-label">参考答案</span>
+          <img id="aImg" src="" alt="答案" onclick="toggleZoom(this)">
+        </div>
+      </div>
+    </div>
+    <div class="hint">选择题点击选项作答 | 点击图片放大</div>
+  </div>
+
+  <!-- 10天计划模式 -->
+  <div class="plan-mode" id="planMode">
+    <!-- 计划概览 -->
+    <div id="planOverview">
+      <div class="plan-header">
+        <h2>📅 10天刷题计划</h2>
+        <div class="plan-progress-text" id="planProgressText">总进度：0/0 题</div>
+        <div class="plan-progress-bar"><div class="plan-progress-fill" id="planProgressFill" style="width:0%"></div></div>
+        <div class="plan-actions">
+          <button class="btn-primary" onclick="continuePlan()">继续当前天</button>
+          <button class="btn-danger" onclick="resetPlanConfirm()">重置计划</button>
+        </div>
+      </div>
+      <div class="plan-grid" id="planGrid"></div>
+    </div>
+    <!-- 计划答题 -->
+    <div id="planQuiz" style="display:none">
+      <div class="plan-quiz-header">
+        <button class="plan-back-btn" onclick="backToPlanOverview()">← 返回计划</button>
+        <span class="plan-quiz-title" id="planQuizTitle">第1天</span>
+        <span class="plan-quiz-progress" id="planQuizProgress">0/0</span>
+      </div>
+      <div class="plan-type-filter" id="planTypeFilter">
+        <button class="type-filter-btn active" data-type="all" onclick="setPlanFilter('all')">全部</button>
+        <button class="type-filter-btn" data-type="A" onclick="setPlanFilter('A')">选择</button>
+        <button class="type-filter-btn" data-type="B" onclick="setPlanFilter('B')">判断</button>
+        <button class="type-filter-btn" data-type="C" onclick="setPlanFilter('C')">简答</button>
+        <button class="type-filter-btn" data-type="D" onclick="setPlanFilter('D')">计算</button>
+        <button class="type-filter-btn" data-type="E" onclick="setPlanFilter('E')">绘图</button>
+        <button class="type-filter-btn" data-type="F" onclick="setPlanFilter('F')">论述</button>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="planProgressFill2" style="width:0%"></div></div>
+      <div class="card" id="planQuestionCard">
+        <div class="card-header">
+          <span class="qid" id="planQid">--</span>
+          <span class="type-badge" id="planTypeBadge">--</span>
+        </div>
+        <div class="card-body">
+          <img id="planQImg" src="" alt="题干" onclick="toggleZoom(this)">
+          <div class="answer-options" id="planAnswerOptions"></div>
+          <div class="result-tip" id="planResultTip"></div>
+          <div class="action-row">
+            <button class="action-btn done-mark" id="planDoneBtn" onclick="togglePlanDone()">✅ 标记已做</button>
+            <button class="action-btn fav" id="planFavBtn" onclick="togglePlanFavorite()">⭐ 收藏</button>
+            <button class="action-btn wrong-mark" id="planWrongBtn" onclick="togglePlanWrongMark()">❌ 标记错题</button>
+          </div>
+          <div class="answer-section" id="planAnswerSection">
+            <span class="answer-label">参考答案</span>
+            <img id="planAImg" src="" alt="答案" onclick="toggleZoom(this)">
+          </div>
+        </div>
+      </div>
+      <div class="hint">计划模式：做完一题点"标记已做" | 进度自动保存</div>
+    </div>
+  </div>
+
+  <!-- 错题本模式 -->
+  <div class="list-mode" id="wrongMode">
+    <div id="wrongTrainMode" style="display:none">
+      <div class="plan-quiz-header">
+        <button class="plan-back-btn" onclick="backToWrongList()">← 返回列表</button>
+        <span class="plan-quiz-title">错题训练</span>
+        <span class="plan-quiz-progress" id="wrongTrainProgress">0/0</span>
+      </div>
+      <div class="plan-type-filter" id="wrongTrainTypeFilter" style="margin:0 0 8px 0">
+        <button class="type-filter-btn active" data-type="all" onclick="setWrongTrainFilter('all')">全部</button>
+        <button class="type-filter-btn" data-type="A" onclick="setWrongTrainFilter('A')">选择</button>
+        <button class="type-filter-btn" data-type="B" onclick="setWrongTrainFilter('B')">判断</button>
+        <button class="type-filter-btn" data-type="C" onclick="setWrongTrainFilter('C')">简答</button>
+        <button class="type-filter-btn" data-type="D" onclick="setWrongTrainFilter('D')">计算</button>
+        <button class="type-filter-btn" data-type="E" onclick="setWrongTrainFilter('E')">绘图</button>
+        <button class="type-filter-btn" data-type="F" onclick="setWrongTrainFilter('F')">论述</button>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="wrongTrainProgressFill" style="width:0%"></div></div>
+      <div class="card" id="wrongTrainCard">
+        <div class="card-header">
+          <span class="qid" id="wrongTrainQid">--</span>
+          <span class="type-badge" id="wrongTrainTypeBadge">--</span>
+        </div>
+        <div class="card-body">
+          <img id="wrongTrainQImg" src="" alt="题干" onclick="toggleZoom(this)">
+          <div class="answer-options" id="wrongTrainAnswerOptions"></div>
+          <div class="result-tip" id="wrongTrainResultTip"></div>
+          <div class="action-row">
+            <button class="action-btn done-mark" id="wrongTrainMasteredBtn" onclick="wrongTrainMarkMastered()">✅ 已掌握</button>
+            <button class="action-btn wrong-mark" id="wrongTrainRemoveBtn" onclick="wrongTrainRemove()">❌ 移出错题</button>
+          </div>
+          <div class="answer-section" id="wrongTrainAnswerSection">
+            <span class="answer-label">参考答案</span>
+            <img id="wrongTrainAImg" src="" alt="答案" onclick="toggleZoom(this)">
+          </div>
+        </div>
+      </div>
+      <div class="hint">错题训练：选择题作答后自动跳转 | 点击"已掌握"移出错题本</div>
+    </div>
+    <div id="wrongListMode">
+      <div class="plan-header" style="padding:12px 16px">
+        <h2 style="margin:0;font-size:18px">📝 错题本</h2>
+        <button class="btn-primary" style="margin-top:10px" onclick="startWrongTrain()">开始错题训练</button>
+      </div>
+      <div class="plan-type-filter" id="wrongListTypeFilter" style="margin:0 16px 10px 16px">
+        <button class="type-filter-btn active" data-type="all" onclick="setWrongListFilter('all')">全部</button>
+        <button class="type-filter-btn" data-type="A" onclick="setWrongListFilter('A')">选择</button>
+        <button class="type-filter-btn" data-type="B" onclick="setWrongListFilter('B')">判断</button>
+        <button class="type-filter-btn" data-type="C" onclick="setWrongListFilter('C')">简答</button>
+        <button class="type-filter-btn" data-type="D" onclick="setWrongListFilter('D')">计算</button>
+        <button class="type-filter-btn" data-type="E" onclick="setWrongListFilter('E')">绘图</button>
+        <button class="type-filter-btn" data-type="F" onclick="setWrongListFilter('F')">论述</button>
+      </div>
+      <div class="question-list" id="wrongList"></div>
+      <div class="empty-list" id="wrongEmpty" style="display:none">
+        <div class="icon">📝</div>
+        <div>还没有错题记录</div>
+        <div style="font-size:12px;margin-top:6px">答题答错后会自动记录到这里</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 收藏夹模式 -->
+  <div class="list-mode" id="favMode">
+    <div class="list-type-filter" id="favTypeFilter">
+      <button class="type-filter-btn active" data-type="all" onclick="setFavFilter('all')">全部</button>
+      <button class="type-filter-btn" data-type="A" onclick="setFavFilter('A')">选择</button>
+      <button class="type-filter-btn" data-type="B" onclick="setFavFilter('B')">判断</button>
+      <button class="type-filter-btn" data-type="C" onclick="setFavFilter('C')">简答</button>
+      <button class="type-filter-btn" data-type="D" onclick="setFavFilter('D')">计算</button>
+      <button class="type-filter-btn" data-type="E" onclick="setFavFilter('E')">绘图</button>
+      <button class="type-filter-btn" data-type="F" onclick="setFavFilter('F')">论述</button>
+    </div>
+    <div class="question-list" id="favList"></div>
+    <div class="empty-list" id="favEmpty" style="display:none">
+      <div class="icon">⭐</div>
+      <div>还没有收藏的题目</div>
+      <div style="font-size:12px;margin-top:6px">答题时点击"收藏"按钮添加</div>
+    </div>
+  </div>
+</div>
+
+<!-- 底部导航 -->
+<div class="bottom-nav" id="bottomNav">
+  <button class="btn-prev" id="prevBtn" onclick="prevQuestion()">
+    <span class="nav-icon">◀</span><span class="nav-text">上一题</span>
+  </button>
+  <button class="btn-prev-undo" id="prevUndoBtn" onclick="prevUndoQuestion()">
+    <span class="nav-icon">◀</span><span class="nav-text">未做上题</span>
+  </button>
+  <button class="btn-answer" id="showAnswerBtn" onclick="toggleAnswer()">
+    <span class="nav-icon">📖</span><span class="nav-text">答案</span>
+  </button>
+  <button class="btn-next-undo" id="nextUndoBtn" onclick="nextUndoQuestion()">
+    <span class="nav-icon">▶</span><span class="nav-text">未做下题</span>
+  </button>
+  <button class="btn-next" id="nextBtn" onclick="nextQuestion()">
+    <span class="nav-icon">▶</span><span class="nav-text">下一题</span>
+  </button>
+</div>
+
+<div class="zoom-overlay" id="zoomOverlay" onclick="closeZoom()"></div>
+
+<div class="modal-overlay" id="confirmModal">
+  <div class="modal-box">
+    <h3 id="modalTitle">确认操作</h3>
+    <p id="modalText">确定要执行此操作吗？</p>
+    <div class="modal-buttons">
+      <button class="cancel" onclick="closeModal()">取消</button>
+      <button class="confirm" id="modalConfirm" onclick="confirmAction()">确定</button>
+    </div>
+  </div>
+</div>
+
+<!-- 数据同步模态框 -->
+<div class="modal-overlay" id="syncModal">
+  <div class="modal-box" style="max-width:420px">
+    <h3 id="syncModalTitle">数据同步</h3>
+    <p id="syncModalText" style="font-size:13px;color:#666;margin-bottom:10px"></p>
+    <textarea id="syncDataText" style="width:100%;min-height:120px;padding:10px;border:1px solid #ccc;border-radius:8px;font-size:12px;font-family:monospace;resize:vertical;box-sizing:border-box" placeholder="粘贴同步码..."></textarea>
+    <div id="syncStats" style="font-size:12px;color:#888;margin-top:8px;text-align:left"></div>
+    <div class="modal-buttons" style="margin-top:14px">
+      <button class="cancel" onclick="closeSyncModal()">关闭</button>
+      <button class="confirm" id="syncActionBtn" style="background:#2980b9" onclick="doSyncAction()">复制同步码</button>
+    </div>
+  </div>
+</div>
+
+<script src="quiz_data_final.js"></script>
+<script>
+// ============ 数据与状态 ============
+const allQuestions = window.QUIZ_DATA || [];
+let filteredQuestions = [...allQuestions];
+let currentIndex = 0;
+let answerVisible = false;
+let currentMode = 'quiz'; // quiz / plan / wrong / fav
+let answered = false;
+let selectedOption = null;
+
+// localStorage 数据
+let wrongBook = JSON.parse(localStorage.getItem('quiz_wrong_book') || '[]');
+let favorites = JSON.parse(localStorage.getItem('quiz_favorites') || '[]');
+let doneBook = JSON.parse(localStorage.getItem('quiz_done_book') || '[]');
+let planData = JSON.parse(localStorage.getItem('quiz_10day_plan') || 'null');
+let quizProgress = JSON.parse(localStorage.getItem('quiz_progress') || 'null');
+
+const typeNames = {A:'选择题', B:'判断题', C:'简答题', D:'计算题', E:'绘图题', F:'论述题'};
+
+// ============ 答题进度记忆 ============
+function saveQuizProgress() {
+  localStorage.setItem('quiz_progress', JSON.stringify({
+    index: currentIndex,
+    mode: currentMode,
+    planDay: planCurrentDay,
+    planIndex: planQuizIndex,
+    timestamp: Date.now()
+  }));
+}
+function restoreQuizProgress() {
+  if (!quizProgress) return;
+  // 恢复正常答题模式的位置
+  if (quizProgress.index !== undefined && quizProgress.index < allQuestions.length) {
+    currentIndex = quizProgress.index;
+  }
+  // 恢复10天计划的位置
+  if (quizProgress.planDay !== undefined) {
+    planCurrentDay = quizProgress.planDay;
+  }
+  if (quizProgress.planIndex !== undefined) {
+    planQuizIndex = quizProgress.planIndex;
+  }
+}
+
+// ============ 10天计划数据构建 ============
+let planDays = []; // 10天，每天是题目ID数组
+let planCurrentDay = 0; // 当前在做第几天(0-9)
+let planQuizIndex = 0; // 当前天的题目索引
+let planAnswered = false;
+let planFilterType = 'all'; // 当前筛选题型
+let wrongFilterType = 'all'; // 错题本筛选题型
+let favFilterType = 'all'; // 收藏夹筛选题型
+
+function getFilteredPlanIds() {
+  const dayIds = planDays[planCurrentDay] || [];
+  if (planFilterType === 'all') return dayIds;
+  return dayIds.filter(id => {
+    const q = allQuestions.find(x => x.id === id);
+    return q && q.type === planFilterType;
+  });
+}
+
+function setPlanFilter(type) {
+  planFilterType = type;
+  // 更新按钮状态
+  document.querySelectorAll('.type-filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.type === type);
+  });
+  // 跳转到该题型第一道未做的题目
+  const filteredIds = getFilteredPlanIds();
+  if (filteredIds.length === 0) {
+    alert('该题型在今天没有题目');
+    planFilterType = 'all';
+    document.querySelectorAll('.type-filter-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.type === 'all');
+    });
+    return;
+  }
+  // 找到第一道未做的
+  let firstUndone = 0;
+  for (let i = 0; i < filteredIds.length; i++) {
+    if (!isPlanDone(filteredIds[i])) { firstUndone = i; break; }
+  }
+  // 转换为在完整dayIds中的索引
+  const targetId = filteredIds[firstUndone];
+  const dayIds = planDays[planCurrentDay];
+  planQuizIndex = dayIds.indexOf(targetId);
+  renderPlanQuestion();
+}
+
+function buildPlan() {
+  // 按题型分组
+  const byType = {};
+  allQuestions.forEach(q => {
+    if (!byType[q.type]) byType[q.type] = [];
+    byType[q.type].push(q.id);
+  });
+  // 每种题型分成10份
+  planDays = [[], [], [], [], [], [], [], [], [], []];
+  Object.keys(byType).sort().forEach(type => {
+    const ids = byType[type];
+    const perDay = Math.floor(ids.length / 10);
+    const remainder = ids.length % 10;
+    let idx = 0;
+    for (let d = 0; d < 10; d++) {
+      const count = perDay + (d < remainder ? 1 : 0);
+      for (let i = 0; i < count; i++) {
+        planDays[d].push(ids[idx++]);
+      }
+    }
+  });
+}
+
+function initPlanData() {
+  if (!planData) {
+    planData = {
+      started: false,
+      startDate: null,
+      currentDay: 0,
+      completed: {} // {qid: true}
+    };
+    savePlan();
+  }
+  planCurrentDay = planData.currentDay || 0;
+}
+
+function savePlan() {
+  localStorage.setItem('quiz_10day_plan', JSON.stringify(planData));
+}
+
+function isPlanDone(qid) {
+  return planData.completed[qid] === true;
+}
+
+function getDayCompletedCount(day) {
+  return planDays[day].filter(id => isPlanDone(id)).length;
+}
+
+function getTotalCompleted() {
+  return Object.keys(planData.completed).filter(k => planData.completed[k]).length;
+}
+
+function renderPlanOverview() {
+  const grid = document.getElementById('planGrid');
+  grid.innerHTML = '';
+  const totalQ = allQuestions.length;
+  const totalDone = getTotalCompleted();
+  document.getElementById('planProgressText').textContent = `总进度：${totalDone}/${totalQ} 题（${Math.round(totalDone/totalQ*100)}%）`;
+  document.getElementById('planProgressFill').style.width = (totalDone/totalQ*100) + '%';
+
+  for (let d = 0; d < 10; d++) {
+    const dayQ = planDays[d].length;
+    const dayDone = getDayCompletedCount(d);
+    const isCurrent = d === planCurrentDay && dayDone < dayQ;
+    const isComplete = dayDone >= dayQ;
+    const card = document.createElement('div');
+    card.className = 'plan-day-card' + (isComplete ? ' completed' : '') + (isCurrent ? ' current' : '');
+    card.onclick = () => openPlanDay(d);
+    let statusClass = 'pending', statusText = '未开始';
+    if (isComplete) { statusClass = 'done'; statusText = '✓ 已完成'; }
+    else if (dayDone > 0 || isCurrent) { statusClass = 'current'; statusText = '进行中'; }
+    card.innerHTML = `
+      <div class="plan-day-title">第${d+1}天 ${isComplete ? '✓' : ''}</div>
+      <div class="plan-day-count">${dayDone}/${dayQ}题</div>
+      <div class="plan-day-progress"><div class="plan-day-progress-fill" style="width:${dayQ?dayDone/dayQ*100:0}%"></div></div>
+      <div class="plan-day-status ${statusClass}">${statusText}</div>
+    `;
+    grid.appendChild(card);
+  }
+}
+
+function getFirstUndoneIndex(day) {
+  const dayIds = planDays[day];
+  for (let i = 0; i < dayIds.length; i++) {
+    if (!isPlanDone(dayIds[i])) return i;
+  }
+  return 0; // 全部做完则从第1题开始复习
+}
+
+function openPlanDay(day) {
+  planCurrentDay = day;
+  planFilterType = 'all'; // 重置筛选为全部
+  // 更新筛选按钮状态
+  document.querySelectorAll('.type-filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.type === 'all');
+  });
+  // 自动跳转到当天第一道未做的题目
+  planQuizIndex = getFirstUndoneIndex(day);
+  planData.currentDay = day;
+  if (!planData.started) {
+    planData.started = true;
+    planData.startDate = new Date().toISOString();
+  }
+  savePlan();
+  showPlanQuiz();
+}
+
+function continuePlan() {
+  // 找到第一个未完成的天
+  for (let d = 0; d < 10; d++) {
+    if (getDayCompletedCount(d) < planDays[d].length) {
+      openPlanDay(d);
+      return;
+    }
+  }
+  alert('恭喜！10天计划全部完成！');
+}
+
+function showPlanQuiz() {
+  document.getElementById('planOverview').style.display = 'none';
+  document.getElementById('planQuiz').style.display = 'block';
+  document.getElementById('bottomNav').style.display = 'flex';
+  document.querySelector('.toolbar-toggle').style.display = 'none';
+  renderPlanQuestion();
+}
+
+function backToPlanOverview() {
+  document.getElementById('planOverview').style.display = 'block';
+  document.getElementById('planQuiz').style.display = 'none';
+  document.getElementById('bottomNav').style.display = 'none';
+  renderPlanOverview();
+}
+
+function renderPlanQuestion() {
+  const dayIds = planDays[planCurrentDay];
+  const filteredIds = getFilteredPlanIds();
+  if (filteredIds.length === 0) {
+    alert('该题型在今天没有题目');
+    planFilterType = 'all';
+    document.querySelectorAll('.type-filter-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.type === 'all');
+    });
+    renderPlanQuestion();
+    return;
+  }
+  // 确保planQuizIndex在有效范围内
+  if (planQuizIndex >= dayIds.length) planQuizIndex = dayIds.length - 1;
+  if (planQuizIndex < 0) planQuizIndex = 0;
+  const qid = dayIds[planQuizIndex];
+  const q = allQuestions.find(x => x.id === qid);
+  if (!q) { planQuizIndex++; renderPlanQuestion(); return; }
+  planAnswered = false;
+
+  // 计算在筛选列表中的位置
+  const filteredIndex = filteredIds.indexOf(qid);
+  const displayIndex = filteredIndex >= 0 ? filteredIndex + 1 : 1;
+  document.getElementById('planQuizTitle').textContent = `第${planCurrentDay+1}天`;
+  document.getElementById('planQuizProgress').textContent = `${displayIndex}/${filteredIds.length}${planFilterType !== 'all' ? ' (' + typeNames[planFilterType] + ')' : ''}`;
+  document.getElementById('planProgressFill2').style.width = (displayIndex/filteredIds.length*100) + '%';
+
+  document.getElementById('planQid').textContent = q.id;
+  const badge = document.getElementById('planTypeBadge');
+  badge.textContent = typeNames[q.type] || q.type;
+  badge.className = 'type-badge type-' + q.type;
+
+  document.getElementById('planQImg').src = q.q_img;
+  document.getElementById('planAImg').src = q.a_img;
+
+  // 选择题选项
+  const optsDiv = document.getElementById('planAnswerOptions');
+  optsDiv.innerHTML = '';
+  if (q.type === 'A' && q.o) {
+    Object.keys(q.o).sort().forEach(key => {
+      const btn = document.createElement('button');
+      btn.className = 'option-btn';
+      btn.dataset.opt = key;
+      btn.innerHTML = `<span class="opt-letter">${key}</span><span>${q.o[key]}</span>`;
+      btn.onclick = () => planSelectOption(key);
+      optsDiv.appendChild(btn);
+    });
+  }
+
+  document.getElementById('planResultTip').className = 'result-tip';
+  document.getElementById('planResultTip').textContent = '';
+  document.getElementById('planAnswerSection').classList.remove('show');
+
+  // 已做/收藏状态
+  const doneBtn = document.getElementById('planDoneBtn');
+  const done = isPlanDone(q.id);
+  doneBtn.classList.toggle('active', done);
+  doneBtn.innerHTML = done ? '✅ 已完成' : '✅ 标记已做';
+
+  const favBtn = document.getElementById('planFavBtn');
+  const isFav = favorites.includes(q.id);
+  favBtn.classList.toggle('active', isFav);
+  favBtn.innerHTML = isFav ? '⭐ 已收藏' : '⭐ 收藏';
+
+  const wrongBtn = document.getElementById('planWrongBtn');
+  const isWrong = wrongBook.includes(q.id);
+  if (wrongBtn) {
+    wrongBtn.classList.toggle('active', isWrong);
+    wrongBtn.innerHTML = isWrong ? '❌ 已标记' : '❌ 标记错题';
+  }
+
+  // 设置底部导航按钮启用/禁用状态（基于筛选后的列表）
+  const filteredIds2 = getFilteredPlanIds();
+  const fIdx = filteredIds2.indexOf(qid);
+  document.getElementById('prevBtn').disabled = fIdx <= 0;
+  document.getElementById('nextBtn').disabled = fIdx >= filteredIds2.length - 1;
+
+  saveQuizProgress(); // 保存10天计划做题位置
+}
+
+function planSelectOption(opt) {
+  if (planAnswered) return;
+  planAnswered = true;
+  const qid = planDays[planCurrentDay][planQuizIndex];
+  const q = allQuestions.find(x => x.id === qid);
+  const correct = q.a;
+  const buttons = document.querySelectorAll('#planAnswerOptions .option-btn');
+  buttons.forEach(btn => {
+    btn.classList.add('disabled');
+    if (btn.dataset.opt === correct) btn.classList.add('correct');
+    if (btn.dataset.opt === opt && opt !== correct) btn.classList.add('wrong');
+  });
+  const tip = document.getElementById('planResultTip');
+  if (opt === correct) {
+    tip.className = 'result-tip correct show';
+    tip.textContent = '✓ 回答正确！';
+  } else {
+    tip.className = 'result-tip wrong show';
+    tip.textContent = `✗ 回答错误，正确答案是 ${correct}`;
+    if (!wrongBook.includes(qid)) { wrongBook.push(qid); saveWrong(); updateBadges(); }
+  }
+  // 自动标记已做
+  if (!isPlanDone(qid)) {
+    planData.completed[qid] = true;
+    savePlan();
+    document.getElementById('planDoneBtn').classList.add('active');
+    document.getElementById('planDoneBtn').innerHTML = '✅ 已完成';
+  }
+  // 选择题作答后1.2秒自动跳转下一题（基于筛选列表）
+  setTimeout(() => {
+    const filteredIds = getFilteredPlanIds();
+    const dayIds = planDays[planCurrentDay];
+    const fIdx = filteredIds.indexOf(qid);
+    if (fIdx < filteredIds.length - 1) {
+      const nextQid = filteredIds[fIdx + 1];
+      planQuizIndex = dayIds.indexOf(nextQid);
+      renderPlanQuestion();
+    } else {
+      // 当天最后一题，提示完成
+      alert(`第${planCurrentDay+1}天的题目已全部浏览完成！已完成 ${getDayCompletedCount(planCurrentDay)}/${dayIds.length} 题。`);
+      backToPlanOverview();
+    }
+  }, 1200);
+}
+
+function togglePlanDone() {
+  const qid = planDays[planCurrentDay][planQuizIndex];
+  if (isPlanDone(qid)) {
+    delete planData.completed[qid];
+    savePlan();
+    renderPlanQuestion();
+  } else {
+    planData.completed[qid] = true;
+    savePlan();
+    // 标记已做后自动跳到下一题（延迟500ms让用户看到标记效果）
+    const doneBtn = document.getElementById('planDoneBtn');
+    doneBtn.classList.add('active');
+    doneBtn.innerHTML = '✅ 已完成';
+    setTimeout(() => {
+      const filteredIds = getFilteredPlanIds();
+      const dayIds = planDays[planCurrentDay];
+      const fIdx = filteredIds.indexOf(qid);
+      if (fIdx < filteredIds.length - 1) {
+        const nextQid = filteredIds[fIdx + 1];
+        planQuizIndex = dayIds.indexOf(nextQid);
+        renderPlanQuestion();
+      } else {
+        alert(`第${planCurrentDay+1}天的题目已全部浏览完成！已完成 ${getDayCompletedCount(planCurrentDay)}/${dayIds.length} 题。`);
+        backToPlanOverview();
+      }
+    }, 10);
+  }
+}
+
+function togglePlanFavorite() {
+  const qid = planDays[planCurrentDay][planQuizIndex];
+  const idx = favorites.indexOf(qid);
+  if (idx >= 0) favorites.splice(idx, 1);
+  else favorites.push(qid);
+  saveFav();
+  renderPlanQuestion();
+}
+
+function togglePlanWrongMark() {
+  const qid = planDays[planCurrentDay][planQuizIndex];
+  const idx = wrongBook.indexOf(qid);
+  if (idx >= 0) wrongBook.splice(idx, 1);
+  else wrongBook.push(qid);
+  saveWrong();
+  updateBadges();
+  renderPlanQuestion();
+}
+
+function planPrevQuestion() {
+  const filteredIds = getFilteredPlanIds();
+  const dayIds = planDays[planCurrentDay];
+  const currentQid = dayIds[planQuizIndex];
+  const fIdx = filteredIds.indexOf(currentQid);
+  if (fIdx > 0) {
+    const prevQid = filteredIds[fIdx - 1];
+    planQuizIndex = dayIds.indexOf(prevQid);
+    renderPlanQuestion();
+  }
+}
+function planNextQuestion() {
+  const filteredIds = getFilteredPlanIds();
+  const dayIds = planDays[planCurrentDay];
+  const currentQid = dayIds[planQuizIndex];
+  const fIdx = filteredIds.indexOf(currentQid);
+  if (fIdx < filteredIds.length - 1) {
+    const nextQid = filteredIds[fIdx + 1];
+    planQuizIndex = dayIds.indexOf(nextQid);
+    renderPlanQuestion();
+  } else {
+    // 筛选列表最后一题，提示完成
+    alert(`第${planCurrentDay+1}天的${planFilterType !== 'all' ? typeNames[planFilterType] : ''}题目已全部浏览完成！`);
+    backToPlanOverview();
+  }
+}
+function planToggleAnswer() {
+  const section = document.getElementById('planAnswerSection');
+  section.classList.toggle('show');
+}
+
+function resetPlanConfirm() {
+  document.getElementById('modalTitle').textContent = '重置10天计划';
+  document.getElementById('modalText').textContent = '确定要重置10天计划吗？所有做题进度将被清除，此操作不可恢复。';
+  modalAction = 'resetPlan';
+  document.getElementById('confirmModal').classList.add('show');
+}
+
+// ============ 初始化 ============
+function init() {
+  buildPlan();
+  initPlanData();
+  restoreQuizProgress(); // 恢复上次做题位置
+  updateBadges();
+  renderQuestion();
+  initSwipe();
+  document.getElementById('stats').textContent = `共 ${allQuestions.length} 题`;
+  // 移除Netlify徽章（延迟执行确保元素已加载）
+  setTimeout(removeNetlifyBadge, 500);
+  setTimeout(removeNetlifyBadge, 2000);
+}
+
+function removeNetlifyBadge() {
+  // 移除所有可能的Netlify徽章元素
+  document.querySelectorAll('iframe[src*="netlify"], div[class*="netlify"], a[href*="netlify.com"], #netlify-badge, .netlify-badge').forEach(el => {
+    el.remove();
+  });
+}
+
+function saveWrong() { localStorage.setItem('quiz_wrong_book', JSON.stringify(wrongBook)); updateBadges(); }
+function saveFav() { localStorage.setItem('quiz_favorites', JSON.stringify(favorites)); updateBadges(); }
+
+function updateBadges() {
+  document.getElementById('wrongBadge').textContent = wrongBook.length;
+  document.getElementById('favBadge').textContent = favorites.length;
+  document.getElementById('wrongBadge').style.display = wrongBook.length ? 'inline-block' : 'none';
+  document.getElementById('favBadge').style.display = favorites.length ? 'inline-block' : 'none';
+}
+
+// ============ 模式切换 ============
+function switchMode(mode) {
+  currentMode = mode;
+  document.querySelectorAll('.mode-tab').forEach(t => t.classList.toggle('active', t.dataset.mode === mode));
+  document.getElementById('quizMode').classList.toggle('hidden', mode !== 'quiz');
+  document.getElementById('planMode').classList.toggle('active', mode === 'plan');
+  document.getElementById('wrongMode').classList.toggle('active', mode === 'wrong');
+  document.getElementById('favMode').classList.toggle('active', mode === 'fav');
+
+  const showBottomNav = (mode === 'quiz' || (mode === 'plan' && document.getElementById('planQuiz').style.display === 'block'));
+  document.getElementById('bottomNav').style.display = showBottomNav ? 'flex' : 'none';
+  document.querySelector('.toolbar-toggle').style.display = mode === 'quiz' ? 'flex' : 'none';
+  document.getElementById('toolbar').classList.remove('open');
+  document.querySelector('.toolbar-toggle').classList.remove('open');
+
+  if (mode === 'plan') {
+    document.getElementById('planOverview').style.display = 'block';
+    document.getElementById('planQuiz').style.display = 'none';
+    renderPlanOverview();
+  }
+  if (mode === 'wrong') {
+    const trainMode = document.getElementById('wrongTrainMode');
+    const listMode = document.getElementById('wrongListMode');
+    if (trainMode) trainMode.style.display = 'none';
+    if (listMode) listMode.style.display = 'block';
+    renderWrongList();
+  }
+  if (mode === 'fav') renderFavList();
+}
+
+// ============ 答题模式 ============
+function renderQuestion() {
+  if (filteredQuestions.length === 0) {
+    document.getElementById('questionCard').innerHTML = '<div class="empty-state">该题型暂无题目</div>';
+    return;
+  }
+  const q = filteredQuestions[currentIndex];
+  answered = false;
+  selectedOption = null;
+
+  document.getElementById('qid').textContent = q.id;
+  const badge = document.getElementById('typeBadge');
+  badge.textContent = typeNames[q.type] || q.type;
+  badge.className = 'type-badge type-' + q.type;
+
+  const qImg = document.getElementById('qImg');
+  qImg.src = q.q_img;
+  qImg.classList.remove('zoomed');
+  qImg.style.display = 'block';
+
+  const aImg = document.getElementById('aImg');
+  aImg.src = q.a_img;
+  aImg.classList.remove('zoomed');
+
+  const optsDiv = document.getElementById('answerOptions');
+  optsDiv.innerHTML = '';
+  if (q.type === 'A' && q.o) {
+    Object.keys(q.o).sort().forEach(key => {
+      const btn = document.createElement('button');
+      btn.className = 'option-btn';
+      btn.dataset.opt = key;
+      btn.innerHTML = `<span class="opt-letter">${key}</span><span>${q.o[key]}</span>`;
+      btn.onclick = () => selectOption(key);
+      optsDiv.appendChild(btn);
+    });
+  }
+
+  document.getElementById('resultTip').className = 'result-tip';
+  document.getElementById('resultTip').textContent = '';
+  updateActionButtons();
+
+  document.getElementById('answerSection').classList.remove('show');
+  answerVisible = false;
+  const ansBtn = document.getElementById('showAnswerBtn');
+  ansBtn.querySelector('.nav-text').textContent = '显示答案';
+  ansBtn.classList.remove('active');
+
+  document.getElementById('prevBtn').disabled = currentIndex === 0;
+  document.getElementById('nextBtn').disabled = currentIndex === filteredQuestions.length - 1;
+
+  const progress = ((currentIndex + 1) / filteredQuestions.length) * 100;
+  document.getElementById('progressFill').style.width = progress + '%';
+  saveQuizProgress(); // 保存当前做题位置
+}
+
+function selectOption(opt) {
+  if (answered) return;
+  answered = true;
+  selectedOption = opt;
+  const q = filteredQuestions[currentIndex];
+  const correct = q.a;
+  const buttons = document.querySelectorAll('.option-btn');
+  buttons.forEach(btn => {
+    btn.classList.add('disabled');
+    if (btn.dataset.opt === correct) btn.classList.add('correct');
+    if (btn.dataset.opt === opt && opt !== correct) btn.classList.add('wrong');
+  });
+  const tip = document.getElementById('resultTip');
+  if (opt === correct) {
+    tip.className = 'result-tip correct show';
+    tip.textContent = '✓ 回答正确！';
+  } else {
+    tip.className = 'result-tip wrong show';
+    tip.textContent = `✗ 回答错误，正确答案是 ${correct}`;
+    if (!wrongBook.includes(q.id)) { wrongBook.push(q.id); saveWrong(); }
+  }
+  updateActionButtons();
+  // 选择题作答后1.2秒自动跳转下一题
+  setTimeout(() => {
+    if (currentIndex < filteredQuestions.length - 1) {
+      nextQuestion();
+    }
+  }, 1200);
+}
+
+function updateActionButtons() {
+  const q = filteredQuestions[currentIndex];
+  const favBtn = document.getElementById('favBtn');
+  const wrongBtn = document.getElementById('wrongBtn');
+  const doneBtn = document.getElementById('doneBtn');
+  const isFav = favorites.includes(q.id);
+  const isWrong = wrongBook.includes(q.id);
+  const isDone = doneBook.includes(q.id);
+  favBtn.classList.toggle('active', isFav);
+  favBtn.innerHTML = isFav ? '⭐ 已收藏' : '⭐ 收藏';
+  wrongBtn.classList.toggle('active', isWrong);
+  wrongBtn.innerHTML = isWrong ? '❌ 已标记' : '❌ 标记错题';
+  if (doneBtn) {
+    doneBtn.classList.toggle('active', isDone);
+    doneBtn.innerHTML = isDone ? '✅ 已完成' : '✅ 标记已做';
+  }
+}
+
+function toggleFavorite() {
+  const qid = filteredQuestions[currentIndex].id;
+  const idx = favorites.indexOf(qid);
+  if (idx >= 0) favorites.splice(idx, 1);
+  else favorites.push(qid);
+  saveFav();
+  updateActionButtons();
+}
+
+function toggleWrongMark() {
+  const qid = filteredQuestions[currentIndex].id;
+  const idx = wrongBook.indexOf(qid);
+  if (idx >= 0) wrongBook.splice(idx, 1);
+  else wrongBook.push(qid);
+  saveWrong();
+  updateActionButtons();
+}
+
+function saveDone() {
+  localStorage.setItem('quiz_done_book', JSON.stringify(doneBook));
+}
+
+function toggleDoneMark() {
+  const qid = filteredQuestions[currentIndex].id;
+  const idx = doneBook.indexOf(qid);
+  if (idx >= 0) doneBook.splice(idx, 1);
+  else doneBook.push(qid);
+  saveDone();
+  updateActionButtons();
+}
+
+function toggleAnswer() {
+  if (currentMode === 'plan' && document.getElementById('planQuiz').style.display === 'block') {
+    planToggleAnswer();
+    return;
+  }
+  answerVisible = !answerVisible;
+  const section = document.getElementById('answerSection');
+  const btn = document.getElementById('showAnswerBtn');
+  if (answerVisible) {
+    section.classList.add('show');
+    btn.querySelector('.nav-text').textContent = '隐藏答案';
+    btn.classList.add('active');
+  } else {
+    section.classList.remove('show');
+    btn.querySelector('.nav-text').textContent = '显示答案';
+    btn.classList.remove('active');
+  }
+}
+
+function prevQuestion() {
+  if (currentMode === 'plan' && document.getElementById('planQuiz').style.display === 'block') {
+    planPrevQuestion();
+    return;
+  }
+  if (currentIndex > 0) { currentIndex--; renderQuestion(); }
+}
+function nextQuestion() {
+  if (currentMode === 'plan' && document.getElementById('planQuiz').style.display === 'block') {
+    planNextQuestion();
+    return;
+  }
+  if (currentIndex < filteredQuestions.length - 1) { currentIndex++; renderQuestion(); }
+}
+
+// ============ 列表模式 ============
+function renderWrongList() {
+  const list = document.getElementById('wrongList');
+  const empty = document.getElementById('wrongEmpty');
+  list.innerHTML = '';
+  const filtered = wrongListFilterType === 'all' ? wrongBook : wrongBook.filter(qid => {
+    const q = allQuestions.find(x => x.id === qid);
+    return q && q.type === wrongListFilterType;
+  });
+  if (filtered.length === 0) { empty.style.display = 'block'; return; }
+  empty.style.display = 'none';
+  filtered.forEach(qid => {
+    const q = allQuestions.find(x => x.id === qid);
+    if (!q) return;
+    const item = createListItem(q, 'wrong');
+    list.appendChild(item);
+  });
+}
+
+function setWrongListFilter(type) {
+  wrongListFilterType = type;
+  document.querySelectorAll('#wrongListTypeFilter .type-filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.type === type);
+  });
+  renderWrongList();
+}
+
+// ============ 错题训练 ============
+let wrongTrainIndex = 0;
+let wrongListFilterType = 'all';
+let wrongTrainFilterType = 'all';
+
+function getFilteredWrongBook() {
+  if (wrongTrainFilterType === 'all') return [...wrongBook];
+  return wrongBook.filter(qid => {
+    const q = allQuestions.find(x => x.id === qid);
+    return q && q.type === wrongTrainFilterType;
+  });
+}
+
+function startWrongTrain() {
+  const filtered = getFilteredWrongBook();
+  if (filtered.length === 0) {
+    alert('该题型暂无错题记录');
+    return;
+  }
+  wrongTrainIndex = 0;
+  document.getElementById('wrongListMode').style.display = 'none';
+  document.getElementById('wrongTrainMode').style.display = 'block';
+  document.getElementById('bottomNav').style.display = 'none';
+  renderWrongTrainQuestion();
+}
+
+function setWrongTrainFilter(type) {
+  wrongTrainFilterType = type;
+  document.querySelectorAll('#wrongTrainTypeFilter .type-filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.type === type);
+  });
+  wrongTrainIndex = 0;
+  renderWrongTrainQuestion();
+}
+
+function backToWrongList() {
+  document.getElementById('wrongTrainMode').style.display = 'none';
+  document.getElementById('wrongListMode').style.display = 'block';
+  document.getElementById('bottomNav').style.display = 'flex';
+  renderWrongList();
+}
+
+function renderWrongTrainQuestion() {
+  const filteredWrong = getFilteredWrongBook();
+  if (filteredWrong.length === 0) {
+    alert('该题型暂无错题记录');
+    backToWrongList();
+    return;
+  }
+  if (wrongTrainIndex >= filteredWrong.length) wrongTrainIndex = filteredWrong.length - 1;
+  if (wrongTrainIndex < 0) wrongTrainIndex = 0;
+  
+  // 找到第一道能找到的题目
+  let q = null;
+  let qid = null;
+  while (wrongTrainIndex < filteredWrong.length) {
+    qid = filteredWrong[wrongTrainIndex];
+    q = allQuestions.find(x => x.id === qid);
+    if (q) break;
+    wrongTrainIndex++;
+  }
+  if (!q) {
+    alert('该题型暂无有效错题记录');
+    backToWrongList();
+    return;
+  }
+  
+  const filteredWrong2 = getFilteredWrongBook();
+  document.getElementById('wrongTrainProgress').textContent = `${wrongTrainIndex+1}/${filteredWrong2.length}`;
+  document.getElementById('wrongTrainProgressFill').style.width = ((wrongTrainIndex+1)/filteredWrong2.length*100) + '%';
+  document.getElementById('wrongTrainQid').textContent = q.id;
+  const badge = document.getElementById('wrongTrainTypeBadge');
+  badge.textContent = typeNames[q.type] || q.type;
+  badge.className = 'type-badge type-' + q.type;
+  document.getElementById('wrongTrainQImg').src = q.q_img;
+  document.getElementById('wrongTrainAImg').src = q.a_img;
+  
+  // 选择题选项
+  const optsDiv = document.getElementById('wrongTrainAnswerOptions');
+  optsDiv.innerHTML = '';
+  if (q.type === 'A' && q.o) {
+    Object.keys(q.o).sort().forEach(key => {
+      const btn = document.createElement('button');
+      btn.className = 'option-btn';
+      btn.dataset.opt = key;
+      btn.innerHTML = `<span class="opt-letter">${key}</span><span>${q.o[key]}</span>`;
+      btn.onclick = () => wrongTrainSelectOption(key);
+      optsDiv.appendChild(btn);
+    });
+  }
+  
+  document.getElementById('wrongTrainResultTip').className = 'result-tip';
+  document.getElementById('wrongTrainResultTip').textContent = '';
+  document.getElementById('wrongTrainAnswerSection').classList.remove('show');
+}
+
+function wrongTrainSelectOption(opt) {
+  const qid = wrongBook[wrongTrainIndex];
+  const q = allQuestions.find(x => x.id === qid);
+  const correct = q.a;
+  const buttons = document.querySelectorAll('#wrongTrainAnswerOptions .option-btn');
+  buttons.forEach(btn => {
+    btn.classList.add('disabled');
+    if (btn.dataset.opt === correct) btn.classList.add('correct');
+    if (btn.dataset.opt === opt && opt !== correct) btn.classList.add('wrong');
+  });
+  const tip = document.getElementById('wrongTrainResultTip');
+  if (opt === correct) {
+    tip.className = 'result-tip correct show';
+    tip.textContent = '✓ 回答正确！';
+  } else {
+    tip.className = 'result-tip wrong show';
+    tip.textContent = `✗ 回答错误，正确答案是 ${correct}`;
+  }
+  // 1秒后自动跳转下一题
+  setTimeout(() => {
+    wrongTrainNext();
+  }, 1000);
+}
+
+function wrongTrainMarkMastered() {
+  const filteredWrong = getFilteredWrongBook();
+  const qid = filteredWrong[wrongTrainIndex];
+  const idx = wrongBook.indexOf(qid);
+  if (idx >= 0) wrongBook.splice(idx, 1);
+  saveWrong();
+  updateBadges();
+  // 自动跳转下一题
+  const newFiltered = getFilteredWrongBook();
+  if (newFiltered.length === 0) {
+    alert('恭喜！该题型错题已全部掌握！');
+    backToWrongList();
+    return;
+  }
+  if (wrongTrainIndex >= newFiltered.length) wrongTrainIndex = newFiltered.length - 1;
+  renderWrongTrainQuestion();
+}
+
+function wrongTrainRemove() {
+  wrongTrainMarkMastered();
+}
+
+function wrongTrainNext() {
+  const filteredWrong = getFilteredWrongBook();
+  if (wrongTrainIndex < filteredWrong.length - 1) {
+    wrongTrainIndex++;
+    renderWrongTrainQuestion();
+  } else {
+    alert('错题训练完成！已完成所有错题。');
+    backToWrongList();
+  }
+}
+
+function wrongTrainPrev() {
+  if (wrongTrainIndex > 0) {
+    wrongTrainIndex--;
+    renderWrongTrainQuestion();
+  }
+}
+
+// ============ 未作答题目跳转 ============
+function isQuestionDone(qid) {
+  return doneBook.includes(qid);
+}
+
+function prevUndoQuestion() {
+  if (currentMode === 'plan' && document.getElementById('planQuiz').style.display === 'block') {
+    // 10天计划模式
+    const filteredIds = getFilteredPlanIds();
+    const dayIds = planDays[planCurrentDay];
+    const currentQid = dayIds[planQuizIndex];
+    const fIdx = filteredIds.indexOf(currentQid);
+    // 向前找未做的
+    for (let i = fIdx - 1; i >= 0; i--) {
+      if (!isPlanDone(filteredIds[i])) {
+        planQuizIndex = dayIds.indexOf(filteredIds[i]);
+        renderPlanQuestion();
+        return;
+      }
+    }
+    alert('前面没有未作答的题目了');
+    return;
+  }
+  // 正常答题模式
+  for (let i = currentIndex - 1; i >= 0; i--) {
+    if (!isQuestionDone(filteredQuestions[i].id)) {
+      currentIndex = i;
+      renderQuestion();
+      return;
+    }
+  }
+  alert('前面没有未作答的题目了');
+}
+
+function nextUndoQuestion() {
+  if (currentMode === 'plan' && document.getElementById('planQuiz').style.display === 'block') {
+    // 10天计划模式
+    const filteredIds = getFilteredPlanIds();
+    const dayIds = planDays[planCurrentDay];
+    const currentQid = dayIds[planQuizIndex];
+    const fIdx = filteredIds.indexOf(currentQid);
+    // 向后找未做的
+    for (let i = fIdx + 1; i < filteredIds.length; i++) {
+      if (!isPlanDone(filteredIds[i])) {
+        planQuizIndex = dayIds.indexOf(filteredIds[i]);
+        renderPlanQuestion();
+        return;
+      }
+    }
+    alert('后面没有未作答的题目了');
+    return;
+  }
+  // 正常答题模式
+  for (let i = currentIndex + 1; i < filteredQuestions.length; i++) {
+    if (!isQuestionDone(filteredQuestions[i].id)) {
+      currentIndex = i;
+      renderQuestion();
+      return;
+    }
+  }
+  alert('后面没有未作答的题目了');
+}
+
+function renderFavList() {
+  const list = document.getElementById('favList');
+  const empty = document.getElementById('favEmpty');
+  list.innerHTML = '';
+  const filtered = favFilterType === 'all' ? favorites : favorites.filter(qid => {
+    const q = allQuestions.find(x => x.id === qid);
+    return q && q.type === favFilterType;
+  });
+  if (filtered.length === 0) { empty.style.display = 'block'; return; }
+  empty.style.display = 'none';
+  filtered.forEach(qid => {
+    const q = allQuestions.find(x => x.id === qid);
+    if (!q) return;
+    const item = createListItem(q, 'fav');
+    list.appendChild(item);
+  });
+}
+
+function setFavFilter(type) {
+  favFilterType = type;
+  document.querySelectorAll('#favTypeFilter .type-filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.type === type);
+  });
+  renderFavList();
+}
+
+function createListItem(q, type) {
+  const item = document.createElement('div');
+  item.className = 'list-item';
+  item.innerHTML = `
+    <div class="item-info" onclick="openFromList('${q.id}','${type}')">
+      <div class="item-id">${q.id} <span style="font-weight:400;color:#999;font-size:12px">${typeNames[q.type]||''}</span></div>
+      <div class="item-text">${(q.q||'').substring(0,40)}</div>
+    </div>
+    <div class="item-actions">
+      <button class="del-btn" onclick="removeFromList('${q.id}','${type}',event)">×</button>
+    </div>
+  `;
+  return item;
+}
+
+function openFromList(qid, type) {
+  let idx = filteredQuestions.findIndex(q => q.id === qid);
+  if (idx < 0) {
+    filteredQuestions = [...allQuestions];
+    document.getElementById('typeFilter').value = '';
+    idx = filteredQuestions.findIndex(q => q.id === qid);
+  }
+  currentIndex = idx;
+  switchMode('quiz');
+  renderQuestion();
+}
+
+function removeFromList(qid, type, event) {
+  event.stopPropagation();
+  if (type === 'wrong') {
+    wrongBook = wrongBook.filter(id => id !== qid);
+    saveWrong();
+    renderWrongList();
+  } else {
+    favorites = favorites.filter(id => id !== qid);
+    saveFav();
+    renderFavList();
+  }
+  updateActionButtons();
+}
+
+// ============ 筛选与工具 ============
+function filterByType() {
+  const type = document.getElementById('typeFilter').value;
+  filteredQuestions = type ? allQuestions.filter(q => q.type === type) : [...allQuestions];
+  currentIndex = 0;
+  renderQuestion();
+}
+function jumpTo() {
+  const input = document.getElementById('jumpInput').value.trim().toUpperCase();
+  if (!input) return;
+  const idx = filteredQuestions.findIndex(q => q.id === input);
+  if (idx >= 0) { currentIndex = idx; renderQuestion(); toggleToolbar(); }
+  else alert('未找到题号：' + input);
+}
+function shuffleQuestions() {
+  filteredQuestions = [...filteredQuestions].sort(() => Math.random() - 0.5);
+  currentIndex = 0; renderQuestion();
+}
+function resetOrder() { filterByType(); }
+function toggleToolbar() {
+  document.getElementById('toolbar').classList.toggle('open');
+  document.querySelector('.toolbar-toggle').classList.toggle('open');
+}
+
+// ============ 确认弹窗 ============
+let modalAction = null;
+function clearWrongConfirm() {
+  if (wrongBook.length === 0) { alert('错题本已是空的'); return; }
+  document.getElementById('modalTitle').textContent = '清空错题本';
+  document.getElementById('modalText').textContent = `确定要清空全部 ${wrongBook.length} 道错题吗？此操作不可恢复。`;
+  modalAction = 'clearWrong';
+  document.getElementById('confirmModal').classList.add('show');
+}
+function closeModal() {
+  document.getElementById('confirmModal').classList.remove('show');
+  modalAction = null;
+}
+function confirmAction() {
+  if (modalAction === 'clearWrong') {
+    wrongBook = [];
+    saveWrong();
+    updateActionButtons();
+  } else if (modalAction === 'resetPlan') {
+    planData = { started: false, startDate: null, currentDay: 0, completed: {} };
+    savePlan();
+    initPlanData();
+    renderPlanOverview();
+  }
+  closeModal();
+}
+
+// ============ 图片放大 ============
+function toggleZoom(img) {
+  const overlay = document.getElementById('zoomOverlay');
+  if (img.classList.contains('zoomed')) closeZoom();
+  else { img.classList.add('zoomed'); overlay.classList.add('show'); }
+}
+function closeZoom() {
+  document.querySelectorAll('.card-body img.zoomed').forEach(img => img.classList.remove('zoomed'));
+  document.getElementById('zoomOverlay').classList.remove('show');
+}
+
+// ============ 滑动手势 ============
+function initSwipe() {
+  let startX = 0, startY = 0, swiping = false;
+  const card = document.getElementById('questionCard');
+  card.addEventListener('touchstart', e => {
+    startX = e.touches[0].clientX; startY = e.touches[0].clientY; swiping = true;
+  }, {passive: true});
+  card.addEventListener('touchend', e => {
+    if (!swiping) return; swiping = false;
+    const dx = e.changedTouches[0].clientX - startX;
+    const dy = e.changedTouches[0].clientY - startY;
+    if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+      if (currentMode === 'quiz') { dx > 0 ? prevQuestion() : nextQuestion(); }
+    }
+  }, {passive: true});
+}
+
+// ============ 键盘快捷键 ============
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  if (e.key === 'ArrowLeft') { prevQuestion(); e.preventDefault(); }
+  else if (e.key === 'ArrowRight') { nextQuestion(); e.preventDefault(); }
+  else if (e.key === ' ') { toggleAnswer(); e.preventDefault(); }
+  else if (e.key === 'Escape') { closeZoom(); }
+  else if (currentMode === 'quiz' && ['A','B','C','D'].includes(e.key.toUpperCase())) {
+    const btn = document.querySelector(`.option-btn[data-opt="${e.key.toUpperCase()}"]`);
+    if (btn && !answered) btn.click();
+  }
+});
+
+document.getElementById('jumpInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') jumpTo();
+});
+
+// ============ 数据同步（导出/导入） ============
+let syncMode = 'export';
+
+function openSyncModal(mode) {
+  syncMode = mode;
+  const modal = document.getElementById('syncModal');
+  const title = document.getElementById('syncModalTitle');
+  const text = document.getElementById('syncModalText');
+  const textarea = document.getElementById('syncDataText');
+  const stats = document.getElementById('syncStats');
+  const btn = document.getElementById('syncActionBtn');
+
+  if (mode === 'export') {
+    title.textContent = '📤 导出数据';
+    text.textContent = '复制下方同步码，在另一台设备上选择"导入数据"粘贴即可同步。';
+    const code = exportData();
+    textarea.value = code;
+    textarea.readOnly = true;
+    stats.innerHTML = getSyncStats();
+    btn.textContent = '复制同步码';
+    btn.style.background = '#27ae60';
+  } else {
+    title.textContent = '📥 导入数据';
+    text.textContent = '粘贴从其他设备复制的同步码，然后点击"导入同步"。注意：将覆盖当前设备的数据！';
+    textarea.value = '';
+    textarea.readOnly = false;
+    stats.innerHTML = '';
+    btn.textContent = '导入同步';
+    btn.style.background = '#2980b9';
+  }
+  modal.classList.add('show');
+}
+
+function closeSyncModal() {
+  document.getElementById('syncModal').classList.remove('show');
+}
+
+function getSyncStats() {
+  const wrong = JSON.parse(localStorage.getItem('quiz_wrong_book') || '[]');
+  const fav = JSON.parse(localStorage.getItem('quiz_favorites') || '[]');
+  const plan = JSON.parse(localStorage.getItem('quiz_10day_plan') || '{}');
+  const prog = JSON.parse(localStorage.getItem('quiz_progress') || '{}');
+  let planDone = 0;
+  if (plan.completed) planDone = Object.keys(plan.completed).filter(k => plan.completed[k]).length;
+  return `当前数据：错题 ${wrong.length} 道 | 收藏 ${fav.length} 道 | 计划已做 ${planDone} 道`;
+}
+
+function exportData() {
+  const data = {
+    v: 1,
+    t: Date.now(),
+    wrong: localStorage.getItem('quiz_wrong_book') || '[]',
+    fav: localStorage.getItem('quiz_favorites') || '[]',
+    plan: localStorage.getItem('quiz_10day_plan') || 'null',
+    prog: localStorage.getItem('quiz_progress') || 'null'
+  };
+  const json = JSON.stringify(data);
+  // base64编码
+  const b64 = btoa(unescape(encodeURIComponent(json)));
+  return 'QUIZSYNC1:' + b64;
+}
+
+function importData(code) {
+  try {
+    code = code.trim();
+    if (!code.startsWith('QUIZSYNC1:')) {
+      alert('同步码格式错误，请检查是否完整复制。');
+      return false;
+    }
+    const b64 = code.substring('QUIZSYNC1:'.length);
+    const json = decodeURIComponent(escape(atob(b64)));
+    const data = JSON.parse(json);
+    if (data.wrong) localStorage.setItem('quiz_wrong_book', data.wrong);
+    if (data.fav) localStorage.setItem('quiz_favorites', data.fav);
+    if (data.plan) localStorage.setItem('quiz_10day_plan', data.plan);
+    if (data.prog) localStorage.setItem('quiz_progress', data.prog);
+    // 重新加载内存中的数据
+    wrongBook = JSON.parse(localStorage.getItem('quiz_wrong_book') || '[]');
+    favorites = JSON.parse(localStorage.getItem('quiz_favorites') || '[]');
+    planData = JSON.parse(localStorage.getItem('quiz_10day_plan') || 'null');
+    quizProgress = JSON.parse(localStorage.getItem('quiz_progress') || 'null');
+    initPlanData();
+    updateBadges();
+    renderQuestion();
+    alert('数据导入成功！已同步错题本、收藏夹、10天计划进度和答题位置。');
+    return true;
+  } catch(e) {
+    alert('导入失败：' + e.message + '\n请检查同步码是否完整。');
+    return false;
+  }
+}
+
+function doSyncAction() {
+  const textarea = document.getElementById('syncDataText');
+  if (syncMode === 'export') {
+    textarea.select();
+    document.execCommand('copy');
+    const btn = document.getElementById('syncActionBtn');
+    btn.textContent = '✓ 已复制';
+    setTimeout(() => { btn.textContent = '复制同步码'; }, 2000);
+  } else {
+    const code = textarea.value.trim();
+    if (!code) { alert('请粘贴同步码'); return; }
+    if (importData(code)) {
+      closeSyncModal();
+    }
+  }
+}
+
+init();
+</script>
+</body>
+</html>

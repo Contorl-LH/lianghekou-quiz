@@ -717,34 +717,6 @@
   }
   .sync-hint { font-size: 11px; color: #a0aec0; margin-top: 6px; }
 
-  /* 确认弹窗 */
-  .confirm-modal {
-    position: fixed; top: 0; left: 0; right: 0; bottom: 0;
-    z-index: 3000; display: flex; align-items: center; justify-content: center;
-  }
-  .confirm-modal-overlay {
-    position: absolute; top: 0; left: 0; right: 0; bottom: 0;
-    background: rgba(0,0,0,0.5);
-  }
-  .confirm-modal-content {
-    position: relative; background: white; border-radius: 16px;
-    padding: 24px; width: 85%; max-width: 350px;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-    text-align: center;
-  }
-  .confirm-modal-content h4 {
-    font-size: 16px; font-weight: 700; color: #2d3748; margin-bottom: 12px;
-  }
-  .confirm-modal-content p {
-    font-size: 14px; color: #4a5568; margin-bottom: 20px; line-height: 1.5;
-  }
-  .confirm-actions { display: flex; gap: 12px; }
-  .confirm-btn {
-    flex: 1; padding: 10px; border: none; border-radius: 10px;
-    font-size: 14px; font-weight: 600; cursor: pointer; transition: all 0.2s;
-  }
-  .confirm-btn-cancel { background: #edf2f7; color: #4a5568; }
-  .confirm-btn-ok { background: linear-gradient(135deg, #4299e1, #2b6cb0); color: white; }
   .confirm-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
 </style>
 </head>
@@ -783,9 +755,7 @@
   <button class="btn-primary" onclick="jumpTo()">跳转</button>
   <button class="btn-secondary" onclick="shuffleQuestions()">随机</button>
   <button class="btn-secondary" onclick="resetOrder()">顺序</button>
-  <button class="btn-success" onclick="openSyncModal('export')">📤导出数据</button>
   <button class="btn-secondary" onclick="openCloudSync()" style="background:linear-gradient(135deg,#667eea,#764ba2);color:white">☁️云端同步</button>
-  <button class="btn-primary" onclick="openSyncModal('import')">📥导入数据</button>
   <button class="btn-danger" onclick="clearWrongConfirm()">清空错题</button>
 </div>
 
@@ -986,19 +956,7 @@
   </div>
 </div>
 
-<!-- 数据同步模态框 -->
-<div class="modal-overlay" id="syncModal">
-  <div class="modal-box" style="max-width:420px">
-    <h3 id="syncModalTitle">数据同步</h3>
-    <p id="syncModalText" style="font-size:13px;color:#666;margin-bottom:10px"></p>
-    <textarea id="syncDataText" style="width:100%;min-height:120px;padding:10px;border:1px solid #ccc;border-radius:8px;font-size:12px;font-family:monospace;resize:vertical;box-sizing:border-box" placeholder="粘贴同步码..."></textarea>
-    <div id="syncStats" style="font-size:12px;color:#888;margin-top:8px;text-align:left"></div>
-    <div class="modal-buttons" style="margin-top:14px">
-      <button class="cancel" onclick="closeSyncModal()">关闭</button>
-      <button class="confirm" id="syncActionBtn" style="background:#2980b9" onclick="doSyncAction()">复制同步码</button>
-    </div>
-  </div>
-</div>
+
 
 <script src="quiz_data_final.js"></script>
 <script>
@@ -2077,118 +2035,6 @@ document.getElementById('jumpInput').addEventListener('keydown', e => {
   if (e.key === 'Enter') jumpTo();
 });
 
-// ============ 数据同步（导出/导入） ============
-let syncMode = 'export';
-
-function openSyncModal(mode) {
-  syncMode = mode;
-  const modal = document.getElementById('syncModal');
-  const title = document.getElementById('syncModalTitle');
-  const text = document.getElementById('syncModalText');
-  const textarea = document.getElementById('syncDataText');
-  const stats = document.getElementById('syncStats');
-  const btn = document.getElementById('syncActionBtn');
-
-  if (mode === 'export') {
-    title.textContent = '📤 导出数据';
-    text.textContent = '复制下方同步码，在另一台设备上选择"导入数据"粘贴即可同步。';
-    const code = exportData();
-    textarea.value = code;
-    textarea.readOnly = true;
-    stats.innerHTML = getSyncStats();
-    btn.textContent = '复制同步码';
-    btn.style.background = '#27ae60';
-  } else {
-    title.textContent = '📥 导入数据';
-    text.textContent = '粘贴从其他设备复制的同步码，然后点击"导入同步"。注意：将覆盖当前设备的数据！';
-    textarea.value = '';
-    textarea.readOnly = false;
-    stats.innerHTML = '';
-    btn.textContent = '导入同步';
-    btn.style.background = '#2980b9';
-  }
-  modal.classList.add('show');
-}
-
-function closeSyncModal() {
-  document.getElementById('syncModal').classList.remove('show');
-}
-
-function getSyncStats() {
-  const wrong = JSON.parse(localStorage.getItem('quiz_wrong_book') || '[]');
-  const fav = JSON.parse(localStorage.getItem('quiz_favorites') || '[]');
-  const plan = JSON.parse(localStorage.getItem('quiz_10day_plan') || '{}');
-  const prog = JSON.parse(localStorage.getItem('quiz_progress') || '{}');
-  let planDone = 0;
-  if (plan.completed) planDone = Object.keys(plan.completed).filter(k => plan.completed[k]).length;
-  return `当前数据：错题 ${wrong.length} 道 | 收藏 ${fav.length} 道 | 计划已做 ${planDone} 道`;
-}
-
-function exportData() {
-  const data = {
-    v: 1,
-    t: Date.now(),
-    wrong: localStorage.getItem('quiz_wrong_book') || '[]',
-    fav: localStorage.getItem('quiz_favorites') || '[]',
-    plan: localStorage.getItem('quiz_10day_plan') || 'null',
-    prog: localStorage.getItem('quiz_progress') || 'null'
-  };
-  const json = JSON.stringify(data);
-  // base64编码
-  const b64 = btoa(unescape(encodeURIComponent(json)));
-  return 'QUIZSYNC1:' + b64;
-}
-
-function importData(code) {
-  try {
-    code = code.trim();
-    if (!code.startsWith('QUIZSYNC1:')) {
-      alert('同步码格式错误，请检查是否完整复制。');
-      return false;
-    }
-    const b64 = code.substring('QUIZSYNC1:'.length);
-    const json = decodeURIComponent(escape(atob(b64)));
-    const data = JSON.parse(json);
-    if (data.wrong) localStorage.setItem('quiz_wrong_book', data.wrong);
-    if (data.fav) localStorage.setItem('quiz_favorites', data.fav);
-    if (data.plan) localStorage.setItem('quiz_10day_plan', data.plan);
-    if (data.prog) localStorage.setItem('quiz_progress', data.prog);
-    // 重新加载内存中的数据
-    wrongBook = JSON.parse(localStorage.getItem('quiz_wrong_book') || '[]');
-    favorites = JSON.parse(localStorage.getItem('quiz_favorites') || '[]');
-    planData = JSON.parse(localStorage.getItem('quiz_10day_plan') || 'null');
-    quizProgress = JSON.parse(localStorage.getItem('quiz_progress') || 'null');
-    initPlanData();
-    updateBadges();
-    renderQuestion();
-    alert('数据导入成功！已同步错题本、收藏夹、10天计划进度和答题位置。');
-    return true;
-  } catch(e) {
-    alert('导入失败：' + e.message + '\n请检查同步码是否完整。');
-    return false;
-  }
-}
-
-function doSyncAction() {
-  const textarea = document.getElementById('syncDataText');
-  if (syncMode === 'export') {
-    textarea.select();
-    document.execCommand('copy');
-    const btn = document.getElementById('syncActionBtn');
-    btn.textContent = '✓ 已复制';
-    setTimeout(() => { btn.textContent = '复制同步码'; }, 2000);
-  } else {
-    const code = textarea.value.trim();
-    if (!code) { alert('请粘贴同步码'); return; }
-    if (importData(code)) {
-      closeSyncModal();
-    }
-  }
-}
-
-
-init();
-
 // ============ Supabase云端同步 ============
 let supabaseClient = null;
 let supabaseUser = null;
@@ -2405,17 +2251,6 @@ if (typeof supabase !== 'undefined') {
 }
 </script>
 
-<!-- 确认操作弹窗 -->
-<div class="confirm-modal" id="confirmModal" style="display:none">
-  <div class="confirm-modal-overlay" onclick="closeConfirmModal()"></div>
-  <div class="confirm-modal-content">
-    <h4>确认操作</h4>
-    <p id="confirmMessage">确定要执行此操作吗？</p>
-    <div class="confirm-actions">
-      <button class="confirm-btn confirm-btn-cancel" onclick="closeConfirmModal()">取消</button>
-      <button class="confirm-btn confirm-btn-ok" id="confirmOkBtn">确定</button>
-    </div>
-  </div>
-</div>
+
 </body>
 </html>

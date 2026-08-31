@@ -2218,7 +2218,16 @@ function filterByType() {
   const type = document.getElementById('typeFilter').value;
   const activeQuestions = allQuestions.filter(q => !skipBook.includes(q.id)); // 排除不考题
   filteredQuestions = type ? activeQuestions.filter(q => q.type === type) : [...activeQuestions];
-  currentIndex = 0;
+  
+  // 自动跳转到第一道未做的题目
+  let firstUndoneIndex = 0;
+  for (let i = 0; i < filteredQuestions.length; i++) {
+    if (!isQuestionDone(filteredQuestions[i].id)) {
+      firstUndoneIndex = i;
+      break;
+    }
+  }
+  currentIndex = firstUndoneIndex;
   renderQuestion();
 }
 function jumpTo() {

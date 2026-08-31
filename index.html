@@ -393,6 +393,35 @@
     box-shadow: 0 2px 8px rgba(66, 153, 225, 0.3);
   }
 
+  /* 题干文字 */
+  .question-text {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #2d3748;
+    margin-bottom: 16px;
+    padding: 14px 16px;
+    background: linear-gradient(135deg, #f7fafc, #edf2f7);
+    border-radius: 12px;
+    border-left: 4px solid #4299e1;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  /* 答案文字 */
+  .answer-text {
+    font-size: 15px;
+    line-height: 1.8;
+    color: #2d3748;
+    margin-bottom: 12px;
+    padding: 12px 14px;
+    background: linear-gradient(135deg, #f0fff4, #c6f6d5);
+    border-radius: 10px;
+    border-left: 4px solid #48bb78;
+    font-weight: 500;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
   /* 提示文字 */
   .hint {
     text-align: center;
@@ -769,6 +798,7 @@
         <span class="type-badge" id="typeBadge">--</span>
       </div>
       <div class="card-body">
+        <div class="question-text" id="questionText"></div>
         <img id="qImg" src="" alt="题干" onclick="toggleZoom(this)">
         <div class="answer-options" id="answerOptions"></div>
         <div class="result-tip" id="resultTip"></div>
@@ -779,6 +809,7 @@
         </div>
         <div class="answer-section" id="answerSection">
           <span class="answer-label">参考答案</span>
+          <div class="answer-text" id="answerText"></div>
           <img id="aImg" src="" alt="答案" onclick="toggleZoom(this)">
         </div>
       </div>
@@ -824,6 +855,7 @@
           <span class="type-badge" id="planTypeBadge">--</span>
         </div>
         <div class="card-body">
+          <div class="question-text" id="planQuestionText"></div>
           <img id="planQImg" src="" alt="题干" onclick="toggleZoom(this)">
           <div class="answer-options" id="planAnswerOptions"></div>
           <div class="result-tip" id="planResultTip"></div>
@@ -834,6 +866,7 @@
           </div>
           <div class="answer-section" id="planAnswerSection">
             <span class="answer-label">参考答案</span>
+            <div class="answer-text" id="planAnswerText"></div>
             <img id="planAImg" src="" alt="答案" onclick="toggleZoom(this)">
           </div>
         </div>
@@ -1214,18 +1247,40 @@ function renderPlanQuestion() {
   badge.textContent = typeNames[q.type] || q.type;
   badge.className = 'type-badge type-' + q.type;
 
+  // 显示题干文字
+  const planQText = document.getElementById('planQuestionText');
+  if (planQText) {
+    planQText.textContent = q.q || '';
+    planQText.style.display = q.q ? 'block' : 'none';
+  }
+
   document.getElementById('planQImg').src = q.q_img;
   document.getElementById('planAImg').src = q.a_img;
 
-  // 选择题选项
+  // 显示答案文字
+  const planAText = document.getElementById('planAnswerText');
+  if (planAText) {
+    let answerText = q.a || '';
+    if (q.type === 'A' && q.o && q.o[q.a]) {
+      answerText = q.a + '. ' + q.o[q.a];
+    }
+    planAText.textContent = answerText;
+    planAText.style.display = answerText ? 'block' : 'none';
+  }
+
+  // 选择题和判断题选项
   const optsDiv = document.getElementById('planAnswerOptions');
   optsDiv.innerHTML = '';
-  if (q.type === 'A' && q.o) {
+  if ((q.type === 'A' || q.type === 'B') && q.o) {
     Object.keys(q.o).sort().forEach(key => {
       const btn = document.createElement('button');
       btn.className = 'option-btn';
       btn.dataset.opt = key;
-      btn.innerHTML = `<span class="opt-letter">${key}</span><span>${q.o[key]}</span>`;
+      if (q.type === 'B') {
+        btn.innerHTML = `<span class="opt-letter">${key === '正确' ? '✓' : '✗'}</span><span>${q.o[key]}</span>`;
+      } else {
+        btn.innerHTML = `<span class="opt-letter">${key}</span><span>${q.o[key]}</span>`;
+      }
       btn.onclick = () => planSelectOption(key);
       optsDiv.appendChild(btn);
     });
@@ -1469,6 +1524,13 @@ function renderQuestion() {
   badge.textContent = typeNames[q.type] || q.type;
   badge.className = 'type-badge type-' + q.type;
 
+  // 显示题干文字
+  const qText = document.getElementById('questionText');
+  if (qText) {
+    qText.textContent = q.q || '';
+    qText.style.display = q.q ? 'block' : 'none';
+  }
+
   const qImg = document.getElementById('qImg');
   qImg.src = q.q_img;
   qImg.classList.remove('zoomed');
@@ -1478,14 +1540,30 @@ function renderQuestion() {
   aImg.src = q.a_img;
   aImg.classList.remove('zoomed');
 
+  // 显示答案文字
+  const aText = document.getElementById('answerText');
+  if (aText) {
+    let answerText = q.a || '';
+    // 如果是选择题，显示选项内容
+    if (q.type === 'A' && q.o && q.o[q.a]) {
+      answerText = q.a + '. ' + q.o[q.a];
+    }
+    aText.textContent = answerText;
+    aText.style.display = answerText ? 'block' : 'none';
+  }
+
   const optsDiv = document.getElementById('answerOptions');
   optsDiv.innerHTML = '';
-  if (q.type === 'A' && q.o) {
+  if ((q.type === 'A' || q.type === 'B') && q.o) {
     Object.keys(q.o).sort().forEach(key => {
       const btn = document.createElement('button');
       btn.className = 'option-btn';
       btn.dataset.opt = key;
-      btn.innerHTML = `<span class="opt-letter">${key}</span><span>${q.o[key]}</span>`;
+      if (q.type === 'B') {
+        btn.innerHTML = `<span class="opt-letter">${key === '正确' ? '✓' : '✗'}</span><span>${q.o[key]}</span>`;
+      } else {
+        btn.innerHTML = `<span class="opt-letter">${key}</span><span>${q.o[key]}</span>`;
+      }
       btn.onclick = () => selectOption(key);
       optsDiv.appendChild(btn);
     });

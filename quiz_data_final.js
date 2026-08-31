@@ -12,7 +12,6 @@ window.QUIZ_DATA = [
       "D": "压强。"
     },
     "q_img": "q1_question_images/La5A1001_q.png",
-    "a_img": "q1_answer_images/La5A1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29,7 +28,6 @@ window.QUIZ_DATA = [
       "D": "电桥。"
     },
     "q_img": "q1_question_images/La5A1002_q.png",
-    "a_img": "q1_answer_images/La5A1002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -46,7 +44,6 @@ window.QUIZ_DATA = [
       "D": "事 故。"
     },
     "q_img": "q1_question_images/La5A2003_q.png",
-    "a_img": "q1_answer_images/La5A2003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -63,7 +60,6 @@ window.QUIZ_DATA = [
       "D": "由电子组成。"
     },
     "q_img": "q1_question_images/La5A2004_q.png",
-    "a_img": "q1_answer_images/La5A2004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -80,7 +76,6 @@ window.QUIZ_DATA = [
       "D": "一次侧大。"
     },
     "q_img": "q1_question_images/La5A2005_q.png",
-    "a_img": "q1_answer_images/La5A2005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -97,7 +92,6 @@ window.QUIZ_DATA = [
       "D": "kVar。"
     },
     "q_img": "q1_question_images/La5A3006_q.png",
-    "a_img": "q1_answer_images/La5A3006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -114,7 +108,6 @@ window.QUIZ_DATA = [
       "D": "瞬时。"
     },
     "q_img": "q1_question_images/La5A3007_q.png",
-    "a_img": "q1_answer_images/La5A3007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -131,7 +124,6 @@ window.QUIZ_DATA = [
       "D": "以上说法都错。"
     },
     "q_img": "q1_question_images/La5A3008_q.png",
-    "a_img": "q1_answer_images/La5A3008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -148,7 +140,6 @@ window.QUIZ_DATA = [
       "D": "二次函 数关系。"
     },
     "q_img": "q1_question_images/La5A3009_q.png",
-    "a_img": "q1_answer_images/La5A3009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -165,7 +156,6 @@ window.QUIZ_DATA = [
       "D": "回收能量。"
     },
     "q_img": "q1_question_images/La5A3010_q.png",
-    "a_img": "q1_answer_images/La5A3010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -182,7 +172,6 @@ window.QUIZ_DATA = [
       "D": "0.5。"
     },
     "q_img": "q1_question_images/La5A3011_q.png",
-    "a_img": "q1_answer_images/La5A3011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -199,7 +188,6 @@ window.QUIZ_DATA = [
       "C": "1/4"
     },
     "q_img": "q1_question_images/La5A3012_q.png",
-    "a_img": "q1_answer_images/La5A3012_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -216,7 +204,6 @@ window.QUIZ_DATA = [
       "D": "密封蓄电池。"
     },
     "q_img": "q1_question_images/La4A1013_q.png",
-    "a_img": "q1_answer_images/La4A1013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -233,7 +220,6 @@ window.QUIZ_DATA = [
       "D": "差。"
     },
     "q_img": "q1_question_images/La4A1014_q.png",
-    "a_img": "q1_answer_images/La4A1014_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -250,7 +236,6 @@ window.QUIZ_DATA = [
       "D": "热敏元件。"
     },
     "q_img": "q1_question_images/La4A1015_q.png",
-    "a_img": "q1_answer_images/La4A1015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -267,7 +252,6 @@ window.QUIZ_DATA = [
       "C": "与空穴复合 的电子"
     },
     "q_img": "q1_question_images/La4A2016_q.png",
-    "a_img": "q1_answer_images/La4A2016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -284,7 +268,6 @@ window.QUIZ_DATA = [
       "D": "或高于 或低于。"
     },
     "q_img": "q1_question_images/La4A2017_q.png",
-    "a_img": "q1_answer_images/La4A2017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -301,7 +284,6 @@ window.QUIZ_DATA = [
       "D": "二次 函数关系。"
     },
     "q_img": "q1_question_images/La4A2018_q.png",
-    "a_img": "q1_answer_images/La4A2018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -318,7 +300,6 @@ window.QUIZ_DATA = [
       "D": "10W。"
     },
     "q_img": "q1_question_images/La4A3019_q.png",
-    "a_img": "q1_answer_images/La4A3019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -335,7 +316,6 @@ window.QUIZ_DATA = [
       "D": "2：3。"
     },
     "q_img": "q1_question_images/La4A3020_q.png",
-    "a_img": "q1_answer_images/La4A3020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -352,7 +332,6 @@ window.QUIZ_DATA = [
       "D": "都不亮。"
     },
     "q_img": "q1_question_images/La4A3021_q.png",
-    "a_img": "q1_answer_images/La4A3021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -369,7 +348,6 @@ window.QUIZ_DATA = [
       "D": "CONNECTED。"
     },
     "q_img": "q1_question_images/La4A4022_q.png",
-    "a_img": "q1_answer_images/La4A4022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -386,7 +364,6 @@ window.QUIZ_DATA = [
       "D": "1V。"
     },
     "q_img": "q1_question_images/La3A2023_q.png",
-    "a_img": "q1_answer_images/La3A2023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -403,7 +380,6 @@ window.QUIZ_DATA = [
       "D": "有效降低引水钢管中水的流速。"
     },
     "q_img": "q1_question_images/La3A2024_q.png",
-    "a_img": "q1_answer_images/La3A2024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -420,7 +396,6 @@ window.QUIZ_DATA = [
       "C": "互感是电磁感应的一种"
     },
     "q_img": "q1_question_images/La3A3025_q.png",
-    "a_img": "q1_answer_images/La3A3025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -437,7 +412,6 @@ window.QUIZ_DATA = [
       "D": "负荷。"
     },
     "q_img": "q1_question_images/La3A3026_q.png",
-    "a_img": "q1_answer_images/La3A3026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -454,7 +428,6 @@ window.QUIZ_DATA = [
       "D": "3U0。"
     },
     "q_img": "q1_question_images/La3A4027_q.png",
-    "a_img": "q1_answer_images/La3A4027_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -471,7 +444,6 @@ window.QUIZ_DATA = [
       "D": "中性点经电容器接地。"
     },
     "q_img": "q1_question_images/La3A5028_q.png",
-    "a_img": "q1_answer_images/La3A5028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -488,7 +460,6 @@ window.QUIZ_DATA = [
       "D": "显示 器。"
     },
     "q_img": "q1_question_images/La2A3029_q.png",
-    "a_img": "q1_answer_images/La2A3029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -505,7 +476,6 @@ window.QUIZ_DATA = [
       "D": "阻抗大小。"
     },
     "q_img": "q1_question_images/La2A3030_q.png",
-    "a_img": "q1_answer_images/La2A3030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -522,7 +492,6 @@ window.QUIZ_DATA = [
       "D": "100。"
     },
     "q_img": "q1_question_images/La1A2031_q.png",
-    "a_img": "q1_answer_images/La1A2031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -539,7 +508,6 @@ window.QUIZ_DATA = [
       "C": "反向电压区"
     },
     "q_img": "q1_question_images/La1A3032_q.png",
-    "a_img": "q1_answer_images/La1A3032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -556,7 +524,6 @@ window.QUIZ_DATA = [
       "C": "黄色"
     },
     "q_img": "q1_question_images/Lb5A1033_q.png",
-    "a_img": "q1_answer_images/Lb5A1033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -573,7 +540,6 @@ window.QUIZ_DATA = [
       "D": "1 倍。"
     },
     "q_img": "q1_question_images/Lb5A1034_q.png",
-    "a_img": "q1_answer_images/Lb5A1034_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -590,7 +556,6 @@ window.QUIZ_DATA = [
       "D": "无色。"
     },
     "q_img": "q1_question_images/Lb5A1035_q.png",
-    "a_img": "q1_answer_images/Lb5A1035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -607,7 +572,6 @@ window.QUIZ_DATA = [
       "D": "竖直向下。"
     },
     "q_img": "q1_question_images/Lb5A2036_q.png",
-    "a_img": "q1_answer_images/Lb5A2036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -624,7 +588,6 @@ window.QUIZ_DATA = [
       "D": "不确定。"
     },
     "q_img": "q1_question_images/Lb5A2037_q.png",
-    "a_img": "q1_answer_images/Lb5A2037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -641,7 +604,6 @@ window.QUIZ_DATA = [
       "D": "大气。"
     },
     "q_img": "q1_question_images/Lb5A2038_q.png",
-    "a_img": "q1_answer_images/Lb5A2038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -658,7 +620,6 @@ window.QUIZ_DATA = [
       "D": "电流的热效应。 2 3 7"
     },
     "q_img": "q1_question_images/Lb5A2039_q.png",
-    "a_img": "q1_answer_images/Lb5A2039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -675,7 +636,6 @@ window.QUIZ_DATA = [
       "D": "电压相位超前电流相位180°。"
     },
     "q_img": "q1_question_images/Lb5A2040_q.png",
-    "a_img": "q1_answer_images/Lb5A2040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -692,7 +652,6 @@ window.QUIZ_DATA = [
       "D": "若干个 都行。"
     },
     "q_img": "q1_question_images/Lb5A2041_q.png",
-    "a_img": "q1_answer_images/Lb5A2041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -709,7 +668,6 @@ window.QUIZ_DATA = [
       "D": "第三 天。"
     },
     "q_img": "q1_question_images/Lb5A2042_q.png",
-    "a_img": "q1_answer_images/Lb5A2042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -726,7 +684,6 @@ window.QUIZ_DATA = [
       "D": "180°。"
     },
     "q_img": "q1_question_images/Lb5A2043_q.png",
-    "a_img": "q1_answer_images/Lb5A2043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -743,7 +700,6 @@ window.QUIZ_DATA = [
       "D": "CHARGED。"
     },
     "q_img": "q1_question_images/Lb5A2044_q.png",
-    "a_img": "q1_answer_images/Lb5A2044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -760,7 +716,6 @@ window.QUIZ_DATA = [
       "D": "额定电压。"
     },
     "q_img": "q1_question_images/Lb5A3045_q.png",
-    "a_img": "q1_answer_images/Lb5A3045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -777,7 +732,6 @@ window.QUIZ_DATA = [
       "D": "以 上说法都错。"
     },
     "q_img": "q1_question_images/Lb5A3046_q.png",
-    "a_img": "q1_answer_images/Lb5A3046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -794,7 +748,6 @@ window.QUIZ_DATA = [
       "C": "水泵"
     },
     "q_img": "q1_question_images/Lb5A3047_q.png",
-    "a_img": "q1_answer_images/Lb5A3047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -811,7 +764,6 @@ window.QUIZ_DATA = [
       "D": "垂直。"
     },
     "q_img": "q1_question_images/Lb5A3048_q.png",
-    "a_img": "q1_answer_images/Lb5A3048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -828,7 +780,6 @@ window.QUIZ_DATA = [
       "D": "装置操作油管和轴心补气。"
     },
     "q_img": "q1_question_images/Lb5A3049_q.png",
-    "a_img": "q1_answer_images/Lb5A3049_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -845,7 +796,6 @@ window.QUIZ_DATA = [
       "D": "不等于。"
     },
     "q_img": "q1_question_images/Lb5A4050_q.png",
-    "a_img": "q1_answer_images/Lb5A4050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -862,7 +812,6 @@ window.QUIZ_DATA = [
       "D": "以上说法都错。"
     },
     "q_img": "q1_question_images/Lb5A4051_q.png",
-    "a_img": "q1_answer_images/Lb5A4051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -879,7 +828,6 @@ window.QUIZ_DATA = [
       "D": "润 滑。"
     },
     "q_img": "q1_question_images/Lb5A4052_q.png",
-    "a_img": "q1_answer_images/Lb5A4052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -896,7 +844,6 @@ window.QUIZ_DATA = [
       "D": "I=Um/L。"
     },
     "q_img": "q1_question_images/Lb4A1053_q.png",
-    "a_img": "q1_answer_images/Lb4A1053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -913,7 +860,6 @@ window.QUIZ_DATA = [
       "D": "Kv＞2。"
     },
     "q_img": "q1_question_images/Lb4A1054_q.png",
-    "a_img": "q1_answer_images/Lb4A1054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -930,7 +876,6 @@ window.QUIZ_DATA = [
       "D": "电力排灌。"
     },
     "q_img": "q1_question_images/Lb4A1055_q.png",
-    "a_img": "q1_answer_images/Lb4A1055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -947,7 +892,6 @@ window.QUIZ_DATA = [
       "D": "排水。"
     },
     "q_img": "q1_question_images/Lb4A2056_q.png",
-    "a_img": "q1_answer_images/Lb4A2056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -964,7 +908,6 @@ window.QUIZ_DATA = [
       "D": "阻力。"
     },
     "q_img": "q1_question_images/Lb4A2057_q.png",
-    "a_img": "q1_answer_images/Lb4A2057_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -981,7 +924,6 @@ window.QUIZ_DATA = [
       "D": "恒 定流。"
     },
     "q_img": "q1_question_images/Lb4A2058_q.png",
-    "a_img": "q1_answer_images/Lb4A2058_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -998,7 +940,6 @@ window.QUIZ_DATA = [
       "D": "电压、电流、功率、转速。"
     },
     "q_img": "q1_question_images/Lb4A2059_q.png",
-    "a_img": "q1_answer_images/Lb4A2059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1015,7 +956,6 @@ window.QUIZ_DATA = [
       "D": "热能。"
     },
     "q_img": "q1_question_images/Lb4A2060_q.png",
-    "a_img": "q1_answer_images/Lb4A2060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1032,7 +972,6 @@ window.QUIZ_DATA = [
       "D": "除以。"
     },
     "q_img": "q1_question_images/Lb4A2061_q.png",
-    "a_img": "q1_answer_images/Lb4A2061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1049,7 +988,6 @@ window.QUIZ_DATA = [
       "D": "位能。"
     },
     "q_img": "q1_question_images/Lb4A2062_q.png",
-    "a_img": "q1_answer_images/Lb4A2062_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1066,7 +1004,6 @@ window.QUIZ_DATA = [
       "D": "当高压 侧B 相熔断器熔断时其所接电压表指示的电压Uab 为正常值的 1/2。"
     },
     "q_img": "q1_question_images/Lb4A3063_q.png",
-    "a_img": "q1_answer_images/Lb4A3063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1083,7 +1020,6 @@ window.QUIZ_DATA = [
       "D": "滞 后180°。"
     },
     "q_img": "q1_question_images/Lb4A3064_q.png",
-    "a_img": "q1_answer_images/Lb4A3064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1100,7 +1036,6 @@ window.QUIZ_DATA = [
       "D": "正反馈有利于提高电路的稳定性。"
     },
     "q_img": "q1_question_images/Lb4A4065_q.png",
-    "a_img": "q1_answer_images/Lb4A4065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1117,7 +1052,6 @@ window.QUIZ_DATA = [
       "D": "交流信号不能 放大。"
     },
     "q_img": "q1_question_images/Lb4A4066_q.png",
-    "a_img": "q1_answer_images/Lb4A4066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1134,7 +1068,6 @@ window.QUIZ_DATA = [
       "D": "吸收有功，发出无功。"
     },
     "q_img": "q1_question_images/Lb4A4067_q.png",
-    "a_img": "q1_answer_images/Lb4A4067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1151,7 +1084,6 @@ window.QUIZ_DATA = [
       "D": "以上公式都错。"
     },
     "q_img": "q1_question_images/Lb4A4068_q.png",
-    "a_img": "q1_answer_images/Lb4A4068_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1168,7 +1100,6 @@ window.QUIZ_DATA = [
       "D": "不等于。"
     },
     "q_img": "q1_question_images/Lb4A4069_q.png",
-    "a_img": "q1_answer_images/Lb4A4069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1185,7 +1116,6 @@ window.QUIZ_DATA = [
       "D": "怎样启动都行。"
     },
     "q_img": "q1_question_images/Lb4A4070_q.png",
-    "a_img": "q1_answer_images/Lb4A4070_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1202,7 +1132,6 @@ window.QUIZ_DATA = [
       "D": "为了放油彻底。"
     },
     "q_img": "q1_question_images/Lb4A4071_q.png",
-    "a_img": "q1_answer_images/Lb4A4071_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1219,7 +1148,6 @@ window.QUIZ_DATA = [
       "C": "电磁感应干扰信号和静电干扰信号"
     },
     "q_img": "q1_question_images/Lb4A4072_q.png",
-    "a_img": "q1_answer_images/Lb4A4072_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1236,7 +1164,6 @@ window.QUIZ_DATA = [
       "D": "对 立关系。"
     },
     "q_img": "q1_question_images/Lb3A1073_q.png",
-    "a_img": "q1_answer_images/Lb3A1073_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1253,7 +1180,6 @@ window.QUIZ_DATA = [
       "D": "控制回路断线。"
     },
     "q_img": "q1_question_images/Lb3A2074_q.png",
-    "a_img": "q1_answer_images/Lb3A2074_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1270,7 +1196,6 @@ window.QUIZ_DATA = [
       "D": "按现场情况不同，不确定。"
     },
     "q_img": "q1_question_images/Lb3A2075_q.png",
-    "a_img": "q1_answer_images/Lb3A2075_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1287,7 +1212,6 @@ window.QUIZ_DATA = [
       "D": "有 色有味。"
     },
     "q_img": "q1_question_images/Lb3A2076_q.png",
-    "a_img": "q1_answer_images/Lb3A2076_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1304,7 +1228,6 @@ window.QUIZ_DATA = [
       "D": "为施 工方便。"
     },
     "q_img": "q1_question_images/Lb3A2077_q.png",
-    "a_img": "q1_answer_images/Lb3A2077_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1321,7 +1244,6 @@ window.QUIZ_DATA = [
       "D": "过 电压。"
     },
     "q_img": "q1_question_images/Lb3A2078_q.png",
-    "a_img": "q1_answer_images/Lb3A2078_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1338,7 +1260,6 @@ window.QUIZ_DATA = [
       "D": "1.5。"
     },
     "q_img": "q1_question_images/Lb3A3079_q.png",
-    "a_img": "q1_answer_images/Lb3A3079_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -1355,7 +1276,6 @@ window.QUIZ_DATA = [
       "D": "充电电流与 13 电压的乘积。"
     },
     "q_img": "q1_question_images/Lb3A3080_q.png",
-    "a_img": "q1_answer_images/Lb3A3080_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1372,7 +1292,6 @@ window.QUIZ_DATA = [
       "D": "剩磁场产生。"
     },
     "q_img": "q1_question_images/Lb3A3081_q.png",
-    "a_img": "q1_answer_images/Lb3A3081_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1389,7 +1308,6 @@ window.QUIZ_DATA = [
       "D": "内能。"
     },
     "q_img": "q1_question_images/Lb3A3082_q.png",
-    "a_img": "q1_answer_images/Lb3A3082_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1406,7 +1324,6 @@ window.QUIZ_DATA = [
       "D": "-1A。"
     },
     "q_img": "q1_question_images/Lb3A4083_q.png",
-    "a_img": "q1_answer_images/Lb3A4083_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1423,7 +1340,6 @@ window.QUIZ_DATA = [
       "D": "减小重量。"
     },
     "q_img": "q1_question_images/Lb3A4084_q.png",
-    "a_img": "q1_answer_images/Lb3A4084_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1440,7 +1356,6 @@ window.QUIZ_DATA = [
       "D": "磁场。"
     },
     "q_img": "q1_question_images/Lb3A4085_q.png",
-    "a_img": "q1_answer_images/Lb3A4085_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1457,7 +1372,6 @@ window.QUIZ_DATA = [
       "D": "径向和轴向。"
     },
     "q_img": "q1_question_images/Lb3A5086_q.png",
-    "a_img": "q1_answer_images/Lb3A5086_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1474,7 +1388,6 @@ window.QUIZ_DATA = [
       "D": "故障相别和故障类型。"
     },
     "q_img": "q1_question_images/Lb2A1087_q.png",
-    "a_img": "q1_answer_images/Lb2A1087_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1491,7 +1404,6 @@ window.QUIZ_DATA = [
       "D": "50～ 140m。"
     },
     "q_img": "q1_question_images/Lb2A2088_q.png",
-    "a_img": "q1_answer_images/Lb2A2088_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1508,7 +1420,6 @@ window.QUIZ_DATA = [
       "D": "价电子的定向 运动所形成的。"
     },
     "q_img": "q1_question_images/Lb2A2089_q.png",
-    "a_img": "q1_answer_images/Lb2A2089_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1525,7 +1436,6 @@ window.QUIZ_DATA = [
       "D": "水轮机效率最高的水头。"
     },
     "q_img": "q1_question_images/Lb2A2090_q.png",
-    "a_img": "q1_answer_images/Lb2A2090_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1542,7 +1452,6 @@ window.QUIZ_DATA = [
       "D": "与入地电流强度成正比，与接地体的距离成正比。"
     },
     "q_img": "q1_question_images/Lb2A2091_q.png",
-    "a_img": "q1_answer_images/Lb2A2091_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1559,7 +1468,6 @@ window.QUIZ_DATA = [
       "D": "非 稳定过程。 15"
     },
     "q_img": "q1_question_images/Lb2A2092_q.png",
-    "a_img": "q1_answer_images/Lb2A2092_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1576,7 +1484,6 @@ window.QUIZ_DATA = [
       "D": "1。"
     },
     "q_img": "q1_question_images/Lb2A2093_q.png",
-    "a_img": "q1_answer_images/Lb2A2093_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -1593,7 +1500,6 @@ window.QUIZ_DATA = [
       "C": "Ib=IcIe"
     },
     "q_img": "q1_question_images/Lb2A3094_q.png",
-    "a_img": "q1_answer_images/Lb2A3094_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1610,7 +1516,6 @@ window.QUIZ_DATA = [
       "D": "1/4。"
     },
     "q_img": "q1_question_images/Lb2A3095_q.png",
-    "a_img": "q1_answer_images/Lb2A3095_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -1627,7 +1532,6 @@ window.QUIZ_DATA = [
       "D": "超前 120°。"
     },
     "q_img": "q1_question_images/Lb2A4096_q.png",
-    "a_img": "q1_answer_images/Lb2A4096_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1644,7 +1548,6 @@ window.QUIZ_DATA = [
       "D": "快速性。"
     },
     "q_img": "q1_question_images/Lb2A4097_q.png",
-    "a_img": "q1_answer_images/Lb2A4097_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1661,7 +1564,6 @@ window.QUIZ_DATA = [
       "D": "节省 导线。"
     },
     "q_img": "q1_question_images/Lb2A4098_q.png",
-    "a_img": "q1_answer_images/Lb2A4098_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1678,7 +1580,6 @@ window.QUIZ_DATA = [
       "D": "波动。"
     },
     "q_img": "q1_question_images/Lb2A4099_q.png",
-    "a_img": "q1_answer_images/Lb2A4099_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1695,7 +1596,6 @@ window.QUIZ_DATA = [
       "D": "相邻线路。"
     },
     "q_img": "q1_question_images/Lb2A5100_q.png",
-    "a_img": "q1_answer_images/Lb2A5100_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1712,7 +1612,6 @@ window.QUIZ_DATA = [
       "D": "运算放大器。"
     },
     "q_img": "q1_question_images/Lb1A1101_q.png",
-    "a_img": "q1_answer_images/Lb1A1101_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1729,7 +1628,6 @@ window.QUIZ_DATA = [
       "D": "弹性势能。"
     },
     "q_img": "q1_question_images/Lb1A1102_q.png",
-    "a_img": "q1_answer_images/Lb1A1102_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1746,7 +1644,6 @@ window.QUIZ_DATA = [
       "C": "从右到左顺时针"
     },
     "q_img": "q1_question_images/Lb1A2103_q.png",
-    "a_img": "q1_answer_images/Lb1A2103_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1763,7 +1660,6 @@ window.QUIZ_DATA = [
       "C": "事故发生15min 内只允许抢救人员进入室内"
     },
     "q_img": "q1_question_images/Lb1A2104_q.png",
-    "a_img": "q1_answer_images/Lb1A2104_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1780,7 +1676,6 @@ window.QUIZ_DATA = [
       "D": "对内防水外漏，对外防油渗入。"
     },
     "q_img": "q1_question_images/Lb1A2105_q.png",
-    "a_img": "q1_answer_images/Lb1A2105_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1794,7 +1689,6 @@ window.QUIZ_DATA = [
       "D": ""
     },
     "q_img": "q1_question_images/Lb1A2106_q.png",
-    "a_img": "q1_answer_images/Lb1A2106_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -1811,7 +1705,6 @@ window.QUIZ_DATA = [
       "D": "它的多数载流子 是空穴。"
     },
     "q_img": "q1_question_images/Lb1A4112_q.png",
-    "a_img": "q1_answer_images/Lb1A4112_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1828,7 +1721,6 @@ window.QUIZ_DATA = [
       "D": "正极绝缘下降。"
     },
     "q_img": "q1_question_images/Lb1A3107_q.png",
-    "a_img": "q1_answer_images/Lb1A3107_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1845,7 +1737,6 @@ window.QUIZ_DATA = [
       "D": "有差。"
     },
     "q_img": "q1_question_images/Lb1A3108_q.png",
-    "a_img": "q1_answer_images/Lb1A3108_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1862,7 +1753,6 @@ window.QUIZ_DATA = [
       "D": "第二。"
     },
     "q_img": "q1_question_images/Lb1A3109_q.png",
-    "a_img": "q1_answer_images/Lb1A3109_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1879,7 +1769,6 @@ window.QUIZ_DATA = [
       "C": "20A"
     },
     "q_img": "q1_question_images/Lb1A3110_q.png",
-    "a_img": "q1_answer_images/Lb1A3110_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1896,7 +1785,6 @@ window.QUIZ_DATA = [
       "D": "电弧启燃 到熄灭的时间。"
     },
     "q_img": "q1_question_images/Lb1A3111_q.png",
-    "a_img": "q1_answer_images/Lb1A3111_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1913,7 +1801,6 @@ window.QUIZ_DATA = [
       "D": "对系统管辖的设备要汇报调度 员。"
     },
     "q_img": "q1_question_images/Lb1A4113_q.png",
-    "a_img": "q1_answer_images/Lb1A4113_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1930,7 +1817,6 @@ window.QUIZ_DATA = [
       "D": "2。"
     },
     "q_img": "q1_question_images/Lb1A4114_q.png",
-    "a_img": "q1_answer_images/Lb1A4114_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -1947,7 +1833,6 @@ window.QUIZ_DATA = [
       "D": "5mA。"
     },
     "q_img": "q1_question_images/Lb1A5115_q.png",
-    "a_img": "q1_answer_images/Lb1A5115_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1964,7 +1849,6 @@ window.QUIZ_DATA = [
       "D": "150°。"
     },
     "q_img": "q1_question_images/Lb1A5116_q.png",
-    "a_img": "q1_answer_images/Lb1A5116_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1981,7 +1865,6 @@ window.QUIZ_DATA = [
       "D": "U1 ＜ U2 ， I1 ＜ I2 。 图A—3"
     },
     "q_img": "q1_question_images/Lb1A5117_q.png",
-    "a_img": "q1_answer_images/Lb1A5117_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -1998,7 +1881,6 @@ window.QUIZ_DATA = [
       "D": "排水量小，排水时间长。"
     },
     "q_img": "q1_question_images/Lc5A1118_q.png",
-    "a_img": "q1_answer_images/Lc5A1118_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2015,7 +1897,6 @@ window.QUIZ_DATA = [
       "D": "E= 0.00272WH。"
     },
     "q_img": "q1_question_images/Lc5A3119_q.png",
-    "a_img": "q1_answer_images/Lc5A3119_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2032,7 +1913,6 @@ window.QUIZ_DATA = [
       "C": "蓄能"
     },
     "q_img": "q1_question_images/Lc5A4120_q.png",
-    "a_img": "q1_answer_images/Lc5A4120_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2049,7 +1929,6 @@ window.QUIZ_DATA = [
       "D": "圆。"
     },
     "q_img": "q1_question_images/Lc5A5121_q.png",
-    "a_img": "q1_answer_images/Lc5A5121_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -2066,7 +1945,6 @@ window.QUIZ_DATA = [
       "D": "不改变。"
     },
     "q_img": "q1_question_images/Lc4A1122_q.png",
-    "a_img": "q1_answer_images/Lc4A1122_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2083,7 +1961,6 @@ window.QUIZ_DATA = [
       "D": "共振补偿。"
     },
     "q_img": "q1_question_images/Lc4A2123_q.png",
-    "a_img": "q1_answer_images/Lc4A2123_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2100,7 +1977,6 @@ window.QUIZ_DATA = [
       "C": "白色"
     },
     "q_img": "q1_question_images/Lc4A2124_q.png",
-    "a_img": "q1_answer_images/Lc4A2124_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2117,7 +1993,6 @@ window.QUIZ_DATA = [
       "D": "斜流式。"
     },
     "q_img": "q1_question_images/Lc4A2125_q.png",
-    "a_img": "q1_answer_images/Lc4A2125_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2134,7 +2009,6 @@ window.QUIZ_DATA = [
       "C": "冲击式"
     },
     "q_img": "q1_question_images/Lc4A3126_q.png",
-    "a_img": "q1_answer_images/Lc4A3126_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2151,7 +2025,6 @@ window.QUIZ_DATA = [
       "D": "设计洪水位与校核洪水位之间的水层深度。"
     },
     "q_img": "q1_question_images/Lc3A2127_q.png",
-    "a_img": "q1_answer_images/Lc3A2127_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2168,7 +2041,6 @@ window.QUIZ_DATA = [
       "D": "Y,yn,。"
     },
     "q_img": "q1_question_images/Lc3A2128_q.png",
-    "a_img": "q1_answer_images/Lc3A2128_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2185,7 +2057,6 @@ window.QUIZ_DATA = [
       "C": "调整电容电流"
     },
     "q_img": "q1_question_images/Lc3A3129_q.png",
-    "a_img": "q1_answer_images/Lc3A3129_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2202,7 +2073,6 @@ window.QUIZ_DATA = [
       "D": "相 等。 21"
     },
     "q_img": "q1_question_images/Lc3A3130_q.png",
-    "a_img": "q1_answer_images/Lc3A3130_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2219,7 +2089,6 @@ window.QUIZ_DATA = [
       "D": "不确定。"
     },
     "q_img": "q1_question_images/Lc3A4131_q.png",
-    "a_img": "q1_answer_images/Lc3A4131_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2236,7 +2105,6 @@ window.QUIZ_DATA = [
       "D": "不 能确定。"
     },
     "q_img": "q1_question_images/Lc3A4132_q.png",
-    "a_img": "q1_answer_images/Lc3A4132_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2253,7 +2121,6 @@ window.QUIZ_DATA = [
       "D": "绕组防晕层严重破坏。"
     },
     "q_img": "q1_question_images/Lc2A2133_q.png",
-    "a_img": "q1_answer_images/Lc2A2133_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2270,7 +2137,6 @@ window.QUIZ_DATA = [
       "C": "GD2=4J"
     },
     "q_img": "q1_question_images/Lc2A3134_q.png",
-    "a_img": "q1_answer_images/Lc2A3134_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2287,7 +2153,6 @@ window.QUIZ_DATA = [
       "C": "频率"
     },
     "q_img": "q1_question_images/Lc2A4135_q.png",
-    "a_img": "q1_answer_images/Lc2A4135_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2304,7 +2169,6 @@ window.QUIZ_DATA = [
       "D": "500ppm。"
     },
     "q_img": "q1_question_images/Lc2A5136_q.png",
-    "a_img": "q1_answer_images/Lc2A5136_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2321,7 +2185,6 @@ window.QUIZ_DATA = [
       "D": "对直流熔断器无特殊要求。"
     },
     "q_img": "q1_question_images/Lc2A5137_q.png",
-    "a_img": "q1_answer_images/Lc2A5137_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2338,7 +2201,6 @@ window.QUIZ_DATA = [
       "D": "相电流"
     },
     "q_img": "q1_question_images/Lc1A3139_q.png",
-    "a_img": "q1_answer_images/Lc1A3139_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2355,7 +2217,6 @@ window.QUIZ_DATA = [
       "D": "4。"
     },
     "q_img": "q1_question_images/Lc1A4140_q.png",
-    "a_img": "q1_answer_images/Lc1A4140_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -2372,7 +2233,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q1_question_images/Lc1A4141_q.png",
-    "a_img": "q1_answer_images/Lc1A4141_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2389,7 +2249,6 @@ window.QUIZ_DATA = [
       "C": "400MΩ"
     },
     "q_img": "q1_question_images/Lc1A4142_q.png",
-    "a_img": "q1_answer_images/Lc1A4142_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2406,7 +2265,6 @@ window.QUIZ_DATA = [
       "C": "逆变"
     },
     "q_img": "q1_question_images/Lc1A5143_q.png",
-    "a_img": "q1_answer_images/Lc1A5143_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2423,7 +2281,6 @@ window.QUIZ_DATA = [
       "D": "屏 蔽接地。"
     },
     "q_img": "q1_question_images/Jd5A1144_q.png",
-    "a_img": "q1_answer_images/Jd5A1144_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2440,7 +2297,6 @@ window.QUIZ_DATA = [
       "D": "装设屏蔽线。"
     },
     "q_img": "q1_question_images/Jd5A1145_q.png",
-    "a_img": "q1_answer_images/Jd5A1145_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2457,7 +2313,6 @@ window.QUIZ_DATA = [
       "C": "贮存方便"
     },
     "q_img": "q1_question_images/Jd5A2146_q.png",
-    "a_img": "q1_answer_images/Jd5A2146_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2474,7 +2329,6 @@ window.QUIZ_DATA = [
       "D": "软化水质。"
     },
     "q_img": "q1_question_images/Jd5A2147_q.png",
-    "a_img": "q1_answer_images/Jd5A2147_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2491,7 +2345,6 @@ window.QUIZ_DATA = [
       "C": "水池"
     },
     "q_img": "q1_question_images/Jd5A2148_q.png",
-    "a_img": "q1_answer_images/Jd5A2148_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2508,7 +2361,6 @@ window.QUIZ_DATA = [
       "D": "2.0V。"
     },
     "q_img": "q1_question_images/Jd5A3149_q.png",
-    "a_img": "q1_answer_images/Jd5A3149_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2525,7 +2377,6 @@ window.QUIZ_DATA = [
       "D": "值长。"
     },
     "q_img": "q1_question_images/Jd5A4150_q.png",
-    "a_img": "q1_answer_images/Jd5A4150_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2542,7 +2393,6 @@ window.QUIZ_DATA = [
       "D": "过负荷引起。"
     },
     "q_img": "q1_question_images/Jd5A5151_q.png",
-    "a_img": "q1_answer_images/Jd5A5151_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2559,7 +2409,6 @@ window.QUIZ_DATA = [
       "D": "可担任备用任务。"
     },
     "q_img": "q1_question_images/Jd4A1152_q.png",
-    "a_img": "q1_answer_images/Jd4A1152_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2576,7 +2425,6 @@ window.QUIZ_DATA = [
       "D": "水泵效率。"
     },
     "q_img": "q1_question_images/Jd4A1153_q.png",
-    "a_img": "q1_answer_images/Jd4A1153_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2593,7 +2441,6 @@ window.QUIZ_DATA = [
       "D": "基 础螺栓松动。"
     },
     "q_img": "q1_question_images/Jd4A2154_q.png",
-    "a_img": "q1_answer_images/Jd4A2154_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2610,7 +2457,6 @@ window.QUIZ_DATA = [
       "D": "大于10M。"
     },
     "q_img": "q1_question_images/Jd4A2155_q.png",
-    "a_img": "q1_answer_images/Jd4A2155_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2627,7 +2473,6 @@ window.QUIZ_DATA = [
       "D": "到零。"
     },
     "q_img": "q1_question_images/Jd4A2156_q.png",
-    "a_img": "q1_answer_images/Jd4A2156_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2644,7 +2489,6 @@ window.QUIZ_DATA = [
       "D": "热 电发射。"
     },
     "q_img": "q1_question_images/Jd4A2157_q.png",
-    "a_img": "q1_answer_images/Jd4A2157_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2661,7 +2505,6 @@ window.QUIZ_DATA = [
       "D": "不 确定。"
     },
     "q_img": "q1_question_images/Jd4A3158_q.png",
-    "a_img": "q1_answer_images/Jd4A3158_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2678,7 +2521,6 @@ window.QUIZ_DATA = [
       "D": "负荷电流。"
     },
     "q_img": "q1_question_images/Jd4A4159_q.png",
-    "a_img": "q1_answer_images/Jd4A4159_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2695,7 +2537,6 @@ window.QUIZ_DATA = [
       "D": "油 故障。"
     },
     "q_img": "q1_question_images/Jd3A2160_q.png",
-    "a_img": "q1_answer_images/Jd3A2160_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2712,7 +2553,6 @@ window.QUIZ_DATA = [
       "D": "40%～ 50%。"
     },
     "q_img": "q1_question_images/Jd3A2161_q.png",
-    "a_img": "q1_answer_images/Jd3A2161_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2729,7 +2569,6 @@ window.QUIZ_DATA = [
       "D": "齿轮箱 油。"
     },
     "q_img": "q1_question_images/Jd3A3162_q.png",
-    "a_img": "q1_answer_images/Jd3A3162_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2746,7 +2585,6 @@ window.QUIZ_DATA = [
       "D": "压力过滤简单、较慢、 有油耗，真空过滤速度快、质量好、无油耗。"
     },
     "q_img": "q1_question_images/Jd3A3163_q.png",
-    "a_img": "q1_answer_images/Jd3A3163_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2763,7 +2601,6 @@ window.QUIZ_DATA = [
       "C": "48V"
     },
     "q_img": "q1_question_images/Jd3A4164_q.png",
-    "a_img": "q1_answer_images/Jd3A4164_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2780,7 +2617,6 @@ window.QUIZ_DATA = [
       "D": "转子集电环"
     },
     "q_img": "q1_question_images/Jd2A3165_q.png",
-    "a_img": "q1_answer_images/Jd2A3165_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2797,7 +2633,6 @@ window.QUIZ_DATA = [
       "D": "低压，高压，中压。"
     },
     "q_img": "q1_question_images/Jd2A3166_q.png",
-    "a_img": "q1_answer_images/Jd2A3166_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2814,7 +2649,6 @@ window.QUIZ_DATA = [
       "D": "1。"
     },
     "q_img": "q1_question_images/Jd2A4167_q.png",
-    "a_img": "q1_answer_images/Jd2A4167_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2831,7 +2665,6 @@ window.QUIZ_DATA = [
       "D": "40~60 HZ。"
     },
     "q_img": "q1_question_images/Jd2A4168_q.png",
-    "a_img": "q1_answer_images/Jd2A4168_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2848,7 +2681,6 @@ window.QUIZ_DATA = [
       "D": "高压线圈 与高压分接引线之间绝缘薄弱。 27"
     },
     "q_img": "q1_question_images/Jd2A5169_q.png",
-    "a_img": "q1_answer_images/Jd2A5169_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2865,7 +2697,6 @@ window.QUIZ_DATA = [
       "D": "4 根。"
     },
     "q_img": "q1_question_images/Jd2A5170_q.png",
-    "a_img": "q1_answer_images/Jd2A5170_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2882,7 +2713,6 @@ window.QUIZ_DATA = [
       "D": "接 零。"
     },
     "q_img": "q1_question_images/Jd1A3171_q.png",
-    "a_img": "q1_answer_images/Jd1A3171_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2899,7 +2729,6 @@ window.QUIZ_DATA = [
       "D": "30%。"
     },
     "q_img": "q1_question_images/Jd1A4172_q.png",
-    "a_img": "q1_answer_images/Jd1A4172_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2916,7 +2745,6 @@ window.QUIZ_DATA = [
       "D": "一次二次回路 均断开。"
     },
     "q_img": "q1_question_images/Jd1A4173_q.png",
-    "a_img": "q1_answer_images/Jd1A4173_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2933,7 +2761,6 @@ window.QUIZ_DATA = [
       "D": "事故过 负荷。"
     },
     "q_img": "q1_question_images/Jd1A4174_q.png",
-    "a_img": "q1_answer_images/Jd1A4174_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2950,7 +2777,6 @@ window.QUIZ_DATA = [
       "D": "不确定。"
     },
     "q_img": "q1_question_images/Jd1A5175_q.png",
-    "a_img": "q1_answer_images/Jd1A5175_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2967,7 +2793,6 @@ window.QUIZ_DATA = [
       "D": "密封性。"
     },
     "q_img": "q1_question_images/Jd1A5176_q.png",
-    "a_img": "q1_answer_images/Jd1A5176_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -2984,7 +2809,6 @@ window.QUIZ_DATA = [
       "D": "高 次谐波。"
     },
     "q_img": "q1_question_images/Jd1A5177_q.png",
-    "a_img": "q1_answer_images/Jd1A5177_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3001,7 +2825,6 @@ window.QUIZ_DATA = [
       "D": "共振补偿。"
     },
     "q_img": "q1_question_images/Je5A1178_q.png",
-    "a_img": "q1_answer_images/Je5A1178_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3018,7 +2841,6 @@ window.QUIZ_DATA = [
       "D": "值长。"
     },
     "q_img": "q1_question_images/Je5A1179_q.png",
-    "a_img": "q1_answer_images/Je5A1179_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3035,7 +2857,6 @@ window.QUIZ_DATA = [
       "D": "6 个月。"
     },
     "q_img": "q1_question_images/Je5A1180_q.png",
-    "a_img": "q1_answer_images/Je5A1180_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3052,7 +2873,6 @@ window.QUIZ_DATA = [
       "D": "调度批准的时间。"
     },
     "q_img": "q1_question_images/Je5A1181_q.png",
-    "a_img": "q1_answer_images/Je5A1181_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3069,7 +2889,6 @@ window.QUIZ_DATA = [
       "D": "黄 色。"
     },
     "q_img": "q1_question_images/Je5A2182_q.png",
-    "a_img": "q1_answer_images/Je5A2182_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3086,7 +2905,6 @@ window.QUIZ_DATA = [
       "D": "集水 井。 29"
     },
     "q_img": "q1_question_images/Je5A2183_q.png",
-    "a_img": "q1_answer_images/Je5A2183_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3103,7 +2921,6 @@ window.QUIZ_DATA = [
       "C": "关到零"
     },
     "q_img": "q1_question_images/Je5A3184_q.png",
-    "a_img": "q1_answer_images/Je5A3184_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3120,7 +2937,6 @@ window.QUIZ_DATA = [
       "D": "三相电 流的代数和。"
     },
     "q_img": "q1_question_images/Je5A3185_q.png",
-    "a_img": "q1_answer_images/Je5A3185_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -3137,7 +2953,6 @@ window.QUIZ_DATA = [
       "D": "消除。"
     },
     "q_img": "q1_question_images/Je5A3186_q.png",
-    "a_img": "q1_answer_images/Je5A3186_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3154,7 +2969,6 @@ window.QUIZ_DATA = [
       "D": "OFF 档。"
     },
     "q_img": "q1_question_images/Je5A3187_q.png",
-    "a_img": "q1_answer_images/Je5A3187_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3171,7 +2985,6 @@ window.QUIZ_DATA = [
       "C": "对地绝缘"
     },
     "q_img": "q1_question_images/Je5A3188_q.png",
-    "a_img": "q1_answer_images/Je5A3188_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3188,7 +3001,6 @@ window.QUIZ_DATA = [
       "D": "油箱。"
     },
     "q_img": "q1_question_images/Je5A3189_q.png",
-    "a_img": "q1_answer_images/Je5A3189_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3205,7 +3017,6 @@ window.QUIZ_DATA = [
       "D": "检修排水。"
     },
     "q_img": "q1_question_images/Je5A3190_q.png",
-    "a_img": "q1_answer_images/Je5A3190_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3222,7 +3033,6 @@ window.QUIZ_DATA = [
       "D": "防止飞速。"
     },
     "q_img": "q1_question_images/Je5A3191_q.png",
-    "a_img": "q1_answer_images/Je5A3191_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3239,7 +3049,6 @@ window.QUIZ_DATA = [
       "D": "先退出故障组的蓄电池和充电设备，再 将母线联络运行。"
     },
     "q_img": "q1_question_images/Je5A4192_q.png",
-    "a_img": "q1_answer_images/Je5A4192_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3256,7 +3065,6 @@ window.QUIZ_DATA = [
       "D": "支撑泵轴。"
     },
     "q_img": "q1_question_images/Je5A4193_q.png",
-    "a_img": "q1_answer_images/Je5A4193_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3273,7 +3081,6 @@ window.QUIZ_DATA = [
       "D": "当日。"
     },
     "q_img": "q1_question_images/Je5A3194_q.png",
-    "a_img": "q1_answer_images/Je5A3194_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3290,7 +3097,6 @@ window.QUIZ_DATA = [
       "D": "若干。"
     },
     "q_img": "q1_question_images/Je5A4195_q.png",
-    "a_img": "q1_answer_images/Je5A4195_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -3307,7 +3113,6 @@ window.QUIZ_DATA = [
       "D": "水力机械工作票"
     },
     "q_img": "q1_question_images/Je5A4196_q.png",
-    "a_img": "q1_answer_images/Je5A4196_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3324,7 +3129,6 @@ window.QUIZ_DATA = [
       "D": "机 组不飞逸。"
     },
     "q_img": "q1_question_images/Je4A1197_q.png",
-    "a_img": "q1_answer_images/Je4A1197_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3341,7 +3145,6 @@ window.QUIZ_DATA = [
       "D": "拉开发电机中性点刀闸可继续运行。"
     },
     "q_img": "q1_question_images/Je4A1198_q.png",
-    "a_img": "q1_answer_images/Je4A1198_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3358,7 +3161,6 @@ window.QUIZ_DATA = [
       "D": "发出。"
     },
     "q_img": "q1_question_images/Je4A1199_q.png",
-    "a_img": "q1_answer_images/Je4A1199_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3375,7 +3177,6 @@ window.QUIZ_DATA = [
       "D": "泄水时提门。"
     },
     "q_img": "q1_question_images/Je4A2200_q.png",
-    "a_img": "q1_answer_images/Je4A2200_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3392,7 +3193,6 @@ window.QUIZ_DATA = [
       "D": "不对称运行。"
     },
     "q_img": "q1_question_images/Je4A2201_q.png",
-    "a_img": "q1_answer_images/Je4A2201_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3409,7 +3209,6 @@ window.QUIZ_DATA = [
       "D": "不等于。"
     },
     "q_img": "q1_question_images/Je4A2202_q.png",
-    "a_img": "q1_answer_images/Je4A2202_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3426,7 +3225,6 @@ window.QUIZ_DATA = [
       "D": "二极管。"
     },
     "q_img": "q1_question_images/Je4A2203_q.png",
-    "a_img": "q1_answer_images/Je4A2203_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3443,7 +3241,6 @@ window.QUIZ_DATA = [
       "D": "全长的85%～95%。"
     },
     "q_img": "q1_question_images/Je4A2204_q.png",
-    "a_img": "q1_answer_images/Je4A2204_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3460,7 +3257,6 @@ window.QUIZ_DATA = [
       "D": "火电上网价格高，水电上网价格低 两者互补。"
     },
     "q_img": "q1_question_images/Je4A2205_q.png",
-    "a_img": "q1_answer_images/Je4A2205_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3477,7 +3273,6 @@ window.QUIZ_DATA = [
       "D": "湿毛巾。"
     },
     "q_img": "q1_question_images/Je4A2206_q.png",
-    "a_img": "q1_answer_images/Je4A2206_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3494,7 +3289,6 @@ window.QUIZ_DATA = [
       "D": "机 组效率。"
     },
     "q_img": "q1_question_images/Je4A2207_q.png",
-    "a_img": "q1_answer_images/Je4A2207_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3511,7 +3305,6 @@ window.QUIZ_DATA = [
       "D": "机组调差率ep。"
     },
     "q_img": "q1_question_images/Je4A2208_q.png",
-    "a_img": "q1_answer_images/Je4A2208_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3528,7 +3321,6 @@ window.QUIZ_DATA = [
       "D": "自动指示机构。"
     },
     "q_img": "q1_question_images/Je4A2209_q.png",
-    "a_img": "q1_answer_images/Je4A2209_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3545,7 +3337,6 @@ window.QUIZ_DATA = [
       "D": "所 33 有反馈。"
     },
     "q_img": "q1_question_images/Je4A3210_q.png",
-    "a_img": "q1_answer_images/Je4A3210_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3562,7 +3353,6 @@ window.QUIZ_DATA = [
       "D": "自动指示机构。"
     },
     "q_img": "q1_question_images/Je4A3211_q.png",
-    "a_img": "q1_answer_images/Je4A3211_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3579,7 +3369,6 @@ window.QUIZ_DATA = [
       "C": "限制开度"
     },
     "q_img": "q1_question_images/Je4A3212_q.png",
-    "a_img": "q1_answer_images/Je4A3212_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3596,7 +3385,6 @@ window.QUIZ_DATA = [
       "D": "逆变交流。"
     },
     "q_img": "q1_question_images/Je4A3213_q.png",
-    "a_img": "q1_answer_images/Je4A3213_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3613,7 +3401,6 @@ window.QUIZ_DATA = [
       "C": "调速 器静特性线"
     },
     "q_img": "q1_question_images/Je4A3214_q.png",
-    "a_img": "q1_answer_images/Je4A3214_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3630,7 +3417,6 @@ window.QUIZ_DATA = [
       "D": "增大调速器的永态转差 系数。"
     },
     "q_img": "q1_question_images/Je4A3215_q.png",
-    "a_img": "q1_answer_images/Je4A3215_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3647,7 +3433,6 @@ window.QUIZ_DATA = [
       "D": "放大系数K。"
     },
     "q_img": "q1_question_images/Je4A3216_q.png",
-    "a_img": "q1_answer_images/Je4A3216_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3664,7 +3449,6 @@ window.QUIZ_DATA = [
       "C": "调速器静 特性"
     },
     "q_img": "q1_question_images/Je4A3217_q.png",
-    "a_img": "q1_answer_images/Je4A3217_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3681,7 +3465,6 @@ window.QUIZ_DATA = [
       "D": "安 全接地。"
     },
     "q_img": "q1_question_images/Je4A3218_q.png",
-    "a_img": "q1_answer_images/Je4A3218_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3698,7 +3481,6 @@ window.QUIZ_DATA = [
       "D": "400V。"
     },
     "q_img": "q1_question_images/Je4A4219_q.png",
-    "a_img": "q1_answer_images/Je4A4219_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3715,7 +3497,6 @@ window.QUIZ_DATA = [
       "D": "2m。"
     },
     "q_img": "q1_question_images/Je4A4220_q.png",
-    "a_img": "q1_answer_images/Je4A4220_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3732,7 +3513,6 @@ window.QUIZ_DATA = [
       "C": "振动变大、电流增 大"
     },
     "q_img": "q1_question_images/Je4A4221_q.png",
-    "a_img": "q1_answer_images/Je4A4221_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3749,7 +3529,6 @@ window.QUIZ_DATA = [
       "D": "1%～5%。"
     },
     "q_img": "q1_question_images/Je4A5222_q.png",
-    "a_img": "q1_answer_images/Je4A5222_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3766,7 +3545,6 @@ window.QUIZ_DATA = [
       "D": "停止油泵运行，立即排油。"
     },
     "q_img": "q1_question_images/Je4A5223_q.png",
-    "a_img": "q1_answer_images/Je4A5223_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3783,7 +3561,6 @@ window.QUIZ_DATA = [
       "D": "不确 定。"
     },
     "q_img": "q1_question_images/Je3A2224_q.png",
-    "a_img": "q1_answer_images/Je3A2224_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3800,7 +3577,6 @@ window.QUIZ_DATA = [
       "D": "水轮机水导轴承冷却器。"
     },
     "q_img": "q1_question_images/Je3A2225_q.png",
-    "a_img": "q1_answer_images/Je3A2225_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3817,7 +3593,6 @@ window.QUIZ_DATA = [
       "D": "4 人。"
     },
     "q_img": "q1_question_images/Je3A2226_q.png",
-    "a_img": "q1_answer_images/Je3A2226_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3834,7 +3609,6 @@ window.QUIZ_DATA = [
       "C": "绕组"
     },
     "q_img": "q1_question_images/Je3A2227_q.png",
-    "a_img": "q1_answer_images/Je3A2227_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3851,7 +3625,6 @@ window.QUIZ_DATA = [
       "D": "90%。"
     },
     "q_img": "q1_question_images/Je3A2228_q.png",
-    "a_img": "q1_answer_images/Je3A2228_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3868,7 +3641,6 @@ window.QUIZ_DATA = [
       "D": "1/2。"
     },
     "q_img": "q1_question_images/Je3A2229_q.png",
-    "a_img": "q1_answer_images/Je3A2229_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3885,7 +3657,6 @@ window.QUIZ_DATA = [
       "D": "视在。"
     },
     "q_img": "q1_question_images/Je3A2230_q.png",
-    "a_img": "q1_answer_images/Je3A2230_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3902,7 +3673,6 @@ window.QUIZ_DATA = [
       "D": "等同于。"
     },
     "q_img": "q1_question_images/Je3A3231_q.png",
-    "a_img": "q1_answer_images/Je3A3231_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3919,7 +3689,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q1_question_images/Je3A3232_q.png",
-    "a_img": "q1_answer_images/Je3A3232_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3936,7 +3705,6 @@ window.QUIZ_DATA = [
       "D": "定子热变形。"
     },
     "q_img": "q1_question_images/Je3A3233_q.png",
-    "a_img": "q1_answer_images/Je3A3233_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3953,7 +3721,6 @@ window.QUIZ_DATA = [
       "C": "纵差保护"
     },
     "q_img": "q1_question_images/Je3A3234_q.png",
-    "a_img": "q1_answer_images/Je3A3234_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3970,7 +3737,6 @@ window.QUIZ_DATA = [
       "C": "不光滑度"
     },
     "q_img": "q1_question_images/Je3A3235_q.png",
-    "a_img": "q1_answer_images/Je3A3235_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -3987,7 +3753,6 @@ window.QUIZ_DATA = [
       "C": "取下、装上"
     },
     "q_img": "q1_question_images/Je3A3236_q.png",
-    "a_img": "q1_answer_images/Je3A3236_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4004,7 +3769,6 @@ window.QUIZ_DATA = [
       "D": "放置油品的油槽。"
     },
     "q_img": "q1_question_images/Je3A3237_q.png",
-    "a_img": "q1_answer_images/Je3A3237_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4021,7 +3785,6 @@ window.QUIZ_DATA = [
       "D": "不确定。"
     },
     "q_img": "q1_question_images/Je3A3238_q.png",
-    "a_img": "q1_answer_images/Je3A3238_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4038,7 +3801,6 @@ window.QUIZ_DATA = [
       "C": "线路侧"
     },
     "q_img": "q1_question_images/Je3A3239_q.png",
-    "a_img": "q1_answer_images/Je3A3239_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4055,7 +3817,6 @@ window.QUIZ_DATA = [
       "D": "随意。"
     },
     "q_img": "q1_question_images/Je3A3240_q.png",
-    "a_img": "q1_answer_images/Je3A3240_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4072,7 +3833,6 @@ window.QUIZ_DATA = [
       "D": "平方。"
     },
     "q_img": "q1_question_images/Je3A4241_q.png",
-    "a_img": "q1_answer_images/Je3A4241_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4089,7 +3849,6 @@ window.QUIZ_DATA = [
       "D": "轴向和径向。"
     },
     "q_img": "q1_question_images/Je3A4242_q.png",
-    "a_img": "q1_answer_images/Je3A4242_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4106,7 +3865,6 @@ window.QUIZ_DATA = [
       "D": "操作低电压。"
     },
     "q_img": "q1_question_images/Je3A4243_q.png",
-    "a_img": "q1_answer_images/Je3A4243_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4123,7 +3881,6 @@ window.QUIZ_DATA = [
       "C": "改时限"
     },
     "q_img": "q1_question_images/Je3A4244_q.png",
-    "a_img": "q1_answer_images/Je3A4244_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4140,7 +3897,6 @@ window.QUIZ_DATA = [
       "D": "不 确定。"
     },
     "q_img": "q1_question_images/Je3A4245_q.png",
-    "a_img": "q1_answer_images/Je3A4245_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -4157,7 +3913,6 @@ window.QUIZ_DATA = [
       "D": "弱。"
     },
     "q_img": "q1_question_images/Je3A5246_q.png",
-    "a_img": "q1_answer_images/Je3A5246_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4174,7 +3929,6 @@ window.QUIZ_DATA = [
       "D": "没关 系。"
     },
     "q_img": "q1_question_images/Je3A5247_q.png",
-    "a_img": "q1_answer_images/Je3A5247_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -4191,7 +3945,6 @@ window.QUIZ_DATA = [
       "D": "电 机线圈短路。"
     },
     "q_img": "q1_question_images/Je2A1248_q.png",
-    "a_img": "q1_answer_images/Je2A1248_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4208,7 +3961,6 @@ window.QUIZ_DATA = [
       "D": "其它档。"
     },
     "q_img": "q1_question_images/Je2A2249_q.png",
-    "a_img": "q1_answer_images/Je2A2249_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4225,7 +3977,6 @@ window.QUIZ_DATA = [
       "D": "水库承担下游防洪任务，在调节下游防护对象的防洪标准洪水 39 时，坝前达到的最高水位。"
     },
     "q_img": "q1_question_images/Je2A2250_q.png",
-    "a_img": "q1_answer_images/Je2A2250_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4242,7 +3993,6 @@ window.QUIZ_DATA = [
       "D": "调速器静特性试验。"
     },
     "q_img": "q1_question_images/Je2A2251_q.png",
-    "a_img": "q1_answer_images/Je2A2251_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4259,7 +4009,6 @@ window.QUIZ_DATA = [
       "C": "用软反馈"
     },
     "q_img": "q1_question_images/Je2A2252_q.png",
-    "a_img": "q1_answer_images/Je2A2252_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4276,7 +4025,6 @@ window.QUIZ_DATA = [
       "D": "负极性。"
     },
     "q_img": "q1_question_images/Je2A2253_q.png",
-    "a_img": "q1_answer_images/Je2A2253_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4293,7 +4041,6 @@ window.QUIZ_DATA = [
       "D": "R=XL+XC。"
     },
     "q_img": "q1_question_images/Je2A3254_q.png",
-    "a_img": "q1_answer_images/Je2A3254_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4310,7 +4057,6 @@ window.QUIZ_DATA = [
       "D": "电阻。"
     },
     "q_img": "q1_question_images/Je2A3255_q.png",
-    "a_img": "q1_answer_images/Je2A3255_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4327,7 +4073,6 @@ window.QUIZ_DATA = [
       "D": "低压或高压。"
     },
     "q_img": "q1_question_images/Je2A3256_q.png",
-    "a_img": "q1_answer_images/Je2A3256_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4344,7 +4089,6 @@ window.QUIZ_DATA = [
       "D": "低压或高压。"
     },
     "q_img": "q1_question_images/Je2A3257_q.png",
-    "a_img": "q1_answer_images/Je2A3257_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -4361,7 +4105,6 @@ window.QUIZ_DATA = [
       "D": "接地故 障点零序电压最低。"
     },
     "q_img": "q1_question_images/Je2A4258_q.png",
-    "a_img": "q1_answer_images/Je2A4258_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4378,7 +4121,6 @@ window.QUIZ_DATA = [
       "D": "bp，。"
     },
     "q_img": "q1_question_images/Je2A4259_q.png",
-    "a_img": "q1_answer_images/Je2A4259_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4395,7 +4137,6 @@ window.QUIZ_DATA = [
       "D": "不确定。"
     },
     "q_img": "q1_question_images/Je2A4260_q.png",
-    "a_img": "q1_answer_images/Je2A4260_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4412,7 +4153,6 @@ window.QUIZ_DATA = [
       "C": "动力相似"
     },
     "q_img": "q1_question_images/Je2A4261_q.png",
-    "a_img": "q1_answer_images/Je2A4261_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4429,7 +4169,6 @@ window.QUIZ_DATA = [
       "D": "开度最大。"
     },
     "q_img": "q1_question_images/Je2A4262_q.png",
-    "a_img": "q1_answer_images/Je2A4262_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4446,7 +4185,6 @@ window.QUIZ_DATA = [
       "C": "电压校正 器的调节"
     },
     "q_img": "q1_question_images/Je2A4263_q.png",
-    "a_img": "q1_answer_images/Je2A4263_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4463,7 +4201,6 @@ window.QUIZ_DATA = [
       "D": "41 水导轴承。"
     },
     "q_img": "q1_question_images/Je2A4264_q.png",
-    "a_img": "q1_answer_images/Je2A4264_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4480,7 +4217,6 @@ window.QUIZ_DATA = [
       "D": "连续动作。"
     },
     "q_img": "q1_question_images/Je2A4265_q.png",
-    "a_img": "q1_answer_images/Je2A4265_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4497,7 +4233,6 @@ window.QUIZ_DATA = [
       "D": "安全手续。"
     },
     "q_img": "q1_question_images/Je2A4266_q.png",
-    "a_img": "q1_answer_images/Je2A4266_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4514,7 +4249,6 @@ window.QUIZ_DATA = [
       "C": "检验变压器的绝缘强度"
     },
     "q_img": "q1_question_images/Je2A5267_q.png",
-    "a_img": "q1_answer_images/Je2A5267_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4531,7 +4265,6 @@ window.QUIZ_DATA = [
       "D": "5 圈。"
     },
     "q_img": "q1_question_images/Je2A5268_q.png",
-    "a_img": "q1_answer_images/Je2A5268_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4548,7 +4281,6 @@ window.QUIZ_DATA = [
       "D": "±4%。"
     },
     "q_img": "q1_question_images/Je2A5269_q.png",
-    "a_img": "q1_answer_images/Je2A5269_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4565,7 +4297,6 @@ window.QUIZ_DATA = [
       "D": "负荷最大。"
     },
     "q_img": "q1_question_images/Je1A1270_q.png",
-    "a_img": "q1_answer_images/Je1A1270_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4582,7 +4313,6 @@ window.QUIZ_DATA = [
       "D": "机 组所带负荷。"
     },
     "q_img": "q1_question_images/Je1A2271_q.png",
-    "a_img": "q1_answer_images/Je1A2271_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4599,7 +4329,6 @@ window.QUIZ_DATA = [
       "D": "励磁整流装置 和励磁控制回路异常。"
     },
     "q_img": "q1_question_images/Je1A2272_q.png",
-    "a_img": "q1_answer_images/Je1A2272_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4616,7 +4345,6 @@ window.QUIZ_DATA = [
       "D": "提 高强度。"
     },
     "q_img": "q1_question_images/Je1A2273_q.png",
-    "a_img": "q1_answer_images/Je1A2273_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4633,7 +4361,6 @@ window.QUIZ_DATA = [
       "D": "为了充水。"
     },
     "q_img": "q1_question_images/Je1A2274_q.png",
-    "a_img": "q1_answer_images/Je1A2274_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4650,7 +4377,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q1_question_images/Je1A2275_q.png",
-    "a_img": "q1_answer_images/Je1A2275_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4667,7 +4393,6 @@ window.QUIZ_DATA = [
       "D": "不一定。 43"
     },
     "q_img": "q1_question_images/Je1A2276_q.png",
-    "a_img": "q1_answer_images/Je1A2276_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4684,7 +4409,6 @@ window.QUIZ_DATA = [
       "D": "5 次谐波。"
     },
     "q_img": "q1_question_images/Je1A2277_q.png",
-    "a_img": "q1_answer_images/Je1A2277_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4701,7 +4425,6 @@ window.QUIZ_DATA = [
       "D": "SF6 设备绝缘件。"
     },
     "q_img": "q1_question_images/Je1A2278_q.png",
-    "a_img": "q1_answer_images/Je1A2278_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4718,7 +4441,6 @@ window.QUIZ_DATA = [
       "C": "装设接地线"
     },
     "q_img": "q1_question_images/Je1A3279_q.png",
-    "a_img": "q1_answer_images/Je1A3279_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4735,7 +4457,6 @@ window.QUIZ_DATA = [
       "C": "电感影响"
     },
     "q_img": "q1_question_images/Je1A3280_q.png",
-    "a_img": "q1_answer_images/Je1A3280_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4752,7 +4473,6 @@ window.QUIZ_DATA = [
       "D": "减小备运容量。"
     },
     "q_img": "q1_question_images/Je1A3281_q.png",
-    "a_img": "q1_answer_images/Je1A3281_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4769,7 +4489,6 @@ window.QUIZ_DATA = [
       "D": "领导。"
     },
     "q_img": "q1_question_images/Je1A4282_q.png",
-    "a_img": "q1_answer_images/Je1A4282_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4786,7 +4505,6 @@ window.QUIZ_DATA = [
       "D": "酸值。"
     },
     "q_img": "q1_question_images/Je1A4283_q.png",
-    "a_img": "q1_answer_images/Je1A4283_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4803,7 +4521,6 @@ window.QUIZ_DATA = [
       "C": "局部汽蚀"
     },
     "q_img": "q1_question_images/Je1A4284_q.png",
-    "a_img": "q1_answer_images/Je1A4284_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4820,7 +4537,6 @@ window.QUIZ_DATA = [
       "D": "173V"
     },
     "q_img": "q1_question_images/Je1A5285_q.png",
-    "a_img": "q1_answer_images/Je1A5285_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4837,7 +4553,6 @@ window.QUIZ_DATA = [
       "D": "赭、黄。"
     },
     "q_img": "q1_question_images/Je1A5286_q.png",
-    "a_img": "q1_answer_images/Je1A5286_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4854,7 +4569,6 @@ window.QUIZ_DATA = [
       "D": "吹 气力度不够。"
     },
     "q_img": "q1_question_images/Je1A5287_q.png",
-    "a_img": "q1_answer_images/Je1A5287_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4871,7 +4585,6 @@ window.QUIZ_DATA = [
       "D": "0.35A/mm2。"
     },
     "q_img": "q1_question_images/Je1A5288_q.png",
-    "a_img": "q1_answer_images/Je1A5288_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4888,7 +4601,6 @@ window.QUIZ_DATA = [
       "D": "对蓄电池组进行浮 充电。"
     },
     "q_img": "q1_question_images/Jf5A1289_q.png",
-    "a_img": "q1_answer_images/Jf5A1289_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4905,7 +4617,6 @@ window.QUIZ_DATA = [
       "D": "水银。"
     },
     "q_img": "q1_question_images/Jf5A1290_q.png",
-    "a_img": "q1_answer_images/Jf5A1290_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4922,7 +4633,6 @@ window.QUIZ_DATA = [
       "D": "不允许接地。"
     },
     "q_img": "q1_question_images/Jf5A2291_q.png",
-    "a_img": "q1_answer_images/Jf5A2291_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4939,7 +4649,6 @@ window.QUIZ_DATA = [
       "D": "不能 确定。"
     },
     "q_img": "q1_question_images/Jf5A3292_q.png",
-    "a_img": "q1_answer_images/Jf5A3292_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -4956,7 +4665,6 @@ window.QUIZ_DATA = [
       "D": "手臂。"
     },
     "q_img": "q1_question_images/Jf5A3293_q.png",
-    "a_img": "q1_answer_images/Jf5A3293_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -4973,7 +4681,6 @@ window.QUIZ_DATA = [
       "D": "3。"
     },
     "q_img": "q1_question_images/Jf5A4294_q.png",
-    "a_img": "q1_answer_images/Jf5A4294_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -4990,7 +4697,6 @@ window.QUIZ_DATA = [
       "D": "垂直方向成45 度角接触于。"
     },
     "q_img": "q1_question_images/Jf5A4295_q.png",
-    "a_img": "q1_answer_images/Jf5A4295_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5007,7 +4713,6 @@ window.QUIZ_DATA = [
       "D": "深度。"
     },
     "q_img": "q1_question_images/Jf5A5296_q.png",
-    "a_img": "q1_answer_images/Jf5A5296_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5024,7 +4729,6 @@ window.QUIZ_DATA = [
       "D": "辅助发电机。"
     },
     "q_img": "q1_question_images/Jf4A1297_q.png",
-    "a_img": "q1_answer_images/Jf4A1297_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5041,7 +4745,6 @@ window.QUIZ_DATA = [
       "C": "方向相同， 速度不同"
     },
     "q_img": "q1_question_images/Jf4A1298_q.png",
-    "a_img": "q1_answer_images/Jf4A1298_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5058,7 +4761,6 @@ window.QUIZ_DATA = [
       "D": "轴流定桨。"
     },
     "q_img": "q1_question_images/Jf4A2299_q.png",
-    "a_img": "q1_answer_images/Jf4A2299_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5075,7 +4777,6 @@ window.QUIZ_DATA = [
       "D": "缩小贮气罐的体积。"
     },
     "q_img": "q1_question_images/Jf4A2300_q.png",
-    "a_img": "q1_answer_images/Jf4A2300_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5092,7 +4793,6 @@ window.QUIZ_DATA = [
       "D": "可手动合闸。"
     },
     "q_img": "q1_question_images/Jf4A3301_q.png",
-    "a_img": "q1_answer_images/Jf4A3301_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5109,7 +4809,6 @@ window.QUIZ_DATA = [
       "D": "电流。"
     },
     "q_img": "q1_question_images/Jf4A3302_q.png",
-    "a_img": "q1_answer_images/Jf4A3302_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5126,7 +4825,6 @@ window.QUIZ_DATA = [
       "D": "挠度。"
     },
     "q_img": "q1_question_images/Jf4A5303_q.png",
-    "a_img": "q1_answer_images/Jf4A5303_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5143,7 +4841,6 @@ window.QUIZ_DATA = [
       "D": "48。 47"
     },
     "q_img": "q1_question_images/Jf4A5304_q.png",
-    "a_img": "q1_answer_images/Jf4A5304_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5160,7 +4857,6 @@ window.QUIZ_DATA = [
       "D": "两 相差接。"
     },
     "q_img": "q1_question_images/Jf4A5305_q.png",
-    "a_img": "q1_answer_images/Jf4A5305_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5177,7 +4873,6 @@ window.QUIZ_DATA = [
       "D": "先请示，后执行。"
     },
     "q_img": "q1_question_images/Jf3A1306_q.png",
-    "a_img": "q1_answer_images/Jf3A1306_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5194,7 +4889,6 @@ window.QUIZ_DATA = [
       "C": "5"
     },
     "q_img": "q1_question_images/Jf3A2307_q.png",
-    "a_img": "q1_answer_images/Jf3A2307_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -5211,7 +4905,6 @@ window.QUIZ_DATA = [
       "D": "安全措施。"
     },
     "q_img": "q1_question_images/Jf3A2308_q.png",
-    "a_img": "q1_answer_images/Jf3A2308_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5228,7 +4921,6 @@ window.QUIZ_DATA = [
       "D": "短 路电流。"
     },
     "q_img": "q1_question_images/Jf3A3309_q.png",
-    "a_img": "q1_answer_images/Jf3A3309_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5245,7 +4937,6 @@ window.QUIZ_DATA = [
       "C": "使用铜制工具，以避免引起火灾"
     },
     "q_img": "q1_question_images/Jf3A3310_q.png",
-    "a_img": "q1_answer_images/Jf3A3310_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5262,7 +4953,6 @@ window.QUIZ_DATA = [
       "D": "立、卧。"
     },
     "q_img": "q1_question_images/Jf3A4311_q.png",
-    "a_img": "q1_answer_images/Jf3A4311_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -5279,7 +4969,6 @@ window.QUIZ_DATA = [
       "D": "空载 小时。"
     },
     "q_img": "q1_question_images/Jf3A4312_q.png",
-    "a_img": "q1_answer_images/Jf3A4312_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5296,7 +4985,6 @@ window.QUIZ_DATA = [
       "D": "允许机组在低转速下继续运转。"
     },
     "q_img": "q1_question_images/Jf3A4313_q.png",
-    "a_img": "q1_answer_images/Jf3A4313_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5313,7 +5001,6 @@ window.QUIZ_DATA = [
       "D": "120°。"
     },
     "q_img": "q1_question_images/Jf3A5314_q.png",
-    "a_img": "q1_answer_images/Jf3A5314_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5330,7 +5017,6 @@ window.QUIZ_DATA = [
       "D": "18～20。"
     },
     "q_img": "q1_question_images/Jf2A2315_q.png",
-    "a_img": "q1_answer_images/Jf2A2315_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5347,7 +5033,6 @@ window.QUIZ_DATA = [
       "C": "电缆"
     },
     "q_img": "q1_question_images/Jf2A3316_q.png",
-    "a_img": "q1_answer_images/Jf2A3316_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5364,7 +5049,6 @@ window.QUIZ_DATA = [
       "D": "3min。"
     },
     "q_img": "q1_question_images/Jf2A4317_q.png",
-    "a_img": "q1_answer_images/Jf2A4317_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5381,7 +5065,6 @@ window.QUIZ_DATA = [
       "C": "在已停电的 高压设备上作业者"
     },
     "q_img": "q1_question_images/Jf2A5318_q.png",
-    "a_img": "q1_answer_images/Jf2A5318_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5398,7 +5081,6 @@ window.QUIZ_DATA = [
       "D": "向心。"
     },
     "q_img": "q1_question_images/Jf2A5319_q.png",
-    "a_img": "q1_answer_images/Jf2A5319_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5415,7 +5097,6 @@ window.QUIZ_DATA = [
       "D": "所有。"
     },
     "q_img": "q1_question_images/Jf1A4320_q.png",
-    "a_img": "q1_answer_images/Jf1A4320_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5432,7 +5113,6 @@ window.QUIZ_DATA = [
       "D": "重特大。"
     },
     "q_img": "q1_question_images/Jf1A4321_q.png",
-    "a_img": "q1_answer_images/Jf1A4321_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5449,7 +5129,6 @@ window.QUIZ_DATA = [
       "D": "进 入空气。"
     },
     "q_img": "q1_question_images/Jf1A4322_q.png",
-    "a_img": "q1_answer_images/Jf1A4322_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5466,7 +5145,6 @@ window.QUIZ_DATA = [
       "C": "漏油"
     },
     "q_img": "q1_question_images/Jf1A5323_q.png",
-    "a_img": "q1_answer_images/Jf1A5323_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5483,7 +5161,6 @@ window.QUIZ_DATA = [
       "D": "4。"
     },
     "q_img": "q1_question_images/Jf1A5324_q.png",
-    "a_img": "q1_answer_images/Jf1A5324_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -5500,7 +5177,6 @@ window.QUIZ_DATA = [
       "C": "过流量 和转速"
     },
     "q_img": "q1_question_images/Jf1A5325_q.png",
-    "a_img": "q1_answer_images/Jf1A5325_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -5515,7 +5191,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B1001_q.png",
-    "a_img": "q1_answer_images/La5B1001_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5530,7 +5205,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B1002_q.png",
-    "a_img": "q1_answer_images/La5B1002_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5545,7 +5219,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B1003_q.png",
-    "a_img": "q1_answer_images/La5B1003_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5560,7 +5233,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B1004_q.png",
-    "a_img": "q1_answer_images/La5B1004_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5575,7 +5247,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B2005_q.png",
-    "a_img": "q1_answer_images/La5B2005_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5590,7 +5261,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B2006_q.png",
-    "a_img": "q1_answer_images/La5B2006_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5605,7 +5275,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B2007_q.png",
-    "a_img": "q1_answer_images/La5B2007_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5620,7 +5289,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B2008_q.png",
-    "a_img": "q1_answer_images/La5B2008_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5635,7 +5303,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B3009_q.png",
-    "a_img": "q1_answer_images/La5B3009_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5650,7 +5317,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B3010_q.png",
-    "a_img": "q1_answer_images/La5B3010_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5665,7 +5331,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B4011_q.png",
-    "a_img": "q1_answer_images/La5B4011_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5680,7 +5345,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La5B5012_q.png",
-    "a_img": "q1_answer_images/La5B5012_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5695,7 +5359,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B1013_q.png",
-    "a_img": "q1_answer_images/La4B1013_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5710,7 +5373,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B1014_q.png",
-    "a_img": "q1_answer_images/La4B1014_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5725,7 +5387,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B1015_q.png",
-    "a_img": "q1_answer_images/La4B1015_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5740,7 +5401,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B2016_q.png",
-    "a_img": "q1_answer_images/La4B2016_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5755,7 +5415,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B2017_q.png",
-    "a_img": "q1_answer_images/La4B2017_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5770,7 +5429,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B2018_q.png",
-    "a_img": "q1_answer_images/La4B2018_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5785,7 +5443,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B2019_q.png",
-    "a_img": "q1_answer_images/La4B2019_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5800,7 +5457,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B3020_q.png",
-    "a_img": "q1_answer_images/La4B3020_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5815,7 +5471,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B4021_q.png",
-    "a_img": "q1_answer_images/La4B4021_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5830,7 +5485,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La4B5022_q.png",
-    "a_img": "q1_answer_images/La4B5022_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5845,7 +5499,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La3B2023_q.png",
-    "a_img": "q1_answer_images/La3B2023_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5860,7 +5513,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La3B2024_q.png",
-    "a_img": "q1_answer_images/La3B2024_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5875,7 +5527,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La3B3025_q.png",
-    "a_img": "q1_answer_images/La3B3025_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5890,7 +5541,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La3B3026_q.png",
-    "a_img": "q1_answer_images/La3B3026_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5905,7 +5555,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La3B3027_q.png",
-    "a_img": "q1_answer_images/La3B3027_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5920,7 +5569,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La2B3028_q.png",
-    "a_img": "q1_answer_images/La2B3028_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5935,7 +5583,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La1B2029_q.png",
-    "a_img": "q1_answer_images/La1B2029_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5950,7 +5597,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La1B2030_q.png",
-    "a_img": "q1_answer_images/La1B2030_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5965,7 +5611,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/La1B3031_q.png",
-    "a_img": "q1_answer_images/La1B3031_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -5980,7 +5625,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1032_q.png",
-    "a_img": "q1_answer_images/Lb5B1032_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -5995,7 +5639,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1033_q.png",
-    "a_img": "q1_answer_images/Lb5B1033_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6010,7 +5653,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1034_q.png",
-    "a_img": "q1_answer_images/Lb5B1034_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6025,7 +5667,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1035_q.png",
-    "a_img": "q1_answer_images/Lb5B1035_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6040,7 +5681,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1036_q.png",
-    "a_img": "q1_answer_images/Lb5B1036_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6055,7 +5695,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1037_q.png",
-    "a_img": "q1_answer_images/Lb5B1037_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6070,7 +5709,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1038_q.png",
-    "a_img": "q1_answer_images/Lb5B1038_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6085,7 +5723,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1039_q.png",
-    "a_img": "q1_answer_images/Lb5B1039_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6100,7 +5737,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B1040_q.png",
-    "a_img": "q1_answer_images/Lb5B1040_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6115,7 +5751,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B2041_q.png",
-    "a_img": "q1_answer_images/Lb5B2041_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6130,7 +5765,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B2042_q.png",
-    "a_img": "q1_answer_images/Lb5B2042_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6145,7 +5779,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B2043_q.png",
-    "a_img": "q1_answer_images/Lb5B2043_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6160,7 +5793,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B2044_q.png",
-    "a_img": "q1_answer_images/Lb5B2044_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6175,7 +5807,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B2045_q.png",
-    "a_img": "q1_answer_images/Lb5B2045_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6190,7 +5821,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B2046_q.png",
-    "a_img": "q1_answer_images/Lb5B2046_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6205,7 +5835,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B2047_q.png",
-    "a_img": "q1_answer_images/Lb5B2047_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6220,7 +5849,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B3048_q.png",
-    "a_img": "q1_answer_images/Lb5B3048_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6235,7 +5863,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B3049_q.png",
-    "a_img": "q1_answer_images/Lb5B3049_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6250,7 +5877,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B3050_q.png",
-    "a_img": "q1_answer_images/Lb5B3050_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6265,7 +5891,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb5B5051_q.png",
-    "a_img": "q1_answer_images/Lb5B5051_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6280,7 +5905,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B1052_q.png",
-    "a_img": "q1_answer_images/Lb4B1052_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6295,7 +5919,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B1053_q.png",
-    "a_img": "q1_answer_images/Lb4B1053_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6310,7 +5933,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B1054_q.png",
-    "a_img": "q1_answer_images/Lb4B1054_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6325,7 +5947,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B1055_q.png",
-    "a_img": "q1_answer_images/Lb4B1055_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6340,7 +5961,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B1056_q.png",
-    "a_img": "q1_answer_images/Lb4B1056_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6355,7 +5975,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2057_q.png",
-    "a_img": "q1_answer_images/Lb4B2057_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6370,7 +5989,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2058_q.png",
-    "a_img": "q1_answer_images/Lb4B2058_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6385,7 +6003,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2059_q.png",
-    "a_img": "q1_answer_images/Lb4B2059_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6400,7 +6017,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2060_q.png",
-    "a_img": "q1_answer_images/Lb4B2060_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6415,7 +6031,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2061_q.png",
-    "a_img": "q1_answer_images/Lb4B2061_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6430,7 +6045,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2062_q.png",
-    "a_img": "q1_answer_images/Lb4B2062_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6445,7 +6059,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2063_q.png",
-    "a_img": "q1_answer_images/Lb4B2063_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6460,7 +6073,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2064_q.png",
-    "a_img": "q1_answer_images/Lb4B2064_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6475,7 +6087,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B2065_q.png",
-    "a_img": "q1_answer_images/Lb4B2065_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6490,7 +6101,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B3066_q.png",
-    "a_img": "q1_answer_images/Lb4B3066_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6505,7 +6115,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B3067_q.png",
-    "a_img": "q1_answer_images/Lb4B3067_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6520,7 +6129,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B3068_q.png",
-    "a_img": "q1_answer_images/Lb4B3068_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6535,7 +6143,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B3069_q.png",
-    "a_img": "q1_answer_images/Lb4B3069_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6550,7 +6157,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B3070_q.png",
-    "a_img": "q1_answer_images/Lb4B3070_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6565,7 +6171,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B3071_q.png",
-    "a_img": "q1_answer_images/Lb4B3071_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6580,7 +6185,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B4072_q.png",
-    "a_img": "q1_answer_images/Lb4B4072_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6595,7 +6199,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb4B5073_q.png",
-    "a_img": "q1_answer_images/Lb4B5073_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6610,7 +6213,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B2074_q.png",
-    "a_img": "q1_answer_images/Lb3B2074_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6625,7 +6227,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B2075_q.png",
-    "a_img": "q1_answer_images/Lb3B2075_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6640,7 +6241,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B2076_q.png",
-    "a_img": "q1_answer_images/Lb3B2076_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6655,7 +6255,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B3077_q.png",
-    "a_img": "q1_answer_images/Lb3B3077_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6670,7 +6269,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B3078_q.png",
-    "a_img": "q1_answer_images/Lb3B3078_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6685,7 +6283,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B3079_q.png",
-    "a_img": "q1_answer_images/Lb3B3079_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6700,7 +6297,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B4080_q.png",
-    "a_img": "q1_answer_images/Lb3B4080_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6715,7 +6311,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B4081_q.png",
-    "a_img": "q1_answer_images/Lb3B4081_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6730,7 +6325,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B4082_q.png",
-    "a_img": "q1_answer_images/Lb3B4082_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6745,7 +6339,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B4083_q.png",
-    "a_img": "q1_answer_images/Lb3B4083_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6760,7 +6353,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb3B5084_q.png",
-    "a_img": "q1_answer_images/Lb3B5084_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6775,7 +6367,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B1085_q.png",
-    "a_img": "q1_answer_images/Lb2B1085_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6790,7 +6381,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B1086_q.png",
-    "a_img": "q1_answer_images/Lb2B1086_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6805,7 +6395,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B2087_q.png",
-    "a_img": "q1_answer_images/Lb2B2087_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6820,7 +6409,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B2088_q.png",
-    "a_img": "q1_answer_images/Lb2B2088_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6835,7 +6423,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B2089_q.png",
-    "a_img": "q1_answer_images/Lb2B2089_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6850,7 +6437,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B2090_q.png",
-    "a_img": "q1_answer_images/Lb2B2090_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6865,7 +6451,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B3091_q.png",
-    "a_img": "q1_answer_images/Lb2B3091_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6880,7 +6465,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B3092_q.png",
-    "a_img": "q1_answer_images/Lb2B3092_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6895,7 +6479,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B3093_q.png",
-    "a_img": "q1_answer_images/Lb2B3093_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -6910,7 +6493,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B3094_q.png",
-    "a_img": "q1_answer_images/Lb2B3094_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6925,7 +6507,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B3095_q.png",
-    "a_img": "q1_answer_images/Lb2B3095_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6940,7 +6521,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B4096_q.png",
-    "a_img": "q1_answer_images/Lb2B4096_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6955,7 +6535,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B4098_q.png",
-    "a_img": "q1_answer_images/Lb2B4098_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6970,7 +6549,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B4099_q.png",
-    "a_img": "q1_answer_images/Lb2B4099_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -6985,7 +6563,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B5100_q.png",
-    "a_img": "q1_answer_images/Lb2B5100_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7000,7 +6577,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb2B5101_q.png",
-    "a_img": "q1_answer_images/Lb2B5101_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7015,7 +6591,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B1102_q.png",
-    "a_img": "q1_answer_images/Lb1B1102_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7030,7 +6605,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B2103_q.png",
-    "a_img": "q1_answer_images/Lb1B2103_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7045,7 +6619,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B2104_q.png",
-    "a_img": "q1_answer_images/Lb1B2104_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7060,7 +6633,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B2105_q.png",
-    "a_img": "q1_answer_images/Lb1B2105_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7075,7 +6647,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B2106_q.png",
-    "a_img": "q1_answer_images/Lb1B2106_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7090,7 +6661,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B2107_q.png",
-    "a_img": "q1_answer_images/Lb1B2107_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7105,7 +6675,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B3108_q.png",
-    "a_img": "q1_answer_images/Lb1B3108_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7120,7 +6689,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B3109_q.png",
-    "a_img": "q1_answer_images/Lb1B3109_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7135,7 +6703,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B3110_q.png",
-    "a_img": "q1_answer_images/Lb1B3110_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7150,7 +6717,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B3111_q.png",
-    "a_img": "q1_answer_images/Lb1B3111_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7165,7 +6731,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B3112_q.png",
-    "a_img": "q1_answer_images/Lb1B3112_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7180,7 +6745,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B4113_q.png",
-    "a_img": "q1_answer_images/Lb1B4113_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7195,7 +6759,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B4114_q.png",
-    "a_img": "q1_answer_images/Lb1B4114_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7210,7 +6773,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B4115_q.png",
-    "a_img": "q1_answer_images/Lb1B4115_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7225,7 +6787,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B4116_q.png",
-    "a_img": "q1_answer_images/Lb1B4116_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7240,7 +6801,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B5117_q.png",
-    "a_img": "q1_answer_images/Lb1B5117_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7255,7 +6815,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lb1B5118_q.png",
-    "a_img": "q1_answer_images/Lb1B5118_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7270,7 +6829,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc5B2119_q.png",
-    "a_img": "q1_answer_images/Lc5B2119_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7285,7 +6843,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc5B3120_q.png",
-    "a_img": "q1_answer_images/Lc5B3120_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7300,7 +6857,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc5B4121_q.png",
-    "a_img": "q1_answer_images/Lc5B4121_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7315,7 +6871,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc5B1122_q.png",
-    "a_img": "q1_answer_images/Lc5B1122_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7330,7 +6885,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc4B1123_q.png",
-    "a_img": "q1_answer_images/Lc4B1123_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7345,7 +6899,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc4B2124_q.png",
-    "a_img": "q1_answer_images/Lc4B2124_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7360,7 +6913,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc4B2125_q.png",
-    "a_img": "q1_answer_images/Lc4B2125_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7375,7 +6927,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc4B2126_q.png",
-    "a_img": "q1_answer_images/Lc4B2126_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7390,7 +6941,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc4B3127_q.png",
-    "a_img": "q1_answer_images/Lc4B3127_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7405,7 +6955,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc4B4128_q.png",
-    "a_img": "q1_answer_images/Lc4B4128_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7420,7 +6969,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc3B2129_q.png",
-    "a_img": "q1_answer_images/Lc3B2129_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7435,7 +6983,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc3B3130_q.png",
-    "a_img": "q1_answer_images/Lc3B3130_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7450,7 +6997,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc3B4131_q.png",
-    "a_img": "q1_answer_images/Lc3B4131_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7465,7 +7011,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc3B4132_q.png",
-    "a_img": "q1_answer_images/Lc3B4132_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7480,7 +7025,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc2B3133_q.png",
-    "a_img": "q1_answer_images/Lc2B3133_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7495,7 +7039,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc2B3134_q.png",
-    "a_img": "q1_answer_images/Lc2B3134_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7510,7 +7053,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc2B3135_q.png",
-    "a_img": "q1_answer_images/Lc2B3135_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7525,7 +7067,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc2B4136_q.png",
-    "a_img": "q1_answer_images/Lc2B4136_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7540,7 +7081,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc2B4137_q.png",
-    "a_img": "q1_answer_images/Lc2B4137_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7555,7 +7095,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc2B5138_q.png",
-    "a_img": "q1_answer_images/Lc2B5138_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7570,7 +7109,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc1B2139_q.png",
-    "a_img": "q1_answer_images/Lc1B2139_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7585,7 +7123,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc1B2140_q.png",
-    "a_img": "q1_answer_images/Lc1B2140_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7600,7 +7137,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc1B3141_q.png",
-    "a_img": "q1_answer_images/Lc1B3141_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7615,7 +7151,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc1B3142_q.png",
-    "a_img": "q1_answer_images/Lc1B3142_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7630,7 +7165,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc1B4143_q.png",
-    "a_img": "q1_answer_images/Lc1B4143_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7645,7 +7179,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Lc1B4144_q.png",
-    "a_img": "q1_answer_images/Lc1B4144_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7660,7 +7193,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B1145_q.png",
-    "a_img": "q1_answer_images/Jd5B1145_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7675,7 +7207,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B1146_q.png",
-    "a_img": "q1_answer_images/Jd5B1146_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7690,7 +7221,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B1147_q.png",
-    "a_img": "q1_answer_images/Jd5B1147_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7705,7 +7235,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B1148_q.png",
-    "a_img": "q1_answer_images/Jd5B1148_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7720,7 +7249,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B2149_q.png",
-    "a_img": "q1_answer_images/Jd5B2149_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7735,7 +7263,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B2150_q.png",
-    "a_img": "q1_answer_images/Jd5B2150_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7750,7 +7277,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B2151_q.png",
-    "a_img": "q1_answer_images/Jd5B2151_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7765,7 +7291,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B3152_q.png",
-    "a_img": "q1_answer_images/Jd5B3152_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7780,7 +7305,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B3153_q.png",
-    "a_img": "q1_answer_images/Jd5B3153_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7795,7 +7319,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B3154_q.png",
-    "a_img": "q1_answer_images/Jd5B3154_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7810,7 +7333,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd5B5155_q.png",
-    "a_img": "q1_answer_images/Jd5B5155_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7825,7 +7347,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B1156_q.png",
-    "a_img": "q1_answer_images/Jd4B1156_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7840,7 +7361,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B1157_q.png",
-    "a_img": "q1_answer_images/Jd4B1157_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7855,7 +7375,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B2158_q.png",
-    "a_img": "q1_answer_images/Jd4B2158_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7870,7 +7389,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B2159_q.png",
-    "a_img": "q1_answer_images/Jd4B2159_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7885,7 +7403,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B2160_q.png",
-    "a_img": "q1_answer_images/Jd4B2160_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7900,7 +7417,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B3161_q.png",
-    "a_img": "q1_answer_images/Jd4B3161_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7915,7 +7431,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B3162_q.png",
-    "a_img": "q1_answer_images/Jd4B3162_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7930,7 +7445,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B4163_q.png",
-    "a_img": "q1_answer_images/Jd4B4163_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7945,7 +7459,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd4B4164_q.png",
-    "a_img": "q1_answer_images/Jd4B4164_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7960,7 +7473,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd3B3165_q.png",
-    "a_img": "q1_answer_images/Jd3B3165_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -7975,7 +7487,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd3B3166_q.png",
-    "a_img": "q1_answer_images/Jd3B3166_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -7990,7 +7501,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd3B3167_q.png",
-    "a_img": "q1_answer_images/Jd3B3167_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8005,7 +7515,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd3B3168_q.png",
-    "a_img": "q1_answer_images/Jd3B3168_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8020,7 +7529,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd3B4169_q.png",
-    "a_img": "q1_answer_images/Jd3B4169_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8035,7 +7543,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd3B4170_q.png",
-    "a_img": "q1_answer_images/Jd3B4170_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8050,7 +7557,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd3B4171_q.png",
-    "a_img": "q1_answer_images/Jd3B4171_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8065,7 +7571,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd2B2172_q.png",
-    "a_img": "q1_answer_images/Jd2B2172_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8080,7 +7585,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd2B2173_q.png",
-    "a_img": "q1_answer_images/Jd2B2173_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8095,7 +7599,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd2B3174_q.png",
-    "a_img": "q1_answer_images/Jd2B3174_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8110,7 +7613,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd2B3175_q.png",
-    "a_img": "q1_answer_images/Jd2B3175_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8125,7 +7627,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd1B2176_q.png",
-    "a_img": "q1_answer_images/Jd1B2176_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8140,7 +7641,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd1B3177_q.png",
-    "a_img": "q1_answer_images/Jd1B3177_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8155,7 +7655,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jd1B3178_q.png",
-    "a_img": "q1_answer_images/Jd1B3178_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8170,7 +7669,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B1179_q.png",
-    "a_img": "q1_answer_images/Je5B1179_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8185,7 +7683,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B1180_q.png",
-    "a_img": "q1_answer_images/Je5B1180_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8200,7 +7697,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B1181_q.png",
-    "a_img": "q1_answer_images/Je5B1181_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8215,7 +7711,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B1182_q.png",
-    "a_img": "q1_answer_images/Je5B1182_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8230,7 +7725,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B1183_q.png",
-    "a_img": "q1_answer_images/Je5B1183_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8245,7 +7739,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B1184_q.png",
-    "a_img": "q1_answer_images/Je5B1184_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8260,7 +7753,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B1185_q.png",
-    "a_img": "q1_answer_images/Je5B1185_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8275,7 +7767,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B1186_q.png",
-    "a_img": "q1_answer_images/Je5B1186_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8290,7 +7781,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B2187_q.png",
-    "a_img": "q1_answer_images/Je5B2187_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8305,7 +7795,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B2188_q.png",
-    "a_img": "q1_answer_images/Je5B2188_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8320,7 +7809,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B2189_q.png",
-    "a_img": "q1_answer_images/Je5B2189_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8335,7 +7823,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B2190_q.png",
-    "a_img": "q1_answer_images/Je5B2190_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8350,7 +7837,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B2191_q.png",
-    "a_img": "q1_answer_images/Je5B2191_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8365,7 +7851,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B2192_q.png",
-    "a_img": "q1_answer_images/Je5B2192_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8380,7 +7865,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B2193_q.png",
-    "a_img": "q1_answer_images/Je5B2193_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8395,7 +7879,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B2194_q.png",
-    "a_img": "q1_answer_images/Je5B2194_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8410,7 +7893,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B3195_q.png",
-    "a_img": "q1_answer_images/Je5B3195_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8425,7 +7907,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B3196_q.png",
-    "a_img": "q1_answer_images/Je5B3196_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8440,7 +7921,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B3197_q.png",
-    "a_img": "q1_answer_images/Je5B3197_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8455,7 +7935,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B3198_q.png",
-    "a_img": "q1_answer_images/Je5B3198_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8470,7 +7949,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B4199_q.png",
-    "a_img": "q1_answer_images/Je5B4199_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8485,7 +7963,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B4200_q.png",
-    "a_img": "q1_answer_images/Je5B4200_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8500,7 +7977,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je5B5201_q.png",
-    "a_img": "q1_answer_images/Je5B5201_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8515,7 +7991,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B1202_q.png",
-    "a_img": "q1_answer_images/Je4B1202_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8530,7 +8005,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B1203_q.png",
-    "a_img": "q1_answer_images/Je4B1203_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8545,7 +8019,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B1204_q.png",
-    "a_img": "q1_answer_images/Je4B1204_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8560,7 +8033,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B1205_q.png",
-    "a_img": "q1_answer_images/Je4B1205_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8575,7 +8047,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B1206_q.png",
-    "a_img": "q1_answer_images/Je4B1206_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8590,7 +8061,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2207_q.png",
-    "a_img": "q1_answer_images/Je4B2207_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8605,7 +8075,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2208_q.png",
-    "a_img": "q1_answer_images/Je4B2208_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8620,7 +8089,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2209_q.png",
-    "a_img": "q1_answer_images/Je4B2209_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8635,7 +8103,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2210_q.png",
-    "a_img": "q1_answer_images/Je4B2210_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8650,7 +8117,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2211_q.png",
-    "a_img": "q1_answer_images/Je4B2211_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8665,7 +8131,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2212_q.png",
-    "a_img": "q1_answer_images/Je4B2212_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8680,7 +8145,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2213_q.png",
-    "a_img": "q1_answer_images/Je4B2213_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8695,7 +8159,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2214_q.png",
-    "a_img": "q1_answer_images/Je4B2214_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8710,7 +8173,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2215_q.png",
-    "a_img": "q1_answer_images/Je4B2215_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8725,7 +8187,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2216_q.png",
-    "a_img": "q1_answer_images/Je4B2216_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8740,7 +8201,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2217_q.png",
-    "a_img": "q1_answer_images/Je4B2217_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8755,7 +8215,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B2218_q.png",
-    "a_img": "q1_answer_images/Je4B2218_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8770,7 +8229,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B3219_q.png",
-    "a_img": "q1_answer_images/Je4B3219_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8785,7 +8243,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B3220_q.png",
-    "a_img": "q1_answer_images/Je4B3220_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8800,7 +8257,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B3221_q.png",
-    "a_img": "q1_answer_images/Je4B3221_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8815,7 +8271,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B3222_q.png",
-    "a_img": "q1_answer_images/Je4B3222_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8830,7 +8285,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B3223_q.png",
-    "a_img": "q1_answer_images/Je4B3223_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8845,7 +8299,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B4224_q.png",
-    "a_img": "q1_answer_images/Je4B4224_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8860,7 +8313,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je4B5225_q.png",
-    "a_img": "q1_answer_images/Je4B5225_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8875,7 +8327,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B2226_q.png",
-    "a_img": "q1_answer_images/Je3B2226_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8890,7 +8341,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B2227_q.png",
-    "a_img": "q1_answer_images/Je3B2227_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8905,7 +8355,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B2228_q.png",
-    "a_img": "q1_answer_images/Je3B2228_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8920,7 +8369,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B2229_q.png",
-    "a_img": "q1_answer_images/Je3B2229_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8935,7 +8383,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B3230_q.png",
-    "a_img": "q1_answer_images/Je3B3230_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -8950,7 +8397,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B3231_q.png",
-    "a_img": "q1_answer_images/Je3B3231_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8965,7 +8411,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B3232_q.png",
-    "a_img": "q1_answer_images/Je3B3232_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8980,7 +8425,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B3233_q.png",
-    "a_img": "q1_answer_images/Je3B3233_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -8995,7 +8439,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B3234_q.png",
-    "a_img": "q1_answer_images/Je3B3234_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9010,7 +8453,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B3235_q.png",
-    "a_img": "q1_answer_images/Je3B3235_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9025,7 +8467,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B3236_q.png",
-    "a_img": "q1_answer_images/Je3B3236_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9040,7 +8481,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B4237_q.png",
-    "a_img": "q1_answer_images/Je3B4237_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9055,7 +8495,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B4238_q.png",
-    "a_img": "q1_answer_images/Je3B4238_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9070,7 +8509,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B4239_q.png",
-    "a_img": "q1_answer_images/Je3B4239_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9085,7 +8523,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B4240_q.png",
-    "a_img": "q1_answer_images/Je3B4240_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9100,7 +8537,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B4241_q.png",
-    "a_img": "q1_answer_images/Je3B4241_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9115,7 +8551,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B4242_q.png",
-    "a_img": "q1_answer_images/Je3B4242_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9130,7 +8565,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B5243_q.png",
-    "a_img": "q1_answer_images/Je3B5243_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9145,7 +8579,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B5244_q.png",
-    "a_img": "q1_answer_images/Je3B5244_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9160,7 +8593,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B1245_q.png",
-    "a_img": "q1_answer_images/Je2B1245_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9175,7 +8607,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B2246_q.png",
-    "a_img": "q1_answer_images/Je2B2246_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9190,7 +8621,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B2247_q.png",
-    "a_img": "q1_answer_images/Je2B2247_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9205,7 +8635,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B2248_q.png",
-    "a_img": "q1_answer_images/Je2B2248_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9220,7 +8649,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B2249_q.png",
-    "a_img": "q1_answer_images/Je2B2249_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9235,7 +8663,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B2250_q.png",
-    "a_img": "q1_answer_images/Je2B2250_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9250,7 +8677,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B2251_q.png",
-    "a_img": "q1_answer_images/Je2B2251_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9265,7 +8691,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B3252_q.png",
-    "a_img": "q1_answer_images/Je2B3252_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9280,7 +8705,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B3253_q.png",
-    "a_img": "q1_answer_images/Je2B3253_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9295,7 +8719,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B3254_q.png",
-    "a_img": "q1_answer_images/Je2B3254_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9310,7 +8733,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B3255_q.png",
-    "a_img": "q1_answer_images/Je2B3255_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9325,7 +8747,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B3256_q.png",
-    "a_img": "q1_answer_images/Je2B3256_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9340,7 +8761,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B4257_q.png",
-    "a_img": "q1_answer_images/Je2B4257_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9355,7 +8775,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B4258_q.png",
-    "a_img": "q1_answer_images/Je2B4258_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9370,7 +8789,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B4259_q.png",
-    "a_img": "q1_answer_images/Je2B4259_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9385,7 +8803,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B4260_q.png",
-    "a_img": "q1_answer_images/Je2B4260_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9400,7 +8817,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B4261_q.png",
-    "a_img": "q1_answer_images/Je2B4261_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9415,7 +8831,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B5262_q.png",
-    "a_img": "q1_answer_images/Je2B5262_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9430,7 +8845,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B5263_q.png",
-    "a_img": "q1_answer_images/Je2B5263_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9445,7 +8859,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B5264_q.png",
-    "a_img": "q1_answer_images/Je2B5264_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9460,7 +8873,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B5265_q.png",
-    "a_img": "q1_answer_images/Je2B5265_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9475,7 +8887,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je2B5266_q.png",
-    "a_img": "q1_answer_images/Je2B5266_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9490,7 +8901,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B1167_q.png",
-    "a_img": "q1_answer_images/Je1B1167_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9505,7 +8915,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2268_q.png",
-    "a_img": "q1_answer_images/Je1B2268_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9520,7 +8929,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2269_q.png",
-    "a_img": "q1_answer_images/Je1B2269_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9535,7 +8943,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2270_q.png",
-    "a_img": "q1_answer_images/Je1B2270_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9550,7 +8957,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2271_q.png",
-    "a_img": "q1_answer_images/Je1B2271_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9565,7 +8971,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2272_q.png",
-    "a_img": "q1_answer_images/Je1B2272_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9580,7 +8985,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2273_q.png",
-    "a_img": "q1_answer_images/Je1B2273_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9595,7 +8999,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2274_q.png",
-    "a_img": "q1_answer_images/Je1B2274_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9610,7 +9013,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2275_q.png",
-    "a_img": "q1_answer_images/Je1B2275_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9625,7 +9027,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B2276_q.png",
-    "a_img": "q1_answer_images/Je1B2276_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9640,7 +9041,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B3277_q.png",
-    "a_img": "q1_answer_images/Je1B3277_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9655,7 +9055,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B3278_q.png",
-    "a_img": "q1_answer_images/Je1B3278_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9670,7 +9069,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B3279_q.png",
-    "a_img": "q1_answer_images/Je1B3279_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9685,7 +9083,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B4280_q.png",
-    "a_img": "q1_answer_images/Je1B4280_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9700,7 +9097,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B4281_q.png",
-    "a_img": "q1_answer_images/Je1B4281_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9715,7 +9111,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B4282_q.png",
-    "a_img": "q1_answer_images/Je1B4282_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9730,7 +9125,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B4283_q.png",
-    "a_img": "q1_answer_images/Je1B4283_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9745,7 +9139,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B5284_q.png",
-    "a_img": "q1_answer_images/Je1B5284_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9760,7 +9153,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B5285_q.png",
-    "a_img": "q1_answer_images/Je1B5285_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9775,7 +9167,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B5286_q.png",
-    "a_img": "q1_answer_images/Je1B5286_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9790,7 +9181,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je1B5287_q.png",
-    "a_img": "q1_answer_images/Je1B5287_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9805,7 +9195,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf5B1288_q.png",
-    "a_img": "q1_answer_images/Jf5B1288_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9820,7 +9209,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf5B1289_q.png",
-    "a_img": "q1_answer_images/Jf5B1289_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9835,7 +9223,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf5B2290_q.png",
-    "a_img": "q1_answer_images/Jf5B2290_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9850,7 +9237,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf5B3291_q.png",
-    "a_img": "q1_answer_images/Jf5B3291_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9865,7 +9251,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf5B4292_q.png",
-    "a_img": "q1_answer_images/Jf5B4292_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9880,7 +9265,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf5B5293_q.png",
-    "a_img": "q1_answer_images/Jf5B5293_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9895,7 +9279,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf4B1294_q.png",
-    "a_img": "q1_answer_images/Jf4B1294_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9910,7 +9293,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf4B2295_q.png",
-    "a_img": "q1_answer_images/Jf4B2295_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9925,7 +9307,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf4B2296_q.png",
-    "a_img": "q1_answer_images/Jf4B2296_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9940,7 +9321,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf4B3297_q.png",
-    "a_img": "q1_answer_images/Jf4B3297_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9955,7 +9335,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf4B3298_q.png",
-    "a_img": "q1_answer_images/Jf4B3298_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -9970,7 +9349,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf4B4299_q.png",
-    "a_img": "q1_answer_images/Jf4B4299_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -9985,7 +9363,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf4B5300_q.png",
-    "a_img": "q1_answer_images/Jf4B5300_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10000,7 +9377,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf3B3301_q.png",
-    "a_img": "q1_answer_images/Jf3B3301_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10015,7 +9391,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf3B3302_q.png",
-    "a_img": "q1_answer_images/Jf3B3302_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10030,7 +9405,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf3B3303_q.png",
-    "a_img": "q1_answer_images/Jf3B3303_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10045,7 +9419,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf3B4304_q.png",
-    "a_img": "q1_answer_images/Jf3B4304_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10060,7 +9433,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Je3B5305_q.png",
-    "a_img": "q1_answer_images/Je3B5305_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10075,7 +9447,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf3B5306_q.png",
-    "a_img": "q1_answer_images/Jf3B5306_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10090,7 +9461,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B3307_q.png",
-    "a_img": "q1_answer_images/Jf2B3307_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10105,7 +9475,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B3308_q.png",
-    "a_img": "q1_answer_images/Jf2B3308_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10120,7 +9489,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B4309_q.png",
-    "a_img": "q1_answer_images/Jf2B4309_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10135,7 +9503,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B4310_q.png",
-    "a_img": "q1_answer_images/Jf2B4310_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10150,7 +9517,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B4311_q.png",
-    "a_img": "q1_answer_images/Jf2B4311_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10165,7 +9531,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B4312_q.png",
-    "a_img": "q1_answer_images/Jf2B4312_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10180,7 +9545,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B5313_q.png",
-    "a_img": "q1_answer_images/Jf2B5313_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10195,7 +9559,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B5314_q.png",
-    "a_img": "q1_answer_images/Jf2B5314_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10210,7 +9573,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf2B4315_q.png",
-    "a_img": "q1_answer_images/Jf2B4315_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10225,7 +9587,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B1316_q.png",
-    "a_img": "q1_answer_images/Jf1B1316_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10240,7 +9601,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B2317_q.png",
-    "a_img": "q1_answer_images/Jf1B2317_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10255,7 +9615,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B2318_q.png",
-    "a_img": "q1_answer_images/Jf1B2318_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10270,7 +9629,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B3319_q.png",
-    "a_img": "q1_answer_images/Jf1B3319_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10285,7 +9643,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B3320_q.png",
-    "a_img": "q1_answer_images/Jf1B3320_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10300,7 +9657,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B4321_q.png",
-    "a_img": "q1_answer_images/Jf1B4321_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10315,7 +9671,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B4322_q.png",
-    "a_img": "q1_answer_images/Jf1B4322_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10330,7 +9685,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B4323_q.png",
-    "a_img": "q1_answer_images/Jf1B4323_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10345,7 +9699,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B5324_q.png",
-    "a_img": "q1_answer_images/Jf1B5324_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10360,7 +9713,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B5325_q.png",
-    "a_img": "q1_answer_images/Jf1B5325_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -10375,7 +9727,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B5326_q.png",
-    "a_img": "q1_answer_images/Jf1B5326_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10390,7 +9741,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q1_question_images/Jf1B5327_q.png",
-    "a_img": "q1_answer_images/Jf1B5327_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -10402,7 +9752,6 @@ window.QUIZ_DATA = [
     "a": "答：线圈中感应电动势的方向，总是使它所产生的电流形\n成的磁场阻止原来磁场的变化。",
     "o": null,
     "q_img": "q1_question_images/La5C1001_q.png",
-    "a_img": "q1_answer_images/La5C1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10414,7 +9763,6 @@ window.QUIZ_DATA = [
     "a": "答：电容器的物理特性有：\n（1）能储存电场能量；\n（2）两端电压不能突变；\n（3）在直流电路中相当于开路，但在交流电路中，则有交\n变电流通过。",
     "o": null,
     "q_img": "q1_question_images/La5C1002_q.png",
-    "a_img": "q1_answer_images/La5C1002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10426,7 +9774,6 @@ window.QUIZ_DATA = [
     "a": "答：\n根据电力法规定，电力生产与电网运行应当遵循安全、\n优质、经济的原则。电网运行应当连续、稳定，保证供电可靠\n性。",
     "o": null,
     "q_img": "q1_question_images/La5C1003_q.png",
-    "a_img": "q1_answer_images/La5C1003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10438,7 +9785,6 @@ window.QUIZ_DATA = [
     "a": "答：水电站技术供水的水源有：\n（1）上游水库取水作水源；\n（2）下游尾水取水作水源；\n（3）地下水源及其他方式的取水作水源。",
     "o": null,
     "q_img": "q1_question_images/La5C1004_q.png",
-    "a_img": "q1_answer_images/La5C1004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10450,7 +9796,6 @@ window.QUIZ_DATA = [
     "a": "答：集水井内，工作水泵启动水位与停泵水位之间的容积，\n称为集水井的有效容积。工作泵启动水位与备用泵启动水位之\n间的集水井容积称为备用容积。报警水位至厂房地面之间的容\n\n73\n积称为安全容积。停泵水位至井底之间的容积称为集水井的死\n容积。",
     "o": null,
     "q_img": "q1_question_images/La5C2005_q.png",
-    "a_img": "q1_answer_images/La5C2005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10462,7 +9807,6 @@ window.QUIZ_DATA = [
     "a": "答：由电阻串联知识可知，串联电路有分压作用，所以可\n以给电压表串联一只适当的电阻即可用来测量较大电压。",
     "o": null,
     "q_img": "q1_question_images/La5C2006_q.png",
-    "a_img": "q1_answer_images/La5C2006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10474,7 +9818,6 @@ window.QUIZ_DATA = [
     "a": "答：电源力将单位正电荷从电源负极移到正极所做的功叫\n电动势，常用E 来表示。\n单位：伏特（V）。方向：由低电位指向\n高电位。",
     "o": null,
     "q_img": "q1_question_images/La5C2007_q.png",
-    "a_img": "q1_answer_images/La5C2007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10486,7 +9829,6 @@ window.QUIZ_DATA = [
     "a": "答：由电阻并联知识可知，并联电阻有分流作用，所以可\n以与电流表并联一只适当的电阻即可用来测量较大的电流。",
     "o": null,
     "q_img": "q1_question_images/La5C3008_q.png",
-    "a_img": "q1_answer_images/La5C3008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10498,7 +9840,6 @@ window.QUIZ_DATA = [
     "a": "答：二次回路的任务是反映一次回路的工作状态，控制一\n次系统，并在一次系统发生事故时，能使事故部分退出工作。",
     "o": null,
     "q_img": "q1_question_images/La5C5009_q.png",
-    "a_img": "q1_answer_images/La5C5009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10510,7 +9851,6 @@ window.QUIZ_DATA = [
     "a": "答：根据安\n全生产法规定，电力从业人员有以下义务：\n（1）在作业过程中，应当严格遵守本单位的安全生产规章\n制度和操作规程，服从管理，正确佩戴和使用劳动防护用品。\n（2）应当接受安全生产教育和培训，掌握本职工作所需的\n\n安全生产知识，提高安全生产技能，增强事故预防和应急处\n理能力。\n（3）发现事故隐患或者其他不安全因素，应当立即向现场\n安全生产管理人员或者本单位负责人报告。",
     "o": null,
     "q_img": "q1_question_images/La5C5010_q.png",
-    "a_img": "q1_answer_images/La5C5010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10522,7 +9862,6 @@ window.QUIZ_DATA = [
     "a": "答：由于蝴蝶阀活门在稍偏离全开位置时有自关闭的水力\n矩，因此在全开位置必须有可靠的锁锭装置。同时为了防止漏\n油或液压系统事故以及水的冲力作用而引起误开或误关，一般\n在全开或全关位置都应投入锁锭装置。",
     "o": null,
     "q_img": "q1_question_images/La4C1011_q.png",
-    "a_img": "q1_answer_images/La4C1011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10534,7 +9873,6 @@ window.QUIZ_DATA = [
     "a": "答:所谓运用\n中的电气设备，系指全部带有电压、一部分带\n有电压或一经操作即带有电压的电气设备。",
     "o": null,
     "q_img": "q1_question_images/La4C2012_q.png",
-    "a_img": "q1_answer_images/La4C2012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10546,7 +9884,6 @@ window.QUIZ_DATA = [
     "a": "答：主保护就是能够快速而且有选择地切除被保护区域内\n故障的保护。后备保护就是当某一元件的主保护或断路器拒绝\n动作时能够以较长的时限切除故障的保护。",
     "o": null,
     "q_img": "q1_question_images/La4C3013_q.png",
-    "a_img": "q1_answer_images/La4C3013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10558,7 +9895,6 @@ window.QUIZ_DATA = [
     "a": "答：首先应合理选择电动机和变压器容量，避免电动机和\n变压器长期空载或轻载运行，其次是采用并联补偿装置，提高\n负荷功率因数。",
     "o": null,
     "q_img": "q1_question_images/La4C3014_q.png",
-    "a_img": "q1_answer_images/La4C3014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10570,7 +9906,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机空载特性试验的目的主要是为了录制发电机定子\n\n75\n电压与转子电流的关系曲线。操作时应注意：①机组开机至空\n转；②调速器在自动运行；③励磁在手动调节位。",
     "o": null,
     "q_img": "q1_question_images/La4C4015_q.png",
-    "a_img": "q1_answer_images/La4C4015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10582,7 +9917,6 @@ window.QUIZ_DATA = [
     "a": "答：这表示发电机和系统的频率不一样，此时发电机的频\n率高于系统的频率。",
     "o": null,
     "q_img": "q1_question_images/La4C4016_q.png",
-    "a_img": "q1_answer_images/La4C4016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10594,7 +9928,6 @@ window.QUIZ_DATA = [
     "a": "答：主要措施：\n（1）投入旋转备用容量；\n（2）迅速启动备用机组；\n（3）切除或限制部分负荷。",
     "o": null,
     "q_img": "q1_question_images/La3C1017_q.png",
-    "a_img": "q1_answer_images/La3C1017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10606,7 +9939,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）中性点不再等于地电位，发生了位移，等于相电\n压；\n（2）故障相对地电压变为零；\n（3）未故障相的对地电压上升为线电压数值，较正常运行\n时升高根号3 倍。",
     "o": null,
     "q_img": "q1_question_images/La3C2018_q.png",
-    "a_img": "q1_answer_images/La3C2018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10618,7 +9950,6 @@ window.QUIZ_DATA = [
     "a": "答：因为非电量（如压力，流量，温度，水位，转速等）\n不易于传送、放大和测量，只有将这些非电量转化成容易传送、\n放大和测量的电量才便于实施对这些非电量进行监视、控制和\n测量。",
     "o": null,
     "q_img": "q1_question_images/La2C3019_q.png",
-    "a_img": "q1_answer_images/La2C3019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10630,7 +9961,6 @@ window.QUIZ_DATA = [
     "a": "答：我国智能电网的基本特征是要在技术上实现信息化、\n自动化和互动化。",
     "o": null,
     "q_img": "q1_question_images/La1C2020_q.png",
-    "a_img": "q1_answer_images/La1C2020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10642,7 +9972,6 @@ window.QUIZ_DATA = [
     "a": "答：闸门的作用是封闭水工建筑物的孔口，并能按需要全\n部或局部启闭这些孔口，以调节上下游水位与泄放流量，以及\n放运船只、木排、竹筏、发电、排除沉沙、冰块和其他漂浮物。\n它的安全和使用，在很大程度保证着水工建筑物的使用效果，\n是水工建筑物的重要组成部分。",
     "o": null,
     "q_img": "q1_question_images/Lb5C1021_q.png",
-    "a_img": "q1_answer_images/Lb5C1021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10654,7 +9983,6 @@ window.QUIZ_DATA = [
     "a": "答：浮充电方式是指蓄电池经常与浮充电设备并列运行，\n浮充电设备除供经常性负荷外，还不断以较小的电流给蓄电池\n供电，以补充蓄电池的自放电。",
     "o": null,
     "q_img": "q1_question_images/Lb5C1022_q.png",
-    "a_img": "q1_answer_images/Lb5C1022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10666,7 +9994,6 @@ window.QUIZ_DATA = [
     "a": "答：由于直流蓄电池组提供的电源电压平稳、保护动作可\n靠，特别是在厂用电消失后，蓄电池组仍能够短时正常供电，\n所以绝大多数水电站都设有直流供电系统。",
     "o": null,
     "q_img": "q1_question_images/Lb5C1023_q.png",
-    "a_img": "q1_answer_images/Lb5C1023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10678,7 +10005,6 @@ window.QUIZ_DATA = [
     "a": "答：力的三要素是：力的大小、力的方向和力的作用点。",
     "o": null,
     "q_img": "q1_question_images/Lb5C1024_q.png",
-    "a_img": "q1_answer_images/Lb5C1024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10690,7 +10016,6 @@ window.QUIZ_DATA = [
     "a": "答：浸没在液体中的物体，当它受到的浮力等于它的重量\n时，物体在该液体中的状态称为悬浮。悬浮物体的特点是：它\n所受到的浮力和它的重力相等；悬浮物体可以停留在液体中的\n任意高度。\n\n77",
     "o": null,
     "q_img": "q1_question_images/Lb5C1025_q.png",
-    "a_img": "q1_answer_images/Lb5C1025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10702,7 +10027,6 @@ window.QUIZ_DATA = [
     "a": "答：动力作用线到支点之间的距离称为动力臂，阻力的作\n用线到支点之间的距离称为阻力臂。",
     "o": null,
     "q_img": "q1_question_images/Lb5C1026_q.png",
-    "a_img": "q1_answer_images/Lb5C1026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10714,7 +10038,6 @@ window.QUIZ_DATA = [
     "a": "答：功就是作用在物体上的力和物体在该力作用下所移动\n的距离这两者的乘积。它的单位是：焦耳（J\n也可用牛顿²米）\n（N²m）；单位时间所作的功，叫做功率，其单位是：瓦特（W）\n也可用焦耳/秒（J/s）。",
     "o": null,
     "q_img": "q1_question_images/Lb5C2027_q.png",
-    "a_img": "q1_answer_images/Lb5C2027_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10726,7 +10049,6 @@ window.QUIZ_DATA = [
     "a": "答：当电力系统负荷处于低谷时，抽水蓄能机组可作水泵-\n电动机组运行，利用系统多余的电能将下水池的水抽送到上水\n池，以水的势能形式贮存起来，等到系统负荷高涨而出力不够\n时，此时电站机组可作为水轮机-发电机运行。通过它对电能的\n调节作用，使火电厂、核电厂工作均匀、效率提高、节省燃料\n消耗，并改善系统的供电质量，起到了“削峰填谷”的双重作\n用。",
     "o": null,
     "q_img": "q1_question_images/Lb5C2028_q.png",
-    "a_img": "q1_answer_images/Lb5C2028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10738,7 +10060,6 @@ window.QUIZ_DATA = [
     "a": "答：在开发利用水资源时，要使它同时能为国民经济有关\n部门服务，就必须采取工程措施，修建不同类型的水工建筑物，\n这些水工建筑物有机地布置在一起，控制水流，协调工作，称\n为水工建筑物枢纽。专为发电或主要为发电而建造的水工建筑\n物枢纽，称为水利枢纽或称水电站水利枢纽。",
     "o": null,
     "q_img": "q1_question_images/Lb5C2029_q.png",
-    "a_img": "q1_answer_images/Lb5C2029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10750,7 +10071,6 @@ window.QUIZ_DATA = [
     "a": "答：水电站的多年平均发电量是指在多年运行时间内，平\n均每年所生产的发电量。",
     "o": null,
     "q_img": "q1_question_images/Lb5C2030_q.png",
-    "a_img": "q1_answer_images/Lb5C2030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10762,7 +10082,6 @@ window.QUIZ_DATA = [
     "a": "答：汽化是指液体分子有足够的动能可以从它的自由表面\n不断发射出来而成为蒸汽或沸腾的现象。汽化时液体所具有的\n向外扩张叫汽化压强，当外界压强大于水的汽化压强时，液体\n就不会发生汽化。",
     "o": null,
     "q_img": "q1_question_images/Lb5C2031_q.png",
-    "a_img": "q1_answer_images/Lb5C2031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10774,7 +10093,6 @@ window.QUIZ_DATA = [
     "a": "答：单位体积所具有的质量称为密度，用公式表示为：\n=m/V（kg/m3）；单位体积具有的重量称为容重，用公式表示\n为=G/V（N/m3），容重等于密度和重力加速度的乘积，即=g。",
     "o": null,
     "q_img": "q1_question_images/Lb5C2032_q.png",
-    "a_img": "q1_answer_images/Lb5C2032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10786,7 +10104,6 @@ window.QUIZ_DATA = [
     "a": "答：以绝对真空为基准而得到的压强值叫绝对压强，以大\n气压强为零起点的压强值叫相对压强；在绝对压强小于大气压\n强情况下其不足大气压强的数值叫真空值，设大气压强为p0，\n则表示它们三者间关系的是下式：\np 真=p0p 绝=p 相",
     "o": null,
     "q_img": "q1_question_images/Lb5C2033_q.png",
-    "a_img": "q1_answer_images/Lb5C2033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10798,7 +10115,6 @@ window.QUIZ_DATA = [
     "a": "答：静水内部任何一点各方向的压强大小是相等的，它与\n作用面的方位无关，这是第一特性；静水压强的方向是垂直并\n指向作用面，这是第二特性。",
     "o": null,
     "q_img": "q1_question_images/Lb5C2034_q.png",
-    "a_img": "q1_answer_images/Lb5C2034_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10810,7 +10126,6 @@ window.QUIZ_DATA = [
     "a": "答: 在运行中的高压设备上工作可分为以下三类：全部停\n\n79\n电的工作；部分停电的工作；不停电工作。",
     "o": null,
     "q_img": "q1_question_images/Lb5C3035_q.png",
-    "a_img": "q1_answer_images/Lb5C3035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10822,7 +10137,6 @@ window.QUIZ_DATA = [
     "a": "答：燃烧必须具备三个条件：\n1)\n要有可燃物。凡能与空气中的氧或氧化剂起剧烈反应\n的物质都属于可燃物，如木材、棉花、汽油、纸等。\n2) 要有助燃物。凡能帮助和支持燃烧的物质都称为助燃\n物，如氧气、氯气等。一般空气中的氧含量为21%。据试验测\n定，当空气中的含氧量低于14%～18%时，一般的可燃物就不\n会燃烧。\n3)\n要有火源。凡能引起可燃物质燃烧的热源都称为火源，\n如明火、化学能等。\n上述三个条件同时满足时，才能燃烧。",
     "o": null,
     "q_img": "q1_question_images/Lb5C3036_q.png",
-    "a_img": "q1_answer_images/Lb5C3036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10834,7 +10148,6 @@ window.QUIZ_DATA = [
     "a": "答：出现非\n同期并列事故时，应立即断开发电机开关并灭\n磁，关闭水轮机导叶停机。做好检查、维修的安全措施，然后\n对发电机各部及其同期回路进行一项全面的检查。应特别注意\n定子绕组有无变形，绑线是否松断，绝缘有无损伤等。查明一\n切正常后，才可重新开机和并列。",
     "o": null,
     "q_img": "q1_question_images/Lb5C4037_q.png",
-    "a_img": "q1_answer_images/Lb5C4037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10846,7 +10159,6 @@ window.QUIZ_DATA = [
     "a": "答：电感线圈的物理特性有：\n（1）电感线圈能储存磁场能量；\n（2）电感线圈中的电流不能突变；\n（3）电感线圈在直流电路中相当于短路，但在交流电路中\n将产生自感电动势阻碍电流的变化。",
     "o": null,
     "q_img": "q1_question_images/Lb5C4038_q.png",
-    "a_img": "q1_answer_images/Lb5C4038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10858,7 +10170,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）迅速限制事故扩大，立即解除对人身和设备的危\n害；\n（2）设法保证厂用电源，尽力维护设备继续运行；\n（3）尽快恢复重要用户供电；\n（4）恢复正常运行方式。",
     "o": null,
     "q_img": "q1_question_images/Lb4C1039_q.png",
-    "a_img": "q1_answer_images/Lb4C1039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10870,7 +10181,6 @@ window.QUIZ_DATA = [
     "a": "答: 在电气设备上工作，保证安全的组织措施有：工作票\n制度，工作许可制度，工作监护制度，工作间断、转移和终结\n制度。",
     "o": null,
     "q_img": "q1_question_images/Lb4C1040_q.png",
-    "a_img": "q1_answer_images/Lb4C1040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10882,7 +10192,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）二次开口三角形的出线一般不装熔断器，以防接\n触不良发不出信号，因为平常开口三角形的端头无电压，无法\n监视熔断器的接触情况，但也有的供零序电压保护用的开口三\n角形出线是装熔断器的；\n（2）中性线上不装熔断器，这是避免熔丝熔断或接触不良，\n使断线闭锁失灵或使绝缘监视电压失去指示故障的作用；\n（3）110kV 及以上的电压互感器二次侧现在一般都用空气\n小开关而不用熔断器。",
     "o": null,
     "q_img": "q1_question_images/Lb4C2041_q.png",
-    "a_img": "q1_answer_images/Lb4C2041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10894,7 +10203,6 @@ window.QUIZ_DATA = [
     "a": "答：试运行之前应对机组及有关辅助设备进行全面清理、检\n查，其安装质量应合格。水轮机、发电机、调速系统及其它有\n\n81\n关的附属设备系统，必须处于可以随时起动的状态。输水及尾\n水系统的闸门均应试验合格，处于关闭位置，进人口、闷头等\n应可靠封堵。",
     "o": null,
     "q_img": "q1_question_images/Lb4C2042_q.png",
-    "a_img": "q1_answer_images/Lb4C2042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10906,7 +10214,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器最高运行电压不得高于该分接头额定电压的\n10%，且额定容量不变。当电压过高时，变压器铁芯饱和程度\n增加、负载电流和损耗增大，导致磁通波形严重突变，电压波\n形中的高次谐波大大增加，不仅增加线路和用户电机损耗，甚\n至可能引起系统谐振和绝缘损坏，还干扰通信、保护和自动装\n置的正常工作。",
     "o": null,
     "q_img": "q1_question_images/Lb4C2043_q.png",
-    "a_img": "q1_answer_images/Lb4C2043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10918,7 +10225,6 @@ window.QUIZ_DATA = [
     "a": "答：在直流电路中，如果外加电压不足以维持电路中各元\n件的电阻压降和电弧上的电压时，电弧就熄灭，交流电弧的熄\n灭，关键在于电流过零后，要加强冷却，使热游离不能维持，\n防止发生击穿；另一方面要使弧隙绝缘强度的恢复速度始终大\n于弧隙电压的恢复速度，使其不致发生电击穿。",
     "o": null,
     "q_img": "q1_question_images/Lb4C2044_q.png",
-    "a_img": "q1_answer_images/Lb4C2044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10930,7 +10236,6 @@ window.QUIZ_DATA = [
     "a": "答：在水力机械设备上工作，保证安全的技术措施包括：\n停电；隔离；泄压；通风；加锁、悬挂标示牌和装设遮栏（围\n栏）。。",
     "o": null,
     "q_img": "q1_question_images/Lb4C3045_q.png",
-    "a_img": "q1_answer_images/Lb4C3045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10942,7 +10247,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机非同步并列合闸瞬间，发电机和所连接的设备\n\n将承受20～30 倍额定电流作用下所产生的电动力和发热量，会\n造成发电机定子绕组变形、扭弯、绝缘崩裂、绕组接头处熔化\n等，严重时会使发电机损坏烧毁。",
     "o": null,
     "q_img": "q1_question_images/Lb4C3046_q.png",
-    "a_img": "q1_answer_images/Lb4C3046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10954,7 +10258,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器事故过负荷的主要危害是：引起变压器绕组温\n度和温升超过允许值，使绝缘老化加快，变压器寿命缩短，变\n压器事故过负荷的时间和数值由制造厂家规定。",
     "o": null,
     "q_img": "q1_question_images/Lb4C5047_q.png",
-    "a_img": "q1_answer_images/Lb4C5047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10966,7 +10269,6 @@ window.QUIZ_DATA = [
     "a": "答：主要影响是：\n（1）对发电机本身而言，其负序电流将引起定子电流某一\n相可能超过额定值和引起转子的附加发热和机械振动并伴有噪\n声。\n（2）对用户的影响。由于不对称的电压加于负载时，将影\n响用电设备的效率，从而影响生产。",
     "o": null,
     "q_img": "q1_question_images/Lb3C2048_q.png",
-    "a_img": "q1_answer_images/Lb3C2048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10978,7 +10280,6 @@ window.QUIZ_DATA = [
     "a": "答：把直流电磁铁接到交流回路上，因为有电阻和电感的\n共同作用，即阻抗的作用，将使流过线圈的电流变小，铁芯中\n磁场变弱，使电磁铁的可动部分不被吸动或不能正常工作。",
     "o": null,
     "q_img": "q1_question_images/Lb3C2049_q.png",
-    "a_img": "q1_answer_images/Lb3C2049_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -10990,7 +10291,6 @@ window.QUIZ_DATA = [
     "a": "答：主要影响是：\n（1）定子绕组端部将承受很大的冲击电磁力作用。\n（2）转轴受到很大的电磁力矩作用。\n（3）绕组的发热。\n\n83",
     "o": null,
     "q_img": "q1_question_images/Lb3C2050_q.png",
-    "a_img": "q1_answer_images/Lb3C2050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11002,7 +10302,6 @@ window.QUIZ_DATA = [
     "a": "答: 检修工作结束以前，若需将设备试加工作电压，应满\n足以下条件：\n1）全体工作人员撤离工作地点；\n2）将该系统的所有工作票收回，拆除临时遮栏、接\n地线和标示牌，恢复常设遮栏；3）应在工作负责\n人和运行人员进行全面检查无误\n后，由运行人员进行加压试验。",
     "o": null,
     "q_img": "q1_question_images/Lb3C4051_q.png",
-    "a_img": "q1_answer_images/Lb3C4051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11014,7 +10313,6 @@ window.QUIZ_DATA = [
     "a": "答：引起发电机振荡的原因有：\n（1）静态稳定破坏；\n（2）发电机与系统联结的阻抗突增；\n（3）电力系统中有功功率突变，供需严重失去平衡或无功\n功率严重不足，电压降低。",
     "o": null,
     "q_img": "q1_question_images/Lb3C4052_q.png",
-    "a_img": "q1_answer_images/Lb3C4052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11026,7 +10324,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）由于绕组电阻引起的功率损耗；\n（2）由铁芯中涡流引起的功率损耗；\n（3）铁磁物质磁滞回路引起的功率损耗。",
     "o": null,
     "q_img": "q1_question_images/Lb3C5053_q.png",
-    "a_img": "q1_answer_images/Lb3C5053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11038,7 +10335,6 @@ window.QUIZ_DATA = [
     "a": "答：电力系统继电保护装置的基本要求是确保继电保护装\n置动作的快速性，可靠性，选择性和灵敏性。",
     "o": null,
     "q_img": "q1_question_images/Lb2C2054_q.png",
-    "a_img": "q1_answer_images/Lb2C2054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11050,7 +10346,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）正常情况下维持电力系统基本电压水平；\n\n（2）合理分配发电机间的无功负荷；\n（3）提高继电保护装置的灵敏性和电力系统的稳定性；",
     "o": null,
     "q_img": "q1_question_images/Lb2C3055_q.png",
-    "a_img": "q1_answer_images/Lb2C3055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11062,7 +10357,6 @@ window.QUIZ_DATA = [
     "a": "答：优点：运行可靠，使用方便，通用性强，用气压（油\n压）损耗能源较少，制动中对推力瓦油膜有保护作用。\n缺点：制动器的制动板磨损较快，粉尘污染发电机，影响\n冷却效果，导致定子温升增高，降低绝缘水平，加闸过程中，\n制动环表面温度急剧升高。因而产生热变形，有的出现分裂现\n象。",
     "o": null,
     "q_img": "q1_question_images/Lb2C3056_q.png",
-    "a_img": "q1_answer_images/Lb2C3056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11074,7 +10368,6 @@ window.QUIZ_DATA = [
     "a": "答：其特征之一是水质点运动轨迹极为混乱，流层间质点\n相互混掺；另一特征是过水断面、流速、动水压强等水流运动\n要素发生脉动现象。动水压强的脉动增加了建筑物的瞬时荷载，\n可能引起建筑物振动，增大了汽蚀的可能性，动水压强的脉动\n也是水流掺气和挟沙的原因。",
     "o": null,
     "q_img": "q1_question_images/Lb2C3057_q.png",
-    "a_img": "q1_answer_images/Lb2C3057_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11086,7 +10379,6 @@ window.QUIZ_DATA = [
     "a": "答：用人为的方\n法使机组的转动部分缓慢地转动，称为机\n组的盘车。盘车的目的为：\n（1）检查机组轴线的倾斜和曲折情况，测量，求出\n摆度值，用于分析和处理\n（2）合理确定导轴承的中心位置；\n（3）检查推力瓦的接触情况。",
     "o": null,
     "q_img": "q1_question_images/Lb2C4058_q.png",
-    "a_img": "q1_answer_images/Lb2C4058_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11098,7 +10390,6 @@ window.QUIZ_DATA = [
     "a": "答：利用三相全控桥的逆变工作状态，控制角由小于90°\n的整流运行状态，突然后退到大于90°的某一适当角度，此时\n励磁电源改变极性，以反电势形式加于励磁绕组，使转子电流\n迅速衰减到零的灭磁过程称为逆变灭磁。",
     "o": null,
     "q_img": "q1_question_images/Lb1C2059_q.png",
-    "a_img": "q1_answer_images/Lb1C2059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11110,7 +10401,6 @@ window.QUIZ_DATA = [
     "a": "答：操作中如果发生疑问时：\n（1）应立即停止操作，并向值班调度员或值班负责人报告，\n弄清问题后再进行操作。\n（2）不能擅自更改操作票。\n（3）不准随意解除闭锁装置。",
     "o": null,
     "q_img": "q1_question_images/Lb1C3060_q.png",
-    "a_img": "q1_answer_images/Lb1C3060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11122,7 +10412,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）用母联断路器给检修后的母线充电时；\n（2）用母联断路器代替线路断路器工作时；\n（3）线路继电器保护检验和更改定值时；\n（4）母联断路器必须具备代替线路断路器运行的保护与自\n动装置。",
     "o": null,
     "q_img": "q1_question_images/Lb1C3061_q.png",
-    "a_img": "q1_answer_images/Lb1C3061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11134,7 +10423,6 @@ window.QUIZ_DATA = [
     "a": "答：所谓无差静特性，是指机组在不同负荷下，经过调节\n到达新的稳态，机组转速不随负荷的大小而变化，它的曲线是\n一条平行于横轴的直线。\n所谓有差静特性，是指机组在不同负荷下，经过调节到达\n新的稳态后，机组转速将随负荷增减而变化。当负荷增加，机\n组转速降低；当负荷减少，机组转速则增高。它的静特性曲线\n是一条倾斜的直线。",
     "o": null,
     "q_img": "q1_question_images/Lb1C3062_q.png",
-    "a_img": "q1_answer_images/Lb1C3062_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11146,7 +10434,6 @@ window.QUIZ_DATA = [
     "a": "答：甩负荷试验的目的是为了检验调速器的动态特性及机\n组继电保护、自动装置的灵敏度，检查蜗壳压力上升值与速率\n上升是否在调节保证计算的允许范围内。",
     "o": null,
     "q_img": "q1_question_images/Lb1C4063_q.png",
-    "a_img": "q1_answer_images/Lb1C4063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11158,7 +10445,6 @@ window.QUIZ_DATA = [
     "a": "答：正常运行时，由于电流互感器二次侧阻抗很小，接近\n短路状态，而二次侧电动势很小，若二次侧开路，其阻抗变成\n无限大，二次电流为0，此时一次电流完全变成激磁电流，在\n二次绕组上产生很高的电动势，其峰值可达几千伏，直接威胁\n人身和设备安全。",
     "o": null,
     "q_img": "q1_question_images/Lb1C5064_q.png",
-    "a_img": "q1_answer_images/Lb1C5064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11170,7 +10456,6 @@ window.QUIZ_DATA = [
     "a": "答：灭火的基本原理。一切灭火措施，都是为了破坏已经\n燃烧的某一个或几个必要条件，因而使燃烧停止，具体情况如\n下：\n1）隔离法：使燃烧物和未燃烧物隔离，从而限制火灾范\n围。\n2）窒息法：减少燃烧区的氧，隔离新鲜空气进入燃烧区，\n从而使燃烧熄灭。\n3）冷却法：降低燃烧物的温度于燃点之下，从而停止燃\n烧。",
     "o": null,
     "q_img": "q1_question_images/Lc5C1065_q.png",
-    "a_img": "q1_answer_images/Lc5C1065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11182,7 +10467,6 @@ window.QUIZ_DATA = [
     "a": "答：一般大中型发电机是通过密闭式通风方式来冷却的，\n这是利用转子端部装设的风扇或风斗，强迫发电机里的冷空气\n通过转子线圈，再经过定子中的通风沟，吸收线圈和铁芯等处\n的热量成为热空气（热风），热空气再通过装设在发电机四周的\n\n87\n空气冷却器，把热量传递给冷却水，经冷却后的空气（变为冷\n风）重新进入发电机，以降低发电机的温度。",
     "o": null,
     "q_img": "q1_question_images/Lc5C2066_q.png",
-    "a_img": "q1_answer_images/Lc5C2066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11194,7 +10478,6 @@ window.QUIZ_DATA = [
     "a": "答：采用蓄水池供水的系统，是独立于机组自动化之外的\n控制系统，供水泵的启、停，只受蓄水池水位的控制，而与机\n组的运行与否无关；尤其在厂用电消失之后，蓄水池贮存的水\n量还能供水给机组，以保证恢复厂用电的时间。",
     "o": null,
     "q_img": "q1_question_images/Lc5C3067_q.png",
-    "a_img": "q1_answer_images/Lc5C3067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11206,7 +10489,6 @@ window.QUIZ_DATA = [
     "a": "答：在冷却水中的含沙量增多，并且由于泥沙在冷却器中\n的淤积影响到冷却效果时，除了适当提高冷却水压冲洗外，还\n可以倒换水向从相反的方向冲洗冷却器，以避免冷却器中的管\n道阻塞而引起事故。",
     "o": null,
     "q_img": "q1_question_images/Lc5C4068_q.png",
-    "a_img": "q1_answer_images/Lc5C4068_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11218,7 +10500,6 @@ window.QUIZ_DATA = [
     "a": "答：轴油冷却器的进口水温不低于4℃，这样既保证冷却\n器黄铜管外不凝结水珠，也避免沿管方向温度变化太大而造成\n裂缝。",
     "o": null,
     "q_img": "q1_question_images/Lc5C5069_q.png",
-    "a_img": "q1_answer_images/Lc5C5069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11230,7 +10511,6 @@ window.QUIZ_DATA = [
     "a": "答：隔离开关可进行以下操作：\n（1）拉合母线上的电容电流、旁路母线的旁路电流和电容\n电流不超过5A的空载线路；\n（2）拉合无故障的电压互感器，避雷器；\n（3）拉合变压器中性线，若中性线上装有消弧线圈，当系\n统无故障时才准操作。",
     "o": null,
     "q_img": "q1_question_images/Lc4C1070_q.png",
-    "a_img": "q1_answer_images/Lc4C1070_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11242,7 +10522,6 @@ window.QUIZ_DATA = [
     "a": "答：对厂用电的基本要求有：\n（1）厂用电工作电源与备用电源应连接在不同的电源上，\n正常运行时厂用电源不得少于两个；\n（2）带厂用电的机组，可适当地将重要辅机安排在有厂用\n发电机的系统上；\n（3）具有备用电源自动投入装置。",
     "o": null,
     "q_img": "q1_question_images/Lc4C2071_q.png",
-    "a_img": "q1_answer_images/Lc4C2071_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11254,7 +10533,6 @@ window.QUIZ_DATA = [
     "a": "答：\n（１）人工给定值有功调节试验；（２）全厂ＡＧＣ给\n定有功调节试验（无ＡＧＣ厂不做）；（３）无功闭环调节试\n验。",
     "o": null,
     "q_img": "q1_question_images/Lc4C3072_q.png",
-    "a_img": "q1_answer_images/Lc4C3072_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11266,7 +10544,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）发生单相接地时形成单相对地短路电流，断路器\n跳闸，中断供电，影响供电可靠性，为弥补上述不足，广泛采\n用自动重合闸装置；\n（2）单相接地时短路电流很大，产生一个很强的磁场，在\n附近的弱电线路上（如通信线路等）感应一个很大的电势，引\n起设备损坏；\n（3）单相接地故障时，非故障相对地电压不会升高。",
     "o": null,
     "q_img": "q1_question_images/Lc4C4073_q.png",
-    "a_img": "q1_answer_images/Lc4C4073_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11278,7 +10555,6 @@ window.QUIZ_DATA = [
     "a": "答：交直流两用型钳型电流表是采用电磁等测量机构原理\n构成的，卡在铁芯钳口中的被测电流导线相当于电磁系测量机\n构中的固定线圈，在铁芯中产生磁场，而位于铁芯钳口中间可\n动铁片在磁场作用下发生偏转，带动指针指示出被测电流的大\n小。\n\n89",
     "o": null,
     "q_img": "q1_question_images/Lc4C5074_q.png",
-    "a_img": "q1_answer_images/Lc4C5074_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11290,7 +10566,6 @@ window.QUIZ_DATA = [
     "a": "答：电气设备操作后的位置检查应以设备实际位置为准，\n无法看到实际位置时，可通过设备机械位置指示、电气指示、\n仪表及各种遥测、遥信信号的变化，且至少应有两个及以上指\n示已同时发生对应变化，才能确认该设备已操作到位。",
     "o": null,
     "q_img": "q1_question_images/Lc3C3075_q.png",
-    "a_img": "q1_answer_images/Lc3C3075_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11302,7 +10577,6 @@ window.QUIZ_DATA = [
     "a": "答：绘在以水\n头和输出功率为纵横坐标系统内，表示在某一转轮直经和额定\n转速下，原型水轮机的性能（如效率、吸出高度、压力脉动、\n出力限制线等）的一组等值曲线。",
     "o": null,
     "q_img": "q1_question_images/Lc3C3076_q.png",
-    "a_img": "q1_answer_images/Lc3C3076_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11314,7 +10588,6 @@ window.QUIZ_DATA = [
     "a": "答：当系统频\n率发生变化时，发电机组的调速系统将自动\n地改变水轮机的进水量，以增减发电机的出力，这种反映由频\n率变化而引起发电机出力的变化的关系，称为发电机组的频率\n特性。",
     "o": null,
     "q_img": "q1_question_images/Lc2C3077_q.png",
-    "a_img": "q1_answer_images/Lc2C3077_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11326,7 +10599,6 @@ window.QUIZ_DATA = [
     "a": "答：稳态是指电力系统正常的、相对静止的运行状态。暂\n态是指电力系统从一种运行状态向另一种运行状态过渡的过\n程。",
     "o": null,
     "q_img": "q1_question_images/Lc1C4078_q.png",
-    "a_img": "q1_answer_images/Lc1C4078_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11338,7 +10610,6 @@ window.QUIZ_DATA = [
     "a": "答：尾水闸门的作用是构成水轮机及其过流部件的检修条\n件。",
     "o": null,
     "q_img": "q1_question_images/Jd5C1079_q.png",
-    "a_img": "q1_answer_images/Jd5C1079_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11350,7 +10621,6 @@ window.QUIZ_DATA = [
     "a": "答：水锤又叫水击，就是指有压管道中的流速发生急剧变\n化时，引起压强的剧烈波动，并在整个管长范围内传播的现象，\n压力突变使管壁发生振动伴有锤击之声，故称为水击或水锤。\n由于发生水锤时，压强的升、降有时都超过正常情况的许多倍，\n能引起管道、水轮机的振动，管道变形，甚至使管道破裂，导\n致电站的严重设备损坏事故。",
     "o": null,
     "q_img": "q1_question_images/Jd5C1080_q.png",
-    "a_img": "q1_answer_images/Jd5C1080_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11362,7 +10632,6 @@ window.QUIZ_DATA = [
     "a": "答：减小水锤的主要措施及原理有：\n（1）尽量减少压力管道的长度；\n（2）适当延长阀门（导叶）关闭时间T；\n（3）在管道或水轮机蜗壳上设置放空阀（减压阀）。",
     "o": null,
     "q_img": "q1_question_images/Jd5C1081_q.png",
-    "a_img": "q1_answer_images/Jd5C1081_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11374,7 +10643,6 @@ window.QUIZ_DATA = [
     "a": "答：由于蓄电\n池电解液中所含金属杂质沉淀在负极板上，\n以及极板本身活性物质中也含有金属杂质，因此在负极板上形\n成局部的短路回路，就构成了蓄电池的自放电现象。",
     "o": null,
     "q_img": "q1_question_images/Jd5C1082_q.png",
-    "a_img": "q1_answer_images/Jd5C1082_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11386,7 +10654,6 @@ window.QUIZ_DATA = [
     "a": "答：直流系统发生两点接地后的危害是：\n（1）构成两点接地短路，将造成信号装置、继电保护和断\n路器的误动作或拒动作；\n（2）两点接地引起熔断器的熔断，造成直流中断。",
     "o": null,
     "q_img": "q1_question_images/Jd5C2083_q.png",
-    "a_img": "q1_answer_images/Jd5C2083_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11398,7 +10665,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮机进水阀的操作方式有手动、电动、液压操作三\n种，其中液压操作又分为油压和水压操作两种方式。\n\n91",
     "o": null,
     "q_img": "q1_question_images/Jd5C2084_q.png",
-    "a_img": "q1_answer_images/Jd5C2084_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11410,7 +10676,6 @@ window.QUIZ_DATA = [
     "a": "答：在电气设备上工作，保证安全的技术措施有：停电、\n验电、接地、悬挂标示牌和装设遮栏（围栏）。",
     "o": null,
     "q_img": "q1_question_images/Jd5C2085_q.png",
-    "a_img": "q1_answer_images/Jd5C2085_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11422,7 +10687,6 @@ window.QUIZ_DATA = [
     "a": "答：水电站技术供水的对象主要是水轮发电机组、水冷式\n变压器、水冷式空压机等。作用是对运行设备进行冷却和润滑，\n有时作为操作能源。",
     "o": null,
     "q_img": "q1_question_images/Jd5C2086_q.png",
-    "a_img": "q1_answer_images/Jd5C2086_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11434,7 +10698,6 @@ window.QUIZ_DATA = [
     "a": "答：目的是防止厂房内部积水和潮湿，保证机组过水部分\n和厂房水下部分检修。",
     "o": null,
     "q_img": "q1_question_images/Jd5C3087_q.png",
-    "a_img": "q1_answer_images/Jd5C3087_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11446,7 +10709,6 @@ window.QUIZ_DATA = [
     "a": "答：电力系统电压调整的方式：\n（1）调整发电机和同步调相机的励磁；\n（2）改变变压器的变比；\n（3）投切并联电容器和电抗器，利用静止无功补偿器。",
     "o": null,
     "q_img": "q1_question_images/Jd5C4088_q.png",
-    "a_img": "q1_answer_images/Jd5C4088_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11458,7 +10720,6 @@ window.QUIZ_DATA = [
     "a": "答：主要检查项目：\n（1）检查避雷针、避雷器的摆动应正常；\n（2）检查避雷设备放电记录器动作情况正常，避雷器表面\n无闪络；\n（3）防雷设备引线及接地线连接牢固无损伤。",
     "o": null,
     "q_img": "q1_question_images/Jd5C5089_q.png",
-    "a_img": "q1_answer_images/Jd5C5089_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11470,7 +10731,6 @@ window.QUIZ_DATA = [
     "a": "答：做机组甩负荷试验前准备工作包括：①预先模拟过速保\n护，试验良好后将保护投入。\n②调速器派专人监视。③充分做好事故预想，在机组过速而保\n护未动时应采取紧急措施。试验结束后应将机组改停役，由运\n行和检修人员共同对发电机内部进行仔细检查。",
     "o": null,
     "q_img": "q1_question_images/Jd4C1090_q.png",
-    "a_img": "q1_answer_images/Jd4C1090_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11482,7 +10742,6 @@ window.QUIZ_DATA = [
     "a": "答：电气设备分为运行、备用和检修三种状态。将设备由\n一种状态转变为另一种状态的过程叫倒闸，所进行的操作叫倒\n闸操作。",
     "o": null,
     "q_img": "q1_question_images/Jd4C2091_q.png",
-    "a_img": "q1_answer_images/Jd4C2091_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11494,7 +10753,6 @@ window.QUIZ_DATA = [
     "a": "答：调速器的基本作用是自动测量发电机出口频率和给定\n值之间的偏差，据此偏差控制水轮机导水叶开度，改变进入水\n轮机的流量，维持频率在一定范围内，调速器按其静态转差系\n数的大小自动分配系统中的负荷。",
     "o": null,
     "q_img": "q1_question_images/Jd4C3092_q.png",
-    "a_img": "q1_answer_images/Jd4C3092_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11506,7 +10764,6 @@ window.QUIZ_DATA = [
     "a": "答：当反击型水轮机在设计工况下运行时，水流不发生撞击，\n而叶片出口水流的绝对速度方向基本上垂直于圆周速度，即所\n谓的法向出流。此时，转轮内的水力损失达到最小，水能转换\n最多，水轮机的总效率达到最高，通常把这种工况成为水轮机\n能量转换的最优工况。",
     "o": null,
     "q_img": "q1_question_images/Jd4C4093_q.png",
-    "a_img": "q1_answer_images/Jd4C4093_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11518,7 +10775,6 @@ window.QUIZ_DATA = [
     "a": "答：保护接地\n就是将电气装置中应该接地的部分，通过接\n地装置，与大地作良好的连接。保护接零是将用电设备的金属\n外壳，与发电机或变压器的接地中性线作金属连接，并要求供\n\n93\n电线路上装设熔断器或自动空气开关，在用电设备一相碰壳时，\n能以最短的时间自动断开电路，以消除触电危险。",
     "o": null,
     "q_img": "q1_question_images/Jd4C5094_q.png",
-    "a_img": "q1_answer_images/Jd4C5094_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11530,7 +10786,6 @@ window.QUIZ_DATA = [
     "a": "答：射流泵是一种利用液体或气体射流形成的负压抽吸液\n体，使被抽液体增加能量的机械设备。优点是：无转动部分，\n结构简单，紧凑，不怕潮湿，工作可靠。缺点是：效率较低，\n不易维护。",
     "o": null,
     "q_img": "q1_question_images/Jd3C3095_q.png",
-    "a_img": "q1_answer_images/Jd3C3095_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11542,7 +10797,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机失磁是指正常运行的发电机的励磁绕组突然失\n去全部或部分励磁电流。引起失磁的原因主要是由于励磁回路\n开路（灭磁开关误动作，励磁调节器装置开关误动）、短路或励\n磁机励磁电源消失或转子绕组故障等。",
     "o": null,
     "q_img": "q1_question_images/Jd2C1096_q.png",
-    "a_img": "q1_answer_images/Jd2C1096_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11554,7 +10808,6 @@ window.QUIZ_DATA = [
     "a": "答：理由是：\n（1）计算机监控装置是由许多自动化元件组成的，一些自\n动化元件在上电过程中会发生数据跳跃、不稳定及误动等现象，\n故先送开入量电源，等数据稳定后再送开出量电源，以防误动。\n（2）断电操作时，正好相反，也是同样的道理。\n（3）停、送电顺序也符合日常操作顺序。",
     "o": null,
     "q_img": "q1_question_images/Jd1C1097_q.png",
-    "a_img": "q1_answer_images/Jd1C1097_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11566,7 +10819,6 @@ window.QUIZ_DATA = [
     "a": "答：过流保护之所以延时，是因为它主要保护的是变压器\n低压侧的短路故障，是为了使所配备的保护选择性地切除故障。\n\n过流保护能作为速断保护的后备保护。",
     "o": null,
     "q_img": "q1_question_images/Je5C1098_q.png",
-    "a_img": "q1_answer_images/Je5C1098_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11578,7 +10830,6 @@ window.QUIZ_DATA = [
     "a": "答：由于\n接地短路电流的影响，在附近地面将有不同电位\n分布，人步入该范围内，两脚跨距之间电位差称为跨步电压，\n此跨距为0.8m，正常运行，不允许超过40V。",
     "o": null,
     "q_img": "q1_question_images/Je5C1099_q.png",
-    "a_img": "q1_answer_images/Je5C1099_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11590,7 +10841,6 @@ window.QUIZ_DATA = [
     "a": "答：电压互感器二次侧电压为100V，且接于仪表和继电器\n的电压线圈。电压互感器是一电压源，内阻很小，容量亦小，\n一次线圈导线很细，若二次侧短路，则二次侧通过很大电流，\n不仅影响测量表计及引起保护与自动装置误动，甚至会损坏电\n压互感器。",
     "o": null,
     "q_img": "q1_question_images/Je5C1100_q.png",
-    "a_img": "q1_answer_images/Je5C1100_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11602,7 +10852,6 @@ window.QUIZ_DATA = [
     "a": "答：必须遵守的规定有：\n（1）填用工作票；\n（2）至少应有两人在一起工作；\n（3）完成保证工作人员安全的组织措施和技术措施。",
     "o": null,
     "q_img": "q1_question_images/Je5C2101_q.png",
-    "a_img": "q1_answer_images/Je5C2101_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11614,7 +10863,6 @@ window.QUIZ_DATA = [
     "a": "答：以下工作需填写第一种工作票：\n（1）高压设备上工作需全部或部分停电者；\n（2）高压室内的二次接线和照明等回路上的工作，需要将\n高压设备停电或做安全措施者。",
     "o": null,
     "q_img": "q1_question_images/Je5C2102_q.png",
-    "a_img": "q1_answer_images/Je5C2102_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11626,7 +10874,6 @@ window.QUIZ_DATA = [
     "a": "答：第一种工作票工作许可人在完成施工现场的安全措施\n后，还应完成以下手续，工作班方可开始工作：\n（1）会同工作负责人到现场再次检查所做的安全措施，对\n具体的设备指明实际的隔离措施，证明检修设备确无电压。\n（2）对工作负责人指明带电设备的位置和工作过程中的注\n意事项。和工作负责人在工作票上分别确认、签名。",
     "o": null,
     "q_img": "q1_question_images/Je5C2103_q.png",
-    "a_img": "q1_answer_images/Je5C2103_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11638,7 +10885,6 @@ window.QUIZ_DATA = [
     "a": "答：操作票所列人员的安全职责：\n（1）操作指令发布人应对发布命令的正确性、完整性负责；\n（2）监护人和操作人应对执行操作指令的正确性负责，监\n护人负主要责任；\n（3）无监护人的操作项目，操作人对操作的正确性负责。",
     "o": null,
     "q_img": "q1_question_images/Je5C2104_q.png",
-    "a_img": "q1_answer_images/Je5C2104_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11650,7 +10896,6 @@ window.QUIZ_DATA = [
     "a": "答：由于电流超过允许值时温度升高而将保险丝烧断。",
     "o": null,
     "q_img": "q1_question_images/Je5C2105_q.png",
-    "a_img": "q1_answer_images/Je5C2105_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11662,7 +10907,6 @@ window.QUIZ_DATA = [
     "a": "答：动火\n工作票运行许可人的职责包括：1）工作票所列安全措施是\n否正确完备，是否符合现场条件；\n2）动火设备与运行设备是否确已隔绝；\n3）向工作负责人现场交待运行所做的安全措施是否完善。",
     "o": null,
     "q_img": "q1_question_images/Je5C2106_q.png",
-    "a_img": "q1_answer_images/Je5C2106_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11674,7 +10918,6 @@ window.QUIZ_DATA = [
     "a": "答：\n电气设备的额定值是根据使用时的经济性、可靠性以\n及寿命，特别是保证电气设备的工作温度不超过规定的允许值\n等情况决定的。",
     "o": null,
     "q_img": "q1_question_images/Je5C2107_q.png",
-    "a_img": "q1_answer_images/Je5C2107_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11686,7 +10929,6 @@ window.QUIZ_DATA = [
     "a": "答：主要是：\n（1）必须将被测设备从各方面断开，验明无电压确无人员\n工作后方可进行，测试中严禁他人接近设备；\n（2）测试后，必须将被试设备对地放电；\n（3）在带电设备附近测量，测量人和摇表安放位置必须适\n当，保持安全距离，注意监护，防止人员触电。",
     "o": null,
     "q_img": "q1_question_images/Je5C3108_q.png",
-    "a_img": "q1_answer_images/Je5C3108_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11698,7 +10940,6 @@ window.QUIZ_DATA = [
     "a": "答：应注意的事项有：\n（1）工作负责人应清点人员和工具，检查确无人员和工具\n留在机械内部后，方可关人孔门；\n（2）转动机械检修完毕后，转动部分的保护装置应牢固可\n靠；\n（3）转动机械试运行时，除运行人员外，其他人员应先远\n离，站在转动机械的轴向位置上，以防止转动部分飞出伤人。",
     "o": null,
     "q_img": "q1_question_images/Je5C3109_q.png",
-    "a_img": "q1_answer_images/Je5C3109_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11710,7 +10951,6 @@ window.QUIZ_DATA = [
     "a": "答：三项制度是运行人员交接班制度、巡回检查制度和设\n备定期试验和切换制度。",
     "o": null,
     "q_img": "q1_question_images/Je5C3110_q.png",
-    "a_img": "q1_answer_images/Je5C3110_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11722,7 +10962,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）属于电气安全用具的主要有：绝缘手套、绝缘靴\n（鞋）、绝缘杆、绝缘夹钳、绝缘垫、绝缘绳、验电器、携带型\n接地线、临时遮栏标志牌、安全照明灯具等。\n（2）属于一般劳动防护用具的主要有：安全带、安全帽、\n人体防护用品、防毒防尘面具、护目眼镜等。",
     "o": null,
     "q_img": "q1_question_images/Je5C5111_q.png",
-    "a_img": "q1_answer_images/Je5C5111_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11734,7 +10973,6 @@ window.QUIZ_DATA = [
     "a": "答：推力轴承温度确实升高后有下列处理办法：\n\n97\n（1）应避免机组在振动区内长时间运行；\n（2）检查推力油盆的油色、油位和油质是否合格；\n（3）检查机组冷却水的流量和水压是否符合要求若轴承\n温度还不下降，可降低机组出力，必要时可停机处\n理。",
     "o": null,
     "q_img": "q1_question_images/Je4C1112_q.png",
-    "a_img": "q1_answer_images/Je4C1112_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11746,7 +10984,6 @@ window.QUIZ_DATA = [
     "a": "答：当调速系统和接力器排油检修时，内部已进入空气，\n若不设法排除，在开机过程中，由于设备内部空气被压缩和膨\n胀，会造成调速系统振动，极易损坏油管路和设备。为防止此\n现象出现，所以每次大修接力器充油后要作一次试验，将导水\n叶全行程开闭几次，将空气排出。",
     "o": null,
     "q_img": "q1_question_images/Je4C1113_q.png",
-    "a_img": "q1_answer_images/Je4C1113_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11758,7 +10995,6 @@ window.QUIZ_DATA = [
     "a": "答：每次洪水的水位或流量过程线上的最高点称为洪峰，洪\n水水位过程线上最高点水位称洪峰水位，洪水流量过程线最高\n点流量称洪峰流量。对本电站洪水未来的两个最高点和达到\n时间作先期推测和预报称洪水预报。",
     "o": null,
     "q_img": "q1_question_images/Je4C2114_q.png",
-    "a_img": "q1_answer_images/Je4C2114_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11770,7 +11006,6 @@ window.QUIZ_DATA = [
     "a": "答：下列三种情况应加挂机械锁1）压力管道、蜗壳和尾\n水管等重要泄压阀；\n2）在一经操作即可送压且危及人身或设备安全的隔离阀\n（闸）门；\n3）设备检修时，系统中的各来电侧的刀闸操作手柄和电\n动操作刀闸机构箱的箱门。",
     "o": null,
     "q_img": "q1_question_images/Je4C2115_q.png",
-    "a_img": "q1_answer_images/Je4C2115_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11782,7 +11017,6 @@ window.QUIZ_DATA = [
     "a": "答：因为在中性点\n非直接接地系统中，每相都存在对地电\n容，如果该系统发生单相接地时，流过该接地点的电容电流将\n在故障点处形成周期性和燃烧的电弧对电气设备带来很大危\n害，因此在该系统内装设了消弧线圈，利用其产生的电感电流\n抵消电容电流的影响。",
     "o": null,
     "q_img": "q1_question_images/Je4C2116_q.png",
-    "a_img": "q1_answer_images/Je4C2116_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11794,7 +11028,6 @@ window.QUIZ_DATA = [
     "a": "答：主要有以下情况：①高压熔丝连续熔断；②互感器\n过热，流油有焦味；③内部有放电声；④引线接头断开放电。",
     "o": null,
     "q_img": "q1_question_images/Je4C2117_q.png",
-    "a_img": "q1_answer_images/Je4C2117_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11806,7 +11039,6 @@ window.QUIZ_DATA = [
     "a": "答：中性点运行方式有：中性点直接接地、中性点不接地\n和中性点经消弧线圈接地三种方式。第一种一般在110kV 及以\n上系统应用；后两种应用于63kV 及以下系统；低压用电系统\n（380/220V）习惯上采用第一种方式以获得三相四线制供电方\n式。",
     "o": null,
     "q_img": "q1_question_images/Je4C3118_q.png",
-    "a_img": "q1_answer_images/Je4C3118_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11818,7 +11050,6 @@ window.QUIZ_DATA = [
     "a": "答：一个操作任务系指根据同一操作指令，且为了相同的\n操作目的而进行的一系列相互关联、并依次进行的操作的全部\n过程。",
     "o": null,
     "q_img": "q1_question_images/Je4C3119_q.png",
-    "a_img": "q1_answer_images/Je4C3119_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11830,7 +11061,6 @@ window.QUIZ_DATA = [
     "a": "答：SF6 配电装置发生大量泄漏等紧急情况时，人员应迅\n速撤出现场，开启所有排风机进行排风。未配戴隔离式防毒面\n具人员禁止入内。只有经过充分的自然排风或恢复排风后，人\n\n99\n员才准进入。发生设备防爆膜破裂时，应停电处理,并用汽油或\n丙酮擦试干净。",
     "o": null,
     "q_img": "q1_question_images/Je4C3120_q.png",
-    "a_img": "q1_answer_images/Je4C3120_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11842,7 +11072,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）有功，无功负荷的合理分配与平衡，设备是否过\n载；\n（2）有关设备的保护整定及保护压板是否作相应的变更，\n中性点和接地补偿的情况；\n（3）同期鉴定情况。",
     "o": null,
     "q_img": "q1_question_images/Je4C3121_q.png",
-    "a_img": "q1_answer_images/Je4C3121_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11854,7 +11083,6 @@ window.QUIZ_DATA = [
     "a": "答：主要操作原则有：\n（1）当变压器为单电源时，送电应先合电源侧断路器，后\n合负荷侧断路器，停电时操作顺序与上述相反。\n（2）当变压器高、中、低压侧有电源时，应先合高压侧断\n路器，后合中压侧断路器，停电则与上述顺序相反。\n（3）在中性点接地系统中，中性点应投入方可对变压器进\n行送电操作。",
     "o": null,
     "q_img": "q1_question_images/Je4C4122_q.png",
-    "a_img": "q1_answer_images/Je4C4122_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11866,7 +11094,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机转子回路一点接地是发电机较常见的故障，对\n发电机运行没有直接危害，因为转子回路与地之间有一定的绝\n缘电阻，一点接地不能形成故障电流，励磁绕组端电压还是正\n常的，所以通常只要求在一点接地时发信号。",
     "o": null,
     "q_img": "q1_question_images/Je4C5123_q.png",
-    "a_img": "q1_answer_images/Je4C5123_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11878,7 +11105,6 @@ window.QUIZ_DATA = [
     "a": "答：黑启动是指电\n力系统大面积停电后，在无外界电源支\n持的情况下，由具备自启动能力的发电机组所提供的恢复系统\n\n供电的服务。",
     "o": null,
     "q_img": "q1_question_images/Je3C2124_q.png",
-    "a_img": "q1_answer_images/Je3C2124_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11890,7 +11116,6 @@ window.QUIZ_DATA = [
     "a": "答：接力器全行程试验一般在下列情况下进行：\n（1）导叶或轮叶接力器在排油检修后。\n（2）接力器行程开关、导轮叶位置接点调整后。\n（3）调速器解体检修后。",
     "o": null,
     "q_img": "q1_question_images/Je3C2125_q.png",
-    "a_img": "q1_answer_images/Je3C2125_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11902,7 +11127,6 @@ window.QUIZ_DATA = [
     "a": "答：承受\n机组转动部分的机械不平衡力和电磁不平衡力，\n维持机组主轴在轴承间隙范围内稳定运行。",
     "o": null,
     "q_img": "q1_question_images/Je3C2126_q.png",
-    "a_img": "q1_answer_images/Je3C2126_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11914,7 +11138,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）主要组成部件：定子、转子、机架、轴承（推力\n轴承和导轴承）以及制动系统，冷却系统，励磁系统等；\n（2）基本参数有：功率和功率因数、效率、额定转速及飞\n逸转速，转动惯量。",
     "o": null,
     "q_img": "q1_question_images/Je3C3127_q.png",
-    "a_img": "q1_answer_images/Je3C3127_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11926,7 +11149,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）误拉隔离开关时：当动触头刚离静触头时，便产\n生电弧。此时应立即合上，电弧熄灭，若隔离开关已全部断开，\n不许将误拉隔离开关合上。\n（2）误合隔离开关时：由于误合甚至在合闸时发生电弧，\n不许将隔离开关再拉开，以免带负荷拉隔离开关而造成三相弧\n光短路事故。",
     "o": null,
     "q_img": "q1_question_images/Je3C3128_q.png",
-    "a_img": "q1_answer_images/Je3C3128_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11938,7 +11160,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机转子回路\n接地；定子回路接地；内部线圈层间，\n匝间，分支之间绝缘损坏而短路；发电机失去励磁；发电机转\n\n101\n子滑环、炭刷发热、冒火花；定转子温度过高。",
     "o": null,
     "q_img": "q1_question_images/Je3C3129_q.png",
-    "a_img": "q1_answer_images/Je3C3129_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11950,7 +11171,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）机组转速升至额定后，合上发电机开关；\n（2）给发电机加励磁电流；\n（3）发电机同步后据要求带负荷。",
     "o": null,
     "q_img": "q1_question_images/Je3C4130_q.png",
-    "a_img": "q1_answer_images/Je3C4130_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11962,7 +11182,6 @@ window.QUIZ_DATA = [
     "a": "答：\n电伤是由于电流的热效应等对人体外部造成的伤害。\n电击是指触电时，电流通过人体对人体内部器官造成的伤害。",
     "o": null,
     "q_img": "q1_question_images/Je3C4131_q.png",
-    "a_img": "q1_answer_images/Je3C4131_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11974,7 +11193,6 @@ window.QUIZ_DATA = [
     "a": "答：等\n值老化原理就是变压器在部分运行时间内绕组温度\n低于95℃或欠负荷，则在另一部分时间内可以使绕组温度高于\n95℃或过负荷，只要使过负荷时间内多损耗的寿命等于变压器\n在欠负荷时间内所少损耗的寿命，两者相互抵消，就仍然可以\n保持正常的使用寿命。",
     "o": null,
     "q_img": "q1_question_images/Je3C4132_q.png",
-    "a_img": "q1_answer_images/Je3C4132_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11986,7 +11204,6 @@ window.QUIZ_DATA = [
     "a": "答：按照国家规定，用正\n六面体的六个平面作为基本投影\n面，从零件的前后左右上下六个方向，向六个基本投影面投影\n得到六个视图，即：主视图、后视图、左视图、右视图、俯视\n图和仰视图，称为基本视图。",
     "o": null,
     "q_img": "q1_question_images/Je2C1133_q.png",
-    "a_img": "q1_answer_images/Je2C1133_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -11998,7 +11215,6 @@ window.QUIZ_DATA = [
     "a": "答：安全生产\"五同时\"就是指计划、布置、检查、总结、\n考核生产工作的同时，计划、布置、检查、总结、考核安全工\n作。",
     "o": null,
     "q_img": "q1_question_images/Je2C4134_q.png",
-    "a_img": "q1_answer_images/Je2C4134_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12010,7 +11226,6 @@ window.QUIZ_DATA = [
     "a": "答：从技术和经济的角度考虑，对应一定的输送功率和输\n送距离有一最合理的线路电压。但是，为保证制造电力设备的\n系列性，又不能任意确定线路电压，所以电力系统要规定标准\n电压等级。",
     "o": null,
     "q_img": "q1_question_images/Je2C4135_q.png",
-    "a_img": "q1_answer_images/Je2C4135_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12022,7 +11237,6 @@ window.QUIZ_DATA = [
     "a": "答：从控制方式上，水电站计算机监控系统分为：集中式、\n分散式、分层分布式和全分布全开放式。",
     "o": null,
     "q_img": "q1_question_images/Je2C4136_q.png",
-    "a_img": "q1_answer_images/Je2C4136_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12034,7 +11248,6 @@ window.QUIZ_DATA = [
     "a": "答：倒闸操作设备应具有命名、编号、分合指示，旋转方\n向、切换位置的指示及设备相色等明显的标志。",
     "o": null,
     "q_img": "q1_question_images/Je2C4137_q.png",
-    "a_img": "q1_answer_images/Je2C4137_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12046,7 +11259,6 @@ window.QUIZ_DATA = [
     "a": "答：机械传动包\n括摩擦轮传动、皮带传动、齿轮传动、蜗\n轮蜗杆传动、螺杆传动。",
     "o": null,
     "q_img": "q1_question_images/Je2C4138_q.png",
-    "a_img": "q1_answer_images/Je2C4138_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12058,7 +11270,6 @@ window.QUIZ_DATA = [
     "a": "答：自同期的优点\n是：并列快，不会造成非同期合闸，特\n别是系统事故时能使发电机迅速并入系统。它的缺点是：冲击\n电流大，机组振动较大，可能对机组有一定的影响，或造成合\n闸瞬间系统频率和电压下降。",
     "o": null,
     "q_img": "q1_question_images/Je2C5139_q.png",
-    "a_img": "q1_answer_images/Je2C5139_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12070,7 +11281,6 @@ window.QUIZ_DATA = [
     "a": "答：假想\n一个剖切平面，将某物体从某处剖切开来，移去\n剖切平面的部分，然后把其余部分向投影面进行投影，所得到\n的图形叫做剖视图。剖视图分为：全剖视、半剖视、局部剖视、\n阶梯剖视、旋转剖视、斜剖视和复合剖视等几类。\n\n103",
     "o": null,
     "q_img": "q1_question_images/Je2C5140_q.png",
-    "a_img": "q1_answer_images/Je2C5140_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12082,7 +11292,6 @@ window.QUIZ_DATA = [
     "a": "答：当转子位于机组中心线时，检查定子与转子上下端空\n气间隙，各间隙与平均间隙之差不应超过平均间隙值的±10%。",
     "o": null,
     "q_img": "q1_question_images/Je1C2141_q.png",
-    "a_img": "q1_answer_images/Je1C2141_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12094,7 +11303,6 @@ window.QUIZ_DATA = [
     "a": "答：电气重合闸一般按照“不对应”方式来启动，部分类\n型的重合闸会在断开短路器时误动；如果送电前重合闸还在投\n入，送电时会造成重合闸误合，送电后有可能重合闸拒动。",
     "o": null,
     "q_img": "q1_question_images/Je1C2142_q.png",
-    "a_img": "q1_answer_images/Je1C2142_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12106,7 +11314,6 @@ window.QUIZ_DATA = [
     "a": "答：导水叶剪断销剪断后导水叶在水力的作用下没有关至\n0 位，还有水流流过转轮，如果钢管有水压，制动解除后，则\n机组就有转动可能，这样对事故处理不利，不但达不到缩小事\n故的目的，而且有扩大事故的可能，所以事故停机中导水叶剪\n断销剪断制动不撤除。",
     "o": null,
     "q_img": "q1_question_images/Je1C3143_q.png",
-    "a_img": "q1_answer_images/Je1C3143_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12118,7 +11325,6 @@ window.QUIZ_DATA = [
     "a": "答：因为在这两种情况下，断路器的灭弧能力降低乃至丧\n失，此时不允许该断路器带负荷分闸。为了防止此时保护动作\n于该断路器跳闸，应请示有关人员后切断开有关保护电源（不\n能切保护电源的应断开其跳闸回路），将该开关所带的负荷转移\n或停电，再断开其上一级供电断路器后再将该断路器分闸，做\n好措施，联系检修处理。",
     "o": null,
     "q_img": "q1_question_images/Je1C3144_q.png",
-    "a_img": "q1_answer_images/Je1C3144_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12130,7 +11336,6 @@ window.QUIZ_DATA = [
     "a": "答：“三老”指讲老实话、做老实事和当老实人；“四严”\n\n指严明的纪律、严细的作风、严肃的态度和严密的组织。",
     "o": null,
     "q_img": "q1_question_images/Je1C4145_q.png",
-    "a_img": "q1_answer_images/Je1C4145_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12142,7 +11347,6 @@ window.QUIZ_DATA = [
     "a": "答：电气方面不平衡力主要有：\n（1）不均衡的间隙造成磁拉力不均衡；\n（2）发电机转子线圈间短路后，造成不均衡磁拉力增大；\n（3）三相负荷不平衡产生负序电流和负序磁场，形成交变\n应力。",
     "o": null,
     "q_img": "q1_question_images/Je1C4146_q.png",
-    "a_img": "q1_answer_images/Je1C4146_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12154,7 +11358,6 @@ window.QUIZ_DATA = [
     "a": "答：“四不放过”是指事故原因不清楚不放过，事故责任者\n和应受教育者没有受到教育不放过，没有采取防范措施不放过\n和事故责任者没有受到处罚不放过。",
     "o": null,
     "q_img": "q1_question_images/Je1C5147_q.png",
-    "a_img": "q1_answer_images/Je1C5147_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12166,7 +11369,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）水温。用水设备的进水温度以在4～25℃为宜，\n进水温度过高会影响发电机的出力，进水温度过低会使冷却器\n铜管外凝结水珠，以及沿管长方向温度变化太大造成裂缝而损\n坏。\n（2）水压。为保持需要的冷却水量和必要的流速，要求进\n入冷却器的水有一定的压力。冷却器进水压力上限一般为\n0.2MPa 为宜，进水压力下限取决于冷却器中的阻力损失。\n（3）水质。水质不满足要求会使冷却器水管和水轮机轴颈\n面产生磨损、腐蚀、结垢和堵塞。",
     "o": null,
     "q_img": "q1_question_images/Je1C5148_q.png",
-    "a_img": "q1_answer_images/Je1C5148_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12178,7 +11380,6 @@ window.QUIZ_DATA = [
     "a": "答：由于发电机励磁回路存在很大的电感，根据需要灭\n\n105\n磁开关突然断开时，大的电感电路突然断路，而直流电流没有\n过零的时刻，电弧熄灭瞬间会产生过电压。电弧熄灭的越快，\n电流的变化率就越大，过电压值就越高。如果灭磁开关为动作\n迅速的断路器，这就有可能在转子上产生很高的电压而造成励\n磁回路的绝缘被击穿而损坏。因此，同步发电机励磁回路的灭\n磁开关不能改成动作迅速的断路器。",
     "o": null,
     "q_img": "q1_question_images/Je1C5149_q.png",
-    "a_img": "q1_answer_images/Je1C5149_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12190,7 +11391,6 @@ window.QUIZ_DATA = [
     "a": "答：机组进水口闸门的控制回路须满足下列要求：\n（1）闸门的正常提升和关闭，提升时应满足充水开度的要\n求；\n（2）机组事故过速达到落门定值时，应在两分钟内自动紧\n急关闭闸门；\n（3）闸门全开后，若由于某种原因使闸门下滑到一定位置，\n则应能自动将闸门重新提升到全开位置。",
     "o": null,
     "q_img": "q1_question_images/Jf5C1150_q.png",
-    "a_img": "q1_answer_images/Jf5C1150_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12202,7 +11402,6 @@ window.QUIZ_DATA = [
     "a": "答：滑动轴承的特点\n是：工作平稳、可靠，无噪声，承载\n力大，润滑良好时摩擦、磨损小，两摩擦表面之间的油膜能吸\n振，一般转速高，维护困难。",
     "o": null,
     "q_img": "q1_question_images/Jf5C1151_q.png",
-    "a_img": "q1_answer_images/Jf5C1151_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12214,7 +11413,6 @@ window.QUIZ_DATA = [
     "a": "答：液体流\n动过程中由于黏滞性的存在，同时受固体边壁\n的影响，使水流断面上速度分布不均匀，流层之间产生了内摩\n擦阻力，内摩擦阻力消耗的一部分机械能而产生能量损失，即\n水头损失，根据水流边界情况的不同把水头损失分为沿程水头\n损失和局部损失两大类。",
     "o": null,
     "q_img": "q1_question_images/Jf5C2152_q.png",
-    "a_img": "q1_answer_images/Jf5C2152_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12226,7 +11424,6 @@ window.QUIZ_DATA = [
     "a": "答：管流、明\n渠流主要有以下几点区别：①明渠水流存在\n着自由表面，而管流则没有；②管流的进水断面较规则，而明\n渠流变化较紊乱，很不规则；③明渠边壁的粗糙系数复杂多变，\n而管流则变化不大。",
     "o": null,
     "q_img": "q1_question_images/Jf5C3153_q.png",
-    "a_img": "q1_answer_images/Jf5C3153_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12238,7 +11435,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机定子绕组电流（即电枢电流）所产生的旋转\n磁场，对发电机转子电流产生的主磁场的作用，使发电机气隙\n中合成磁场发生畸变、削弱或增强，这种影响称电枢反应。",
     "o": null,
     "q_img": "q1_question_images/Jf5C4154_q.png",
-    "a_img": "q1_answer_images/Jf5C4154_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12250,7 +11446,6 @@ window.QUIZ_DATA = [
     "a": "答：倒换机组冷却水向时，应注意以下问题：\n（1）机组冷却水中断导致停机的保护停用（或改投信号）；\n（2）降低机组冷却水总水压；\n（3）倒换水向时采用“先开后关”的原则，倒换水向的阀\n门切换完后，应调整水压至正常要求，断水保护投入。",
     "o": null,
     "q_img": "q1_question_images/Jf5C5155_q.png",
-    "a_img": "q1_answer_images/Jf5C5155_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12262,7 +11457,6 @@ window.QUIZ_DATA = [
     "a": "答：运行交接班时；系统高峰负荷时；系统接线极不正常\n时；系统或设备发生事故时；大风、暴雪、雷电等恶劣天气时。",
     "o": null,
     "q_img": "q1_question_images/Jf4C1156_q.png",
-    "a_img": "q1_answer_images/Jf4C1156_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12274,7 +11468,6 @@ window.QUIZ_DATA = [
     "a": "答：技术供水的净化，一类为清除污物，一类为清除泥沙。\n清除污物的设备是滤水器。它是通过让水流经过一定孔径的滤\n网来净化水的。清除泥沙的设备有水力旋流器和沉淀池。水力\n旋流器让水流进入旋流器内高速旋转，在离心力的作用下，沙\n\n107\n颗粒趋向器壁，并旋转向下，达到清除泥沙的目的。沉淀池是\n一个矩形水池，水由进口缓慢流到出口，流速很小，这样，水\n中的悬浮物和泥沙便沉到池底。",
     "o": null,
     "q_img": "q1_question_images/Jf4C3157_q.png",
-    "a_img": "q1_answer_images/Jf4C3157_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12286,7 +11479,6 @@ window.QUIZ_DATA = [
     "a": "答：油劣化的根本原因是油和空气中的氧起了作用，油被\n氧化了。加速油劣化的因素有水分、温度、空气、天然光线、\n电流和其他因素，如金属的氧化作用、检修后清洗不良等。",
     "o": null,
     "q_img": "q1_question_images/Jf4C4158_q.png",
-    "a_img": "q1_answer_images/Jf4C4158_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12298,7 +11490,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器\n分接头的作用是改变变压器绕组的匝数比（即\n变比）而达到改变二次侧电压的目的。通过调整厂用变压器的\n分接头，可保证厂用母线电压质量。",
     "o": null,
     "q_img": "q1_question_images/Jf4C5159_q.png",
-    "a_img": "q1_answer_images/Jf4C5159_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12310,7 +11501,6 @@ window.QUIZ_DATA = [
     "a": "答：由于电流通过主\n轴、轴承、机座而接地，从而在轴颈\n和轴瓦之间产生小电弧的侵蚀作用，破坏油膜使轴承合金逐渐\n黏吸到轴颈上去，破坏轴瓦的良好工作面，引起轴承的过热，\n甚至把轴承合金熔化，此外，由于电流的长期电解作用，也会\n使润滑油变质发黑，降低润滑性能，使轴承温度升高。",
     "o": null,
     "q_img": "q1_question_images/Jf3C5160_q.png",
-    "a_img": "q1_answer_images/Jf3C5160_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12322,7 +11512,6 @@ window.QUIZ_DATA = [
     "a": "答：自然条件变化（如洪水、台风等）后受影响的设备；\n新投产和新检修后刚投运的设备；操作后的设备；存在较严重\n缺陷的设备；事故处理后或受其影响的设备；发生过故障的同\n类型设备。",
     "o": null,
     "q_img": "q1_question_images/Jf3C5161_q.png",
-    "a_img": "q1_answer_images/Jf3C5161_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12334,7 +11523,6 @@ window.QUIZ_DATA = [
     "a": "答：当变压器绕组绝缘温度在80～130℃范围内，温度每\n\n升高6℃，其绝缘老化速度将增加一倍，即温度每升高6℃，绝\n缘寿命就降低1/2，这就是绝缘老化的“六度法则”。",
     "o": null,
     "q_img": "q1_question_images/Jf3C5162_q.png",
-    "a_img": "q1_answer_images/Jf3C5162_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12346,7 +11534,6 @@ window.QUIZ_DATA = [
     "a": "答：它反映了水轮发电机转子刚体的惯性和机组转动部分\n保持原有运动状态的能力。",
     "o": null,
     "q_img": "q1_question_images/Jf2C3163_q.png",
-    "a_img": "q1_answer_images/Jf2C3163_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12358,7 +11545,6 @@ window.QUIZ_DATA = [
     "a": "答：我国消防工作的方针是：“预防为主，防消结合”。“预\n防为主”就是要把预防火灾的工作放在首要的地位，“防消结\n合”，就是在积极做好防火工作的同时，在组织上、思想上、物\n资上做好灭火战新的装备，一旦发生火灾，能迅速，有效地将\n火灾扑灭。“防”和“消”是相辅相成的两个方面，缺一不可。",
     "o": null,
     "q_img": "q1_question_images/Jf2C3164_q.png",
-    "a_img": "q1_answer_images/Jf2C3164_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12370,7 +11556,6 @@ window.QUIZ_DATA = [
     "a": "答：当机组启动和停机在低转速期间，使用高压油顶起装\n置在推力瓦和镜板之间用压力油将镜板稍稍顶起，保持推力轴\n承处于液体润滑状态，从而可保证在机组启动、停机过程中推\n力轴承的安全和可靠。在机组的盘车过程中也可使用高压油泵。",
     "o": null,
     "q_img": "q1_question_images/Jf2C4165_q.png",
-    "a_img": "q1_answer_images/Jf2C4165_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12382,7 +11567,6 @@ window.QUIZ_DATA = [
     "a": "答：接班(开工)前，结合当班运行方式和工作任务，作好\n危险点分析，布置安全措施，交代注意事项。",
     "o": null,
     "q_img": "q1_question_images/Jf2C4166_q.png",
-    "a_img": "q1_answer_images/Jf2C4166_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12394,7 +11578,6 @@ window.QUIZ_DATA = [
     "a": "答：电力生产安全事故应急处理预案的制定应遵守“统一\n\n109\n领导、分工协作、反应及时、措施果断、依靠科学”的原则。",
     "o": null,
     "q_img": "q1_question_images/Jf2C4167_q.png",
-    "a_img": "q1_answer_images/Jf2C4167_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12406,7 +11589,6 @@ window.QUIZ_DATA = [
     "a": "答：N-1 原则是指正常运行方式下的电力系统中任何一元\n件无故障或因故障断开，电力系统应能保持稳定运行和正常供\n电，其他元件不会过负荷，电压和频率均在允许的范围内。",
     "o": null,
     "q_img": "q1_question_images/Jf1C2168_q.png",
-    "a_img": "q1_answer_images/Jf1C2168_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12418,7 +11600,6 @@ window.QUIZ_DATA = [
     "a": "答：操作过\n电压是指由于电网内断路器操作或故障跳闸引\n起的过电压。主要包括：\n（1）切除空载线路和空载线路合闸时引起的过电压；\n（2）切除空载变压器引起的过电压；\n（3）间隙性电弧接地引起的过电压；\n（4）解合大环路引起的过电压。",
     "o": null,
     "q_img": "q1_question_images/Jf1C3169_q.png",
-    "a_img": "q1_answer_images/Jf1C3169_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12430,7 +11611,6 @@ window.QUIZ_DATA = [
     "a": "答：超过电力系统调度规定的电压曲线数值的±5%，且\n延续时间超过1h，或超出规定数值的±10%，且延续时间超过\n30min，定为电压异常。\n超过电力系统调度规定的电压曲线数值的±5%，且延续\n时间超过2h，或超出规定数值的±10%，且延续时间超过1h，\n定为电压事故。\n\n4 .\n1 .\n4\n计算题（计算结果保\n留小数点后两位）",
     "o": null,
     "q_img": "q1_question_images/Jf1C4170_q.png",
-    "a_img": "q1_answer_images/Jf1C4170_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12442,7 +11622,6 @@ window.QUIZ_DATA = [
     "a": "答：需13.33m 长的镍铬线。",
     "o": null,
     "q_img": "q1_question_images/La5D1001_q.png",
-    "a_img": "q1_answer_images/La5D1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12454,7 +11633,6 @@ window.QUIZ_DATA = [
     "a": "答：电阻值为17.5。",
     "o": null,
     "q_img": "q1_question_images/La5D1002_q.png",
-    "a_img": "q1_answer_images/La5D1002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12466,7 +11644,6 @@ window.QUIZ_DATA = [
     "a": "答：该船的排水量是2500m3。",
     "o": null,
     "q_img": "q1_question_images/La4D1003_q.png",
-    "a_img": "q1_answer_images/La4D1003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12478,7 +11655,6 @@ window.QUIZ_DATA = [
     "a": "答：功率因数为0.8。",
     "o": null,
     "q_img": "q1_question_images/La4D2004_q.png",
-    "a_img": "q1_answer_images/La4D2004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12490,7 +11666,6 @@ window.QUIZ_DATA = [
     "a": "答：二进制数1001、分别为十进制数9、47。",
     "o": null,
     "q_img": "q1_question_images/La4D4005_q.png",
-    "a_img": "q1_answer_images/La4D4005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12502,7 +11677,6 @@ window.QUIZ_DATA = [
     "a": "答：十进制数18、256 分别为十进制数10 010、100 000 000。",
     "o": null,
     "q_img": "q1_question_images/La4D5006_q.png",
-    "a_img": "q1_answer_images/La4D5006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12514,7 +11688,6 @@ window.QUIZ_DATA = [
     "a": "答：I1=0.4A，I2=I4=0.2A。",
     "o": null,
     "q_img": "q1_question_images/La3D3007_q.png",
-    "a_img": "q1_answer_images/La3D3007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12526,7 +11699,6 @@ window.QUIZ_DATA = [
     "a": "答：ri=1k，ro=3.3k，K=83。",
     "o": null,
     "q_img": "q1_question_images/La3D3008_q.png",
-    "a_img": "q1_answer_images/La3D3008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12538,7 +11710,6 @@ window.QUIZ_DATA = [
     "a": "答：（略）\nLa1D2010如图图D-4示，一台有两个副线圈\n的变压器，原线圈匝数n1=1100，接入电压U1＝220V",
     "o": null,
     "q_img": "q1_question_images/La2D2009_q.png",
-    "a_img": "q1_answer_images/La2D2009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12550,7 +11721,6 @@ window.QUIZ_DATA = [
     "a": "答：负载两端电压为220V。",
     "o": null,
     "q_img": "q1_question_images/Lb5D1011_q.png",
-    "a_img": "q1_answer_images/Lb5D1011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12562,7 +11732,6 @@ window.QUIZ_DATA = [
     "a": "答：切成4 段才符合要求。",
     "o": null,
     "q_img": "q1_question_images/Lb5D2012_q.png",
-    "a_img": "q1_answer_images/Lb5D2012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12574,7 +11743,6 @@ window.QUIZ_DATA = [
     "a": "答：此时灯泡的功率为25W。",
     "o": null,
     "q_img": "q1_question_images/Lb5D2013_q.png",
-    "a_img": "q1_answer_images/Lb5D2013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12586,7 +11754,6 @@ window.QUIZ_DATA = [
     "a": "答：一次额定电流为165.3A；二次额定电压为38.5kV。",
     "o": null,
     "q_img": "q1_question_images/Lb5D3014_q.png",
-    "a_img": "q1_answer_images/Lb5D3014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12598,7 +11765,6 @@ window.QUIZ_DATA = [
     "a": "答：水流速为2m/s。",
     "o": null,
     "q_img": "q1_question_images/Lb5D4015_q.png",
-    "a_img": "q1_answer_images/Lb5D4015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12610,7 +11776,6 @@ window.QUIZ_DATA = [
     "a": "答：i2 超前i12/3，相位差2/3。",
     "o": null,
     "q_img": "q1_question_images/Lb5D5016_q.png",
-    "a_img": "q1_answer_images/Lb5D5016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12622,7 +11787,6 @@ window.QUIZ_DATA = [
     "a": "答：机组的引用流量是237.714m3/s。",
     "o": null,
     "q_img": "q1_question_images/Lb4D1017_q.png",
-    "a_img": "q1_answer_images/Lb4D1017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12634,7 +11798,6 @@ window.QUIZ_DATA = [
     "a": "答：当f=50Hz 时，该发电机磁极对数为24 对；当额定转\n速为150r/min 时,磁极对数为20 对。",
     "o": null,
     "q_img": "q1_question_images/Lb4D2018_q.png",
-    "a_img": "q1_answer_images/Lb4D2018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12646,7 +11809,6 @@ window.QUIZ_DATA = [
     "a": "答：该机组惯性时间常数Ta 为8.81s。",
     "o": null,
     "q_img": "q1_question_images/Lb4D3019_q.png",
-    "a_img": "q1_answer_images/Lb4D3019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12658,7 +11820,6 @@ window.QUIZ_DATA = [
     "a": "答：额定转差率为5%。\n3 000",
     "o": null,
     "q_img": "q1_question_images/Lb4D4020_q.png",
-    "a_img": "q1_answer_images/Lb4D4020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12670,7 +11831,6 @@ window.QUIZ_DATA = [
     "a": "答：此时异步电动机的转速为735r/min。",
     "o": null,
     "q_img": "q1_question_images/Lb4D5021_q.png",
-    "a_img": "q1_answer_images/Lb4D5021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12682,7 +11842,6 @@ window.QUIZ_DATA = [
     "a": "答：高压侧额定电流为\n314.92A；中压侧额定电流为\n629.84A；低压侧额定电流为6 928.20A。",
     "o": null,
     "q_img": "q1_question_images/Lb3D2022_q.png",
-    "a_img": "q1_answer_images/Lb3D2022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12694,7 +11853,6 @@ window.QUIZ_DATA = [
     "a": "答：当电源频率为50Hz 时的额定转差率为3%。",
     "o": null,
     "q_img": "q1_question_images/Lb3D3023_q.png",
-    "a_img": "q1_answer_images/Lb3D3023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12706,7 +11864,6 @@ window.QUIZ_DATA = [
     "a": "答：线电流为19.01A，相电流为10.98A。",
     "o": null,
     "q_img": "q1_question_images/Lb3D3024_q.png",
-    "a_img": "q1_answer_images/Lb3D3024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12718,7 +11875,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机电动势为231V，负载电阻为46，输出功率为\n1.15kW。",
     "o": null,
     "q_img": "q1_question_images/Lb3D3025_q.png",
-    "a_img": "q1_answer_images/Lb3D3025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12730,7 +11886,6 @@ window.QUIZ_DATA = [
     "a": "答：PA 的读数为5A。",
     "o": null,
     "q_img": "q1_question_images/Lb3D4026_q.png",
-    "a_img": "q1_answer_images/Lb3D4026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12742,7 +11897,6 @@ window.QUIZ_DATA = [
     "a": "答：通过电池的电流是1A，流过120电阻的电流是0.4A，\n流过45电阻的电流是0.4A。",
     "o": null,
     "q_img": "q1_question_images/Lb3D5027_q.png",
-    "a_img": "q1_answer_images/Lb3D5027_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12754,7 +11908,6 @@ window.QUIZ_DATA = [
     "a": "答：R 上的电压降的时间函数为UR=Ri=US(1eLt/R)，其曲\n线如图D-11。\n图D-11",
     "o": null,
     "q_img": "q1_question_images/Lb2D3028_q.png",
-    "a_img": "q1_answer_images/Lb2D3028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12766,7 +11919,6 @@ window.QUIZ_DATA = [
     "a": "答：电容C 上的电压降的时间函数为Ut=US(1et/RC)，其\n曲线如图D-13。\n图D-13",
     "o": null,
     "q_img": "q1_question_images/Lb2D3029_q.png",
-    "a_img": "q1_answer_images/Lb2D3029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12778,7 +11930,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q1_question_images/Lb2D4030_q.png",
-    "a_img": "q1_answer_images/Lb2D4030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12790,7 +11941,6 @@ window.QUIZ_DATA = [
     "a": "答：导前时间小于等于0.56s。\n3U2n\n3 220103\n3 11103\n\nC\n1\n2\n1\nC\n2",
     "o": null,
     "q_img": "q1_question_images/Lb2D4031_q.png",
-    "a_img": "q1_answer_images/Lb2D4031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12802,7 +11952,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮机的输入功率为364.93MW ，输出功率为\n343.03MW，发电机的输出功率为336.17MW。",
     "o": null,
     "q_img": "q1_question_images/Lb2D4032_q.png",
-    "a_img": "q1_answer_images/Lb2D4032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12814,7 +11963,6 @@ window.QUIZ_DATA = [
     "a": "答：UC =75",
     "o": null,
     "q_img": "q1_question_images/Lb2D5033_q.png",
-    "a_img": "q1_answer_images/Lb2D5033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12826,7 +11974,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q1_question_images/Lb1D1034_q.png",
-    "a_img": "q1_answer_images/Lb1D1034_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12838,7 +11985,6 @@ window.QUIZ_DATA = [
     "a": "答：图D-16 输出为零，图D-17 输出为1。",
     "o": null,
     "q_img": "q1_question_images/Lb1D2035_q.png",
-    "a_img": "q1_answer_images/Lb1D2035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12850,7 +11996,6 @@ window.QUIZ_DATA = [
     "a": "答：UAB=15V，I1=10A，I2=10A，I3=10A，I4=30A。",
     "o": null,
     "q_img": "q1_question_images/Lb1D3036_q.png",
-    "a_img": "q1_answer_images/Lb1D3036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12862,7 +12007,6 @@ window.QUIZ_DATA = [
     "a": "答：转子绕组每相电势的频率是50Hz，电势是20V，转子\n电流为242.54.A，功率因数为0.24。\n0.022 0.082\nAB\n\n127",
     "o": null,
     "q_img": "q1_question_images/Lb1D3037_q.png",
-    "a_img": "q1_answer_images/Lb1D3037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12874,7 +12018,6 @@ window.QUIZ_DATA = [
     "a": "答：总电阻R12 等于2.684。",
     "o": null,
     "q_img": "q1_question_images/Lb1D4038_q.png",
-    "a_img": "q1_answer_images/Lb1D4038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12886,7 +12029,6 @@ window.QUIZ_DATA = [
     "a": "答：导叶关闭时间最小为6s 时发生直接水锤，所以，最小\n关闭时间应大于6s。",
     "o": null,
     "q_img": "q1_question_images/Lb1D4039_q.png",
-    "a_img": "q1_answer_images/Lb1D4039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12898,7 +12040,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q1_question_images/Lb1D5040_q.png",
-    "a_img": "q1_answer_images/Lb1D5040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12910,7 +12051,6 @@ window.QUIZ_DATA = [
     "a": "答：桶底面的静水压强为14.7kPa，桶底的总静水压力为\n58.8kN。",
     "o": null,
     "q_img": "q1_question_images/Lc5D1041_q.png",
-    "a_img": "q1_answer_images/Lc5D1041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12922,7 +12062,6 @@ window.QUIZ_DATA = [
     "a": "答：需白铁皮0.102 4m2。",
     "o": null,
     "q_img": "q1_question_images/Lc5D2042_q.png",
-    "a_img": "q1_answer_images/Lc5D2042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12934,7 +12073,6 @@ window.QUIZ_DATA = [
     "a": "答：取磁极对数为整数，p=3。",
     "o": null,
     "q_img": "q1_question_images/Lc4D1043_q.png",
-    "a_img": "q1_answer_images/Lc4D1043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12946,7 +12084,6 @@ window.QUIZ_DATA = [
     "a": "答：每极每相的槽数为2 5 。\n7",
     "o": null,
     "q_img": "q1_question_images/Lc4D3044_q.png",
-    "a_img": "q1_answer_images/Lc4D3044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12958,7 +12095,6 @@ window.QUIZ_DATA = [
     "a": "答：极距为6 槽，槽距角为30°。",
     "o": null,
     "q_img": "q1_question_images/Lc4D4045_q.png",
-    "a_img": "q1_answer_images/Lc4D4045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12970,7 +12106,6 @@ window.QUIZ_DATA = [
     "a": "答：定子绕组为分数槽绕组。\n203\n5",
     "o": null,
     "q_img": "q1_question_images/Lc4D5046_q.png",
-    "a_img": "q1_answer_images/Lc4D5046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12982,7 +12117,6 @@ window.QUIZ_DATA = [
     "a": "答：三极管处于截止状态，此时Vce=12V。",
     "o": null,
     "q_img": "q1_question_images/Lc3D2047_q.png",
-    "a_img": "q1_answer_images/Lc3D2047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -12994,7 +12128,6 @@ window.QUIZ_DATA = [
     "a": "答：输入线路上的电流为5.68A。",
     "o": null,
     "q_img": "q1_question_images/Lc2D3048_q.png",
-    "a_img": "q1_answer_images/Lc2D3048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13006,7 +12139,6 @@ window.QUIZ_DATA = [
     "a": "答：加装均压电容前，U1=U(C2+C0)/(C1+C0+ C2)=\nU\n3\n加装均压电容后，U1=U[(C+C2)+C0]/[2C+C1+C2+C0]≈U/2",
     "o": null,
     "q_img": "q1_question_images/Lc1D4049_q.png",
-    "a_img": "q1_answer_images/Lc1D4049_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13018,7 +12150,6 @@ window.QUIZ_DATA = [
     "a": "答：当天\n发电耗水率为3.75m3/（kWh）。",
     "o": null,
     "q_img": "q1_question_images/Jd5D1050_q.png",
-    "a_img": "q1_answer_images/Jd5D1050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13030,7 +12161,6 @@ window.QUIZ_DATA = [
     "a": "答：对应变压器的输出功率为100kW、80kW、60kW、40kW。",
     "o": null,
     "q_img": "q1_question_images/Jd5D2051_q.png",
-    "a_img": "q1_answer_images/Jd5D2051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13042,7 +12172,6 @@ window.QUIZ_DATA = [
     "a": "答：该电路电流的有效值为5A。",
     "o": null,
     "q_img": "q1_question_images/Jd4D1052_q.png",
-    "a_img": "q1_answer_images/Jd4D1052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13054,7 +12183,6 @@ window.QUIZ_DATA = [
     "a": "答：该\n机组转速为250r/min。",
     "o": null,
     "q_img": "q1_question_images/Jd4D3053_q.png",
-    "a_img": "q1_answer_images/Jd4D3053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13066,7 +12194,6 @@ window.QUIZ_DATA = [
     "a": "答：输出电压为12V。",
     "o": null,
     "q_img": "q1_question_images/Jd4D4054_q.png",
-    "a_img": "q1_answer_images/Jd4D4054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13078,7 +12205,6 @@ window.QUIZ_DATA = [
     "a": "答：RX1，RX2，RX3 分别为10，1，0.1M。",
     "o": null,
     "q_img": "q1_question_images/Jd4D5055_q.png",
-    "a_img": "q1_answer_images/Jd4D5055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13090,7 +12216,6 @@ window.QUIZ_DATA = [
     "a": "答：由于运放的输入电阻很大，所以i 基本上全部流过\nRX。S 和A 连接时，UA+U0=0\nU\nU\n5\nRX1=\nA =\n0 = =1（k）\ni\ni\n5\nF\n\n2π LC\n2π 0.5103 2 2001012\n100\n2 (157\n0\n同理，S 和B 连接时，i=0.5mA，RX1+RX2=\nRX2=101=9（k）\n5\n0.5\n=10（k）\n5\nS 和C 连接时，i=50A，RX1+RX2+RX3=\n50\nRX3=10010=90（k）\n=100（k）",
     "o": null,
     "q_img": "q1_question_images/Jd3D2056_q.png",
-    "a_img": "q1_answer_images/Jd3D2056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13102,7 +12227,6 @@ window.QUIZ_DATA = [
     "a": "答：LC 振荡器的频率f0 为151 748Hz，周期为6.59s。",
     "o": null,
     "q_img": "q1_question_images/Jd2D2057_q.png",
-    "a_img": "q1_answer_images/Jd2D2057_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13114,7 +12238,6 @@ window.QUIZ_DATA = [
     "a": "答：电流为1.37A。",
     "o": null,
     "q_img": "q1_question_images/Jd1D3058_q.png",
-    "a_img": "q1_answer_images/Jd1D3058_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13126,7 +12249,6 @@ window.QUIZ_DATA = [
     "a": "答：I1 为0.25A，I2 为0.15A，UAB 为3.1V。",
     "o": null,
     "q_img": "q1_question_images/Je5D1059_q.png",
-    "a_img": "q1_answer_images/Je5D1059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13138,7 +12260,6 @@ window.QUIZ_DATA = [
     "a": "答：这一时段内的发电量为3×105kWh。\nkWh）",
     "o": null,
     "q_img": "q1_question_images/Je5D2060_q.png",
-    "a_img": "q1_answer_images/Je5D2060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13150,7 +12271,6 @@ window.QUIZ_DATA = [
     "a": "答：这个水电站的出力是770 000kW。",
     "o": null,
     "q_img": "q1_question_images/Je5D2061_q.png",
-    "a_img": "q1_answer_images/Je5D2061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13162,7 +12282,6 @@ window.QUIZ_DATA = [
     "a": "答：大链轮的转\n速为10r/min。",
     "o": null,
     "q_img": "q1_question_images/Je5D3062_q.png",
-    "a_img": "q1_answer_images/Je5D3062_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13174,7 +12293,6 @@ window.QUIZ_DATA = [
     "a": "答：该机组有8 个风闸。",
     "o": null,
     "q_img": "q1_question_images/Je5D4063_q.png",
-    "a_img": "q1_answer_images/Je5D4063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13186,7 +12304,6 @@ window.QUIZ_DATA = [
     "a": "答：需294kN 的提门力。",
     "o": null,
     "q_img": "q1_question_images/Je5D5064_q.png",
-    "a_img": "q1_answer_images/Je5D5064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13198,7 +12315,6 @@ window.QUIZ_DATA = [
     "a": "答：闸门承受静水总压力\nP=gh³A=3.2³9.8³11³8=2 759.68（kN）启门时\n的提门力应大于2 940+2 759.68×0.1=3215.97（kN）\n答：提门力应大于3215.97 千牛",
     "o": null,
     "q_img": "q1_question_images/Je4D1065_q.png",
-    "a_img": "q1_answer_images/Je4D1065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13210,7 +12326,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮机主轴输出功率为84.2MW。\n\n139",
     "o": null,
     "q_img": "q1_question_images/Je4D2066_q.png",
-    "a_img": "q1_answer_images/Je4D2066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13222,7 +12337,6 @@ window.QUIZ_DATA = [
     "a": "答：渗漏集水井有效容积为14.2m3。",
     "o": null,
     "q_img": "q1_question_images/Je4D3067_q.png",
-    "a_img": "q1_answer_images/Je4D3067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13234,7 +12348,6 @@ window.QUIZ_DATA = [
     "a": "答：排尾水管内的水所用时间4.2h。",
     "o": null,
     "q_img": "q1_question_images/Je4D4068_q.png",
-    "a_img": "q1_answer_images/Je4D4068_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13246,7 +12359,6 @@ window.QUIZ_DATA = [
     "a": "答：甲乙两机各增带负荷30MW 和20MW。",
     "o": null,
     "q_img": "q1_question_images/Je4D5069_q.png",
-    "a_img": "q1_answer_images/Je4D5069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13258,7 +12370,6 @@ window.QUIZ_DATA = [
     "a": "答：选取基准值Sj=2 500kVA，Uj=Up\nX1*=0.06\nX2*=0.08×2 500/750=0.27\nX X* X* =0.06+0.27=0.33\n*\n*\nIK =1/X =3\n15.75kV 段短路电流IK1= I* ×\n2 500\n3 15.75\n=275（A）\n6kV 段短路电流\nIK2=275×15.75/6=721.88（A）\n0.4kV 段短路电流\nIK3=275×15.75/0.4=10 828.13（A）",
     "o": null,
     "q_img": "q1_question_images/Je3D3070_q.png",
-    "a_img": "q1_answer_images/Je3D3070_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13270,7 +12381,6 @@ window.QUIZ_DATA = [
     "a": "答：电路的总电压为36V，总电流为0.9A。",
     "o": null,
     "q_img": "q1_question_images/Je3D3071_q.png",
-    "a_img": "q1_answer_images/Je3D3071_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13282,7 +12392,6 @@ window.QUIZ_DATA = [
     "a": "答：该机甩负荷过程中产生最大转速是150r/min。",
     "o": null,
     "q_img": "q1_question_images/Je3D3072_q.png",
-    "a_img": "q1_answer_images/Je3D3072_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13294,7 +12403,6 @@ window.QUIZ_DATA = [
     "a": "答：相电流：38A；线电流：65.8A；总平均功率：25.992kW。",
     "o": null,
     "q_img": "q1_question_images/Je3D4073_q.png",
-    "a_img": "q1_answer_images/Je3D4073_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13306,7 +12414,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q1_question_images/Je3D4074_q.png",
-    "a_img": "q1_answer_images/Je3D4074_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13318,7 +12425,6 @@ window.QUIZ_DATA = [
     "a": "答：并联电容的电容量为2.1F。",
     "o": null,
     "q_img": "q1_question_images/Je3D4075_q.png",
-    "a_img": "q1_answer_images/Je3D4075_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13330,7 +12436,6 @@ window.QUIZ_DATA = [
     "a": "答：轴功率为96.464kW；有效功率为69.454kW。",
     "o": null,
     "q_img": "q1_question_images/Je3D4076_q.png",
-    "a_img": "q1_answer_images/Je3D4076_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13342,7 +12447,6 @@ window.QUIZ_DATA = [
     "a": "答：第一台变压器的负载为3 889kVA，第二台变压器的负\n载为3111kVA。两台变压器都不过负荷。",
     "o": null,
     "q_img": "q1_question_images/Je3D5077_q.png",
-    "a_img": "q1_answer_images/Je3D5077_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13354,7 +12458,6 @@ window.QUIZ_DATA = [
     "a": "答：流过短路点的次暂态短路电流为4.21kA。",
     "o": null,
     "q_img": "q1_question_images/Je3D5078_q.png",
-    "a_img": "q1_answer_images/Je3D5078_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13366,7 +12469,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）星形接法电动机的相电流\nIph=Ili（线电流）\nU1i\nph\n设每相绕组阻抗为Z，则\nU =U1i\n380 =220（V），Iph=\nUph\n=220\n5\n=44（A）\n（2）电动机的功率因数\ncos= R 4 =0.8\nZ\n5\n（3）电动机消耗的有功功率\nP=\nUliIlicos\n= 3 ×380×44×0.8\n=23（kW）\n电动机消耗的无功功率\nQ=\nUliIlisin\n= 3 ×380×44×0.6\n=17.4（kvar）",
     "o": null,
     "q_img": "q1_question_images/Je2D3079_q.png",
-    "a_img": "q1_answer_images/Je2D3079_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13378,7 +12480,6 @@ window.QUIZ_DATA = [
     "a": "答：取磁极对数为整数，p=2。",
     "o": null,
     "q_img": "q1_question_images/Je2D4080_q.png",
-    "a_img": "q1_answer_images/Je2D4080_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13390,7 +12491,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器二次侧额定电流为\n240.6A，二次侧环流达\n2496A，可见接线组别不相同的变压器绝对不能并列。",
     "o": null,
     "q_img": "q1_question_images/Je2D4081_q.png",
-    "a_img": "q1_answer_images/Je2D4081_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13402,7 +12502,6 @@ window.QUIZ_DATA = [
     "a": "答：\n（1）综合效益系数为8.15，耗水率为4.035m3（\n/\nkW²h）。",
     "o": null,
     "q_img": "q1_question_images/Je2D4082_q.png",
-    "a_img": "q1_answer_images/Je2D4082_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13414,7 +12513,6 @@ window.QUIZ_DATA = [
     "a": "答：甲机增加31.25MW，乙机增加18.75MW。",
     "o": null,
     "q_img": "q1_question_images/Je2D4083_q.png",
-    "a_img": "q1_answer_images/Je2D4083_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13426,7 +12524,6 @@ window.QUIZ_DATA = [
     "a": "答：第一台变压器的负载为111.11kVA，已经过负荷，第\n二台变压器的负载为88.89kVA。",
     "o": null,
     "q_img": "q1_question_images/Je2D4084_q.png",
-    "a_img": "q1_answer_images/Je2D4084_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13438,7 +12535,6 @@ window.QUIZ_DATA = [
     "a": "答：该点三相短路回路总电抗的标幺值是0.71，短路电流\n的有名值是1 108A。",
     "o": null,
     "q_img": "q1_question_images/Je2D4085_q.png",
-    "a_img": "q1_answer_images/Je2D4085_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13450,7 +12546,6 @@ window.QUIZ_DATA = [
     "a": "答：在给定负荷和机组数目的情况下，按照等耗量微增\n率分配负荷，相应的耗量微增率为：\ndQ\n1\n=1+0.08P1\n2=\ndP1\n且1=2\nP=P1+P2=100\ndQ2\ndP2\n=0.8+0.14P2\n联立以上四个方程，可得：P1=62.7（MW）\nP2=37.3（MW）\n3\n\n149\n0\nq\n同理，当P=400MW，求得P1=253.6MW，超出额定功率，\n故取P1=250MW，P2=150MW。",
     "o": null,
     "q_img": "q1_question_images/Je2D5086_q.png",
-    "a_img": "q1_answer_images/Je2D5086_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13462,7 +12557,6 @@ window.QUIZ_DATA = [
     "a": "答：该条件下E* 为1.77\n.4°。",
     "o": null,
     "q_img": "q1_question_images/Je2D5087_q.png",
-    "a_img": "q1_answer_images/Je2D5087_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13474,7 +12568,6 @@ window.QUIZ_DATA = [
     "a": "答：当P=200MW 时，应按P1=122.3MW，P2=77.7MW 分\n配负荷；当P=500MW 时，应按P1=300MW，P2=200MW 分配\n负荷。",
     "o": null,
     "q_img": "q1_question_images/Je1D2088_q.png",
-    "a_img": "q1_answer_images/Je1D2088_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13486,7 +12579,6 @@ window.QUIZ_DATA = [
     "a": "答：必须并联一只10.1的分流电阻。",
     "o": null,
     "q_img": "q1_question_images/Je1D2089_q.png",
-    "a_img": "q1_answer_images/Je1D2089_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13498,7 +12590,6 @@ window.QUIZ_DATA = [
     "a": "答：已超过额定值。",
     "o": null,
     "q_img": "q1_question_images/Je1D3090_q.png",
-    "a_img": "q1_answer_images/Je1D3090_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13510,7 +12601,6 @@ window.QUIZ_DATA = [
     "a": "答：电源电压为110V；无功功率是1.936kvar。",
     "o": null,
     "q_img": "q1_question_images/Je1D3091_q.png",
-    "a_img": "q1_answer_images/Je1D3091_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13522,7 +12612,6 @@ window.QUIZ_DATA = [
     "a": "答：负载相电流：\nIA′B′=10\nIB′C′=10ej120°A\nIC′A′=10e\n°\nj120°A\nj150°\n线电流：IA=17.3ej30 A，IB=17.3e\nA\n线电压：\nIC=17.3e\nj30°\nj90°A\nj90°\nUAB=IA′B′Z=380e\n（V），UBC=380e\nj150°\n（V）\nUCA=380e\n（V）\n\n153\nC\n电源端相电压：\nUA=220（V），UB=220ej120°（V），U =220e\nj120°（V）",
     "o": null,
     "q_img": "q1_question_images/Je1D4092_q.png",
-    "a_img": "q1_answer_images/Je1D4092_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13534,7 +12623,6 @@ window.QUIZ_DATA = [
     "a": "答：绕组平均温升极限为70℃。",
     "o": null,
     "q_img": "q1_question_images/Je1D4093_q.png",
-    "a_img": "q1_answer_images/Je1D4093_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13546,7 +12634,6 @@ window.QUIZ_DATA = [
     "a": "答：用标幺值计算，选Sj=50/0.8MVA，Uj=Up（各段平\n均电压）\n如图D-41 负载网络中：\n\n1.5 3\n1\n5\n5\n图D-41\nX *=0.129\n*\n50\nX2 =10.5%³\n*\n630.\n8\n50\n=0.104\nX3 =0.4³50³\n*\n1151150.\n8\n50\n=0.094 5\nX4 =10.5%³\n1150.\n8\n=0.208\nZ* =\n*\n10.5\n\n50\n10.510.5\n0.8\n=2.29≈X\n*\nX1 =0.129+0.104+0.094 5+0.208+2.29=2.826\n如图D-42 正序网络中：\n图D-42\n正序网络各元件电抗与负载网络相同。如\n图D-43 负序网络中：\n\n155\n图D-43\n\n7\n0\nI\n\n\nIA2\n负序网络各元件电抗，除负载外等于正序电抗，负载的负\n序阻抗一般是正序阻抗的0.35 倍，所以负",
     "o": null,
     "q_img": "q1_question_images/Je1D5094_q.png",
-    "a_img": "q1_answer_images/Je1D5094_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13558,7 +12645,6 @@ window.QUIZ_DATA = [
     "a": "答：额定电流是4.55A，一个月消耗60kWh 的电能。",
     "o": null,
     "q_img": "q1_question_images/Jf5D1095_q.png",
-    "a_img": "q1_answer_images/Jf5D1095_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13570,7 +12656,6 @@ window.QUIZ_DATA = [
     "a": "答：该电机电流为22A，功率因数为0.8。\n1150.83\n\n3\n\n1\nN",
     "o": null,
     "q_img": "q1_question_images/Jf5D2096_q.png",
-    "a_img": "q1_answer_images/Jf5D2096_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13582,7 +12667,6 @@ window.QUIZ_DATA = [
     "a": "答：每极磁通为0.006 4Wb，导体中感应电势的频率为\n48.3Hz。",
     "o": null,
     "q_img": "q1_question_images/Jf4D2097_q.png",
-    "a_img": "q1_answer_images/Jf4D2097_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13594,7 +12678,6 @@ window.QUIZ_DATA = [
     "a": "答：额定输入功率为12.5kW，额定电流为43.5A。",
     "o": null,
     "q_img": "q1_question_images/Jf4D3098_q.png",
-    "a_img": "q1_answer_images/Jf4D3098_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13606,7 +12689,6 @@ window.QUIZ_DATA = [
     "a": "答：电机本身消耗的功率ΣP 为3.2kW，电动机的效率为\n90%。\n",
     "o": null,
     "q_img": "q1_question_images/Jf3D2099_q.png",
-    "a_img": "q1_answer_images/Jf3D2099_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13618,7 +12700,6 @@ window.QUIZ_DATA = [
     "a": "答：X，X，Ｒ，Ｓ分别为7，6.5，4，2.4。",
     "o": null,
     "q_img": "q1_question_images/Jf3D3100_q.png",
-    "a_img": "q1_answer_images/Jf3D3100_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13630,7 +12711,6 @@ window.QUIZ_DATA = [
     "a": "答：I=U 500=1.11（kA）\nZ\n450\n\n161\n\n\n\n",
     "o": null,
     "q_img": "q1_question_images/Jf3D3101_q.png",
-    "a_img": "q1_answer_images/Jf3D3101_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13642,7 +12722,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）输出有功功率：\nPde\nE U\nmU\n2 1\n1 \nm\n0\n相sin\n相\n\nsin 2\nxd\n2\nxq\nxd \n3370230\n32302\n3.5 2.4\n\nsin 24\n\nsin\n483.5\n2\n3.52.4\n37.4（kV）\n（2）功率极限值：\ndPdc m E0U cosmU 2 1 1 cos 2\nd\nxd\nxq\nxd \n3370230\n32302 (3.5 2.4)\n\ncos\n\n3.5\n3.52.4\n(2cos21)\n令：dPdc =0，则：cos=0.25\nd\n=75°30′\n2\nPmax E0U sin 7530mU 1 1 sin 2=80.7（kW）\nxd",
     "o": null,
     "q_img": "q1_question_images/Jf2D3102_q.png",
-    "a_img": "q1_answer_images/Jf2D3102_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13654,7 +12733,6 @@ window.QUIZ_DATA = [
     "a": "答：当为Y，yn12 接线时，相电流为17.32A；当为D，d12\n接线时，为10A。",
     "o": null,
     "q_img": "q1_question_images/Jf2D5103_q.png",
-    "a_img": "q1_answer_images/Jf2D5103_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13666,7 +12744,6 @@ window.QUIZ_DATA = [
     "a": "答：= Z\n2p 360 15 （槽）\n48\n2\na p3602436024\nZ\nq Z\n\n360\n360\n5 （槽）\n2pm\n2243\n2",
     "o": null,
     "q_img": "q1_question_images/Jf1D3104_q.png",
-    "a_img": "q1_answer_images/Jf1D3104_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13678,7 +12755,6 @@ window.QUIZ_DATA = [
     "a": "答：TA 二次侧的电流为3.37A。\n3\n3\n\n163\nW1\nW2",
     "o": null,
     "q_img": "q1_question_images/Jf1D3105_q.png",
-    "a_img": "q1_answer_images/Jf1D3105_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13690,7 +12766,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q1_question_images/Jf1D4106_q.png",
-    "a_img": "q1_answer_images/Jf1D4106_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13702,7 +12777,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-1。\n图E-1\n图E-2",
     "o": null,
     "q_img": "q1_question_images/La5E2001_q.png",
-    "a_img": "q1_answer_images/La5E2001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13714,7 +12788,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-2。",
     "o": null,
     "q_img": "q1_question_images/La5E2002_q.png",
-    "a_img": "q1_answer_images/La5E2002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13726,7 +12799,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-3。\n图E-3\n图E-4",
     "o": null,
     "q_img": "q1_question_images/La4E1003_q.png",
-    "a_img": "q1_answer_images/La4E1003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13738,7 +12810,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-4。",
     "o": null,
     "q_img": "q1_question_images/La4E3004_q.png",
-    "a_img": "q1_answer_images/La4E3004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13750,7 +12821,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-5。\n图E-5\n图E-6",
     "o": null,
     "q_img": "q1_question_images/La4E4005_q.png",
-    "a_img": "q1_answer_images/La4E4005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13762,7 +12832,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-6。",
     "o": null,
     "q_img": "q1_question_images/La4E5006_q.png",
-    "a_img": "q1_answer_images/La4E5006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13774,7 +12843,6 @@ window.QUIZ_DATA = [
     "a": "答：答案如图E-07 所示。\n\n167\n图E-07\n图\nE-08",
     "o": null,
     "q_img": "q1_question_images/Lb5E1007_q.png",
-    "a_img": "q1_answer_images/Lb5E1007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13786,7 +12854,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-08。",
     "o": null,
     "q_img": "q1_question_images/Lb5E2008_q.png",
-    "a_img": "q1_answer_images/Lb5E2008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13798,7 +12865,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-09。\n图\nE-09\n图E-10",
     "o": null,
     "q_img": "q1_question_images/Lb4E2009_q.png",
-    "a_img": "q1_answer_images/Lb4E2009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13810,7 +12876,6 @@ window.QUIZ_DATA = [
     "a": "答：答案如图E-10 所示。",
     "o": null,
     "q_img": "q1_question_images/Lb4E3010_q.png",
-    "a_img": "q1_answer_images/Lb4E3010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13822,7 +12887,6 @@ window.QUIZ_DATA = [
     "a": "答：根据主俯视图，答案如图E-12。\n\n图E-11\n图\nE-12",
     "o": null,
     "q_img": "q1_question_images/Lb4E4011_q.png",
-    "a_img": "q1_answer_images/Lb4E4011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13834,7 +12898,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-14。\n图E-14\n\n169",
     "o": null,
     "q_img": "q1_question_images/Lb3E2012_q.png",
-    "a_img": "q1_answer_images/Lb3E2012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13846,7 +12909,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-15 和图E-16。\nL\n图E-15\n图\nE-16。",
     "o": null,
     "q_img": "q1_question_images/Lb3E2013_q.png",
-    "a_img": "q1_answer_images/Lb3E2013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13858,7 +12920,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-17。由于铁芯饱和，t 曲线呈平顶\n形。\nI\nR\nI1\nU\nC\nI2\n\n图E-17",
     "o": null,
     "q_img": "q1_question_images/Lb3E3014_q.png",
-    "a_img": "q1_answer_images/Lb3E3014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13870,7 +12931,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q1_question_images/Lb3E3015_q.png",
-    "a_img": "q1_answer_images/Lb3E3015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13882,7 +12942,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-20。\n\n171",
     "o": null,
     "q_img": "q1_question_images/Lb3E4016_q.png",
-    "a_img": "q1_answer_images/Lb3E4016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13894,7 +12953,6 @@ window.QUIZ_DATA = [
     "a": "答：正常运行时的相量图如图E-21 所示。\n当A 相单相接地后，其电压相量图如图E-22 虚线所示。\n图E-19\n图E-20\n图E-21\n图E-22",
     "o": null,
     "q_img": "q1_question_images/Lb2E2017_q.png",
-    "a_img": "q1_answer_images/Lb2E2017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13906,7 +12964,6 @@ window.QUIZ_DATA = [
     "a": "答：答案图示于图E-24。\n图E-23\n图E-24",
     "o": null,
     "q_img": "q1_question_images/Lb2E3018_q.png",
-    "a_img": "q1_answer_images/Lb2E3018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13918,7 +12975,6 @@ window.QUIZ_DATA = [
     "a": "答：答案画于图E-25。\n\n173\n图E-25",
     "o": null,
     "q_img": "q1_question_images/Lb2E4019_q.png",
-    "a_img": "q1_answer_images/Lb2E4019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13930,7 +12986,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-26。\n图E-26。",
     "o": null,
     "q_img": "q1_question_images/Lb2E4020_q.png",
-    "a_img": "q1_answer_images/Lb2E4020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13942,7 +12997,6 @@ window.QUIZ_DATA = [
     "a": "答：其电流相量图示于图E-28。\n图E-27\n图E-28",
     "o": null,
     "q_img": "q1_question_images/Lb1E3021_q.png",
-    "a_img": "q1_answer_images/Lb1E3021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13954,7 +13008,6 @@ window.QUIZ_DATA = [
     "a": "答：其电流相量图示于图E-29。\nR1\njX1\n\njX\n2\n图E-29",
     "o": null,
     "q_img": "q1_question_images/Lb1E3022_q.png",
-    "a_img": "q1_answer_images/Lb1E3022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13966,7 +13019,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-30 和图E-31。\nE\nc\n0\nE\n0\n(a)\n-E\n图E-30\n微分电路：a.\n电路图，b. 输入（Ui）\n和输出（UR）波形图\nu R\nuc\nR\n\n173\nP\nPE\na\na\nb PM\nΔ δ\n0\nδ 1\nδ 2\nE\nR\n0\nui\nuc\nC\nE\n(a)0\n(b)\n图E-31\n积分电路：a.\n电路图，b. 输入（Ui）\n和输出（UC）波形图",
     "o": null,
     "q_img": "q1_question_images/Lb1E4023_q.png",
-    "a_img": "q1_answer_images/Lb1E4023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13978,7 +13030,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-32。\nδ\nδ\n系统故障时的功角特性曲线\n功角特性曲线\nui\nt\nt 1 t 2 t 3 t 4\nu R\nt\nP\n1\nd\na\nc\nf\nb\ne\ng\n2\n0\nδ 1 δ 2\nδ f\nPmax\nPM\nPmax\nPM\n\n图E-32\n说明：\n左图：曲线1———稳定运行时发电机电磁功率ＰEＰｍａ\nｘ——发电机最大电磁功率（对应δ为90°）ＰM———原\n动机功率\nＰE———发电机电磁功率ａ点———ＰM 与ＰE 相交的稳定\n运行点ｂ点———ＰM 与ＰE 相交的不稳定运行点δ1———\nａ点对应的稳定运行功角δ2———ｂ点对应的不稳定运行功\n角右图：曲线2———系统故障时发电机电磁功率ＰEｇ点—\n——故障瞬间δ1 角对应的电磁功率ＰE 交点，因ＰM＞ＰE，\n发电机开始加速，δ↑。ｃ点———ＰM 开始小于ＰE 发电\n机开始减速点。ｆ点———因减速面积少于加速面积，发电机\n不能回到ｃ点，\nδ继续增大，发电机失步。",
     "o": null,
     "q_img": "q1_question_images/Lb1E5024_q.png",
-    "a_img": "q1_answer_images/Lb1E5024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -13990,7 +13041,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-33。",
     "o": null,
     "q_img": "q1_question_images/Lc5E2025_q.png",
-    "a_img": "q1_answer_images/Lc5E2025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14002,7 +13052,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-34。\n\n175\n图E-33\n图E-34",
     "o": null,
     "q_img": "q1_question_images/Lc4E1026_q.png",
-    "a_img": "q1_answer_images/Lc4E1026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14014,7 +13063,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-35。\n图E-35",
     "o": null,
     "q_img": "q1_question_images/Lc4E1027_q.png",
-    "a_img": "q1_answer_images/Lc4E1027_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14026,7 +13074,6 @@ window.QUIZ_DATA = [
     "a": "答：答案如图E-37。\n图E-36\n图E-37",
     "o": null,
     "q_img": "q1_question_images/Lc3E3028_q.png",
-    "a_img": "q1_answer_images/Lc3E3028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14038,7 +13085,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-38。\n图E-38",
     "o": null,
     "q_img": "q1_question_images/Lc2E3029_q.png",
-    "a_img": "q1_answer_images/Lc2E3029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14050,7 +13096,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-39。\n\n177",
     "o": null,
     "q_img": "q1_question_images/Jd5E1030_q.png",
-    "a_img": "q1_answer_images/Jd5E1030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14062,7 +13107,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-41。\n图E-39",
     "o": null,
     "q_img": "q1_question_images/Jd5E2031_q.png",
-    "a_img": "q1_answer_images/Jd5E2031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14074,7 +13118,6 @@ window.QUIZ_DATA = [
     "a": "答：原理图如图E-42 所示。\n图E-41\n图\nE-42",
     "o": null,
     "q_img": "q1_question_images/Jd4E3032_q.png",
-    "a_img": "q1_answer_images/Jd4E3032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14086,7 +13129,6 @@ window.QUIZ_DATA = [
     "a": "答：答案草图示于图E-44。\n\n2\n2\n2\n图E-43\n图\nE-44",
     "o": null,
     "q_img": "q1_question_images/Jd3E3033_q.png",
-    "a_img": "q1_answer_images/Jd3E3033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14098,7 +13140,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图\nE-45。\nJX\nZ'\nZ\n0\nR\nZ\"\n图E-45",
     "o": null,
     "q_img": "q1_question_images/Jd3E3034_q.png",
-    "a_img": "q1_answer_images/Jd3E3034_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14110,7 +13151,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-47。\n\n179\n图E-46\n图E-47",
     "o": null,
     "q_img": "q1_question_images/Jd2E4035_q.png",
-    "a_img": "q1_answer_images/Jd2E4035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14122,7 +13162,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-49。\n\n图E-48\n图E-49",
     "o": null,
     "q_img": "q1_question_images/Jd1E4036_q.png",
-    "a_img": "q1_answer_images/Jd1E4036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14134,7 +13173,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-50（b）。\n\n181\n(a)\n(b)\n（a）原题；（b）答案\n图E-50。",
     "o": null,
     "q_img": "q1_question_images/Jd1E5037_q.png",
-    "a_img": "q1_answer_images/Jd1E5037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14146,7 +13184,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-52。\n图E-52",
     "o": null,
     "q_img": "q1_question_images/Je4E3038_q.png",
-    "a_img": "q1_answer_images/Je4E3038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14158,7 +13195,6 @@ window.QUIZ_DATA = [
     "a": "答：其相量草图示于图E-53。\n图E-53",
     "o": null,
     "q_img": "q1_question_images/Je3E3039_q.png",
-    "a_img": "q1_answer_images/Je3E3039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14170,7 +13206,6 @@ window.QUIZ_DATA = [
     "a": "答：接线图如图E-54 所示。\n\nIM\n1QF\n4QF\n2QF\n5QF\n3QF\n6QF\nIIM\n图E-54",
     "o": null,
     "q_img": "q1_question_images/Je3E3040_q.png",
-    "a_img": "q1_answer_images/Je3E3040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14182,7 +13217,6 @@ window.QUIZ_DATA = [
     "a": "答：接线图如图E-55 所示。\n图E-55",
     "o": null,
     "q_img": "q1_question_images/Je3E4041_q.png",
-    "a_img": "q1_answer_images/Je3E4041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14194,7 +13228,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-56。\n钮；SB2—正转按钮；SB3—反转按钮\n图E-56\nKH—热继电器；SB1—停止按",
     "o": null,
     "q_img": "q1_question_images/Je2E2042_q.png",
-    "a_img": "q1_answer_images/Je2E2042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14206,7 +13239,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-57。\nKp\nKdS\n被控对象\n+\nr(t)\n+\ne(t)\n+\nu(t)\nc(t)\n-\n+\nKi/S\n图E-57",
     "o": null,
     "q_img": "q1_question_images/Je2E2043_q.png",
-    "a_img": "q1_answer_images/Je2E2043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14218,7 +13250,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-59。\n图E-59",
     "o": null,
     "q_img": "q1_question_images/Je2E3044_q.png",
-    "a_img": "q1_answer_images/Je2E3044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14230,7 +13261,6 @@ window.QUIZ_DATA = [
     "a": "答：同步发电机调\n节特性曲线n=n1（n1额定转速）,U=常数，\ncos=常数的条件下，I f\n\nf(I )的曲线示于图E-60：\n\n187\n0\n0\n0\nIf\nIN\nI\n图E-60",
     "o": null,
     "q_img": "q1_question_images/Je2E4045_q.png",
-    "a_img": "q1_answer_images/Je2E4045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14242,7 +13272,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-61。\n图E-61",
     "o": null,
     "q_img": "q1_question_images/Je2E4046_q.png",
-    "a_img": "q1_answer_images/Je2E4046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14254,7 +13283,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-62。\n图E-62",
     "o": null,
     "q_img": "q1_question_images/Je1E3047_q.png",
-    "a_img": "q1_answer_images/Je1E3047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14266,7 +13294,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-63。\n图E-63",
     "o": null,
     "q_img": "q1_question_images/Je1E4048_q.png",
-    "a_img": "q1_answer_images/Je1E4048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14278,7 +13305,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-65（CT 可以画在任意一侧）。\n\n189\n图E-64\n图E-65\nr",
     "o": null,
     "q_img": "q1_question_images/Je1E5049_q.png",
-    "a_img": "q1_answer_images/Je1E5049_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14290,7 +13316,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-66。\n\n图E-66",
     "o": null,
     "q_img": "q1_question_images/Jf5E4050_q.png",
-    "a_img": "q1_answer_images/Jf5E4050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14302,7 +13327,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-67。\n图E-67",
     "o": null,
     "q_img": "q1_question_images/Jf4E2051_q.png",
-    "a_img": "q1_answer_images/Jf4E2051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14314,7 +13338,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-68。（可按照本厂实际画，图E-68 仅供\n参考）\n\n191\n图E-68",
     "o": null,
     "q_img": "q1_question_images/Jf3E3052_q.png",
-    "a_img": "q1_answer_images/Jf3E3052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14326,7 +13349,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-\n69。\n\n图E-69",
     "o": null,
     "q_img": "q1_question_images/Jf2E4053_q.png",
-    "a_img": "q1_answer_images/Jf2E4053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14338,7 +13360,6 @@ window.QUIZ_DATA = [
     "a": "答：答案示于图E-70。\n图E-70",
     "o": null,
     "q_img": "q1_question_images/Jf1E3054_q.png",
-    "a_img": "q1_answer_images/Jf1E3054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14350,7 +13371,6 @@ window.QUIZ_DATA = [
     "a": "答：答案草图示于图E-71。\n\n193\n图E-71\n\n4 .\n1 .\n6\n论述题",
     "o": null,
     "q_img": "q1_question_images/Jf1E4055_q.png",
-    "a_img": "q1_answer_images/Jf1E4055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14362,7 +13382,6 @@ window.QUIZ_DATA = [
     "a": "答：瓦斯保护是变压器的主保护，能有效反应变压器内部\n故障，如铁芯过热烧坏，油面降低，绕组发生匝间短路等。理\n由如下：\n（1）按工作原理，瓦斯保护可分轻瓦斯和重瓦斯两类。轻\n瓦斯继电器由开口杯，干簧接点等组成，作用于信号。重瓦斯\n继电器由档板、弹簧、磁铁和干簧接点等组成，作用于跳闸；\n（2）正常运行时，轻瓦斯继电器充满油，开口杯浸在油内，\n处于上浮位置，干簧接点跳开。重瓦斯继电器挡板在弹簧阻力\n的作用下，带动磁铁与干簧接点脱开；\n（3）当变压器内部轻微故障时，故障点因局部发热，引起\n附近的变压器油膨胀，油内溶解的空气被逐出，形成气泡上升，\n同时油和其他材料在电弧和放电等作用下电离而产生瓦斯。如\n故障轻微，排出的瓦斯缓慢上升进入瓦斯继电器，使其油面下\n降，开口杯产生的支点为轴逆时针方向转动，使干簧接点接通，\n发出信号；\n（4）当变压器内部内部故障严重时，因产生强烈的瓦斯，\n使变压器内部压力突增，产生很大的油流向油枕方向冲击，并\n冲击档板，档板克服弹簧阻力，带动磁铁向干簧触点方向移动，\n使干簧接点接通，作用于跳闸。",
     "o": null,
     "q_img": "q1_question_images/La5F1001_q.png",
-    "a_img": "q1_answer_images/La5F1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14374,7 +13393,6 @@ window.QUIZ_DATA = [
     "a": "答:事故停机中导叶剪断销剪断，制动后不允许立即撤出制\n动。理由如下：\n（1）剪断销作为导叶传动机构安全装置，它的强度比导叶\n传动机构其它零件的强度要小，当导叶间有杂物卡住，接力器\n\n195\n工作压力会增大很多，因此在接力器操作力矩的作用下使剪断\n销剪断而使被卡住的导叶脱离整个传动系统，使其余导叶仍能\n继续关闭，同时也保证了其余传动机构零件不致损坏；\n（2）剪断销剪断后，对应的导叶失控，在水力的作用下可\n能没有关至0 位，还有水流流过转轮，如果钢管有水压，唯\n有依靠制动保持机组停止，制动解除后，则机组就有转动可\n能；\n（3）事故停机后的机组是不允许立即启动的，否则就有可\n能扩大事故。所以事故停机中导叶剪断销剪断后，应该检查制\n动正常投入，在未做好其它安全措施之前禁止立即撤出制动。",
     "o": null,
     "q_img": "q1_question_images/La5F2002_q.png",
-    "a_img": "q1_answer_images/La5F2002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14386,7 +13404,6 @@ window.QUIZ_DATA = [
     "a": "答：电力生产与电网运行应当遵循安全、优质、经济的原\n则。电网运行应当连续、稳定，保证供电可靠性。继电保护装\n置是电力系统实现上述要求的物质基础。理由如下：\n（1）继电保护装置就是能反应电力系统中各电气设备发生\n故障或不正常工作状态，并作用于断路器跳闸或发出信号的一\n种自动装置；\n（2）继电保护装置能自动地、迅速地、有选择地借助断路\n器将故障设备从系统中切除，保证无故障设备迅速恢复正常运\n行，并使故障设备免于继续遭受破坏。\n（3）继电保护装置能反应电气设备的不正常工作状态，并\n根据运行维护的条件发信号或切除故障，提醒运行人员将事故\n消灭在萌芽状态。",
     "o": null,
     "q_img": "q1_question_images/La5F3003_q.png",
-    "a_img": "q1_answer_images/La5F3003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14398,7 +13415,6 @@ window.QUIZ_DATA = [
     "a": "答：采用自动重合闸能大大提高电力系统供电的可靠性和\n稳定性。理由如下：\n由于输电线路的故障大多是瞬间性的，因此，在故障线路\n被断开以后，故障自行消失，采用自动重合闸装置将线路自动、\n\n迅速地重新合闸，就能够恢复正常供电。\n\n197",
     "o": null,
     "q_img": "q1_question_images/La4F1004_q.png",
-    "a_img": "q1_answer_images/La4F1004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14410,7 +13426,6 @@ window.QUIZ_DATA = [
     "a": "答：阀控式密封铅酸蓄电池又叫免维护蓄电池，它可以大\n大减少维护量，降低维护成本。理由如下：\n（1）阀控式密封铅酸蓄电池将蓄电池的极板和电解液密封\n起来，以防止液体的挥发；\n（2）阀控式密封铅酸蓄电池采用智能型充电装置，根据蓄\n电池的端电压选择合理的充电状态，以减少蓄电池过充电和欠\n充电的机会；\n（3）阀控式密封铅酸蓄电池采用智能型巡回监测装置，发\n现故障及时报警。",
     "o": null,
     "q_img": "q1_question_images/La4F2005_q.png",
-    "a_img": "q1_answer_images/La4F2005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14422,7 +13437,6 @@ window.QUIZ_DATA = [
     "a": "答：汽\n蚀现象会对水轮发电机组安全经济运行造成严重危\n害，已经成为水轮发电机组设计和运行中必须考虑的重要因素。\n理由如下：\n（1）汽蚀主要是由于水轮机内部水流空化现象造成的，在\n汽泡的不断产生和凝结的过程中，水流紊乱，压力波动，高速\n度的水流质点，象锐利的刀尖一样，周期性地猛烈打击着叶片\n表面，并发生噪声与嚣叫，轻度汽蚀使水轮机过流部件浸蚀成\n麻点、粗糙不平，严重的浸蚀则使水轮机过流部件呈海绵状，\n甚至使转轮叶片穿孔、掉块。\n（2）汽蚀会造成水轮机过流部件遭到浸蚀破坏，恶化能量\n参数，特别当汽蚀发展到破坏正常水流流动的程度时，使能量\n损失急剧增加，效率和出力大幅度跌降。\n（3）水轮机在汽蚀状态运行，特别是混流式水轮机，其过\n流部件会发生低频率大幅度的压力脉动，导致整个机组和水电\n\n站厂房危险的振动和烦恼的噪声。\n（4）近代水轮机的发展趋势是不断提高转速以减小它的尺\n寸和成本，同时进一步提高单机容量，这些倾向都将增加汽蚀\n的严重性，因此汽蚀问题已经成为水轮发电机组发展的一个障\n碍。",
     "o": null,
     "q_img": "q1_question_images/La3F3006_q.png",
-    "a_img": "q1_answer_images/La3F3006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14434,7 +13448,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机定子电压允许在额定值的±5%范围内长期运\n行，如超过这个范围，就会对发电机安全运行有不良影响。理\n由如下：\n电压高于额定值时对发电机的影响有：\n（1）在发电机容量不变时，如提高发电机电压，势必要增\n加励磁，使转子绕组和转子表面的温度升高。\n（2）定子铁芯温度升高。\n（3）定子的结构部件可能出现局部高温。\n（4）对定子绕组绝缘产生威胁。电压低于额定值时对发电\n机的影响：\n（1）降低运行的稳定性，即并列运行的稳定性和发电机电\n压调节的稳定性会降低。\n（2）定子绕组温度可能升高。",
     "o": null,
     "q_img": "q1_question_images/La2F2007_q.png",
-    "a_img": "q1_answer_images/La2F2007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14446,7 +13459,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）可逆式转轮要能适应两个方向水流的要求，由于\n水泵工况的水流条件较难满足，故可逆转轮一般都做成和离心\n泵一样的形状，而与常规水轮机转轮的现状相差较多。\n（2）由于水泵水轮机双向运行的特性，水泵工况和水轮\n机工况的最高效率区并不重合，在选择水泵水轮机的工作点时，\n\n199\n一般先照顾水泵工况，因而水轮机工况就不能在最高效率点或\n其附近运行，在水力设计上，这种情况称为效率不匹配。\n（3）由于可逆式转轮的特有形状，在高水头运行时很容易\n产生叶片脱流而引起压力脉动。水泵工况时水流出口对导叶及\n固定桨叶的撞击也会形成很大的压力脉动，在转轮和导叶之间\n的压力脉动要比常规水轮机高.总的看来,可逆式水泵水轮机的\n水力振动特性要略差于常规水轮机。",
     "o": null,
     "q_img": "q1_question_images/La1F4008_q.png",
-    "a_img": "q1_answer_images/La1F4008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14458,7 +13470,6 @@ window.QUIZ_DATA = [
     "a": "答：涡流是电磁感应的一种特殊形式。该厂上述对水轮机\n叶片保温的方法正式利用了涡流原理。理由如下：\n转轮叶片是由整块铁磁性材料制成的，可看成是由许多细\n丝组合而成的众多闭合回路。绕在叶片上的导线可看成一个线\n圈，叶片就是线圈中的铁芯。当线圈通入交流电，即产生随电\n流作周期变化的磁通，垂直穿过组成叶片的各个闭合回路，并\n在闭合回路中产生感应电势，在感应电势作用下，各个闭合回\n路形成了旋涡形电流，即涡电流，简称涡流。涡流在铁磁性叶\n片中流动，使叶片发热，形成一定温度，起到了保温作用。",
     "o": null,
     "q_img": "q1_question_images/Lb5F1009_q.png",
-    "a_img": "q1_answer_images/Lb5F1009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14470,7 +13481,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮发电机出口短路的短路电流，可能达到额定电流\n的10 多倍，对发电机安全稳定运行造成严重危害，理由如\n下：\n（1）定子绕组端部受到很大的电动力，它包括定子绕组端\n部相互间的作用力、定子绕组端部与铁芯之间的作用力、定子\n绕组端部与转子绕组相互的作用力。这些相互作用力的合力使\n\n\n199\n得定子绕组端部向外弯曲、变形、绑线绷断，受力最严重的地\n方是线棒的直线部分和渐开线部分的交界处。电动力的大小与\n电流的平方成正比。\n（2）转子轴受到很大的电磁力矩的作用。这个电磁力矩有\n两种，一种是短路电流中使定子、转子绕组产生电阻损耗的有\n功分量所产生的阻力矩，它与转子转向相反，其性质与正常时\n送有功的力矩相同；另一种是突然短路过渡过程中出现的冲击\n交变力矩，它的大小和符号读随时间迅速变化。这两种力矩作\n用在电机的转轴、机座及地脚螺栓上。\n（3）定子绕组和转子绕组瞬间过热，导致定子绕组或转子\n绕组绝缘损坏，甚至烧毁。",
     "o": null,
     "q_img": "q1_question_images/Lb5F2010_q.png",
-    "a_img": "q1_answer_images/Lb5F2010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14482,7 +13492,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机失磁对电力系统和发电机本身安全稳定运行都\n有严重危害，必须尽力避免这种情况的发生。理由如下：\n对系统的主要影响有：\n（1）发电机失磁后，不但不能向系统送出无功功率，而且\n还要从系统中吸取无功功率，造成系统电压下降。\n（2）为了供给失磁发电机无功功率，可能造成系统中其它\n发电机过流。\n对发电机本身影响有：\n（1）失磁后，转子和定子磁场间出现了速度差，会在转子\n回路中感应出转差频率的电流，引起转子局部过热。\n（2）发电机受交变的异步力炬的冲击而发生振动，转差率\n越大，振动就越厉害。",
     "o": null,
     "q_img": "q1_question_images/Lb5F3011_q.png",
-    "a_img": "q1_answer_images/Lb5F3011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14494,7 +13503,6 @@ window.QUIZ_DATA = [
     "a": "答：频率降低对发电机安全经济运行会带来不利影响，而\n且频率越低，影响越厉害。理由如下：\n\n（1）引起发电机转速下降，使由转子旋转鼓进定子和转子\n的风量减少，其后果是使发电机冷却条件变坏，各部分温度升\n高。\n（2）因发电机端电压与频率及磁通大小成正比关系，频率\n降低，必然要增大磁通才能保持端电压不变，这就要增加励磁\n电流，从而使转子线圈温度升高。否则，只有降低发电机出力。\n（3）为保持端电压不变，增加磁通结果，会使定子铁芯饱\n和，磁通逸出，使机座的某些构件产生局部高温，有的部位有\n可能冒火星。",
     "o": null,
     "q_img": "q1_question_images/Lb4F1012_q.png",
-    "a_img": "q1_answer_images/Lb4F1012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14506,7 +13514,6 @@ window.QUIZ_DATA = [
     "a": "答：\n为了确保直流系统稳定运行，必须在直流系统中安\n装绝缘监察装置。理由如下：\n（1）直流系统中发生一点接地并不会引起严重的后果，但\n不允许在一点接地的情况下长期运行，这是由于此时若发生另\n一点接地，可能造成信号装置、继电保护、控制电路的误动作\n或拒动作，并且可能造成直流系统短路，使直流负荷熔断器熔\n断，造成直流失电。\n（2）必须装设直流系统的绝缘监察装置目的是为了及时发\n现直流系统的一点接地故障，提醒运行人员尽早处理，消除安\n全隐患。",
     "o": null,
     "q_img": "q1_question_images/Lb4F2013_q.png",
-    "a_img": "q1_answer_images/Lb4F2013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14518,7 +13525,6 @@ window.QUIZ_DATA = [
     "a": "答：因为发电机每相产生的电动势并非是标准的正弦波，\n除了基波外还有许多高次谐波，其中较强的是三次谐波。在三\n相基波电动势相位差为120 ° 时。三次谐波电动势恰好差\n360°。在三相绕组中的三次谐波电动势是同相位。如果三相\n绕组接成Y，则线电压中没有三次谐波电压。若绕组接成△，\n因三次谐波是同相位的，将在△闭合回路里相加，引起三次谐\n\n201\n3\n波电流，增加损耗和发热。所以一般不接成△。采用Y 接线不\n但可以避免三次谐波环流。而且可以获得比△接线高\n倍的\n输出电压。",
     "o": null,
     "q_img": "q1_question_images/Lb4F3014_q.png",
-    "a_img": "q1_answer_images/Lb4F3014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14530,7 +13536,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机负序电流产生的主要原因是：\n（1）输配电及供电系统电网结构不合理；或有大量的单相\n负载，使系统三相负载不平衡，造成发电机不对称运行。\n（2）系统故障情况下发生非全相运行，如带单相重合闸的\n输电线路，或发电机并（解）列时，出口断路器发生非全相合\n（断）。\n危害：（1）可能使发电机转子表面局部过热发生转子烧毁\n事故。\n（2）使发电机产生振动。",
     "o": null,
     "q_img": "q1_question_images/Lb4F3015_q.png",
-    "a_img": "q1_answer_images/Lb4F3015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14542,7 +13547,6 @@ window.QUIZ_DATA = [
     "a": "答：两台变压器并列运行应该同时满足以下条件：电压比\n相同，允许相差±0.5% ；百分阻抗相等，允许相差±10%；\n接线组别相同。理由如下：\n如果电压比不同，两台变压器并列运行将产生环流，影响\n变压器出力。百分阻抗不同，则变压器所带的负荷不能按变压\n器容量成比例地分配，阻抗小的变压器带的负荷大，也将影响\n变压器的出力。接线组别不相同，会使变压器短路。",
     "o": null,
     "q_img": "q1_question_images/Lb4F4016_q.png",
-    "a_img": "q1_answer_images/Lb4F4016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14554,7 +13558,6 @@ window.QUIZ_DATA = [
     "a": "答：在变压器的中性点通过消弧线圈接地的系统中，当线\n路的一相发生接地故障时，由通过消弧线圈的电感电流，抵消\n由线路对地电容产生的电容电流，从而减小或消除因电容电流\n而引起电弧，避免故障扩大，提高电力系统供电的可靠性。大\n容量发电机定子绕组对地电容很大，也经常在中性点接消弧线\n圈。\n消弧线圈有三种补偿方式，既全补偿、过补偿、欠补偿。\n其中，过补偿方式最好。理由如下：因为当IL＞IDC，其中IL为消\n弧线圈中产生的电感电流，IDC 为单相接地时的电容电流，这意\n味着接地处具有多余的感性电流，可避免欠补偿、全补偿出现\n的串联谐振过电压，因此得到广泛采用。",
     "o": null,
     "q_img": "q1_question_images/Lb4F5017_q.png",
-    "a_img": "q1_answer_images/Lb4F5017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14566,7 +13569,6 @@ window.QUIZ_DATA = [
     "a": "答：准同期并列必须同时满足三个条件：①电压相等；②\n电压相位一致；③频率相等。理由如下：\n（1）电压不等的情况下，并列后，发电机绕组内出现较大\n冲击电流。\n（2）电压相位不一致，其后果是可能产生很大的冲击电流\n而使发电机烧毁或使发电机大轴扭屈。相位不一致比电压不一\n致的情况更为严重。\n（3）频率不等，将使发电机产生机械振动。",
     "o": null,
     "q_img": "q1_question_images/Lb3F2018_q.png",
-    "a_img": "q1_answer_images/Lb3F2018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14578,7 +13580,6 @@ window.QUIZ_DATA = [
     "a": "答：停电时按照最先拉开线路断路器。然后拉开线路侧\n隔离开关，最后拉开母线侧隔离开关顺序操作。送电时按照最\n先合母线侧隔离开关，然后合线路侧隔离开关。最后合上线路\n断路器顺序操作。理由如下：\n（1）停电时最先拉开线路断路器是考虑断路器有灭弧功\n能，可以带负荷拉开；送电时最后合上线路断路器，也是考虑\n到断路器有灭弧功能，可以带负荷合闸。\n（2）停电时先拉开线路侧隔离开关，最后拉开母线侧隔离\n开关，是为了考虑万一断路器未断开，拉开隔离开关时必然发\n生带负荷拉闸刀事故。先拉开线路侧隔离开关，则线路保护动\n作，母差保护不会动作，如果带负荷拉母线侧隔离开关，则就\n成了母线事故，母差保护动作。显然前者缩小了停电范围。\n（3）送电时先合上母线侧隔离开关，然后合上线路侧隔离\n开关，是为了考虑万一断路器未断开，如果先合上线路隔离开\n关，那么在合上母线侧隔离开关时就会出现带负荷拉开闸刀事\n故，导致母差保护动作，反之先合上母线侧隔离开关，那么在\n合上线路隔离开关时才会出现带负荷拉开闸刀事故，导致线路\n保护动作，避免了母线保护动作。显然后者缩小了停电范",
     "o": null,
     "q_img": "q1_question_images/Lb3F3019_q.png",
-    "a_img": "q1_answer_images/Lb3F3019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14590,7 +13591,6 @@ window.QUIZ_DATA = [
     "a": "答：继电保护装置通常要求自动重合闸只重合一次。理由\n如下：\n对于输电线路的永久性故障，在故障线路被断开后，故障\n点绝缘强度不能恢复，即故障不能自行消失，为了防止把断路\n器多次重合到永久故障上去，增加设备的损坏程度，故要求自\n动重合闸装置只重合一次。",
     "o": null,
     "q_img": "q1_question_images/Lb3F3020_q.png",
-    "a_img": "q1_answer_images/Lb3F3020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14602,7 +13602,6 @@ window.QUIZ_DATA = [
     "a": "答：电流互感器二次侧不许开路。理由如下：\n\n电流互感器一次电流的大小与二次负载电流大小无关。在\n正常工作时，由于二次负载阻抗很小，接近短路状态，一次电\n流所产生的磁化力大部分被二次电流所补偿，总磁通密度不\n大，所以二次线圈电势很小。当二次线圈开路时，二次侧阻抗\n增至无穷大，二次电流为零，总磁化力等于原绕组磁化力，即\n一次电流完全变成激磁电流，使二次线圈产生很高电势，峰值\n可达几千伏，严重威胁人身安全，或造成仪表保护装置等绝缘\n损坏。",
     "o": null,
     "q_img": "q1_question_images/Lb3F3021_q.png",
-    "a_img": "q1_answer_images/Lb3F3021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14614,7 +13613,6 @@ window.QUIZ_DATA = [
     "a": "答：电压互感器在运行中二次侧不许短路。理由如下：\n电压互感器二次侧电压为100V，且接于仪表和继电器的电\n压线圈。电压互感器是一电压源，内阻很小，容量亦小，一次\n线圈导线很细，若二次侧短路，则二次侧通过很大电流，不仅\n影响测量表计及引起保护与自动装置误动，甚至会损坏电压互\n感器。",
     "o": null,
     "q_img": "q1_question_images/Lb3F3022_q.png",
-    "a_img": "q1_answer_images/Lb3F3022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14626,7 +13624,6 @@ window.QUIZ_DATA = [
     "a": "答：由于水轮机动力矩与发电机阻力矩的方向相反，其中\n任意一力矩发生变化时，机组能够从一个转速过渡到另一个稳\n定转速下运行，这就是水轮发电机组的自调节。\n自调节的存在是水轮发电机组能够实行稳定运行的根本原\n因，它也为实现水轮机精确调节提供了可靠性，但单纯依靠自\n调节作用，机组转速变化太大，满足不了电力用户对频率的要\n求。",
     "o": null,
     "q_img": "q1_question_images/Lb3F3023_q.png",
-    "a_img": "q1_answer_images/Lb3F3023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14638,7 +13635,6 @@ window.QUIZ_DATA = [
     "a": "答：电力系统振荡时，某些继电保护装置可能误动。理由\n如下：\n（1）电力系统振荡对电流继电器有影响。当振荡电流达到\n继电器动作电流值时，电流继电器动作；当振荡电流降低到继\n电器的返回电流值时，电流继电器返回。所以电流速断保护肯\n定会误动作。\n（2）电力系统振荡对阻抗继电器有影响。周期性振荡时，\n电网中任一点的电压和流经线路的电流，将随两侧电源电势间\n相位角的变化而变化。振荡电流增大，电压下降，阻抗继电器\n可能动作；振荡电流减小，电压升高，阻抗继电器返回。如果\n阻抗继电器闭合持续时间长，阻抗继电器保护将误动作。",
     "o": null,
     "q_img": "q1_question_images/Lb3F4024_q.png",
-    "a_img": "q1_answer_images/Lb3F4024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14650,7 +13646,6 @@ window.QUIZ_DATA = [
     "a": "答：水\n轮机的损失有容积损失、水力损失和机械损失。容\n积损失是在反击型水轮机中，进入转轮的流量，其中有一小部\n分漏水量未被有效利用而损失掉了，这部分损失称为容积损失。\n水力损失是在水轮机工作时，水流要流经引水部件、导水部件、\n转轮和尾水管等过流部件，水流便产生摩擦、撞击、旋涡和脱\n流等损失。这些情况所引起的损失，称为水力损失。机械损失\n是由于水力传递给转轮的有效功率，并不能全部传送给发电机，\n其中又有一小部分消耗在轴和轴承间，转轮上冠上表面或引水\n管路钢板上表面与水流之间的摩擦上。这些转动部件与固定部\n件或水流之间引起的摩擦损失，称为机械摩擦损失或机械损失。",
     "o": null,
     "q_img": "q1_question_images/Lb2F2025_q.png",
-    "a_img": "q1_answer_images/Lb2F2025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14662,7 +13657,6 @@ window.QUIZ_DATA = [
     "a": "答：压油槽中有30%～40%是透平油，60%～70%是压缩\n空气。理由如下：\n用空气和油共同造成压力，是维持调速系统所需要的工作\n能力的保证。当压缩空气比例太大时，透平油比例减小，这样\n\n便不能保证调速系统的用油量，造成调速系统进气。当压缩空\n气比例太小时，则会造成压油槽压力下降太快，压油泵频繁启\n动。",
     "o": null,
     "q_img": "q1_question_images/Lb2F2026_q.png",
-    "a_img": "q1_answer_images/Lb2F2026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14674,7 +13668,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮机调速器中，ep与bp是有区别的。具体理由如下：\n（1）ep 表示机组出力由零增加到额定值时其转速变化的相\n对值，又称之为机组调差率。它是机组静特性曲线的斜率。bp\n表示接力器移动全行程，转速变化的相对值，它又称为永态转\n差系数，表示调速器静特性曲线斜率。\n（2）机组出力为零时，接力器行程并不相应为零。机组出\n力达额定值时，接力器行程也不定相应为最大，故ep 不一定等\n于bp。\n（3）bp值取决于调差机构的整定，而ep 值取决于调差机构\n（硬反馈）的整定，又取决于机组运行水头。",
     "o": null,
     "q_img": "q1_question_images/Lb2F3027_q.png",
-    "a_img": "q1_answer_images/Lb2F3027_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14686,7 +13679,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮机调速器一般都要设置空载和负载两种缓冲参\n数。理由如下：\n（1）机组都存在空载和并网两种不同运行工况，两种工况\n对调速器的要求不一样。机组空载运行，不存在调整负荷问题，\n故空载运行的稳定性要求较高；而机组并网运行时，带上负荷，\n因自调节能力增强，稳定性的问题不那么突出，所以负荷调整\n的速动性显得较为重要。\n（2）通常情况下，Td，bt 整定越大，则稳定性越好，而\n速动性越差。所以稳定性和速动性对Td，bt 的要求是矛盾的，\n所以机组空载和并网两种工况对Td，bt 的要求也不一样，所以\n缓冲参分两种，根据需要自动或手动投入。",
     "o": null,
     "q_img": "q1_question_images/Lb2F4028_q.png",
-    "a_img": "q1_answer_images/Lb2F4028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14698,7 +13690,6 @@ window.QUIZ_DATA = [
     "a": "答：大容量水轮发电机取消转子风扇是可以的。理由\n如下：大容量水轮发电机由于转速低，所以直径大、铁芯\n短，转\n子转动时，利用转子支臂的扇风作用，所鼓动的气流已足够使\n定子绕组端部得到充分冷却，故转子上下两端可不加风扇。这\n对防止风扇断裂、损坏定子绝缘事故非常有利。但必须合理选\n择支臂上、下挡风板尺寸，使支臂的进、出风口有合适的间隙，\n以形成两端进风的无风扇径向通风系统。",
     "o": null,
     "q_img": "q1_question_images/Lb2F4029_q.png",
-    "a_img": "q1_answer_images/Lb2F4029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14710,7 +13701,6 @@ window.QUIZ_DATA = [
     "a": "答：微机调速器是以单板工控机为主、辅以相应的接口硬\n件，并通过控制软件来实现需要的调节规律，并与适当的电液\n随动系统相配合，即组成了一台微机调速器。与模拟式电调相\n比，它实现了柔性控制，适应性更强。理由如下：\n用微机取代模拟式电气调节器，不仅能实现ＰＩＤ（比\n例、积分、微分）调节，而且不需要变更硬件电路，只需通过\n改变程序就能实现复杂的控制，如前馈控制、串级控制，以及\n变参数适应控制等，使机组在不同工况区运行都能获得最优的\n动态品质。",
     "o": null,
     "q_img": "q1_question_images/Lb2F5030_q.png",
-    "a_img": "q1_answer_images/Lb2F5030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14722,7 +13712,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机正常应在额定功率因素下运行，最有利于安全\n经济运行。理由如下：\n（1）功率因数cos，也叫力率，是有功功率与视在功率\n的比值，即：cos= P 。在一定额定电压和额定电流下，功率\nS\n因数越高，有功功率所占的比重越大，反之越低。\n（2）随着功率因数的增大，发电机无功功率减少，特别是\n\n当cos=1 时，无功功率为零。因此转子的励磁电流减少，发电\n机定子与转子磁极间的吸力减少，降低了发电机的静态稳定性。\n（3）当功率因数低于额定值时，一方面发电机的有功功率\n降低，其容量得不到充分的利用。另一方面无功增加，由于感\n性无功起去磁作用，为了维护定子电压不变增加转子电流，这\n会引起转子绕组温度升高与过热。\n（4）功率因数低，在输电线路上引起较大的电压降和功率\n损耗。故当输电线路输出功率P 一定时，线路中电流与功率因\n数成反比，即：\nI=\nP\nU cos\n当cos降低时，电流I 增大，在输电线路阻抗上压降增大，\n使负载端电压过低。严重时，影响设备正常运行，用户无法用\n电。此外，阻抗上消耗的功率与电流平方成正比，电流增大要\n引起线损增",
     "o": null,
     "q_img": "q1_question_images/Lb2F5031_q.png",
-    "a_img": "q1_answer_images/Lb2F5031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14734,7 +13723,6 @@ window.QUIZ_DATA = [
     "a": "答：励磁变压器中性点不能接地。理由如下：励磁变压\n器低压侧与转子回路的交流侧电源—可控硅整流\n回路相连接，而转子回路的交流侧电源接地，势必要使转子绕\n组回路也受接地影响，这是不允许的，若转子再有一点接地，\n发电机轻则不能稳定运行、发生振荡，重则失磁、甚至影响发\n电机寿命和供电可靠性，所以励磁变压器中性点不能接地。",
     "o": null,
     "q_img": "q1_question_images/Lb1F2032_q.png",
-    "a_img": "q1_answer_images/Lb1F2032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14746,7 +13734,6 @@ window.QUIZ_DATA = [
     "a": "答：水电站机组调相运行的给气压水过程中，是给气量和\n水流携气量不断作用的过程。常从尾水管遗失大量空气。理由\n如下：\n（1）当转轮在水中旋转时，一方面搅动水流使其旋转，另\n\n209\n一方面在尾水管中引起竖向回流和尾水管垂直部分与水平部分\n的横向回流。这些回流导致空气从尾水管遗失。空气进入转轮\n室后，被水流冲裂成气泡由竖向回流将其带至尾水管底部，一\n部分气泡随着中心的水流回升上去，另一部分气泡被横向水流\n带至下游。\n（2）竖向回流携带空气的能力是有限的。如果刚开始给气\n量超过携气量的极限值，给入的空气则不会被冲散遗失，转轮\n室内便会形成空气室。由于转轮脱水快，压力过程中逸气少，\n压缩空气利用率高。\n（3）如果刚开始给气量小于携气量的极限值，给入的空气\n则会被冲散带走，但由于水流掺气，其携气能力下降，当携气\n量的极限值下降到给气量以下时也会出现气水分界面而将水面\n压下。根据气水分界面出现的早晚，将有不同程度的空气遗失。",
     "o": null,
     "q_img": "q1_question_images/Lb1F3033_q.png",
-    "a_img": "q1_answer_images/Lb1F3033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14758,7 +13745,6 @@ window.QUIZ_DATA = [
     "a": "答：油断路器油位不能过高，也不能过低，否则不利于油\n断路器运行安全。理由如下：\n（1）油断路器油位过低，会使跳合闸时断弧时间加长或难\n以灭弧，其结果会引起触头和灭弧室遭到损坏。电弧不易熄灭，\n甚至会冲出油面，进入箱体的缓冲空间，这个空间的气体与被\n电弧高温分解出来的氢、氧、甲烷、乙炔等游离气体混合后，\n再与电弧相遇即可引起燃烧爆炸。此外，油量不足也使绝缘暴\n露于空气中，容易受潮，降低灭弧性能。\n（2）油断路器油位过高，会因缓冲空间减少。当断路器在\n跳闸时，产生电弧（温度高达4000～8000℃）在使周围绝缘\n油被迅速分解气化，同时产生强大的压力，促使油面上升。如\n果油位过高，因缓冲空间减少，室内调节压力余地减少，箱体\n承受压力过大，就会发生喷油，使灭弧室（或断路器油箱）变\n形，不仅不能灭弧，甚至引起爆炸。",
     "o": null,
     "q_img": "q1_question_images/Lb1F3034_q.png",
-    "a_img": "q1_answer_images/Lb1F3034_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14770,7 +13756,6 @@ window.QUIZ_DATA = [
     "a": "答：调速器完成整机装配、试动调整和整机静态特性试验\n后，就可以将其与被控制机组连接起来，构成闭环的调节系统，\n并在机组投入试运行以前，对此闭环系统进行一系列的试验。\n调速器系统的动态试验是在蜗壳充水后的首次试验，有重要意\n义。理由如下：\n（1）检查调速器、调节系统在启动、空载、并网、带负荷、\n甩负荷、停机等各种闭环工况下的性能和技术指标是否符合设\n计要求。重点是进行机组启动的调试与观测，比如手动开机与\n检查机组运行情况、空载动平衡调整与稳定性观测。\n（2）反复进行参数组合选择和整定试验，以求取最佳参数。\n重点是进行空载扰动试验，求得最佳动态品质指标。",
     "o": null,
     "q_img": "q1_question_images/Lb1F5035_q.png",
-    "a_img": "q1_answer_images/Lb1F5035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14782,7 +13767,6 @@ window.QUIZ_DATA = [
     "a": "答：基本方式：\n（1）明备用：正常时一路电源运行，另一路电源备用；有\n故障时工作电源被切除，备用电源投入运行；\n（2）暗备用，即互为备用。正常时两路电源均运行，分段\n开关断开，故障时一路电源退出运行，分段开关合闸，由另一\n路电源带全部负荷。\n要求：（1）工作母线电压消失时应动作；（2）备用电源\n应在工作电源确已断开后才投入；（3）备用电源只能自投一\n次；（4）备用电源确有电压时才自投；（5）备用电源投入的\n时间应尽可能短；（6）电压互感器二次断线时，备用电源自\n投装置不应误动。",
     "o": null,
     "q_img": "q1_question_images/Lb1F5036_q.png",
-    "a_img": "q1_answer_images/Lb1F5036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14794,7 +13778,6 @@ window.QUIZ_DATA = [
     "a": "答：假\n同期试验时，发电机的母线隔离开关不合，但\n\n211\n其辅助触点人为接通。其目的用以检验自动准同期装置的各种\n特性。试验本身发现不了发电机一、二次系统电压相序、相位\n的连接错误。若不经核相，在存在上述错误的情况下，同期装\n置照样可以发出并列合闸命令，到真并列时将会发生非同期合\n闸。因此，假同期试验不能代替发电机核相。\n当有新机组投运或一次大修后一般按照：发电机定相；检\n查电压互感器及同期回路接线；进行假同期试验，这样三个步\n骤进行试验检查，如一切正常，同期装置反映的相角差和待并\n断路器两侧电源的实际相角差才会一致，并列时方可确保在同\n期点合闸。",
     "o": null,
     "q_img": "q1_question_images/Lb1F5037_q.png",
-    "a_img": "q1_answer_images/Lb1F5037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14806,7 +13789,6 @@ window.QUIZ_DATA = [
     "a": "答：计算机监控系统需要网络和网络协议，才能正常运行。\n理由如下：\n（1）计算机监控系统不管采用何种结构，都需要配置一定\n数量的计算机。随着微机保护、微机励磁调节调节器和微机电\n调等迅速推广应用，计算机监控系统又需要面对这些同属于计\n算机的被控对象。所以在系统的最高级与下级单元控制级之间，\n单元控制级与被控对象（辅助驱动检测级）之间等，都需要实\n现数据传输通讯和资源共享，所以需要有一个计算机网络，通\n过网络把地理上分散的计算机构成系统。\n（2）在计算机网络中，为使各计算机之间或计算机与终端\n之间能正确地传送信息，必须在有关信息的传输顺序、信息格\n式和信息内容上等方面建立一个全面一致、共同遵守的约定或\n规则，这组约定或规则即网络协议（通讯协议）。它含有三个\n要素：语义、语法和规则。语义规定了通讯双方彼此间准备“讲\n什么”，即协议元素的类型；语法规定通讯双方“如何讲”，\n即协议元素的格式，规则规定通讯双方“应答关系”，即确定\n通讯过程的状态变化。",
     "o": null,
     "q_img": "q1_question_images/Lc5F2038_q.png",
-    "a_img": "q1_answer_images/Lc5F2038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14818,7 +13800,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）确定正确的按压位置：\n1）右手的食指和中指沿触电伤员的右侧肋弓下缘向上，找\n到肋骨和胸骨接合处的中点；\n2）用手指并齐，中指放在切迹中点（剑突底部），食指平\n放在胸骨下部；\n3）另一只手的掌根紧挨食指上缘，置于胸骨上。\n（2）正确的按压姿势：\n1）使触电伤员仰面躺在平硬的地方，救护人员立或跪在伤\n员一侧身旁，救护人员的两肩位于伤员胸骨正上方，两臂伸直，\n肘关节固定不屈，两手掌根相叠，手指翘起，不接触伤员胸壁；\n2）以髋关节为支点，利用上身的重力，垂直将正常成人胸\n骨压陷3～5cm（儿童和瘦弱者酌减）；\n3）压至要求程度后，立即全部放松，但放松时救护人员的\n掌根不得离开胸壁。\n（3）操作步骤：\n1）胸外按压要以均匀速度进行，每分钟80 次左右，每次\n按压和放松的时间相等；\n2）胸外按压与口对口（鼻）人工呼吸同时进行，其节奏为\n单人抢救时，每按压15 次后吹气2 次（15:2），反复进行；双\n人抢救时，每按压5 次后由另一人吹气1 次（5:1）反复进行。",
     "o": null,
     "q_img": "q1_question_images/Lc4F2039_q.png",
-    "a_img": "q1_answer_images/Lc4F2039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14830,7 +13811,6 @@ window.QUIZ_DATA = [
     "a": "答：完好的设备，正确无误的操作，有章可循的管理制度，\n称为电力安全生产的“三要素”。理由如下：\n（1）完好的设备是电力安全生产的物质基础，为了提高设\n备健康水平，就要对设备定期检修（或根据设备的状态进行检\n修），进行各种试验，及时发现和消除设备缺陷。\n（2）在生产过程中，为保证电能的质量，进行设备检修，\n\n213\n就要经常改变电网运行方式，进行各种操作，若操作时发生错\n误，将会引起设备损坏，系统分割或瓦解，造成大面积停电，\n危及人身安全。因此正确操作是电网安全和人身安全的重要保\n证。\n（3）电力生产有完整的规章制度，这些以安全工作规程为\n主的各项规章制度，是电力生产的科学总结，是从血的代价中\n换来的，是电力安全生产的管理基础。",
     "o": null,
     "q_img": "q1_question_images/Lc3F3040_q.png",
-    "a_img": "q1_answer_images/Lc3F3040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14842,7 +13822,6 @@ window.QUIZ_DATA = [
     "a": "答：违章是指在电力生产活动过程中，违反国家和行业安\n全生产法律法规、规程标准，违反国家电网公司安全生产规章\n制度、反事故措施、安全管理要求等，可能对人身、电网和设\n备构成危害并诱发事故的人的不安全行为、物的不安全状态和\n环境的不安全因素。违章分为行为违章、装置违章和管理违章\n三类。理由如下：\n（1）行为违章是指现场作业人员在电力建设、运行、检\n修等生产活动过程中，违反保证安全的规程、规定、制度、反\n事故措施等的不安全行为。\n（2）装置违章是指生产设备、设施、环境和作业使用的\n工器具及安全防护用品不满足规程、规定、标准、反事故措施\n等的要求，不能可靠保证人身、电网和设备安全的不安全状态。\n（3）管理违章是指各级领导、管理人员不履行岗位安全职\n责，不落实安全管理要求，不执行安全规章制度等的各种不安\n全作为。",
     "o": null,
     "q_img": "q1_question_images/Lc2F2041_q.png",
-    "a_img": "q1_answer_images/Lc2F2041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14854,7 +13833,6 @@ window.QUIZ_DATA = [
     "a": "答：出现下列情况之一，会闭锁线路开关重合闸信号：\n（1）开关SF6 气室压力低；\n（2）开关操作机构储能不足或油压（气压）低；\n（3）母线保护动作；\n\n3\n（4）开关失灵保护动作；\n（5）线路距离II 段或III 段动作；\n（6）开关短线保护动作；\n（7）有远方跳闸信号；\n（8）开关手动分闸。",
     "o": null,
     "q_img": "q1_question_images/Lc1F3042_q.png",
-    "a_img": "q1_answer_images/Lc1F3042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14866,7 +13844,6 @@ window.QUIZ_DATA = [
     "a": "答：异步电动机包括鼠笼式异步电动机和绕线式电动机，\n这两种异步电动机根据各自的结构选择适合的启动方式，才能\n体现安全、经济和高效，理由如下：\n1. 对于鼠笼式异步电动机，其启动方法有：\n（1）直接启动。这种启动方式是：在启动时，电动机的定\n子三相绕组通过断路器等设备接到三相电源上，一合断路器就\n加上全电压使电动机转动。直接启动具有接线简单，启动操作\n方便、启动方式可靠以及便于自启动等优点。\n（2）降压启动。由于直接启动时，电动机的启动电流大，\n因此采用降压启动方式来减少启动电流。例如用Y，d（星，三\n角形）转换来启动，定子绕组为d 形接线的鼠笼电动机，当电\n动机启动时，先将定子接成Y 形接线，在电动机达到稳定转速\n时，再改接成d 形。因为采用Y 接线时，每相定子绕组的电压\n只有d 形接线的1/\n，因而Y 接线启动时，线路电流仅为d\n形接线的1/3，这样，就达到了降压启动的目的。\n（3）软启动。其原理是改变可控硅的导通角，来限制异步\n电动机的启动电流，当异步电动机达到稳定转速后，再改变可\n控硅的导通角使可控硅处于全导通状态，完成电动机的启动过\n程。\n2.",
     "o": null,
     "q_img": "q1_question_images/Jd5F2043_q.png",
-    "a_img": "q1_answer_images/Jd5F2043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14878,7 +13855,6 @@ window.QUIZ_DATA = [
     "a": "答：与传统的直流绝缘监察装置比，微机型直流绝缘监察\n装置能够自动实现故障诊断，方便运行人员快速找到故障点。\n理由如下：\n微机型直流绝缘监察装置的优点是可以准确地判断出存在\n接地的支路，不用按传统的方法选切直流负荷。微机型直流绝\n缘监察装置采用差流原理，即装置用支路绝缘传感器穿套在各\n支路的正、负极出线上。支路绝缘水平正常时，穿过传感器的直\n流分量大小相等方向相反，即I++I=0，由此产生的磁场之和也\n为0。当绝缘水平下降到一定范围接近故障时，此时I++I≠0，\n此时支路出现一差流，对应传感器有一差流信号输出，经微机\n运算处理后，显示出故障支路。",
     "o": null,
     "q_img": "q1_question_images/Jd4F1044_q.png",
-    "a_img": "q1_answer_images/Jd4F1044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14890,7 +13866,6 @@ window.QUIZ_DATA = [
     "a": "答：高频保护中采用远方起动发信对于提高保护的可靠性和选\n择性来说是非常必要的，理由如下：\n（1）利用远方起动发信可保证两侧起动发信与比相回路的配合；\n（2）利用远方起动发信可以进一步防止保护装置在区外故障时\n的误动作；\n（3）便于通道检查。因高频保护发信机使用电子元件多，装置\n较复杂，任何一侧故障均有可能影响保护的正确动作。为了保\n证保护装置动作可靠，每日人为起动发信机进行高频通道信号\n检查，利用远方起动发信以检查收发信机及通道是否正常。发\n现缺陷及时处理，保证保护的可靠性，发生本线路故障能正确\n动作",
     "o": null,
     "q_img": "q1_question_images/Jd4F2045_q.png",
-    "a_img": "q1_answer_images/Jd4F2045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14902,7 +13877,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮发电机的冷却方式可分为外冷式、内冷式、蒸发\n冷却三种，由于所采用的冷却介质不同，在冷却原理、具体结\n构上和冷却效果方面是有区别的。理由如下：\n（1）外冷式外冷式又分为开敞式和密闭\n式。\n开敞式即直接从机房或者以专用风管从机房外以冷空气进\n行发电机冷却，经过发电机加热后的热空气，排至机房或室外。\n缺点是易将尘埃带入发电机内部，影响散热及通风，使得发电\n机绝缘变坏。密闭式是用同一空气在空气冷却器内和发电机通\n风沟内进行循环冷却。\n（2）内冷式是将经过水质处理的冷却水，直接通入转子励\n磁绕组或定\n子绕组线圈的空心导线内部，带走由损耗所产生的热量。对于\n定、转子绕组都直接通水冷却的方式，称为“双水内冷”。\n（3）密闭蒸发自循环冷却简称蒸发冷却。为了克服水内冷\n诸如氧化物堵塞、水泄漏\n引发故障以及水处理净化设备复杂的缺点，近来发展起来的蒸\n发冷却方式也应用到发电机上。这种内冷发电机定子线棒由空\n心导线与实心导线搭配再外包绝缘而构成，空心导线两端由拼\n头套焊接形成冷却介质的导流通道。密闭蒸发自循环内冷系统\n就是由这些液流支路互相并联的线棒、下液管、下汇流管、下",
     "o": null,
     "q_img": "q1_question_images/Jd4F3046_q.png",
-    "a_img": "q1_answer_images/Jd4F3046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14914,7 +13888,6 @@ window.QUIZ_DATA = [
     "a": "答：产生电压偏移的原因：线路或变压器环节的电压损失\n为电力系统正常运行时，负荷多为感性，无功功率Q＞0，而且\n输电线路的感抗XL 一般大于电阻R（10kV 及以下电压等级配\n电线路往往R＞XL），因此高压输电线路由于传输无功功率Q\n产生的电压损失较大，这也是造成电压偏低的主要原因。\n另外，对高压空载线路充电时，或正处在空载运行的高压\n线路，由于线路分布电容的影响，使Q 为容性小于零，会出现\n线路末端电压高于首端电压的现象。\n电压偏移过大的危害：\n（1）烧坏电动机。\n（2）电灯发暗或烧坏。\n（3）增大线损。\n（4）送变电设备能力降低。\n（5）发电机有功出力降低。\n（6）造成大面积停电事故。可见，电网电压偏移过大时对\n安全生产和可靠经济供电均\n有危害。线路传输的有功功率和无功功率对电压质量均有影响，\n并且有功功率是必须通过线路送给负荷的。因此，电力网主要\n通过控制无功的平衡来保证电压的质量。同时，在调节有功功\n率时，对节点电压也有一定的影响。\n电力系统的调压措施有：\n（1）改变同步发电机励磁调压。\n（2）改变变压器分接头",
     "o": null,
     "q_img": "q1_question_images/Jd4F4047_q.png",
-    "a_img": "q1_answer_images/Jd4F4047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14926,7 +13899,6 @@ window.QUIZ_DATA = [
     "a": "答：水电站计算机监控系统的基本功能是监视和控制水电\n站水工设备、水轮发电机组和输变电设备的安全经济运行，因\n此在开发这些功能时必须兼顾全面和具体的原则。理由如下：\n（1）水库的经济运行；可以进行水库水情预报，给出机组\n的负荷运行建议。\n（2）最优发电控制；根据电力系统对水电站有功功率的需\n要，调整机组出力，达到机组最优配合和负荷的最优分配，保\n证水电站的电压质量和无功功率的合理分配。\n（3）安全监视；包括大坝安全监测、水库防洪监测和运行\n设备的监视等。\n（4）自动控制；包括机组开停、发电、调相状态的转换，\n发电机的并列运行，机组有功功率和无功功率的调节，进水闸\n门的开闭，倒闸操作，辅助设备的切换等。\n（5）自动处理事故，事故追忆和记录。",
     "o": null,
     "q_img": "q1_question_images/Jd3F4048_q.png",
-    "a_img": "q1_answer_images/Jd3F4048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14938,7 +13910,6 @@ window.QUIZ_DATA = [
     "a": "答：预防发电机产生负序电流的措施有：(1)发电机出现\n不对称运行时，运行人员应迅速查明原因。\n果断正确地进行处理．总的原则是根据负序电流产生的原因，\n采取相应的措施，尽量降低发电机的不对称度，来保持发电机\n电流、电压的三相平衡，或及时将发电机与系统解列。如果发\n电机在并解列时出现非全相运行时．应控制发电机有功功率为\n最小，调整励磁电流，使定子三相电流不对称值降至最低，再\n断井出口断路器，在正常运行中出现不对称运行时，应严格按\n现场规程规定及时进行调整。\n\n219\n(2) 根据发电机承受负序电流的能力，装设负序电流保护\n或报警装置。\n(3) 装设发电机出口断路器失灵保护，确保出现非全相运\n行时，能将发电机及时与系统隔离。\n(4) 提高发电机的安装、检修、制造工艺，进而提高发电\n机承受负序电流的能力。如在转子上安装阻尼绕组，来抵消负\n序旋转磁场的作用，槽楔和护环采用非磁性低电阻率材料，减\n少涡流损耗，在检修中及时发现转子部件的隐患，并及时消除，\n防止扩大。\n(5) 提高发电机出口断路器的安装、检修、制造质量，并\n采用断路器三相联动机构确保断路器三相同",
     "o": null,
     "q_img": "q1_question_images/Jd2F4049_q.png",
-    "a_img": "q1_answer_images/Jd2F4049_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14950,7 +13921,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮发电机组转速和出力周期性摆动的原因很多，理\n由如下：\n（1）电网频率波动引起机组转速、出力和接力器摆动。其\n判别方法，最好是用示波器录制导叶接力器位移和电网频率波\n动的波形，比较两者波动的频率，如果一致，则为电网频率波\n动所引起，此时，应从整个电网考虑来分析解决频率波动问题，\n其中调频机组的水轮机调速器性能及其参数整定，是重点分析\n的原因之一。\n（2）转子电磁振荡与调速器共振。其判别方法，也是用示\n波器录制发电机转子电流、电压、调速器自振荡频率和接力器\n行程摆动的波形，将之进行比较即可判定是否为共振。这种故\n障，可用改变缓冲时间常数Td 以改变调速器自振频率的办法\n来解决。\n（3）机组引水管道水压波动与调速器发生共振。有时，虽\n然引水管道水压波动的幅值不大，但当其波动频率与调速器自\n\n振频率相等或很接近时，就会发生共振，引起调节系统不稳定。\n其处理方法也是通过改变缓冲时间常数来消除共振。\n（4）缓冲时间常数Td 和暂态转差系数bt 太大。当调速器\n运行时间较长之后，有些参数可能发生变化，从而引起调节系\n统不稳定。",
     "o": null,
     "q_img": "q1_question_images/Jd1F3050_q.png",
-    "a_img": "q1_answer_images/Jd1F3050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14962,7 +13932,6 @@ window.QUIZ_DATA = [
     "a": "答：减少发电机励磁电流iF，使发电机电势Eq 减小，功率\n因数角就变为超前的，发电机负荷电流I 产生助磁电枢反应，\n发电机向系统输送有功功率，但吸收无功功率，这种运行状态\n称为进相运行。\n同步发电机进相运行中要考虑的问题之一是解决系统稳定\n性降低；其二是解决发电机端部漏磁引起的定子发热；其三是\n解决发电机端电压的下降。理由如下：\n（1）系统稳定性的降低已知发电机单机对无限大容量的功\n率为\nE u\nP \nq\nxd\nsin\n因而进相运行时，在输出功率P 恒定的前提下，随着励磁电流\niF 的减小，发电机电势Eq 随之减小，功率角就会增大，从而\n使静态稳定性降低。\n上式是相应于发电机直接接在无限大容量母线上的情况，\n实际上，发电机总是要经变压器、输电线才接上系统的。所以\n需要计及这些元件的电抗（统称为系统电抗），此时系统的静态\n稳定性还要进一步降低。\n（2）发电机端部漏磁引起的定子发热在相同的视在功率\n和端部冷却条件下，发电机由迟相向进\n相转移时，端部漏磁磁密值相应增高，引起定子端部构件的严\n重发热，致使发电机出力要相应降低。发",
     "o": null,
     "q_img": "q1_question_images/Je5F2051_q.png",
-    "a_img": "q1_answer_images/Je5F2051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14974,7 +13943,6 @@ window.QUIZ_DATA = [
     "a": "答：发电厂或变电所有两台以上变压器并列运行时，通常\n只有部分变压器中性点接地运行，以保持一定数量的接地点，\n而另一部分变压器中性点不接地运行，当母线或线路上发生接\n地故障时，若故障元件的保护拒绝动作，则中性点接地变压器\n的零序电流保护动作将该变压器切除；于是局部系统可能变成\n中性点不接地系统，并带有接地故障点运行，这将出现变压器\n中性点相位升高到相电压这样将会使分级绝缘的变压器的绝缘\n遭到破坏。因此主变接地保护在动作时先跳不接地变压器，然\n后再跳接地变压器。",
     "o": null,
     "q_img": "q1_question_images/Je5F3052_q.png",
-    "a_img": "q1_answer_images/Je5F3052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14986,7 +13954,6 @@ window.QUIZ_DATA = [
     "a": "答：机组运行中，水车自动回路电源消失，不利于机组安\n全运行，严重时造成事故或扩大事故。万一水车自动回路电源\n消失，运行人员必须根据具体情况，加强现场检查，做好事故\n预想，并应尽快恢复电源。一旦保护启动不能正常执行，应手\n动帮助停机或加上风闸，确保机组安全运行。理由如下：\n（1）水车自动回路电源一般包括机组LCU 开出继电器工\n作电源和各直流电磁阀的操作电源。\n（2）机组LCU 开出继电器工作电源一旦消失，机组所有\n保护动作后均无法开出，等于机组无保护运行。\n（3）机组紧急电磁阀、过速限制器电磁阀的水车直流电源\n失去，机组所有保护虽经LCU 开出继电器开出，但是无法实行\n紧急关闭导叶，机组除了二级过速可以启动事故油泵停机以外，\n其它保护均不能实现事故停机，会扩大事故。\n（4）机组制动加闸电磁阀电源消失，则停机过程中不会自\n动加闸，有可能导致机组长时间低转速运行造成烧瓦。\n（5）主变事故启动机组事故停机情况下，遇水车自动回路\n电源消失，机组导叶无法及时关闭，容易引起机组过速。",
     "o": null,
     "q_img": "q1_question_images/Je5F4053_q.png",
-    "a_img": "q1_answer_images/Je5F4053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -14998,7 +13965,6 @@ window.QUIZ_DATA = [
     "a": "答：发主变压器新投运或大修后投运前要做冲击试验,理\n由如下：\n（1）拉开空载变压器时有可能产生操作过电压，在电力系\n统中性点不接地或经消弧线圈接地时，过电压幅值可达4～4.5\n倍相电压；在中性点直接接地时，可达3 倍相电压，为了检查\n变压器绝缘强度能否承受全电压或操作过电压的冲击，需做冲\n击试验。\n（2）带电投入空载变压器时，会出现励磁涌流，其值可达\n6～8 倍额定电流。励磁涌流开始衰减较快，一般经0.5～1.5s\n\n223\n3\n后即减到0.25～0.5 倍额定电流值，但完全衰减时间较长，大容\n量的变压器可达几十秒，由于励磁涌流产生很大的电动力，为\n了考核变压器的机械强度，同时考核励磁涌流衰减初期能否造\n成继电保护误动，需做冲击试验。",
     "o": null,
     "q_img": "q1_question_images/Je5F5054_q.png",
-    "a_img": "q1_answer_images/Je5F5054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15010,7 +13976,6 @@ window.QUIZ_DATA = [
     "a": "答：为了确保同步发电机安全经济运行，同步发电机必须\n安装冷却装置进行冷却。理由如下：\n同步发电机在运行时，定转子绕组和定子铁芯由于有铜损、\n铁损而发热，要保证发电机的安全运行，发电机内各部分的温\n升不得超过允许值，这样就需要冷却，将损耗产生的热量及时\n带走。",
     "o": null,
     "q_img": "q1_question_images/Je4F1055_q.png",
-    "a_img": "q1_answer_images/Je4F1055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15022,7 +13987,6 @@ window.QUIZ_DATA = [
     "a": "答：升高电压进行远距离输电可以提高输送功率，降低线\n路中的功率损耗并改善电压质量。理由如下：\n远距离传输的电能一般是三相正弦交流电，输送的功率可\n用P=\nUI 计算。从公式可看出，如果输送的功率不变，电压\n愈高，则电流愈小，这样就可以选用截面较小的导线，节省有\n色金属。在输送功率的过程中，电流通过导线会产生一定的功\n率损耗和电压降，如果电流减小，功率损耗和电压降会随着电\n流的减小而降低。所以，提高输送电压后，选择适当的导线，\n不仅可以提高输送功率，而且可以降低线路中的功率损耗并改\n善电压质量。\n但是，随着电压升高，绝缘费用增加，所以电压不能无限\n升高。",
     "o": null,
     "q_img": "q1_question_images/Je4F2056_q.png",
-    "a_img": "q1_answer_images/Je4F2056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15034,7 +13998,6 @@ window.QUIZ_DATA = [
     "a": "答：现代中大型电机交流绕组一般都采用双层绕组，是因\n为双层绕组有很多优点。理由如下：双层绕组每一个槽中有两\n\n个线圈边，因而整个绕组的线圈数正好等于槽数，由于双层绕\n组一个线圈的一个边在某槽的上层，另一个线圈边在另一个线\n圈的下层。根据电磁性能的要求，选择最有利的短节距，这就\n是双层绕组的最大优点。且双层绕组能节省部分用铜量并能得\n到较多的并联支路，故经济。",
     "o": null,
     "q_img": "q1_question_images/Je4F3057_q.png",
-    "a_img": "q1_answer_images/Je4F3057_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15046,7 +14009,6 @@ window.QUIZ_DATA = [
     "a": "答：水轮机顶盖上安装真空破坏阀，对水轮发电机组安全\n运行的需要。理由如下;\n机组在运行中如停机，尤其是遇到紧急停机情况时，导叶\n紧急关闭，破坏了水流连贯性，这样在水轮机转轮室及尾水管\n内会产生严重的真空，此真空随着导叶紧急关闭后转轮室的水\n流流向下游而不断增大，如果此时得不到及时补偿，就会引起\n反水锤，此力作用于转轮叶片下部，严重时会引起机组停机过\n程中的抬车，为了防止这种现象，故在水轮机顶盖处安装真空\n破坏阀，用以减小紧急停机过程中的真空。",
     "o": null,
     "q_img": "q1_question_images/Je4F4058_q.png",
-    "a_img": "q1_answer_images/Je4F4058_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15058,7 +14020,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机的定子铁芯用硅钢片叠装而成,能减少发热。理\n由如下;\n（1）铁磁材料在交变磁场作用下要感应涡流，产生涡流损\n失和磁滞损耗，使铁芯发热。\n（2）定子铁芯不用整块铁来做，而要用硅钢片叠装，就是\n增加涡流阻抗，以减少发电机工作时的涡流损失发热量。",
     "o": null,
     "q_img": "q1_question_images/Je4F4059_q.png",
-    "a_img": "q1_answer_images/Je4F4059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15070,7 +14031,6 @@ window.QUIZ_DATA = [
     "a": "答：电网电能损耗中的理论线损包括可变损耗和固定损耗。\n可变损耗。其大小随着负荷的变动而变化；固定损耗。它与通\n\n225\n过元件的负荷功率的电流无关。理由如下:\n（1）可变损耗。它包括各级电压的架空输、配电线路和电\n缆导线的铜损，变压器铜损、调相机、调压器、电抗器、阻波\n器和消弧线圈等设备的铜损,其大小随着负荷的变动而变化，它\n与通过电力网各元件中的负荷功率或电流的二次方成正比。\n（2）固定损耗。它包括输、配电线路和电缆导线的铁损，\n变压器铜损，调相机、调压器、电抗器、阻波器和消弧线圈等\n设备的铁损，绝缘介质损耗，绝缘子漏电损耗，电流、电压互\n感器的铁损，还有用户电能表电压绕组及其他附件的损耗。它\n与通过元件的负荷功率的电流无关，而与电力网元件上所加的\n电压有关。",
     "o": null,
     "q_img": "q1_question_images/Je3F2060_q.png",
-    "a_img": "q1_answer_images/Je3F2060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15082,7 +14042,6 @@ window.QUIZ_DATA = [
     "a": "答：有些低压线路中用了自动空气开关后，还要串联交流\n接触器，根本原因是自动空气开关与串联交流接触器在性能上\n存在互补之处。理由如下：\n自动空气开关有过载、短路和失压保护功能，但在结构上\n它着重提高了灭弧性能，不适宜于频繁操作。而交流接触器没\n有过载、短路的保护功能，只适用于频繁操作。因此，有些需\n要在正常工作电流下进行频繁操作的场所，常采用自动空气开\n关串联交流接触器，由接触器频繁接通和断开电路，又能由自\n动空气开关承担过载、短路和失压保护。",
     "o": null,
     "q_img": "q1_question_images/Je3F2061_q.png",
-    "a_img": "q1_answer_images/Je3F2061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15094,7 +14053,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机大轴接地电刷可有可无的说法不对，发电机大\n轴接地电刷是必须要有的，理由如下：\n（1）不论是立式还是卧式水轮发电机，其主轴不可避免地\n处在不对称的磁场中旋转。这种不对称磁场通常是由于定子铁\n\n芯合缝，定子硅钢片接缝，定子和转子空气间隙不均匀，轴心\n与磁场中心不一致，以及励磁绕组间短路等各种因素所造成。\n当主轴旋转时，总是被这种不对称磁场中的交变磁通所交链，\n从而在主轴中产生感应电势，为了人身和设备安全，保护推力\n和导轴承润滑油免遭电离，需要消除大轴对地的静电及感应电\n压，这是发电机大轴接地电刷的功能之一；\n（2）发电机大轴接地电刷构成转子接地保护装置的信号检\n测回路的一部分；\n（3）发电机大轴接地电刷构成转子线圈正、负极对地电压\n测量回路的以部分。",
     "o": null,
     "q_img": "q1_question_images/Je3F4062_q.png",
-    "a_img": "q1_answer_images/Je3F4062_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15106,7 +14064,6 @@ window.QUIZ_DATA = [
     "a": "答：中性点非直接接地或不接地系统中，当任一点发生接\n地故障时都会出现零序电压。利用零序电压的存在，可以实现\n无选择性的绝缘监视装置，该装置仅发出告警信号。绝缘监视\n装置一般都是在电源母线上装有一套三相五柱式电压互感器，\n其二次侧有两个绕组，其中一个绕组接成星形，各相对地之间\n\n227\n分别接入一个电压表（或一个电压表加一个三相切换开关），以\n监视母线的电压，另一个绕组接成开口三角形，并在开口处接\n一个过电压继电器，用来反应接地故障时的零序电压。\n正常运行时，厂用电系统三相电压对称，所以三个电压表\n的读数相等，过电压继电器不会动作，当厂用电系统母线上任\n一处发生金属性接地故障时，接地相电压为零，而非接地相的\n对地电压升高3 倍；同时系统中出现零序电压，过电压继电器\n动作，发出接地信号。接地信号指示一般均采用黄灯和白灯指\n示，提示值班人员接地故障的性质。黄灯亮表示接地故障为瞬\n时性故障，而黄灯、白灯均亮，则说明接地故障为永久性故障，\n警告值班人员在检查时必须配",
     "o": null,
     "q_img": "q1_question_images/Je3F4063_q.png",
-    "a_img": "q1_answer_images/Je3F4063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15118,7 +14075,6 @@ window.QUIZ_DATA = [
     "a": "答：桥式整流电路能将交流电变换为直流电。理由如下：\n桥式整流电路如图F-2 所示，变压器将输入电压Ui 降压后送\n到桥式整流电路，当a 端为正，b 端为负时，二极管V2、V3\n导通，V1、V4 截止，电流从a 经V2、RL、V3 回到b 端，在电\n压的负半周时，b 端为正，a 端为负，二极管V1、V4导通，V2、\nV3 截止，电流从b 端流过V4、RL、V1 流回a 端，重复以上过\n程，流过负载RL 上的电流方向不变，这样就得到了脉动直流电。\n图F-2\n桥式整流电路",
     "o": null,
     "q_img": "q1_question_images/Je3F4064_q.png",
-    "a_img": "q1_answer_images/Je3F4064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15130,7 +14086,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）开关合闸时，可将操作把手1SA（2SA）顺时针\n拧到“合闸”位置（或在监控计算机上操作合闸键），这时操作\n把手的①-②触点接通，正极母线通过①-②触点、防跳跃闭锁\n继电器的闭接点KL2 和开关的跳闸位置辅助接点QFOF，把合\n\n229\n闸线圈YO 与负极母线接通，YO 励磁将开关合闸，此时开关\n的跳闸位置辅助接点QFOF 断开，将合闸回路断开，开关合闸\n后，松开操作把手，操作把手自动复归到原位，开关的合闸辅\n助接点QFO 接闭，使合闸位置继电器KOS 经过电阻R 与跳闸\n回路接通，KOS的常开接点闭合，可向远方发开关合闸的信号；\n这时由于电路中有电阻R，所以通过跳闸线圈YR 的电流非常\n小，它",
     "o": null,
     "q_img": "q1_question_images/Je3F5065_q.png",
-    "a_img": "q1_answer_images/Je3F5065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15142,7 +14097,6 @@ window.QUIZ_DATA = [
     "a": "答：排水泵正常时一台放“自动”，另一台放“备用”，如\n1SA 放“自动”，2SA 放“备用”，当集水井水位上升到“自动\n启动”水位时，变压器T 的低压侧电路经过水而接通，使3KM\n励磁，3KM1自保持，3KM2接通1#泵的接触器线圈1KM，1KM\n接触器闭合，启动1#泵；当水位继续上升至“备用起动”水位\n\n时，4KM 回路接通，4KM1自保持，4KM3起动2#备用泵，4KM4\n接通信号回路，向远方发报警信号；当水位下降到停止水位以\n下时，由于电极与“停止”电极之间的电路断开，3KM 和4KM\n都失磁，自动和备用泵都将停止。将控制开关1SA、2SA 放手\n动，即可手动起动水泵。\n\n231",
     "o": null,
     "q_img": "q1_question_images/Je3F5066_q.png",
-    "a_img": "q1_answer_images/Je3F5066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15154,7 +14108,6 @@ window.QUIZ_DATA = [
     "a": "答：主开关非全相时分两种情况：①一相未断开，以A\n\n相未断开为例如下图F-5 所示；②两相未断开，以A、B 相未\n断开为例如下图F-6 所示。\n图F-5 一相（A）未断开\n图F-6\n两相（A、B）未断开\nA 相一相未断开时，Ia=Ib，Ic=0，即主开关一相未断开时，\n发电机两相有电流，且大小相等，另外一相电流为零。\nA、B 两相未断开时，Ib较大，Ia、Ic较小，且可能Ia=Ic，\n也可能Ia≠Ic。即主开关两相未断开时，发电机三相都有电流，\n且一相较大，另外两相较小。",
     "o": null,
     "q_img": "q1_question_images/Je2F3067_q.png",
-    "a_img": "q1_answer_images/Je2F3067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15166,7 +14119,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）可变损耗。其大小随着负荷的变动而变化，它与\n通过电力网各元件中的负荷功率或电流的二次方成正比。包括\n各级电压的架空输、配电线路和电缆导线的铜损，变压器铜损、\n调相机、调压器、电抗器、阻波器和消弧线圈等设备的铜损。\n（2）固定损耗。它与通过元件的负荷功率的电流无关，而\n与电力网元件上所加的电压有关，它包括输、配电线路和电缆\n\n233\n导线的铁损，变压器铜损，调相机、调压器、电抗器、阻波器\n和消弧线圈等设备的铁损，绝缘介质损耗，绝缘子漏电损耗，\n电流、电压互感器的铁损，还有用户电能表电压绕组及其他附\n件的损耗。",
     "o": null,
     "q_img": "q1_question_images/Je2F3068_q.png",
-    "a_img": "q1_answer_images/Je2F3068_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15178,7 +14130,6 @@ window.QUIZ_DATA = [
     "a": "答：工控机运行中不可以直接停电。因为工控机的内存贮\n器分两种，一种是只读存贮器ROM，另一种是读写存贮器\nRAM。ROM 的特点是信息的非易失性，即电源掉电后再上电\n时存贮信息不会改变。RAM 的特点是易失性，即关掉电源就\n失去全部内容。由于工控机在运行中部分应用程序放在RAM\n中，故突然停电，这部分程序就会丢失。故工控机运行中不允\n许停电，避免工控机运行中掉电的基本方法有三种：\n（１）硬件措施：装设掉电保护电路。用电池组作为这些\n存贮器的后备电源，一旦系统掉电时，掉电保护电路会自动地\n把系统供电切换到电池组供电。\n（２）软件措施：装设信息保护。工控机系统在检测到系\n统掉电时，立即把运行状态存入带有电池保护的存贮器，并以\n软硬配合对存贮器进行封锁，禁止对存贮器的任何操作，以防\n存贮器的内容被破坏。一旦检测到电源恢复正常后，就可恢复\n到故障发生前的状态。\n（３）操作措施：工控机停电前，先将工控机退出运行，\n改为热备用。即将运行中存于RAM 中的信息送到ROM 中存\n放后，再停电。",
     "o": null,
     "q_img": "q1_question_images/Je2F4069_q.png",
-    "a_img": "q1_answer_images/Je2F4069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15190,7 +14141,6 @@ window.QUIZ_DATA = [
     "a": "答：所谓逆变颠覆就是逆变失败，是指三相整流桥在逆变\n过程中，因换流不成功而造成单相连续导通，使整流桥出现逆\n变→整流→逆变→整流的反复工作状态。逆变颠覆不利于整流\n\n桥安全运行，可以根据出现逆变颠覆的主要原因采取措施防止。\n理由如下：\n出现逆变颠覆的主要原因有以下三种：\n（1）脉冲丢失；\n（2）控制脉冲角度过大，即逆变控制角不合适；\n（3）整流元件故障，不能正常导通或截止。在上述三种\n原因中，逆变控制角可以在设计过程中予以避\n免，只要充分考虑到晶闸管换弧的角度并留有一定的裕量即可。\n脉冲丢失是逆变失败最多的原因。在脉冲丢失的可能原因\n中，又因脉冲质量太差为最多，其次是脉冲功率偏小。当脉冲\n丢失以后，晶闸管元件因为不能被触发而无法换流，造成逆变\n颠覆。\n整流元件故障是造成逆变颠覆的又一个原因。整流元件存\n在故障时，在整流状态时反映为整流电压变低，调节系统可以\n通过减小控制角来增加输出。但在逆变状态下却不能通过改变\n控制角来满足工况的要求。故障元件在逆变状态下无法进行换\n流，造成逆变颠覆。此外，整流桥其他元件故障也会造成与整\n流元件故障一样的故障现象，使逆变失败或颠",
     "o": null,
     "q_img": "q1_question_images/Je2F5070_q.png",
-    "a_img": "q1_answer_images/Je2F5070_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15202,7 +14152,6 @@ window.QUIZ_DATA = [
     "a": "答：冲击式水轮机是利用水流的动能工作的，反击式水\n轮机是利用水流的动能与压能工作的。由于能量利用形式的\n不同，带来其机构的不同。冲击式水轮机具有喷嘴，有压水\n流通过喷嘴后变成动能（高速射流），冲动转轮做功。由于利\n用动能做功，其转轮叶片多呈斗叶狀。转轮是部分进水，水\n流在大气压状态下通过水轮机。反击式水轮机充分利用水流\n的压能与动能，由蜗壳、导水机构、转轮与尾水管而形成封\n闭的流道，转轮全周进水，水流是有压的。转轮叶片的断面\n呈空气动力翼型形状。\n\n235",
     "o": null,
     "q_img": "q1_question_images/Je2F5071_q.png",
-    "a_img": "q1_answer_images/Je2F5071_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15214,7 +14163,6 @@ window.QUIZ_DATA = [
     "a": "答：反击式水轮机在低于设计最小水头下运行时，可能产\n生以下危害：\n（1）由于较大的偏离设计工况，因而在转轮叶片入口处产\n生撞击损失以及在出口处水流的剧烈的旋转，不仅大大降低了\n水轮机的效率，而且会增加水轮机的振动和摆度，使汽蚀情况\n恶化，水轮机运行工况偏离设计工况，这种不良现象就越严重。\n（2）由于水头低，水轮机的出力达不到额定出力，同时，\n在输出同一出力时，水轮机的引用流量要大大增加。\n（3）水头低就意味着水位过低，有可能出现使有压水流变\n为无压水流，容易造成水流带气，甚至形成气团，使过水压力\n系统不能稳定运行，特别是甩负荷的过渡过程中，容易造成引\n水建筑物和整个水电站发生振动。\n（4）可能卷起水库底部的淤积泥砂，增加引水系统和水轮\n机的泥砂磨损。",
     "o": null,
     "q_img": "q1_question_images/Je1F3072_q.png",
-    "a_img": "q1_answer_images/Je1F3072_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15226,7 +14174,6 @@ window.QUIZ_DATA = [
     "a": "答：电力网运行时存在电压损失，因而线路上每点电压是不\n同的，一般电源首端电压较高、线路末端电压较低、为了标准\n化，通常把首端电压与末端电压的算术平均值作为电力网的额\n定电压。日前一般要求线路首端电压高出电力网额定电压\n5％，末端电压比电力网额定电压低5％．以便使用设备的工作\n电压偏移不会超过允许范围，为此升压变压器高压侧额定电压\n比电力网额定电压高10％，因为带满负荷时，变压器高压绕组\n本身损失约5％，这样减去变压器本身压降，实际上线路首端\n电压就比电力网额定电压高5％，符合要求。\n\n至于降压变压器，有的接于线路首端，有的接于线路中间，\n有的接在线路末端，因此，降压变压器高压侧额定电压只好用\n线路曾末端电压的平均值，即等于电网额定电压。为了使降压\n变压器额定电压与线路所在点的电压相近，变压器高压侧可采\n用调节分接头解决。",
     "o": null,
     "q_img": "q1_question_images/Je1F3073_q.png",
-    "a_img": "q1_answer_images/Je1F3073_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15238,7 +14185,6 @@ window.QUIZ_DATA = [
     "a": "答：这主要为了防止过电压损坏被投退变压器而采取的一\n种措施。对于一侧有电源的受电变压器，当其断路器非全相断、\n合时，若其中性点不接地有以下危害：\n（1）变压器电源侧中性点对地电压最大可达相电压，这可\n能损坏变压器的绝缘；\n（2）变压器的高、低绕组之间有电容，这种电容会造成高\n压对低压的“传递过电压”；\n（3）当变压器高、低绕组之间有电容的耦合，低压侧可能\n会出现谐振过电压，损坏绝缘；\n对于低压侧有电源的送电变压器：\n（1）由于低压侧有电源，在并入系统前，变压器高压侧发\n生单相接地，如此时变压器中性点不接地，其中性点对地电压\n将为相电压，这可能损坏变压器的绝缘；\n（2）非全相并入系统时，当出现一相与系统相联，由于发\n电机和系统的频率不同，变压器的中性点又未接地，则变压器\n中性点对地电压最大可达两倍相电压，未合相电压最高可达\n2.73 倍相电压，这将损坏绝缘；",
     "o": null,
     "q_img": "q1_question_images/Je1F4074_q.png",
-    "a_img": "q1_answer_images/Je1F4074_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15250,7 +14196,6 @@ window.QUIZ_DATA = [
     "a": "答：断路器失灵保护是指：当故障线路的继电保护发出跳\n\n237\n闸脉冲后，断路器拒绝动作，能够以较短时间切除所有来电侧\n其他断路器，以使故障可靠隔离的一种近后备保护。\n（1）断路器失灵保护由线路、母线、主变等保护启动；\n（2）失灵保护有两个功能：瞬时重跳和延时三跳。失灵保\n护启动后，瞬时动作接点，向本断路器拒动相两组跳闸线圈再\n发一次单跳或三跳脉冲，经延时向有关断路器发三跳脉冲，发\n远方跳闸信号；\n（3）失灵保护反应故障时断路器主触头粘住，机构失灵，\n跳闸线圈开路等原因拒动以及死区故障；\n（4）失灵保护启动条件是：保护动作不返回，故障电流依\n然存在；\n（5）失灵保护闭锁重合闸；\n（6）失灵保护跳闸时间为0.2—0.3S；\n（7）失灵保护跳相关断路器：启动母差出口（边断路器）；\n启动主变保护出口跳两（三）侧；启动远方跳闸跳对侧（线路\n断路器）。",
     "o": null,
     "q_img": "q1_question_images/Je1F4075_q.png",
-    "a_img": "q1_answer_images/Je1F4075_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15262,7 +14207,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器中性点运行方式改变时，反映主变中性点零序\n过流和中性点过电压的保护应当作相应改变；\n（1）主变中性点接地闸刀合上后，应将主变零序过流保护\n投入，间隙过电压保护退出。\n（2）主变中性点接地闸刀断开前，应先将间隙过电压保护\n投入，然后再断开主变中性点接地闸刀，退出主变零序过流保\n护。\n主变采用分级绝缘，中性点附近绝缘比较薄弱，所以运行\n中必须防止中性点过电压。如果主变中性点接地闸刀合上运行，\n则强制性使中性点电位为0，不会出现过电压。但由于运行方\n\n式及保护装置的要求，有时需要主变中性点不接地运行，所以\n通常在主变中性点装有避雷器及与之并联的过电压放电保护间\n隙。避雷器对偶然出现的过电压，能起到很好的降低电压作用，\n但对于频繁出现过电压时，避雷器如果频繁动作，有可能使避\n雷器爆炸；放电间隙则当频繁出现高电压时，间隙击穿放电，\n然后又恢复，不会损坏，因此，必须安装放电间隙。",
     "o": null,
     "q_img": "q1_question_images/Je1F4076_q.png",
-    "a_img": "q1_answer_images/Je1F4076_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15274,7 +14218,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）在电压互感器二次回路的出口，应装设总熔断器\n或自动开关用以切除二次回路的短路故障。自动调节励磁装置\n及强行励磁用的电压互感器的二次侧不得装设熔断器，因为熔\n断器熔断会使它们拒动或误动。\n（2）若电压互感器二次回路发生故障，由于延迟切断二次\n回路故障时间可能使保护装置和自动装置发生误动作或拒动，\n因此应装设监视电压回路完好的装置。此时宜采用自动开关作\n为短路保护，并利用其辅助触点发出信号。\n（3）在正常运行时，电压互感器二次开口三角辅助绕组两\n端无电压，不能监视熔断器是否断开；且熔丝熔断时，若系统\n发生接地，保护会拒绝动作，因此开口三角绕组出口不应装设\n熔断器。\n（4）接至仪表及变送器的电压互感器二次电压分支回路应\n装设熔断器。\n（5）电压互感器中性点引出线上，一般不装设熔断器或\n自动开关。采用B 相接地时，其熔断器或自动开关应装设在电\n压互感器B 相的二次绕组引出端与接地点之间。",
     "o": null,
     "q_img": "q1_question_images/Je1F5077_q.png",
-    "a_img": "q1_answer_images/Je1F5077_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15286,7 +14229,6 @@ window.QUIZ_DATA = [
     "a": "答：填写工作票的规定有：\n（1）用钢笔或圆珠笔填写一式两份；\n\n239\n（2）经工作票签发人审核后，由工作许可人办理许可手续；\n（3）工作票不准任意涂改；\n（4）工作票主要内容记入操作记录簿中；\n（5）全部工作结束，退出现场，在工作票上签字，注销；\n（6）工作票保存三个月。",
     "o": null,
     "q_img": "q1_question_images/Jf5F3078_q.png",
-    "a_img": "q1_answer_images/Jf5F3078_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15298,7 +14240,6 @@ window.QUIZ_DATA = [
     "a": "答：事故处理发生后，运行值班员应：\n（1）所有运行值班人员都必须坚持岗位；\n（2）当交接班时发生事故，而交接班手续尚未完成，\n应停止交接班，由交班值处理视乎，接班人协助处理；\n（3）当值值长时处理事故的指挥人，凡是与处理事故\n无关人员，严禁进入现场；\n（4）处理事故时，重要操作（现场规程由明确规定的\n除外）必须有值班调度员的命令方可执行。\n（5）为了迅速处理事故，防止事故扩大，下列情况无\n须等待调度命令，事故单位可自行处理，但事后应尽快报告值\n班调度员：1、将直接对人员生命有威胁的设备停电；2、将已\n损坏的设备隔离；3、运行中的设备有受损伤的威胁时，根据现\n场事故处理规程加以隔离；4、当母线无压时，将连接在该母线\n上的断路器拉开。",
     "o": null,
     "q_img": "q1_question_images/Jf4F3079_q.png",
-    "a_img": "q1_answer_images/Jf4F3079_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15310,7 +14251,6 @@ window.QUIZ_DATA = [
     "a": "答：发生生产事故后，运行人员应尽快作出准确判断，如\n故障设备、故障原因、故障范围、处理方案等，尽快隔离故障\n源，尽量缩小事故的影响范围。\n（1）尽快限制事故的发展，消除事故的根源并解除对人身\n和设备的威胁；\n（2）尽可能保证正常设备的运行，保证对用户的正常供电。\n必要时设法在未直接受到损害的机组上增加负荷；\n\n（3）尽快对已停电的用户恢复送电；\n（4）应设法调整系统运行方式，使其恢复正常。",
     "o": null,
     "q_img": "q1_question_images/Jf3F3080_q.png",
-    "a_img": "q1_answer_images/Jf3F3080_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15322,7 +14262,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机纵差动保护范围仅包含定子绕组电路，满足正\n常运行和外部故障时的电路电流相量和为零，而变压器纵差动\n保护范围包含诸绕组的电路并受它们的磁路影响，正常运行和\n空载合闸时不满足其相量和为零原理；变压器纵差保护比发电\n机纵差保护增加了空载合闸时防励磁涌流下误动的部分。变压\n器某侧绕组匝间短路时，该绕组的匝间短路部分可视为出现了\n一个新的短路绕组，故变压器纵差保护可以动作。而发电机定\n子绕组匝间短路时，机端和中性点侧电流完全相等，所以发电\n机纵差保护不反映其匝间短路。",
     "o": null,
     "q_img": "q1_question_images/Jf2F4081_q.png",
-    "a_img": "q1_answer_images/Jf2F4081_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15334,7 +14273,6 @@ window.QUIZ_DATA = [
     "a": "答：（1）调速器外部干扰引起：检查并妥善处理PLC微\n机调速器的机柜和微机调节器壳体的接地；外部直流继电器或\n电磁铁线圈加装反向并接(续流）二极管；接点两端并接阻容吸\n收器件；\n（2）机组频率信号源干扰：机组频率信号(残压信号\n或齿盘信号）均应采用各白的带屏蔽的双纹线接至PLC 微机调\n速器，屏蔽层应可靠地在—点接地。频率信导线不要与强动力\n电源线或脉冲信号线平行、靠近布置；\n（3）接线松动．接触不良：检查PLC调速器接线端子、\n电流转换器等电／机转换装置、导叶接力器变送器、机组功率\n变送器、水头变送器及调速器内部接线的连接情况，并加以相\n应的处理；\n\n241\n（4）导叶接力器反应时间常数Ty 值偏小：减小电液\n（机械〕随动系统的放大系数，从而使接力器反应时间常数Ty\n取较大数值；\n\n4 .\n2 .\n1\n单项操作\n行业：电力工程\n工种：水轮发电机组值班员\n等级：初\n编\n号\nC05A001\n行为领域\ne\n鉴定范围\n3\n考核时限\n15min\n题\n型\nA\n题\n分\n10\n试题正文\n1 号离心式水泵恢复运行\n需要说明的\n问题",
     "o": null,
     "q_img": "q1_question_images/Jf1F4082_q.png",
-    "a_img": "q1_answer_images/Jf1F4082_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15351,7 +14289,6 @@ window.QUIZ_DATA = [
       "D": "阻抗角相等。"
     },
     "q_img": "q2_question_images/E_La5A1001_q.png",
-    "a_img": "q2_answer_images/E_La5A1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15365,7 +14302,6 @@ window.QUIZ_DATA = [
       "B": ""
     },
     "q_img": "q2_question_images/E_La5A1002_q.png",
-    "a_img": "q2_answer_images/E_La5A1002_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15382,7 +14318,6 @@ window.QUIZ_DATA = [
       "D": "外加电压。"
     },
     "q_img": "q2_question_images/E_La5A1003_q.png",
-    "a_img": "q2_answer_images/E_La5A1003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15397,7 +14332,6 @@ window.QUIZ_DATA = [
       "D": "鉴 定 试 题 库 选 择 题 20"
     },
     "q_img": "q2_question_images/E_La5A2004_q.png",
-    "a_img": "q2_answer_images/E_La5A2004_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15414,7 +14348,6 @@ window.QUIZ_DATA = [
       "D": "差3倍。"
     },
     "q_img": "q2_question_images/E_La5A2005_q.png",
-    "a_img": "q2_answer_images/E_La5A2005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15431,7 +14364,6 @@ window.QUIZ_DATA = [
       "D": "瞬时值。"
     },
     "q_img": "q2_question_images/E_La5A2006_q.png",
-    "a_img": "q2_answer_images/E_La5A2006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15448,7 +14380,6 @@ window.QUIZ_DATA = [
       "C": "感应式"
     },
     "q_img": "q2_question_images/E_La5A3007_q.png",
-    "a_img": "q2_answer_images/E_La5A3007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15465,7 +14396,6 @@ window.QUIZ_DATA = [
       "D": "平均值。"
     },
     "q_img": "q2_question_images/E_La5A3008_q.png",
-    "a_img": "q2_answer_images/E_La5A3008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15482,7 +14412,6 @@ window.QUIZ_DATA = [
       "D": "有效值。"
     },
     "q_img": "q2_question_images/E_La5A3009_q.png",
-    "a_img": "q2_answer_images/E_La5A3009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15499,7 +14428,6 @@ window.QUIZ_DATA = [
       "D": "无关。"
     },
     "q_img": "q2_question_images/E_La5A4010_q.png",
-    "a_img": "q2_answer_images/E_La5A4010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15516,7 +14444,6 @@ window.QUIZ_DATA = [
       "D": "无关。"
     },
     "q_img": "q2_question_images/E_La5A4011_q.png",
-    "a_img": "q2_answer_images/E_La5A4011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15533,7 +14460,6 @@ window.QUIZ_DATA = [
       "D": "导纳。 选 择 题 鉴 定 试 题 库 21"
     },
     "q_img": "q2_question_images/E_La5A4012_q.png",
-    "a_img": "q2_answer_images/E_La5A4012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15550,7 +14476,6 @@ window.QUIZ_DATA = [
       "D": "m/ (mm²·Ω)。"
     },
     "q_img": "q2_question_images/E_La5A5013_q.png",
-    "a_img": "q2_answer_images/E_La5A5013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15567,7 +14492,6 @@ window.QUIZ_DATA = [
       "C": "函数关系"
     },
     "q_img": "q2_question_images/E_La5A5014_q.png",
-    "a_img": "q2_answer_images/E_La5A5014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15584,7 +14508,6 @@ window.QUIZ_DATA = [
       "D": "I。"
     },
     "q_img": "q2_question_images/E_La5A5015_q.png",
-    "a_img": "q2_answer_images/E_La5A5015_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15601,7 +14524,6 @@ window.QUIZ_DATA = [
       "D": "感抗。"
     },
     "q_img": "q2_question_images/E_La4A1016_q.png",
-    "a_img": "q2_answer_images/E_La4A1016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15618,7 +14540,6 @@ window.QUIZ_DATA = [
       "D": "电抗。"
     },
     "q_img": "q2_question_images/E_La4A1017_q.png",
-    "a_img": "q2_answer_images/E_La4A1017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15635,7 +14556,6 @@ window.QUIZ_DATA = [
       "D": "I。"
     },
     "q_img": "q2_question_images/E_La4A1018_q.png",
-    "a_img": "q2_answer_images/E_La4A1018_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15652,7 +14572,6 @@ window.QUIZ_DATA = [
       "D": "Q."
     },
     "q_img": "q2_question_images/E_La4A2019_q.png",
-    "a_img": "q2_answer_images/E_La4A2019_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15669,7 +14588,6 @@ window.QUIZ_DATA = [
       "D": "有功率 加无功率。"
     },
     "q_img": "q2_question_images/E_La4A2020_q.png",
-    "a_img": "q2_answer_images/E_La4A2020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15685,7 +14603,6 @@ window.QUIZ_DATA = [
       "D": "鉴 定 试 题 库 选 择 题 22 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_La4A2021_q.png",
-    "a_img": "q2_answer_images/E_La4A2021_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15702,7 +14619,6 @@ window.QUIZ_DATA = [
       "D": "戴 维南原理。"
     },
     "q_img": "q2_question_images/E_La4A3024_q.png",
-    "a_img": "q2_answer_images/E_La4A3024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15719,7 +14635,6 @@ window.QUIZ_DATA = [
       "D": "电容。"
     },
     "q_img": "q2_question_images/E_La4A3025_q.png",
-    "a_img": "q2_answer_images/E_La4A3025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15736,7 +14651,6 @@ window.QUIZ_DATA = [
       "D": "电阻。"
     },
     "q_img": "q2_question_images/E_La4A4026_q.png",
-    "a_img": "q2_answer_images/E_La4A4026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15751,7 +14665,6 @@ window.QUIZ_DATA = [
       "B": "3"
     },
     "q_img": "q2_question_images/E_La4A4027_q.png",
-    "a_img": "q2_answer_images/E_La4A4027_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15768,7 +14681,6 @@ window.QUIZ_DATA = [
       "D": "直流大电流。"
     },
     "q_img": "q2_question_images/E_La4A4028_q.png",
-    "a_img": "q2_answer_images/E_La4A4028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15782,7 +14694,6 @@ window.QUIZ_DATA = [
       "A": ""
     },
     "q_img": "q2_question_images/E_La4A2022_q.png",
-    "a_img": "q2_answer_images/E_La4A2022_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15799,7 +14710,6 @@ window.QUIZ_DATA = [
       "D": "光。"
     },
     "q_img": "q2_question_images/E_La4A3023_q.png",
-    "a_img": "q2_answer_images/E_La4A3023_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15814,7 +14724,6 @@ window.QUIZ_DATA = [
       "D": "100。"
     },
     "q_img": "q2_question_images/E_La4A5029_q.png",
-    "a_img": "q2_answer_images/E_La4A5029_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15830,7 +14739,6 @@ window.QUIZ_DATA = [
       "D": "100。"
     },
     "q_img": "q2_question_images/E_La4A5030_q.png",
-    "a_img": "q2_answer_images/E_La4A5030_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15847,7 +14755,6 @@ window.QUIZ_DATA = [
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_La4A5031_q.png",
-    "a_img": "q2_answer_images/E_La4A5031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15863,7 +14770,6 @@ window.QUIZ_DATA = [
       "C": "3"
     },
     "q_img": "q2_question_images/E_La3A1032_q.png",
-    "a_img": "q2_answer_images/E_La3A1032_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15880,7 +14786,6 @@ window.QUIZ_DATA = [
       "D": "6。"
     },
     "q_img": "q2_question_images/E_La3A1033_q.png",
-    "a_img": "q2_answer_images/E_La3A1033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15897,7 +14802,6 @@ window.QUIZ_DATA = [
       "D": "4。"
     },
     "q_img": "q2_question_images/E_La3A1034_q.png",
-    "a_img": "q2_answer_images/E_La3A1034_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15914,7 +14818,6 @@ window.QUIZ_DATA = [
       "D": "并联一个12Ω电阻。"
     },
     "q_img": "q2_question_images/E_La3A2035_q.png",
-    "a_img": "q2_answer_images/E_La3A2035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15929,7 +14832,6 @@ window.QUIZ_DATA = [
       "A": "2R"
     },
     "q_img": "q2_question_images/E_La3A2036_q.png",
-    "a_img": "q2_answer_images/E_La3A2036_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -15946,7 +14848,6 @@ window.QUIZ_DATA = [
       "D": "两个灯泡均正常发光。"
     },
     "q_img": "q2_question_images/E_La3A2037_q.png",
-    "a_img": "q2_answer_images/E_La3A2037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15963,7 +14864,6 @@ window.QUIZ_DATA = [
       "D": "无 法比。 25"
     },
     "q_img": "q2_question_images/E_La3A3038_q.png",
-    "a_img": "q2_answer_images/E_La3A3038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15980,7 +14880,6 @@ window.QUIZ_DATA = [
       "D": "旋转180°。"
     },
     "q_img": "q2_question_images/E_La3A3039_q.png",
-    "a_img": "q2_answer_images/E_La3A3039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -15997,7 +14896,6 @@ window.QUIZ_DATA = [
       "D": "不变的力。"
     },
     "q_img": "q2_question_images/E_La3A3040_q.png",
-    "a_img": "q2_answer_images/E_La3A3040_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16014,7 +14912,6 @@ window.QUIZ_DATA = [
       "D": "线圈中磁通的大小成反比。"
     },
     "q_img": "q2_question_images/E_La3A4041_q.png",
-    "a_img": "q2_answer_images/E_La3A4041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16031,7 +14928,6 @@ window.QUIZ_DATA = [
       "D": "电容器两端电压大小。"
     },
     "q_img": "q2_question_images/E_La3A4042_q.png",
-    "a_img": "q2_answer_images/E_La3A4042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16048,7 +14944,6 @@ window.QUIZ_DATA = [
       "D": "8。"
     },
     "q_img": "q2_question_images/E_La3A4043_q.png",
-    "a_img": "q2_answer_images/E_La3A4043_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16065,7 +14960,6 @@ window.QUIZ_DATA = [
       "D": "18。"
     },
     "q_img": "q2_question_images/E_La3A5045_q.png",
-    "a_img": "q2_answer_images/E_La3A5045_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16082,7 +14976,6 @@ window.QUIZ_DATA = [
       "D": "其他连接。"
     },
     "q_img": "q2_question_images/E_La3A5046_q.png",
-    "a_img": "q2_answer_images/E_La3A5046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16099,7 +14992,6 @@ window.QUIZ_DATA = [
       "D": "平均值。"
     },
     "q_img": "q2_question_images/E_La2A1047_q.png",
-    "a_img": "q2_answer_images/E_La2A1047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16116,7 +15008,6 @@ window.QUIZ_DATA = [
       "D": "电压的最大值为110V, 相位角是"
     },
     "q_img": "q2_question_images/E_La2A1048_q.png",
-    "a_img": "q2_answer_images/E_La2A1048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16132,7 +15023,6 @@ window.QUIZ_DATA = [
       "C": "电 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_La2A1049_q.png",
-    "a_img": "q2_answer_images/E_La2A1049_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16149,7 +15039,6 @@ window.QUIZ_DATA = [
       "D": ""
     },
     "q_img": "q2_question_images/E_La3A5044_q.png",
-    "a_img": "q2_answer_images/E_La3A5044_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16166,7 +15055,6 @@ window.QUIZ_DATA = [
       "D": "93。"
     },
     "q_img": "q2_question_images/E_La2A2050_q.png",
-    "a_img": "q2_answer_images/E_La2A2050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16183,7 +15071,6 @@ window.QUIZ_DATA = [
       "D": "阻 容性的。"
     },
     "q_img": "q2_question_images/E_La2A2051_q.png",
-    "a_img": "q2_answer_images/E_La2A2051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16200,7 +15087,6 @@ window.QUIZ_DATA = [
       "D": "有功功率与无 功功率之比。"
     },
     "q_img": "q2_question_images/E_La2A2052_q.png",
-    "a_img": "q2_answer_images/E_La2A2052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16217,7 +15103,6 @@ window.QUIZ_DATA = [
       "D": "R+XL>Xc。"
     },
     "q_img": "q2_question_images/E_La2A2053_q.png",
-    "a_img": "q2_answer_images/E_La2A2053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16234,7 +15119,6 @@ window.QUIZ_DATA = [
       "D": "3E。"
     },
     "q_img": "q2_question_images/E_La2A3054_q.png",
-    "a_img": "q2_answer_images/E_La2A3054_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16251,7 +15135,6 @@ window.QUIZ_DATA = [
       "D": "电压超前电流30°。 28 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_La2A3055_q.png",
-    "a_img": "q2_answer_images/E_La2A3055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16268,7 +15151,6 @@ window.QUIZ_DATA = [
       "D": "无 法确定。"
     },
     "q_img": "q2_question_images/E_La2A3056_q.png",
-    "a_img": "q2_answer_images/E_La2A3056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16285,7 +15167,6 @@ window.QUIZ_DATA = [
       "D": "电势。"
     },
     "q_img": "q2_question_images/E_La2A4057_q.png",
-    "a_img": "q2_answer_images/E_La2A4057_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16302,7 +15183,6 @@ window.QUIZ_DATA = [
       "D": "W。"
     },
     "q_img": "q2_question_images/E_La2A4058_q.png",
-    "a_img": "q2_answer_images/E_La2A4058_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16319,7 +15199,6 @@ window.QUIZ_DATA = [
       "D": "欧姆。"
     },
     "q_img": "q2_question_images/E_La2A4059_q.png",
-    "a_img": "q2_answer_images/E_La2A4059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16336,7 +15215,6 @@ window.QUIZ_DATA = [
       "D": "无关。"
     },
     "q_img": "q2_question_images/E_La2A4060_q.png",
-    "a_img": "q2_answer_images/E_La2A4060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16353,7 +15231,6 @@ window.QUIZ_DATA = [
       "D": "之商。"
     },
     "q_img": "q2_question_images/E_La1A1061_q.png",
-    "a_img": "q2_answer_images/E_La1A1061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16370,7 +15247,6 @@ window.QUIZ_DATA = [
       "D": "不等于。 29"
     },
     "q_img": "q2_question_images/E_La1A1063_q.png",
-    "a_img": "q2_answer_images/E_La1A1063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16387,7 +15263,6 @@ window.QUIZ_DATA = [
       "D": "相减。"
     },
     "q_img": "q2_question_images/E_La1A2064_q.png",
-    "a_img": "q2_answer_images/E_La1A2064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16404,7 +15279,6 @@ window.QUIZ_DATA = [
       "D": "不等于。"
     },
     "q_img": "q2_question_images/E_La1A2065_q.png",
-    "a_img": "q2_answer_images/E_La1A2065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16421,7 +15295,6 @@ window.QUIZ_DATA = [
       "D": "其他。"
     },
     "q_img": "q2_question_images/E_La1A2066_q.png",
-    "a_img": "q2_answer_images/E_La1A2066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16438,7 +15311,6 @@ window.QUIZ_DATA = [
       "D": "不等于。"
     },
     "q_img": "q2_question_images/E_La1A2067_q.png",
-    "a_img": "q2_answer_images/E_La1A2067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16453,7 +15325,6 @@ window.QUIZ_DATA = [
       "C": "RB(R+R)"
     },
     "q_img": "q2_question_images/E_La1A2068_q.png",
-    "a_img": "q2_answer_images/E_La1A2068_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16470,7 +15341,6 @@ window.QUIZ_DATA = [
       "D": "倒数和。"
     },
     "q_img": "q2_question_images/E_La1A3069_q.png",
-    "a_img": "q2_answer_images/E_La1A3069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16487,7 +15357,6 @@ window.QUIZ_DATA = [
       "D": "无功。"
     },
     "q_img": "q2_question_images/E_La1A3070_q.png",
-    "a_img": "q2_answer_images/E_La1A3070_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16504,7 +15373,6 @@ window.QUIZ_DATA = [
       "C": "1000"
     },
     "q_img": "q2_question_images/E_La1A3071_q.png",
-    "a_img": "q2_answer_images/E_La1A3071_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16518,7 +15386,6 @@ window.QUIZ_DATA = [
       "B": "选 择 题 鉴 定 试 题 库 30 鉴计 定 试扫 题 库是"
     },
     "q_img": "q2_question_images/E_La1A3072_q.png",
-    "a_img": "q2_answer_images/E_La1A3072_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16535,7 +15402,6 @@ window.QUIZ_DATA = [
       "C": "导线的电阻率"
     },
     "q_img": "q2_question_images/E_La1A4074_q.png",
-    "a_img": "q2_answer_images/E_La1A4074_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16552,7 +15418,6 @@ window.QUIZ_DATA = [
       "C": "板间介质"
     },
     "q_img": "q2_question_images/E_La1A4075_q.png",
-    "a_img": "q2_answer_images/E_La1A4075_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16569,7 +15434,6 @@ window.QUIZ_DATA = [
       "C": "有无铁芯"
     },
     "q_img": "q2_question_images/E_La1A4076_q.png",
-    "a_img": "q2_answer_images/E_La1A4076_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16586,7 +15450,6 @@ window.QUIZ_DATA = [
       "D": "发热 量不等。"
     },
     "q_img": "q2_question_images/E_La1A5077_q.png",
-    "a_img": "q2_answer_images/E_La1A5077_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16603,7 +15466,6 @@ window.QUIZ_DATA = [
       "D": "发热量较小。"
     },
     "q_img": "q2_question_images/E_La1A5078_q.png",
-    "a_img": "q2_answer_images/E_La1A5078_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16620,7 +15482,6 @@ window.QUIZ_DATA = [
       "D": "联链。"
     },
     "q_img": "q2_question_images/E_La1A5079_q.png",
-    "a_img": "q2_answer_images/E_La1A5079_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16637,7 +15498,6 @@ window.QUIZ_DATA = [
       "D": "260。"
     },
     "q_img": "q2_question_images/E_La1A4073_q.png",
-    "a_img": "q2_answer_images/E_La1A4073_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16654,7 +15514,6 @@ window.QUIZ_DATA = [
       "D": "2。"
     },
     "q_img": "q2_question_images/E_Lb5A1081_q.png",
-    "a_img": "q2_answer_images/E_Lb5A1081_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16671,7 +15530,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb5A1082_q.png",
-    "a_img": "q2_answer_images/E_Lb5A1082_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16686,7 +15544,6 @@ window.QUIZ_DATA = [
       "B": "32 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Lb5A2083_q.png",
-    "a_img": "q2_answer_images/E_Lb5A2083_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16701,7 +15558,6 @@ window.QUIZ_DATA = [
       "B": "EL1 EL2"
     },
     "q_img": "q2_question_images/E_Lb5A2084_q.png",
-    "a_img": "q2_answer_images/E_Lb5A2084_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16718,7 +15574,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb5A2085_q.png",
-    "a_img": "q2_answer_images/E_Lb5A2085_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16735,7 +15590,6 @@ window.QUIZ_DATA = [
       "D": "不一定。 33 鉴 定 试 题 库 选 择 题"
     },
     "q_img": "q2_question_images/E_Lb5A2086_q.png",
-    "a_img": "q2_answer_images/E_Lb5A2086_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16752,7 +15606,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb5A3087_q.png",
-    "a_img": "q2_answer_images/E_Lb5A3087_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16769,7 +15622,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb5A3088_q.png",
-    "a_img": "q2_answer_images/E_Lb5A3088_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16786,7 +15638,6 @@ window.QUIZ_DATA = [
       "D": "无法比较。"
     },
     "q_img": "q2_question_images/E_Lb5A3089_q.png",
-    "a_img": "q2_answer_images/E_Lb5A3089_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16803,7 +15654,6 @@ window.QUIZ_DATA = [
       "D": "无 法确定。"
     },
     "q_img": "q2_question_images/E_Lb5A3090_q.png",
-    "a_img": "q2_answer_images/E_Lb5A3090_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16820,7 +15670,6 @@ window.QUIZ_DATA = [
       "D": "无法判断。 图A- 12"
     },
     "q_img": "q2_question_images/E_Lb5A4091_q.png",
-    "a_img": "q2_answer_images/E_Lb5A4091_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16837,7 +15686,6 @@ window.QUIZ_DATA = [
       "D": "50。 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Lb5A4092_q.png",
-    "a_img": "q2_answer_images/E_Lb5A4092_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16854,7 +15702,6 @@ window.QUIZ_DATA = [
       "D": "读数均不变。 R₂ D"
     },
     "q_img": "q2_question_images/E_Lb5A5093_q.png",
-    "a_img": "q2_answer_images/E_Lb5A5093_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16869,7 +15716,6 @@ window.QUIZ_DATA = [
       "B": "R₃"
     },
     "q_img": "q2_question_images/E_Lb5A5094_q.png",
-    "a_img": "q2_answer_images/E_Lb5A5094_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16884,7 +15730,6 @@ window.QUIZ_DATA = [
       "D": ""
     },
     "q_img": "q2_question_images/E_Lb4A1095_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1095_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -16901,7 +15746,6 @@ window.QUIZ_DATA = [
       "D": "串 联电感。"
     },
     "q_img": "q2_question_images/E_Lb4A1096_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1096_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16918,7 +15762,6 @@ window.QUIZ_DATA = [
       "C": "计 算蓄电池充电的电功率"
     },
     "q_img": "q2_question_images/E_Lb4A1097_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1097_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16935,7 +15778,6 @@ window.QUIZ_DATA = [
       "D": "10。"
     },
     "q_img": "q2_question_images/E_Lb4A1098_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1098_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16952,7 +15794,6 @@ window.QUIZ_DATA = [
       "C": "电解、蓄电 池充电"
     },
     "q_img": "q2_question_images/E_Lb4A1099_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1099_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16969,7 +15810,6 @@ window.QUIZ_DATA = [
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_Lb4A1100_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1100_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -16986,7 +15826,6 @@ window.QUIZ_DATA = [
       "D": "0。"
     },
     "q_img": "q2_question_images/E_Lb4A1101_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1101_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17003,7 +15842,6 @@ window.QUIZ_DATA = [
       "D": "串 联电容。"
     },
     "q_img": "q2_question_images/E_Lb4A1102_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1102_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17020,7 +15858,6 @@ window.QUIZ_DATA = [
       "D": "√3Uphlpsingph。"
     },
     "q_img": "q2_question_images/E_Lb4A1103_q.png",
-    "a_img": "q2_answer_images/E_Lb4A1103_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17037,7 +15874,6 @@ window.QUIZ_DATA = [
       "D": "负载 是感性。"
     },
     "q_img": "q2_question_images/E_Lb4A2104_q.png",
-    "a_img": "q2_answer_images/E_Lb4A2104_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17054,7 +15890,6 @@ window.QUIZ_DATA = [
       "D": "负载 是感性。"
     },
     "q_img": "q2_question_images/E_Lb4A2105_q.png",
-    "a_img": "q2_answer_images/E_Lb4A2105_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17071,7 +15906,6 @@ window.QUIZ_DATA = [
       "D": "2 倍相电流。"
     },
     "q_img": "q2_question_images/E_Lb4A2106_q.png",
-    "a_img": "q2_answer_images/E_Lb4A2106_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17088,7 +15922,6 @@ window.QUIZ_DATA = [
       "D": "2 鉴 定 试 题 库 选 择 题 38 选 择 题 鉴 定 试 题 库 倍的相电压。"
     },
     "q_img": "q2_question_images/E_Lb4A2107_q.png",
-    "a_img": "q2_answer_images/E_Lb4A2107_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17105,7 +15938,6 @@ window.QUIZ_DATA = [
       "D": "√3 . 倍相电压。"
     },
     "q_img": "q2_question_images/E_Lb4A3108_q.png",
-    "a_img": "q2_answer_images/E_Lb4A3108_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17122,7 +15954,6 @@ window.QUIZ_DATA = [
       "C": "2 倍相电流"
     },
     "q_img": "q2_question_images/E_Lb4A3109_q.png",
-    "a_img": "q2_answer_images/E_Lb4A3109_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17139,7 +15970,6 @@ window.QUIZ_DATA = [
       "C": "三个相电流有效值相等，三个相的相电压 相等且相位角互差120°"
     },
     "q_img": "q2_question_images/E_Lb4A3110_q.png",
-    "a_img": "q2_answer_images/E_Lb4A3110_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17156,7 +15986,6 @@ window.QUIZ_DATA = [
       "D": "中性端。"
     },
     "q_img": "q2_question_images/E_Lb4A3111_q.png",
-    "a_img": "q2_answer_images/E_Lb4A3111_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17173,7 +16002,6 @@ window.QUIZ_DATA = [
       "C": "3"
     },
     "q_img": "q2_question_images/E_Lb4A4112_q.png",
-    "a_img": "q2_answer_images/E_Lb4A4112_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17190,7 +16018,6 @@ window.QUIZ_DATA = [
       "C": "10"
     },
     "q_img": "q2_question_images/E_Lb4A4113_q.png",
-    "a_img": "q2_answer_images/E_Lb4A4113_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17206,7 +16033,6 @@ window.QUIZ_DATA = [
       "D": "4。"
     },
     "q_img": "q2_question_images/E_Lb3A1114_q.png",
-    "a_img": "q2_answer_images/E_Lb3A1114_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17223,7 +16049,6 @@ window.QUIZ_DATA = [
       "D": "电势。"
     },
     "q_img": "q2_question_images/E_Lb3A1115_q.png",
-    "a_img": "q2_answer_images/E_Lb3A1115_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17240,7 +16065,6 @@ window.QUIZ_DATA = [
       "D": "电位。"
     },
     "q_img": "q2_question_images/E_Lb3A1116_q.png",
-    "a_img": "q2_answer_images/E_Lb3A1116_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17257,7 +16081,6 @@ window.QUIZ_DATA = [
       "D": "电 阻率。"
     },
     "q_img": "q2_question_images/E_Lb3A2117_q.png",
-    "a_img": "q2_answer_images/E_Lb3A2117_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17274,7 +16097,6 @@ window.QUIZ_DATA = [
       "D": "ppF。"
     },
     "q_img": "q2_question_images/E_Lb3A2118_q.png",
-    "a_img": "q2_answer_images/E_Lb3A2118_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17291,7 +16113,6 @@ window.QUIZ_DATA = [
       "C": "无功功率"
     },
     "q_img": "q2_question_images/E_Lb3A2119_q.png",
-    "a_img": "q2_answer_images/E_Lb3A2119_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17308,7 +16129,6 @@ window.QUIZ_DATA = [
       "D": "3 倍于一个电阻。 鉴 定 试 题 库 选 择 题 40"
     },
     "q_img": "q2_question_images/E_Lb3A3120_q.png",
-    "a_img": "q2_answer_images/E_Lb3A3120_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17325,7 +16145,6 @@ window.QUIZ_DATA = [
       "D": "两种电路的磁场无法比较。"
     },
     "q_img": "q2_question_images/E_Lb3A3121_q.png",
-    "a_img": "q2_answer_images/E_Lb3A3121_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17342,7 +16161,6 @@ window.QUIZ_DATA = [
       "D": "其他。"
     },
     "q_img": "q2_question_images/E_Lb3A3122_q.png",
-    "a_img": "q2_answer_images/E_Lb3A3122_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17359,7 +16177,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb3A3123_q.png",
-    "a_img": "q2_answer_images/E_Lb3A3123_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17375,7 +16192,6 @@ window.QUIZ_DATA = [
       "D": "3μF。"
     },
     "q_img": "q2_question_images/E_Lb3A4124_q.png",
-    "a_img": "q2_answer_images/E_Lb3A4124_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17392,7 +16208,6 @@ window.QUIZ_DATA = [
       "D": "电路电阻。"
     },
     "q_img": "q2_question_images/E_Lb3A4125_q.png",
-    "a_img": "q2_answer_images/E_Lb3A4125_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17409,7 +16224,6 @@ window.QUIZ_DATA = [
       "C": "电压 与电阻成正比"
     },
     "q_img": "q2_question_images/E_Lb3A4126_q.png",
-    "a_img": "q2_answer_images/E_Lb3A4126_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17426,7 +16240,6 @@ window.QUIZ_DATA = [
       "D": "四 个以上。 选 择 题 鉴 定 试 题 库 41"
     },
     "q_img": "q2_question_images/E_Lb3A4127_q.png",
-    "a_img": "q2_answer_images/E_Lb3A4127_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17443,7 +16256,6 @@ window.QUIZ_DATA = [
       "D": "不 一定。"
     },
     "q_img": "q2_question_images/E_Lb3A5128_q.png",
-    "a_img": "q2_answer_images/E_Lb3A5128_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17460,7 +16272,6 @@ window.QUIZ_DATA = [
       "D": "电压。"
     },
     "q_img": "q2_question_images/E_Lb3A5129_q.png",
-    "a_img": "q2_answer_images/E_Lb3A5129_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17477,7 +16288,6 @@ window.QUIZ_DATA = [
       "D": "无法算。"
     },
     "q_img": "q2_question_images/E_Lb3A5130_q.png",
-    "a_img": "q2_answer_images/E_Lb3A5130_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17494,7 +16304,6 @@ window.QUIZ_DATA = [
       "D": "电 流定律。"
     },
     "q_img": "q2_question_images/E_Lb2A1131_q.png",
-    "a_img": "q2_answer_images/E_Lb2A1131_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17511,7 +16320,6 @@ window.QUIZ_DATA = [
       "D": "无法统计。"
     },
     "q_img": "q2_question_images/E_Lb2A1132_q.png",
-    "a_img": "q2_answer_images/E_Lb2A1132_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17528,7 +16336,6 @@ window.QUIZ_DATA = [
       "D": "电 压方向。"
     },
     "q_img": "q2_question_images/E_Lb2A1133_q.png",
-    "a_img": "q2_answer_images/E_Lb2A1133_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17545,7 +16352,6 @@ window.QUIZ_DATA = [
       "D": "不一致。"
     },
     "q_img": "q2_question_images/E_Lb2A2134_q.png",
-    "a_img": "q2_answer_images/E_Lb2A2134_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17562,7 +16368,6 @@ window.QUIZ_DATA = [
       "D": "不 能确定。"
     },
     "q_img": "q2_question_images/E_Lb2A2135_q.png",
-    "a_img": "q2_answer_images/E_Lb2A2135_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17579,7 +16384,6 @@ window.QUIZ_DATA = [
       "D": "不能确定。"
     },
     "q_img": "q2_question_images/E_Lb2A2136_q.png",
-    "a_img": "q2_answer_images/E_Lb2A2136_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17596,7 +16400,6 @@ window.QUIZ_DATA = [
       "D": "无规律。"
     },
     "q_img": "q2_question_images/E_Lb2A3137_q.png",
-    "a_img": "q2_answer_images/E_Lb2A3137_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17613,7 +16416,6 @@ window.QUIZ_DATA = [
       "D": "无 法制定。"
     },
     "q_img": "q2_question_images/E_Lb2A3138_q.png",
-    "a_img": "q2_answer_images/E_Lb2A3138_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17630,7 +16432,6 @@ window.QUIZ_DATA = [
       "D": "√3UI。"
     },
     "q_img": "q2_question_images/E_Lb2A3139_q.png",
-    "a_img": "q2_answer_images/E_Lb2A3139_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17647,7 +16448,6 @@ window.QUIZ_DATA = [
       "D": "开始是 非线性。"
     },
     "q_img": "q2_question_images/E_Lb2A4140_q.png",
-    "a_img": "q2_answer_images/E_Lb2A4140_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17664,7 +16464,6 @@ window.QUIZ_DATA = [
       "D": "其他。"
     },
     "q_img": "q2_question_images/E_Lb2A4141_q.png",
-    "a_img": "q2_answer_images/E_Lb2A4141_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17679,7 +16478,6 @@ window.QUIZ_DATA = [
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_Lb2A4142_q.png",
-    "a_img": "q2_answer_images/E_Lb2A4142_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17696,7 +16494,6 @@ window.QUIZ_DATA = [
       "D": "光能。"
     },
     "q_img": "q2_question_images/E_Lb2A5143_q.png",
-    "a_img": "q2_answer_images/E_Lb2A5143_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17713,7 +16510,6 @@ window.QUIZ_DATA = [
       "D": "绿红黄。"
     },
     "q_img": "q2_question_images/E_Lb2A5144_q.png",
-    "a_img": "q2_answer_images/E_Lb2A5144_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17730,7 +16526,6 @@ window.QUIZ_DATA = [
       "D": "焦耳。"
     },
     "q_img": "q2_question_images/E_Lb2A5145_q.png",
-    "a_img": "q2_answer_images/E_Lb2A5145_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17747,7 +16542,6 @@ window.QUIZ_DATA = [
       "D": "(kvar)。"
     },
     "q_img": "q2_question_images/E_Lb1A1146_q.png",
-    "a_img": "q2_answer_images/E_Lb1A1146_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17764,7 +16558,6 @@ window.QUIZ_DATA = [
       "D": "电压源。"
     },
     "q_img": "q2_question_images/E_Lb1A1147_q.png",
-    "a_img": "q2_answer_images/E_Lb1A1147_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17781,7 +16574,6 @@ window.QUIZ_DATA = [
       "C": "有效"
     },
     "q_img": "q2_question_images/E_Lb1A1148_q.png",
-    "a_img": "q2_answer_images/E_Lb1A1148_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17798,7 +16590,6 @@ window.QUIZ_DATA = [
       "D": "3.5U。"
     },
     "q_img": "q2_question_images/E_Lb1A2149_q.png",
-    "a_img": "q2_answer_images/E_Lb1A2149_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17812,7 +16603,6 @@ window.QUIZ_DATA = [
       "B": ""
     },
     "q_img": "q2_question_images/E_Lb1A2150_q.png",
-    "a_img": "q2_answer_images/E_Lb1A2150_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17829,7 +16619,6 @@ window.QUIZ_DATA = [
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_Lb1A2151_q.png",
-    "a_img": "q2_answer_images/E_Lb1A2151_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17846,7 +16635,6 @@ window.QUIZ_DATA = [
       "D": "不 一定。"
     },
     "q_img": "q2_question_images/E_Lb1A2152_q.png",
-    "a_img": "q2_answer_images/E_Lb1A2152_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17863,7 +16651,6 @@ window.QUIZ_DATA = [
       "D": "机械强度。"
     },
     "q_img": "q2_question_images/E_Lb1A3153_q.png",
-    "a_img": "q2_answer_images/E_Lb1A3153_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17880,7 +16667,6 @@ window.QUIZ_DATA = [
       "C": "最小值"
     },
     "q_img": "q2_question_images/E_Lb1A4154_q.png",
-    "a_img": "q2_answer_images/E_Lb1A4154_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17896,7 +16682,6 @@ window.QUIZ_DATA = [
       "D": "0"
     },
     "q_img": "q2_question_images/E_Lb1A4155_q.png",
-    "a_img": "q2_answer_images/E_Lb1A4155_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17913,7 +16698,6 @@ window.QUIZ_DATA = [
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_Lb1A4156_q.png",
-    "a_img": "q2_answer_images/E_Lb1A4156_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17930,7 +16714,6 @@ window.QUIZ_DATA = [
       "D": "12。"
     },
     "q_img": "q2_question_images/E_Lb1A5157_q.png",
-    "a_img": "q2_answer_images/E_Lb1A5157_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17947,7 +16730,6 @@ window.QUIZ_DATA = [
       "D": "R+XL+Xc。"
     },
     "q_img": "q2_question_images/E_Lb1A5158_q.png",
-    "a_img": "q2_answer_images/E_Lb1A5158_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17964,7 +16746,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb1A5159_q.png",
-    "a_img": "q2_answer_images/E_Lb1A5159_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -17978,7 +16759,6 @@ window.QUIZ_DATA = [
       "C": ""
     },
     "q_img": "q2_question_images/E_Lb1A5160_q.png",
-    "a_img": "q2_answer_images/E_Lb1A5160_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -17995,7 +16775,6 @@ window.QUIZ_DATA = [
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_Lc4A2161_q.png",
-    "a_img": "q2_answer_images/E_Lc4A2161_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18012,7 +16791,6 @@ window.QUIZ_DATA = [
       "D": "不能定。"
     },
     "q_img": "q2_question_images/E_Lc4A2162_q.png",
-    "a_img": "q2_answer_images/E_Lc4A2162_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18029,7 +16807,6 @@ window.QUIZ_DATA = [
       "D": "匝 间温度。"
     },
     "q_img": "q2_question_images/E_Lc4A2163_q.png",
-    "a_img": "q2_answer_images/E_Lc4A2163_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18046,7 +16823,6 @@ window.QUIZ_DATA = [
       "D": "Iceo= (β-1)Icbo。"
     },
     "q_img": "q2_question_images/E_Lc4A2164_q.png",
-    "a_img": "q2_answer_images/E_Lc4A2164_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18063,7 +16839,6 @@ window.QUIZ_DATA = [
       "D": "其他形式。"
     },
     "q_img": "q2_question_images/E_Lc4A3165_q.png",
-    "a_img": "q2_answer_images/E_Lc4A3165_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18079,7 +16854,6 @@ window.QUIZ_DATA = [
       "B": "输送和控制载流子"
     },
     "q_img": "q2_question_images/E_Lc4A3166_q.png",
-    "a_img": "q2_answer_images/E_Lc4A3166_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -18096,7 +16870,6 @@ window.QUIZ_DATA = [
       "D": "其他连接方式。"
     },
     "q_img": "q2_question_images/E_Lc4A3167_q.png",
-    "a_img": "q2_answer_images/E_Lc4A3167_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18113,7 +16886,6 @@ window.QUIZ_DATA = [
       "D": "V1、V2 都截止。"
     },
     "q_img": "q2_question_images/E_Lc3A2168_q.png",
-    "a_img": "q2_answer_images/E_Lc3A2168_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18130,7 +16902,6 @@ window.QUIZ_DATA = [
       "D": "I b=Ic-Ie"
     },
     "q_img": "q2_question_images/E_Lc3A2169_q.png",
-    "a_img": "q2_answer_images/E_Lc3A2169_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18147,7 +16918,6 @@ window.QUIZ_DATA = [
       "D": "其他挡。"
     },
     "q_img": "q2_question_images/E_Le3A3170_q.png",
-    "a_img": "q2_answer_images/E_Le3A3170_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18164,7 +16934,6 @@ window.QUIZ_DATA = [
       "D": "不一定。 48 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Le3A3171_q.png",
-    "a_img": "q2_answer_images/E_Le3A3171_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18181,7 +16950,6 @@ window.QUIZ_DATA = [
       "D": "R× 10挡。"
     },
     "q_img": "q2_question_images/E_Lc3A3172_q.png",
-    "a_img": "q2_answer_images/E_Lc3A3172_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18198,7 +16966,6 @@ window.QUIZ_DATA = [
       "D": "施主杂质原子和受主杂质原子构成。"
     },
     "q_img": "q2_question_images/E_Lc3A3173_q.png",
-    "a_img": "q2_answer_images/E_Lc3A3173_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18215,7 +16982,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Lc3A4174_q.png",
-    "a_img": "q2_answer_images/E_Lc3A4174_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18232,7 +16998,6 @@ window.QUIZ_DATA = [
       "D": "发射区杂质浓度大于集电区杂质浓度。"
     },
     "q_img": "q2_question_images/E_Lc3A4175_q.png",
-    "a_img": "q2_answer_images/E_Lc3A4175_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18249,7 +17014,6 @@ window.QUIZ_DATA = [
       "D": "价电子的定向 运动所形成的。"
     },
     "q_img": "q2_question_images/E_Lc3A4176_q.png",
-    "a_img": "q2_answer_images/E_Lc3A4176_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18263,7 +17027,6 @@ window.QUIZ_DATA = [
       "A": "鉴 定 试 题 库 选 择 题"
     },
     "q_img": "q2_question_images/E_Lc3A5177_q.png",
-    "a_img": "q2_answer_images/E_Lc3A5177_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -18280,7 +17043,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Lc3A5178_q.png",
-    "a_img": "q2_answer_images/E_Lc3A5178_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18297,7 +17059,6 @@ window.QUIZ_DATA = [
       "D": "二次电压 滞后一次电流30°。"
     },
     "q_img": "q2_question_images/E_Jd4A1179_q.png",
-    "a_img": "q2_answer_images/E_Jd4A1179_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18314,7 +17075,6 @@ window.QUIZ_DATA = [
       "D": "间距。"
     },
     "q_img": "q2_question_images/E_Jd5A4180_q.png",
-    "a_img": "q2_answer_images/E_Jd5A4180_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18331,7 +17091,6 @@ window.QUIZ_DATA = [
       "D": "万 用表×1Q挡。"
     },
     "q_img": "q2_question_images/E_Jd5A4181_q.png",
-    "a_img": "q2_answer_images/E_Jd5A4181_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18348,7 +17107,6 @@ window.QUIZ_DATA = [
       "D": "d。"
     },
     "q_img": "q2_question_images/E_Jd5A4182_q.png",
-    "a_img": "q2_answer_images/E_Jd5A4182_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -18365,7 +17123,6 @@ window.QUIZ_DATA = [
       "D": "变。"
     },
     "q_img": "q2_question_images/E_Jd5A5184_q.png",
-    "a_img": "q2_answer_images/E_Jd5A5184_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18381,7 +17138,6 @@ window.QUIZ_DATA = [
       "C": "n=60"
     },
     "q_img": "q2_question_images/E_Jd5A5185_q.png",
-    "a_img": "q2_answer_images/E_Jd5A5185_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -18398,7 +17154,6 @@ window.QUIZ_DATA = [
       "D": "不动。"
     },
     "q_img": "q2_question_images/E_Jd5A5186_q.png",
-    "a_img": "q2_answer_images/E_Jd5A5186_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18415,7 +17170,6 @@ window.QUIZ_DATA = [
       "D": "20%。"
     },
     "q_img": "q2_question_images/E_Jd4A1187_q.png",
-    "a_img": "q2_answer_images/E_Jd4A1187_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18432,7 +17186,6 @@ window.QUIZ_DATA = [
       "C": "白色"
     },
     "q_img": "q2_question_images/E_Jd4A1188_q.png",
-    "a_img": "q2_answer_images/E_Jd4A1188_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18449,7 +17202,6 @@ window.QUIZ_DATA = [
       "D": "450V。"
     },
     "q_img": "q2_question_images/E_Jd4A2189_q.png",
-    "a_img": "q2_answer_images/E_Jd4A2189_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18466,7 +17218,6 @@ window.QUIZ_DATA = [
       "D": "混联。"
     },
     "q_img": "q2_question_images/E_Jd4A2190_q.png",
-    "a_img": "q2_answer_images/E_Jd4A2190_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18483,7 +17234,6 @@ window.QUIZ_DATA = [
       "D": "功率因数<1。 51"
     },
     "q_img": "q2_question_images/E_Jd5A4183_q.png",
-    "a_img": "q2_answer_images/E_Jd5A4183_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18500,7 +17250,6 @@ window.QUIZ_DATA = [
       "D": "原因不定。"
     },
     "q_img": "q2_question_images/E_Jd4A3192_q.png",
-    "a_img": "q2_answer_images/E_Jd4A3192_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18517,7 +17266,6 @@ window.QUIZ_DATA = [
       "D": "不 一定。"
     },
     "q_img": "q2_question_images/E_Jd4A3193_q.png",
-    "a_img": "q2_answer_images/E_Jd4A3193_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18534,7 +17282,6 @@ window.QUIZ_DATA = [
       "D": "为了减少启动电流。"
     },
     "q_img": "q2_question_images/E_Jd4A3194_q.png",
-    "a_img": "q2_answer_images/E_Jd4A3194_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18551,7 +17298,6 @@ window.QUIZ_DATA = [
       "D": "一齐启动。"
     },
     "q_img": "q2_question_images/E_Jd4A4195_q.png",
-    "a_img": "q2_answer_images/E_Jd4A4195_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18568,7 +17314,6 @@ window.QUIZ_DATA = [
       "D": "五。"
     },
     "q_img": "q2_question_images/E_Jd4A4196_q.png",
-    "a_img": "q2_answer_images/E_Jd4A4196_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -18584,7 +17329,6 @@ window.QUIZ_DATA = [
       "B": "启动电流"
     },
     "q_img": "q2_question_images/E_Jd4A4197_q.png",
-    "a_img": "q2_answer_images/E_Jd4A4197_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -18601,7 +17345,6 @@ window.QUIZ_DATA = [
       "D": "最大电流。"
     },
     "q_img": "q2_question_images/E_Jd4A2191_q.png",
-    "a_img": "q2_answer_images/E_Jd4A2191_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18618,7 +17361,6 @@ window.QUIZ_DATA = [
       "D": "最大电流的1.5~ 2.5倍。"
     },
     "q_img": "q2_question_images/E_Jd4A5198_q.png",
-    "a_img": "q2_answer_images/E_Jd4A5198_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18635,7 +17377,6 @@ window.QUIZ_DATA = [
       "D": "变压器温度在+30℃。"
     },
     "q_img": "q2_question_images/E_Jd4A5199_q.png",
-    "a_img": "q2_answer_images/E_Jd4A5199_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18652,7 +17393,6 @@ window.QUIZ_DATA = [
       "C": "定子相电压平方成反比"
     },
     "q_img": "q2_question_images/E_Jd4A5200_q.png",
-    "a_img": "q2_answer_images/E_Jd4A5200_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18669,7 +17409,6 @@ window.QUIZ_DATA = [
       "D": "短路。"
     },
     "q_img": "q2_question_images/E_Jd3A1201_q.png",
-    "a_img": "q2_answer_images/E_Jd3A1201_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18686,7 +17425,6 @@ window.QUIZ_DATA = [
       "D": "无关。"
     },
     "q_img": "q2_question_images/E_Jd3A1202_q.png",
-    "a_img": "q2_answer_images/E_Jd3A1202_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18703,7 +17441,6 @@ window.QUIZ_DATA = [
       "D": "反比。"
     },
     "q_img": "q2_question_images/E_Jd3A1203_q.png",
-    "a_img": "q2_answer_images/E_Jd3A1203_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18720,7 +17457,6 @@ window.QUIZ_DATA = [
       "D": "无关。"
     },
     "q_img": "q2_question_images/E_Jd3A2204_q.png",
-    "a_img": "q2_answer_images/E_Jd3A2204_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18737,7 +17473,6 @@ window.QUIZ_DATA = [
       "D": "√2。"
     },
     "q_img": "q2_question_images/E_Jd3A2205_q.png",
-    "a_img": "q2_answer_images/E_Jd3A2205_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -18754,7 +17489,6 @@ window.QUIZ_DATA = [
       "D": "隔离开关。"
     },
     "q_img": "q2_question_images/E_Jd3A2206_q.png",
-    "a_img": "q2_answer_images/E_Jd3A2206_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18771,7 +17505,6 @@ window.QUIZ_DATA = [
       "D": "最大值。"
     },
     "q_img": "q2_question_images/E_Jd3A3207_q.png",
-    "a_img": "q2_answer_images/E_Jd3A3207_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18788,7 +17521,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Jd3A3208_q.png",
-    "a_img": "q2_answer_images/E_Jd3A3208_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18805,7 +17537,6 @@ window.QUIZ_DATA = [
       "D": "有变化。"
     },
     "q_img": "q2_question_images/E_Jd3A3209_q.png",
-    "a_img": "q2_answer_images/E_Jd3A3209_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18822,7 +17553,6 @@ window.QUIZ_DATA = [
       "D": "有变化。"
     },
     "q_img": "q2_question_images/E_Jd3A4210_q.png",
-    "a_img": "q2_answer_images/E_Jd3A4210_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18839,7 +17569,6 @@ window.QUIZ_DATA = [
       "D": "温 度不变。 选 择 题 鉴 定 试 题 库 54 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Jd3A4211_q.png",
-    "a_img": "q2_answer_images/E_Jd3A4211_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18856,7 +17585,6 @@ window.QUIZ_DATA = [
       "D": "增加有功。"
     },
     "q_img": "q2_question_images/E_Jd3A4212_q.png",
-    "a_img": "q2_answer_images/E_Jd3A4212_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18873,7 +17601,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Jd3A5213_q.png",
-    "a_img": "q2_answer_images/E_Jd3A5213_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18890,7 +17617,6 @@ window.QUIZ_DATA = [
       "D": "变化的。"
     },
     "q_img": "q2_question_images/E_Jd3A5214_q.png",
-    "a_img": "q2_answer_images/E_Jd3A5214_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18907,7 +17633,6 @@ window.QUIZ_DATA = [
       "D": "转子铁芯。"
     },
     "q_img": "q2_question_images/E_Jd2A1215_q.png",
-    "a_img": "q2_answer_images/E_Jd2A1215_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18924,7 +17649,6 @@ window.QUIZ_DATA = [
       "D": "电能。"
     },
     "q_img": "q2_question_images/E_Jd2A1216_q.png",
-    "a_img": "q2_answer_images/E_Jd2A1216_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18941,7 +17665,6 @@ window.QUIZ_DATA = [
       "D": "滑差率。"
     },
     "q_img": "q2_question_images/E_Jd2A2217_q.png",
-    "a_img": "q2_answer_images/E_Jd2A2217_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18958,7 +17681,6 @@ window.QUIZ_DATA = [
       "D": "有影响。"
     },
     "q_img": "q2_question_images/E_Jd2A2218_q.png",
-    "a_img": "q2_answer_images/E_Jd2A2218_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18975,7 +17697,6 @@ window.QUIZ_DATA = [
       "D": "有影响。 55"
     },
     "q_img": "q2_question_images/E_Jd2A3219_q.png",
-    "a_img": "q2_answer_images/E_Jd2A3219_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -18992,7 +17713,6 @@ window.QUIZ_DATA = [
       "D": "之比。"
     },
     "q_img": "q2_question_images/E_Jd2A3220_q.png",
-    "a_img": "q2_answer_images/E_Jd2A3220_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19009,7 +17729,6 @@ window.QUIZ_DATA = [
       "D": "有变化。"
     },
     "q_img": "q2_question_images/E_Jd2A3221_q.png",
-    "a_img": "q2_answer_images/E_Jd2A3221_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19026,7 +17745,6 @@ window.QUIZ_DATA = [
       "D": "不变化。"
     },
     "q_img": "q2_question_images/E_Jd2A4222_q.png",
-    "a_img": "q2_answer_images/E_Jd2A4222_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19043,7 +17761,6 @@ window.QUIZ_DATA = [
       "D": "最小值。"
     },
     "q_img": "q2_question_images/E_Jd2A4223_q.png",
-    "a_img": "q2_answer_images/E_Jd2A4223_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19060,7 +17777,6 @@ window.QUIZ_DATA = [
       "D": "非选择性。"
     },
     "q_img": "q2_question_images/E_Jd2A4224_q.png",
-    "a_img": "q2_answer_images/E_Jd2A4224_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19077,7 +17793,6 @@ window.QUIZ_DATA = [
       "D": "黑色。"
     },
     "q_img": "q2_question_images/E_Jd2A5225_q.png",
-    "a_img": "q2_answer_images/E_Jd2A5225_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19094,7 +17809,6 @@ window.QUIZ_DATA = [
       "D": "不变。 鉴 定 试 题 库 选 择 题 56"
     },
     "q_img": "q2_question_images/E_Jd2A5226_q.png",
-    "a_img": "q2_answer_images/E_Jd2A5226_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19111,7 +17825,6 @@ window.QUIZ_DATA = [
       "D": "不变。 y"
     },
     "q_img": "q2_question_images/E_Jd2A5227_q.png",
-    "a_img": "q2_answer_images/E_Jd2A5227_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19128,7 +17841,6 @@ window.QUIZ_DATA = [
       "D": "磁场。"
     },
     "q_img": "q2_question_images/E_Jd1A1228_q.png",
-    "a_img": "q2_answer_images/E_Jd1A1228_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19145,7 +17857,6 @@ window.QUIZ_DATA = [
       "D": "有关系。"
     },
     "q_img": "q2_question_images/E_Jd1A1229_q.png",
-    "a_img": "q2_answer_images/E_Jd1A1229_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19162,7 +17873,6 @@ window.QUIZ_DATA = [
       "D": "高次谐波。"
     },
     "q_img": "q2_question_images/E_Jd1A1230_q.png",
-    "a_img": "q2_answer_images/E_Jd1A1230_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19179,7 +17889,6 @@ window.QUIZ_DATA = [
       "D": "1:4。"
     },
     "q_img": "q2_question_images/E_Jd1A2231_q.png",
-    "a_img": "q2_answer_images/E_Jd1A2231_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19196,7 +17905,6 @@ window.QUIZ_DATA = [
       "D": "5 倍。"
     },
     "q_img": "q2_question_images/E_Jd1A2232_q.png",
-    "a_img": "q2_answer_images/E_Jd1A2232_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19213,7 +17921,6 @@ window.QUIZ_DATA = [
       "D": "有关。"
     },
     "q_img": "q2_question_images/E_Jd1A2233_q.png",
-    "a_img": "q2_answer_images/E_Jd1A2233_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19230,7 +17937,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Jd1A3234_q.png",
-    "a_img": "q2_answer_images/E_Jd1A3234_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19247,7 +17953,6 @@ window.QUIZ_DATA = [
       "D": "有变化。"
     },
     "q_img": "q2_question_images/E_Jd1A3235_q.png",
-    "a_img": "q2_answer_images/E_Jd1A3235_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19264,7 +17969,6 @@ window.QUIZ_DATA = [
       "D": "两个低一个高。"
     },
     "q_img": "q2_question_images/E_Jd1A3236_q.png",
-    "a_img": "q2_answer_images/E_Jd1A3236_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19281,7 +17985,6 @@ window.QUIZ_DATA = [
       "D": "正 反馈元件。"
     },
     "q_img": "q2_question_images/E_Jd1A4237_q.png",
-    "a_img": "q2_answer_images/E_Jd1A4237_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19298,7 +18001,6 @@ window.QUIZ_DATA = [
       "D": "瞬时值。"
     },
     "q_img": "q2_question_images/E_Jd1A4238_q.png",
-    "a_img": "q2_answer_images/E_Jd1A4238_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19315,7 +18017,6 @@ window.QUIZ_DATA = [
       "D": "有变。"
     },
     "q_img": "q2_question_images/E_Jd1A4239_q.png",
-    "a_img": "q2_answer_images/E_Jd1A4239_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19332,7 +18033,6 @@ window.QUIZ_DATA = [
       "D": "有变。"
     },
     "q_img": "q2_question_images/E_Jd1A5240_q.png",
-    "a_img": "q2_answer_images/E_Jd1A5240_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19349,7 +18049,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Jd1A5241_q.png",
-    "a_img": "q2_answer_images/E_Jd1A5241_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19366,7 +18065,6 @@ window.QUIZ_DATA = [
       "D": "40。"
     },
     "q_img": "q2_question_images/E_Jd1A5242_q.png",
-    "a_img": "q2_answer_images/E_Jd1A5242_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19383,7 +18081,6 @@ window.QUIZ_DATA = [
       "D": "戴维南定律。"
     },
     "q_img": "q2_question_images/E_Je5A1243_q.png",
-    "a_img": "q2_answer_images/E_Je5A1243_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19400,7 +18097,6 @@ window.QUIZ_DATA = [
       "C": "回路电流法"
     },
     "q_img": "q2_question_images/E_Je5A1244_q.png",
-    "a_img": "q2_answer_images/E_Je5A1244_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19417,7 +18113,6 @@ window.QUIZ_DATA = [
       "D": "合闸是否完好。"
     },
     "q_img": "q2_question_images/E_Je5A1245_q.png",
-    "a_img": "q2_answer_images/E_Je5A1245_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19434,7 +18129,6 @@ window.QUIZ_DATA = [
       "D": "90。"
     },
     "q_img": "q2_question_images/E_Je5A2246_q.png",
-    "a_img": "q2_answer_images/E_Je5A2246_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19451,7 +18145,6 @@ window.QUIZ_DATA = [
       "D": "电流值。"
     },
     "q_img": "q2_question_images/E_Je5A2247_q.png",
-    "a_img": "q2_answer_images/E_Je5A2247_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19468,7 +18161,6 @@ window.QUIZ_DATA = [
       "D": "不补偿。"
     },
     "q_img": "q2_question_images/E_Je5A2248_q.png",
-    "a_img": "q2_answer_images/E_Je5A2248_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19485,7 +18177,6 @@ window.QUIZ_DATA = [
       "D": "无规 律变化。"
     },
     "q_img": "q2_question_images/E_Je5A3249_q.png",
-    "a_img": "q2_answer_images/E_Je5A3249_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19502,7 +18193,6 @@ window.QUIZ_DATA = [
       "D": "90。"
     },
     "q_img": "q2_question_images/E_Je5A3250_q.png",
-    "a_img": "q2_answer_images/E_Je5A3250_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19519,7 +18209,6 @@ window.QUIZ_DATA = [
       "D": "电压。"
     },
     "q_img": "q2_question_images/E_Je5A3251_q.png",
-    "a_img": "q2_answer_images/E_Je5A3251_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19536,7 +18225,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Je5A4252_q.png",
-    "a_img": "q2_answer_images/E_Je5A4252_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19553,7 +18241,6 @@ window.QUIZ_DATA = [
       "D": "永 动磁场。"
     },
     "q_img": "q2_question_images/E_Je5A4253_q.png",
-    "a_img": "q2_answer_images/E_Je5A4253_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19570,7 +18257,6 @@ window.QUIZ_DATA = [
       "D": "高 选 择 题 鉴 定 试 题 库 60 次谐波。"
     },
     "q_img": "q2_question_images/E_Je5A4254_q.png",
-    "a_img": "q2_answer_images/E_Je5A4254_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19587,7 +18273,6 @@ window.QUIZ_DATA = [
       "D": "3。"
     },
     "q_img": "q2_question_images/E_Je5A5255_q.png",
-    "a_img": "q2_answer_images/E_Je5A5255_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -19604,7 +18289,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Je5A5256_q.png",
-    "a_img": "q2_answer_images/E_Je5A5256_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19621,7 +18305,6 @@ window.QUIZ_DATA = [
       "D": "5°。"
     },
     "q_img": "q2_question_images/E_Je5A5257_q.png",
-    "a_img": "q2_answer_images/E_Je5A5257_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19638,7 +18321,6 @@ window.QUIZ_DATA = [
       "D": "都 不是。"
     },
     "q_img": "q2_question_images/E_Je4A1258_q.png",
-    "a_img": "q2_answer_images/E_Je4A1258_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19655,7 +18337,6 @@ window.QUIZ_DATA = [
       "D": "其他损耗。"
     },
     "q_img": "q2_question_images/E_Je4A1259_q.png",
-    "a_img": "q2_answer_images/E_Je4A1259_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19672,7 +18353,6 @@ window.QUIZ_DATA = [
       "D": "下层线棒槽口处。"
     },
     "q_img": "q2_question_images/E_Je4A1260_q.png",
-    "a_img": "q2_answer_images/E_Je4A1260_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19689,7 +18369,6 @@ window.QUIZ_DATA = [
       "D": "100°。"
     },
     "q_img": "q2_question_images/E_Je4A2261_q.png",
-    "a_img": "q2_answer_images/E_Je4A2261_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19706,7 +18385,6 @@ window.QUIZ_DATA = [
       "D": "有效值。"
     },
     "q_img": "q2_question_images/E_Je4A2262_q.png",
-    "a_img": "q2_answer_images/E_Je4A2262_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19723,7 +18401,6 @@ window.QUIZ_DATA = [
       "D": "不限电流。"
     },
     "q_img": "q2_question_images/E_Je4A2263_q.png",
-    "a_img": "q2_answer_images/E_Je4A2263_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19740,7 +18417,6 @@ window.QUIZ_DATA = [
       "D": "变压器降压。"
     },
     "q_img": "q2_question_images/E_Je4A3264_q.png",
-    "a_img": "q2_answer_images/E_Je4A3264_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19757,7 +18433,6 @@ window.QUIZ_DATA = [
       "D": "YNy6。"
     },
     "q_img": "q2_question_images/E_Je4A3265_q.png",
-    "a_img": "q2_answer_images/E_Je4A3265_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19774,7 +18449,6 @@ window.QUIZ_DATA = [
       "D": "无关系。"
     },
     "q_img": "q2_question_images/E_Je4A3266_q.png",
-    "a_img": "q2_answer_images/E_Je4A3266_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19791,7 +18465,6 @@ window.QUIZ_DATA = [
       "D": "无关。 鉴 定 试 题 库 选 择 题 62"
     },
     "q_img": "q2_question_images/E_Je4A4267_q.png",
-    "a_img": "q2_answer_images/E_Je4A4267_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19808,7 +18481,6 @@ window.QUIZ_DATA = [
       "D": "无关。"
     },
     "q_img": "q2_question_images/E_Je4A4268_q.png",
-    "a_img": "q2_answer_images/E_Je4A4268_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -19825,7 +18497,6 @@ window.QUIZ_DATA = [
       "D": "Z 形。"
     },
     "q_img": "q2_question_images/E_Je4A4269_q.png",
-    "a_img": "q2_answer_images/E_Je4A4269_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19842,7 +18513,6 @@ window.QUIZ_DATA = [
       "D": "暂稳态。"
     },
     "q_img": "q2_question_images/E_Je4A5270_q.png",
-    "a_img": "q2_answer_images/E_Je4A5270_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19859,7 +18529,6 @@ window.QUIZ_DATA = [
       "D": "有效。"
     },
     "q_img": "q2_question_images/E_Je4A5271_q.png",
-    "a_img": "q2_answer_images/E_Je4A5271_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19876,7 +18545,6 @@ window.QUIZ_DATA = [
       "D": "不一定变。"
     },
     "q_img": "q2_question_images/E_Je4A5272_q.png",
-    "a_img": "q2_answer_images/E_Je4A5272_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19893,7 +18561,6 @@ window.QUIZ_DATA = [
       "D": "无规律变化。"
     },
     "q_img": "q2_question_images/E_Je4A5273_q.png",
-    "a_img": "q2_answer_images/E_Je4A5273_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19910,7 +18577,6 @@ window.QUIZ_DATA = [
       "D": "电感。 选 择 题 鉴 定 试 题 库 63"
     },
     "q_img": "q2_question_images/E_Je3A1274_q.png",
-    "a_img": "q2_answer_images/E_Je3A1274_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19927,7 +18593,6 @@ window.QUIZ_DATA = [
       "D": "无变化 规律。"
     },
     "q_img": "q2_question_images/E_Je3A1275_q.png",
-    "a_img": "q2_answer_images/E_Je3A1275_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19944,7 +18609,6 @@ window.QUIZ_DATA = [
       "D": "零 序电流。"
     },
     "q_img": "q2_question_images/E_Je3A1276_q.png",
-    "a_img": "q2_answer_images/E_Je3A1276_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19961,7 +18625,6 @@ window.QUIZ_DATA = [
       "D": "负 序电流。"
     },
     "q_img": "q2_question_images/E_Je3A2277_q.png",
-    "a_img": "q2_answer_images/E_Je3A2277_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19978,7 +18641,6 @@ window.QUIZ_DATA = [
       "D": "三 相短路。"
     },
     "q_img": "q2_question_images/E_Je3A2278_q.png",
-    "a_img": "q2_answer_images/E_Je3A2278_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -19995,7 +18657,6 @@ window.QUIZ_DATA = [
       "D": "鼠笼电动机。"
     },
     "q_img": "q2_question_images/E_Je3A2279_q.png",
-    "a_img": "q2_answer_images/E_Je3A2279_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20012,7 +18673,6 @@ window.QUIZ_DATA = [
       "D": "电感。"
     },
     "q_img": "q2_question_images/E_Je3A3280_q.png",
-    "a_img": "q2_answer_images/E_Je3A3280_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20029,7 +18689,6 @@ window.QUIZ_DATA = [
       "D": "无规律变化。"
     },
     "q_img": "q2_question_images/E_Je3A3281_q.png",
-    "a_img": "q2_answer_images/E_Je3A3281_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20046,7 +18705,6 @@ window.QUIZ_DATA = [
       "D": "安全性。"
     },
     "q_img": "q2_question_images/E_Je3A3282_q.png",
-    "a_img": "q2_answer_images/E_Je3A3282_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20063,7 +18721,6 @@ window.QUIZ_DATA = [
       "D": "20%。"
     },
     "q_img": "q2_question_images/E_Je3A4283_q.png",
-    "a_img": "q2_answer_images/E_Je3A4283_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20080,7 +18737,6 @@ window.QUIZ_DATA = [
       "D": "等于1。"
     },
     "q_img": "q2_question_images/E_Je3A4284_q.png",
-    "a_img": "q2_answer_images/E_Je3A4284_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20097,7 +18753,6 @@ window.QUIZ_DATA = [
       "D": "90%。"
     },
     "q_img": "q2_question_images/E_Je3A4285_q.png",
-    "a_img": "q2_answer_images/E_Je3A4285_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20114,7 +18769,6 @@ window.QUIZ_DATA = [
       "D": "不装过负荷小开关。"
     },
     "q_img": "q2_question_images/E_Je3A5286_q.png",
-    "a_img": "q2_answer_images/E_Je3A5286_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20131,7 +18785,6 @@ window.QUIZ_DATA = [
       "D": "等于0。"
     },
     "q_img": "q2_question_images/E_Je3A5287_q.png",
-    "a_img": "q2_answer_images/E_Je3A5287_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20148,7 +18801,6 @@ window.QUIZ_DATA = [
       "D": "定子发热条件。"
     },
     "q_img": "q2_question_images/E_Je3A5288_q.png",
-    "a_img": "q2_answer_images/E_Je3A5288_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20165,7 +18817,6 @@ window.QUIZ_DATA = [
       "D": "不建立磁场。"
     },
     "q_img": "q2_question_images/E_Je2A1289_q.png",
-    "a_img": "q2_answer_images/E_Je2A1289_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20182,7 +18833,6 @@ window.QUIZ_DATA = [
       "D": "过 补偿。"
     },
     "q_img": "q2_question_images/E_Je2A1290_q.png",
-    "a_img": "q2_answer_images/E_Je2A1290_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20199,7 +18849,6 @@ window.QUIZ_DATA = [
       "D": "低5%。"
     },
     "q_img": "q2_question_images/E_Je2A1291_q.png",
-    "a_img": "q2_answer_images/E_Je2A1291_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20216,7 +18865,6 @@ window.QUIZ_DATA = [
       "D": "同 步发电机。"
     },
     "q_img": "q2_question_images/E_Je2A2292_q.png",
-    "a_img": "q2_answer_images/E_Je2A2292_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20233,7 +18881,6 @@ window.QUIZ_DATA = [
       "D": "汽机大轴。"
     },
     "q_img": "q2_question_images/E_Je2A2293_q.png",
-    "a_img": "q2_answer_images/E_Je2A2293_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20250,7 +18897,6 @@ window.QUIZ_DATA = [
       "D": "√2I₀。"
     },
     "q_img": "q2_question_images/E_Je2A3294_q.png",
-    "a_img": "q2_answer_images/E_Je2A3294_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20267,7 +18913,6 @@ window.QUIZ_DATA = [
       "D": "高次谐波。"
     },
     "q_img": "q2_question_images/E_Je2A3295_q.png",
-    "a_img": "q2_answer_images/E_Je2A3295_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20284,7 +18929,6 @@ window.QUIZ_DATA = [
       "D": "不对称短路。"
     },
     "q_img": "q2_question_images/E_Je2A3296_q.png",
-    "a_img": "q2_answer_images/E_Je2A3296_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20301,7 +18945,6 @@ window.QUIZ_DATA = [
       "D": "合闸慢。"
     },
     "q_img": "q2_question_images/E_Je2A3297_q.png",
-    "a_img": "q2_answer_images/E_Je2A3297_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20318,7 +18961,6 @@ window.QUIZ_DATA = [
       "D": "60。"
     },
     "q_img": "q2_question_images/E_Je2A4298_q.png",
-    "a_img": "q2_answer_images/E_Je2A4298_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20335,7 +18977,6 @@ window.QUIZ_DATA = [
       "D": "√2 倍。"
     },
     "q_img": "q2_question_images/E_Je2A4299_q.png",
-    "a_img": "q2_answer_images/E_Je2A4299_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20352,7 +18993,6 @@ window.QUIZ_DATA = [
       "D": "近似于。 选 择 题 鉴 定 试 题 库 67"
     },
     "q_img": "q2_question_images/E_Je2A4300_q.png",
-    "a_img": "q2_answer_images/E_Je2A4300_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20369,7 +19009,6 @@ window.QUIZ_DATA = [
       "D": "等于。"
     },
     "q_img": "q2_question_images/E_Je2A5301_q.png",
-    "a_img": "q2_answer_images/E_Je2A5301_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20386,7 +19025,6 @@ window.QUIZ_DATA = [
       "D": "电 流速断。"
     },
     "q_img": "q2_question_images/E_Je2A5302_q.png",
-    "a_img": "q2_answer_images/E_Je2A5302_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20403,7 +19041,6 @@ window.QUIZ_DATA = [
       "D": "励磁回路发生两点接地。"
     },
     "q_img": "q2_question_images/E_Je2A5303_q.png",
-    "a_img": "q2_answer_images/E_Je2A5303_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20420,7 +19057,6 @@ window.QUIZ_DATA = [
       "D": "电刷受压力太大。"
     },
     "q_img": "q2_question_images/E_Je1A1304_q.png",
-    "a_img": "q2_answer_images/E_Je1A1304_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20437,7 +19073,6 @@ window.QUIZ_DATA = [
       "D": "向上倾斜外特性。"
     },
     "q_img": "q2_question_images/E_Je1A1305_q.png",
-    "a_img": "q2_answer_images/E_Je1A1305_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20454,7 +19089,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Je1A1306_q.png",
-    "a_img": "q2_answer_images/E_Je1A1306_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20471,7 +19105,6 @@ window.QUIZ_DATA = [
       "D": "不一 定有影响。"
     },
     "q_img": "q2_question_images/E_Je1A1307_q.png",
-    "a_img": "q2_answer_images/E_Je1A1307_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20488,7 +19121,6 @@ window.QUIZ_DATA = [
       "D": "投入定时。"
     },
     "q_img": "q2_question_images/E_Je1A2308_q.png",
-    "a_img": "q2_answer_images/E_Je1A2308_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20505,7 +19137,6 @@ window.QUIZ_DATA = [
       "D": "增加输出电流。"
     },
     "q_img": "q2_question_images/E_Je1A2309_q.png",
-    "a_img": "q2_answer_images/E_Je1A2309_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20522,7 +19153,6 @@ window.QUIZ_DATA = [
       "D": "近似于。"
     },
     "q_img": "q2_question_images/E_Je1A3310_q.png",
-    "a_img": "q2_answer_images/E_Je1A3310_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20539,7 +19169,6 @@ window.QUIZ_DATA = [
       "D": "95% 以下。"
     },
     "q_img": "q2_question_images/E_Je1A3311_q.png",
-    "a_img": "q2_answer_images/E_Je1A3311_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20556,7 +19185,6 @@ window.QUIZ_DATA = [
       "D": "85。"
     },
     "q_img": "q2_question_images/E_Je1A3312_q.png",
-    "a_img": "q2_answer_images/E_Je1A3312_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20573,7 +19201,6 @@ window.QUIZ_DATA = [
       "D": "深红色。"
     },
     "q_img": "q2_question_images/E_Jd1A3313_q.png",
-    "a_img": "q2_answer_images/E_Jd1A3313_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20590,7 +19217,6 @@ window.QUIZ_DATA = [
       "D": "调 温设施。"
     },
     "q_img": "q2_question_images/E_Je1A4314_q.png",
-    "a_img": "q2_answer_images/E_Je1A4314_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20607,7 +19233,6 @@ window.QUIZ_DATA = [
       "D": "电流、无功表。"
     },
     "q_img": "q2_question_images/E_Je1A4315_q.png",
-    "a_img": "q2_answer_images/E_Je1A4315_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20624,7 +19249,6 @@ window.QUIZ_DATA = [
       "D": "1.4。"
     },
     "q_img": "q2_question_images/E_Je1A4316_q.png",
-    "a_img": "q2_answer_images/E_Je1A4316_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20641,7 +19265,6 @@ window.QUIZ_DATA = [
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Je1A5317_q.png",
-    "a_img": "q2_answer_images/E_Je1A5317_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20658,7 +19281,6 @@ window.QUIZ_DATA = [
       "D": "电流。"
     },
     "q_img": "q2_question_images/E_Je1A5318_q.png",
-    "a_img": "q2_answer_images/E_Je1A5318_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20675,7 +19297,6 @@ window.QUIZ_DATA = [
       "D": "功角增大。"
     },
     "q_img": "q2_question_images/E_Je1A5319_q.png",
-    "a_img": "q2_answer_images/E_Je1A5319_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20692,7 +19313,6 @@ window.QUIZ_DATA = [
       "D": "定子绕组。"
     },
     "q_img": "q2_question_images/E_Je1A5320_q.png",
-    "a_img": "q2_answer_images/E_Je1A5320_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20709,7 +19329,6 @@ window.QUIZ_DATA = [
       "D": "电流 性。"
     },
     "q_img": "q2_question_images/E_Je1A5321_q.png",
-    "a_img": "q2_answer_images/E_Je1A5321_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20726,7 +19345,6 @@ window.QUIZ_DATA = [
       "D": "电流。"
     },
     "q_img": "q2_question_images/E_Je1A5322_q.png",
-    "a_img": "q2_answer_images/E_Je1A5322_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20743,7 +19361,6 @@ window.QUIZ_DATA = [
       "D": "120%。"
     },
     "q_img": "q2_question_images/E_Je1A5323_q.png",
-    "a_img": "q2_answer_images/E_Je1A5323_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20760,7 +19377,6 @@ window.QUIZ_DATA = [
       "D": "短路电压与其无关。"
     },
     "q_img": "q2_question_images/E_Je1A5324_q.png",
-    "a_img": "q2_answer_images/E_Je1A5324_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20777,7 +19393,6 @@ window.QUIZ_DATA = [
       "D": "不确定。"
     },
     "q_img": "q2_question_images/E_Je1A5325_q.png",
-    "a_img": "q2_answer_images/E_Je1A5325_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20794,7 +19409,6 @@ window.QUIZ_DATA = [
       "D": "转 速上升。 选 择 题 鉴 定 试 题 库 71"
     },
     "q_img": "q2_question_images/E_Je1A5326_q.png",
-    "a_img": "q2_answer_images/E_Je1A5326_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20811,7 +19425,6 @@ window.QUIZ_DATA = [
       "D": "无关。"
     },
     "q_img": "q2_question_images/E_Jf4A1327_q.png",
-    "a_img": "q2_answer_images/E_Jf4A1327_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20828,7 +19441,6 @@ window.QUIZ_DATA = [
       "D": "1.5。"
     },
     "q_img": "q2_question_images/E_Jf4A1328_q.png",
-    "a_img": "q2_answer_images/E_Jf4A1328_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -20845,7 +19457,6 @@ window.QUIZ_DATA = [
       "D": "安 全和防护。"
     },
     "q_img": "q2_question_images/E_Jf4A1329_q.png",
-    "a_img": "q2_answer_images/E_Jf4A1329_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20862,7 +19473,6 @@ window.QUIZ_DATA = [
       "D": "20000Ω以上。"
     },
     "q_img": "q2_question_images/E_Jf4A2330_q.png",
-    "a_img": "q2_answer_images/E_Jf4A2330_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20879,7 +19489,6 @@ window.QUIZ_DATA = [
       "D": "冷却。"
     },
     "q_img": "q2_question_images/E_Jf4A2331_q.png",
-    "a_img": "q2_answer_images/E_Jf4A2331_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20896,7 +19505,6 @@ window.QUIZ_DATA = [
       "D": "全年电量除以设备有效值。"
     },
     "q_img": "q2_question_images/E_Jf4A2332_q.png",
-    "a_img": "q2_answer_images/E_Jf4A2332_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20913,7 +19521,6 @@ window.QUIZ_DATA = [
       "D": "66kV。"
     },
     "q_img": "q2_question_images/E_Jf4A3333_q.png",
-    "a_img": "q2_answer_images/E_Jf4A3333_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20930,7 +19537,6 @@ window.QUIZ_DATA = [
       "D": "电 阻减小特性。"
     },
     "q_img": "q2_question_images/E_Jf4A3334_q.png",
-    "a_img": "q2_answer_images/E_Jf4A3334_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20947,7 +19553,6 @@ window.QUIZ_DATA = [
       "D": "无 规律性。"
     },
     "q_img": "q2_question_images/E_Jf4A4335_q.png",
-    "a_img": "q2_answer_images/E_Jf4A4335_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20964,7 +19569,6 @@ window.QUIZ_DATA = [
       "D": "瞬时值。"
     },
     "q_img": "q2_question_images/E_Jf4A4336_q.png",
-    "a_img": "q2_answer_images/E_Jf4A4336_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20981,7 +19585,6 @@ window.QUIZ_DATA = [
       "D": "0.8。"
     },
     "q_img": "q2_question_images/E_Jf4A4337_q.png",
-    "a_img": "q2_answer_images/E_Jf4A4337_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -20998,7 +19601,6 @@ window.QUIZ_DATA = [
       "D": "70。"
     },
     "q_img": "q2_question_images/E_Jf4A4338_q.png",
-    "a_img": "q2_answer_images/E_Jf4A4338_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21015,7 +19617,6 @@ window.QUIZ_DATA = [
       "D": "90。"
     },
     "q_img": "q2_question_images/E_Jf4A5339_q.png",
-    "a_img": "q2_answer_images/E_Jf4A5339_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21032,7 +19633,6 @@ window.QUIZ_DATA = [
       "D": "随意。"
     },
     "q_img": "q2_question_images/E_Jf4A5340_q.png",
-    "a_img": "q2_answer_images/E_Jf4A5340_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21049,7 +19649,6 @@ window.QUIZ_DATA = [
       "D": "用手势联系。"
     },
     "q_img": "q2_question_images/E_Jf3A1342_q.png",
-    "a_img": "q2_answer_images/E_Jf3A1342_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21066,7 +19665,6 @@ window.QUIZ_DATA = [
       "D": "负序电流。"
     },
     "q_img": "q2_question_images/E_Jf3A2343_q.png",
-    "a_img": "q2_answer_images/E_Jf3A2343_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21083,7 +19681,6 @@ window.QUIZ_DATA = [
       "D": "90。"
     },
     "q_img": "q2_question_images/E_Jf3A2344_q.png",
-    "a_img": "q2_answer_images/E_Jf3A2344_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21100,7 +19697,6 @@ window.QUIZ_DATA = [
       "D": "不可比。"
     },
     "q_img": "q2_question_images/E_Jf3A3345_q.png",
-    "a_img": "q2_answer_images/E_Jf3A3345_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21117,7 +19713,6 @@ window.QUIZ_DATA = [
       "D": "烧坏。 选 择 题 鉴 定 试 题 库 74"
     },
     "q_img": "q2_question_images/E_Jf3A3346_q.png",
-    "a_img": "q2_answer_images/E_Jf3A3346_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21134,7 +19729,6 @@ window.QUIZ_DATA = [
       "D": "烧坏。"
     },
     "q_img": "q2_question_images/E_Jf3A3347_q.png",
-    "a_img": "q2_answer_images/E_Jf3A3347_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21151,7 +19745,6 @@ window.QUIZ_DATA = [
       "D": "无 穷大。"
     },
     "q_img": "q2_question_images/E_Jf3A5348_q.png",
-    "a_img": "q2_answer_images/E_Jf3A5348_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -21168,7 +19761,6 @@ window.QUIZ_DATA = [
       "D": "1000。"
     },
     "q_img": "q2_question_images/E_Jf3A5349_q.png",
-    "a_img": "q2_answer_images/E_Jf3A5349_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21185,7 +19777,6 @@ window.QUIZ_DATA = [
       "D": "随意装。"
     },
     "q_img": "q2_question_images/E_Jf3A5350_q.png",
-    "a_img": "q2_answer_images/E_Jf3A5350_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21202,7 +19793,6 @@ window.QUIZ_DATA = [
       "D": "随意。"
     },
     "q_img": "q2_question_images/E_Jf2A1351_q.png",
-    "a_img": "q2_answer_images/E_Jf2A1351_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21219,7 +19809,6 @@ window.QUIZ_DATA = [
       "D": "三 个月。"
     },
     "q_img": "q2_question_images/E_Jf2A1352_q.png",
-    "a_img": "q2_answer_images/E_Jf2A1352_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21236,7 +19825,6 @@ window.QUIZ_DATA = [
       "D": "一 个月一次。 选 择 题 鉴 定 试 题 库 75"
     },
     "q_img": "q2_question_images/E_Jf2A1353_q.png",
-    "a_img": "q2_answer_images/E_Jf2A1353_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21253,7 +19841,6 @@ window.QUIZ_DATA = [
       "D": "380V。"
     },
     "q_img": "q2_question_images/E_Jf2A2354_q.png",
-    "a_img": "q2_answer_images/E_Jf2A2354_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21270,7 +19857,6 @@ window.QUIZ_DATA = [
       "D": "5。"
     },
     "q_img": "q2_question_images/E_Jf2A3355_q.png",
-    "a_img": "q2_answer_images/E_Jf2A3355_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21287,7 +19873,6 @@ window.QUIZ_DATA = [
       "D": "雷电。"
     },
     "q_img": "q2_question_images/E_Jf2A3356_q.png",
-    "a_img": "q2_answer_images/E_Jf2A3356_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21304,7 +19889,6 @@ window.QUIZ_DATA = [
       "D": "不需。 5."
     },
     "q_img": "q2_question_images/E_Jf2A4357_q.png",
-    "a_img": "q2_answer_images/E_Jf2A4357_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21321,7 +19905,6 @@ window.QUIZ_DATA = [
       "D": "随意。"
     },
     "q_img": "q2_question_images/E_Jf2A4358_q.png",
-    "a_img": "q2_answer_images/E_Jf2A4358_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21338,7 +19921,6 @@ window.QUIZ_DATA = [
       "D": "90。"
     },
     "q_img": "q2_question_images/E_Jf2A5359_q.png",
-    "a_img": "q2_answer_images/E_Jf2A5359_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21355,7 +19937,6 @@ window.QUIZ_DATA = [
       "D": "相同。"
     },
     "q_img": "q2_question_images/E_Jf2A5360_q.png",
-    "a_img": "q2_answer_images/E_Jf2A5360_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21372,7 +19953,6 @@ window.QUIZ_DATA = [
       "D": "减小浮充电流。"
     },
     "q_img": "q2_question_images/E_Jf2A5361_q.png",
-    "a_img": "q2_answer_images/E_Jf2A5361_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21389,7 +19969,6 @@ window.QUIZ_DATA = [
       "D": "浮充。"
     },
     "q_img": "q2_question_images/E_Jf2A5362_q.png",
-    "a_img": "q2_answer_images/E_Jf2A5362_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21406,7 +19985,6 @@ window.QUIZ_DATA = [
       "D": "U ᴀB滞后UA120°。"
     },
     "q_img": "q2_question_images/E_Jf1A3363_q.png",
-    "a_img": "q2_answer_images/E_Jf1A3363_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21423,7 +20001,6 @@ window.QUIZ_DATA = [
       "D": "纵绝缘。"
     },
     "q_img": "q2_question_images/E_Jf1A2364_q.png",
-    "a_img": "q2_answer_images/E_Jf1A2364_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21440,7 +20017,6 @@ window.QUIZ_DATA = [
       "D": "转 子铁芯。"
     },
     "q_img": "q2_question_images/E_Jf1A2365_q.png",
-    "a_img": "q2_answer_images/E_Jf1A2365_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21457,7 +20033,6 @@ window.QUIZ_DATA = [
       "D": "可能增大或减小。"
     },
     "q_img": "q2_question_images/E_Jf1A4366_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4366_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21474,7 +20049,6 @@ window.QUIZ_DATA = [
       "D": "线圈中磁通的大小成反比。"
     },
     "q_img": "q2_question_images/E_Jf1A4367_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4367_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21491,7 +20065,6 @@ window.QUIZ_DATA = [
       "D": "保护失去选择性。"
     },
     "q_img": "q2_question_images/E_Jf1A4368_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4368_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21508,7 +20081,6 @@ window.QUIZ_DATA = [
       "D": "定子发热条件。"
     },
     "q_img": "q2_question_images/E_Jf1A4369_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4369_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21525,7 +20097,6 @@ window.QUIZ_DATA = [
       "D": "电流保护范围变大，电压保护范围变大。"
     },
     "q_img": "q2_question_images/E_Jf1A4370_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4370_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21542,7 +20113,6 @@ window.QUIZ_DATA = [
       "D": "正 序、负序及零序。"
     },
     "q_img": "q2_question_images/E_Jf1A4371_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4371_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21559,7 +20129,6 @@ window.QUIZ_DATA = [
       "D": "小于180°。"
     },
     "q_img": "q2_question_images/E_Jf1A4372_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4372_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21576,7 +20145,6 @@ window.QUIZ_DATA = [
       "C": "只改变低压侧电压"
     },
     "q_img": "q2_question_images/E_Jf1A4373_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4373_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21593,7 +20161,6 @@ window.QUIZ_DATA = [
       "D": "防止汽轮机带厂用电运行。"
     },
     "q_img": "q2_question_images/E_Jf1A4374_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4374_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21610,7 +20177,6 @@ window.QUIZ_DATA = [
       "D": "CPU。"
     },
     "q_img": "q2_question_images/E_Jf1A4375_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4375_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21627,7 +20193,6 @@ window.QUIZ_DATA = [
       "D": "强电场 发射。"
     },
     "q_img": "q2_question_images/E_Jf1A4376_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4376_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21644,7 +20209,6 @@ window.QUIZ_DATA = [
       "D": "255."
     },
     "q_img": "q2_question_images/E_Jf1A4377_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4377_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -21661,7 +20225,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Jf1A4378_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4378_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21678,7 +20241,6 @@ window.QUIZ_DATA = [
       "D": "微 波通信。"
     },
     "q_img": "q2_question_images/E_Jf1A4379_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4379_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21695,7 +20257,6 @@ window.QUIZ_DATA = [
       "D": "不能判定。"
     },
     "q_img": "q2_question_images/E_Jf1A4380_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4380_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21712,7 +20273,6 @@ window.QUIZ_DATA = [
       "D": "与一次及二次回路中 的工作电流无关。"
     },
     "q_img": "q2_question_images/E_Jf1A4381_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4381_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21729,7 +20289,6 @@ window.QUIZ_DATA = [
       "D": "提高灵敏度。"
     },
     "q_img": "q2_question_images/E_Jf1A4382_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4382_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21746,7 +20305,6 @@ window.QUIZ_DATA = [
       "D": "两种电路的磁场无法比较。"
     },
     "q_img": "q2_question_images/E_Jf1A4383_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4383_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21763,7 +20321,6 @@ window.QUIZ_DATA = [
       "D": "100%。 15"
     },
     "q_img": "q2_question_images/E_Jf1A4384_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4384_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21780,7 +20337,6 @@ window.QUIZ_DATA = [
       "D": "不 确定。"
     },
     "q_img": "q2_question_images/E_Jf1A4385_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4385_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21797,7 +20353,6 @@ window.QUIZ_DATA = [
       "D": "3i₀ 滞后3U。110°。 鉴 定 试 题 库 选 择 题 80"
     },
     "q_img": "q2_question_images/E_Jf1A4386_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4386_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21814,7 +20369,6 @@ window.QUIZ_DATA = [
       "D": "经 电感接地。"
     },
     "q_img": "q2_question_images/E_Jf1A4387_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4387_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21831,7 +20385,6 @@ window.QUIZ_DATA = [
       "D": "决定于。"
     },
     "q_img": "q2_question_images/E_Jf1A4388_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4388_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21847,7 +20400,6 @@ window.QUIZ_DATA = [
       "D": "Ioc。"
     },
     "q_img": "q2_question_images/E_Jf1A4389_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4389_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -21864,7 +20416,6 @@ window.QUIZ_DATA = [
       "D": "三 相短路接地。"
     },
     "q_img": "q2_question_images/E_Jf1A4390_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4390_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21881,7 +20432,6 @@ window.QUIZ_DATA = [
       "D": "10。"
     },
     "q_img": "q2_question_images/E_Jf1A4391_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4391_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -21898,7 +20448,6 @@ window.QUIZ_DATA = [
       "C": "测量部分、启动部分、振荡闭锁部分、二次 电压回路断线失压闭锁部分"
     },
     "q_img": "q2_question_images/E_Jf1A4392_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4392_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21915,7 +20464,6 @@ window.QUIZ_DATA = [
       "C": "5%"
     },
     "q_img": "q2_question_images/E_Jf1A4393_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4393_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21932,7 +20480,6 @@ window.QUIZ_DATA = [
       "D": "120%。 选 择 题"
     },
     "q_img": "q2_question_images/E_Jf1A4394_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4394_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21949,7 +20496,6 @@ window.QUIZ_DATA = [
       "C": "√3 倍"
     },
     "q_img": "q2_question_images/E_Jf1A4395_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4395_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21966,7 +20512,6 @@ window.QUIZ_DATA = [
       "D": "转子一点接地。"
     },
     "q_img": "q2_question_images/E_Jf1A4396_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4396_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -21983,7 +20528,6 @@ window.QUIZ_DATA = [
       "D": "1.5。"
     },
     "q_img": "q2_question_images/E_Jf1A4397_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4397_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22000,7 +20544,6 @@ window.QUIZ_DATA = [
       "D": "20%。"
     },
     "q_img": "q2_question_images/E_Jf1A4398_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4398_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22017,7 +20560,6 @@ window.QUIZ_DATA = [
       "D": "投资的多少。"
     },
     "q_img": "q2_question_images/E_Jf1A4399_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4399_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22034,7 +20576,6 @@ window.QUIZ_DATA = [
       "D": "网络阻抗不变。"
     },
     "q_img": "q2_question_images/E_Jf1A4400_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4400_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22051,7 +20592,6 @@ window.QUIZ_DATA = [
       "D": "立方 成反比。"
     },
     "q_img": "q2_question_images/E_Jf1A4401_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4401_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22068,7 +20608,6 @@ window.QUIZ_DATA = [
       "D": "Q。"
     },
     "q_img": "q2_question_images/E_Jf1A4402_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4402_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -22085,7 +20624,6 @@ window.QUIZ_DATA = [
       "D": "滞后零序电压45。"
     },
     "q_img": "q2_question_images/E_Jf1A4403_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4403_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22102,7 +20640,6 @@ window.QUIZ_DATA = [
       "D": "超前BC 相间电压一个线路阻抗角。"
     },
     "q_img": "q2_question_images/E_Jf1A4404_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4404_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22119,7 +20656,6 @@ window.QUIZ_DATA = [
       "D": "10。"
     },
     "q_img": "q2_question_images/E_Jf1A4405_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4405_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22136,7 +20672,6 @@ window.QUIZ_DATA = [
       "D": "励磁特性曲线。 83"
     },
     "q_img": "q2_question_images/E_Jf1A4406_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4406_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22153,7 +20688,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Jf1A4407_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4407_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22170,7 +20704,6 @@ window.QUIZ_DATA = [
       "D": "以上三种情况以外的。"
     },
     "q_img": "q2_question_images/E_Jf1A4408_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4408_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22187,7 +20720,6 @@ window.QUIZ_DATA = [
       "D": "零序分量。"
     },
     "q_img": "q2_question_images/E_Jf1A4409_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4409_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22204,7 +20736,6 @@ window.QUIZ_DATA = [
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Jf1A4410_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4410_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -22221,7 +20752,6 @@ window.QUIZ_DATA = [
       "D": "两侧电流互感器的型号不同产生的不平衡电流。"
     },
     "q_img": "q2_question_images/E_Jf1A4411_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4411_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22238,7 +20768,6 @@ window.QUIZ_DATA = [
       "D": "短路类型。"
     },
     "q_img": "q2_question_images/E_Jf1A4412_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4412_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22255,7 +20784,6 @@ window.QUIZ_DATA = [
       "D": "不一定。 鉴 定 试 题 库 选 择 题 84 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Jf1A4413_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4413_a.png",
     "explain": "",
     "show_q_img_in_question": true
   },
@@ -22272,7 +20800,6 @@ window.QUIZ_DATA = [
       "D": "滞后于A相电压90°。"
     },
     "q_img": "q2_question_images/E_Jf1A4414_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4414_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22289,7 +20816,6 @@ window.QUIZ_DATA = [
       "D": "距故障点越近负序电 压越低。"
     },
     "q_img": "q2_question_images/E_Jf1A4415_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4415_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22306,7 +20832,6 @@ window.QUIZ_DATA = [
       "D": "暂态值。"
     },
     "q_img": "q2_question_images/E_Jf1A4416_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4416_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22323,7 +20848,6 @@ window.QUIZ_DATA = [
       "D": "磁性。"
     },
     "q_img": "q2_question_images/E_Jf1A4417_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4417_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22340,7 +20864,6 @@ window.QUIZ_DATA = [
       "D": "保 护拒动。"
     },
     "q_img": "q2_question_images/E_Jf1A4418_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4418_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22357,7 +20880,6 @@ window.QUIZ_DATA = [
       "D": "提高保护的速动性。"
     },
     "q_img": "q2_question_images/E_Jf1A4419_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4419_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22374,7 +20896,6 @@ window.QUIZ_DATA = [
       "D": "普通电流元件。"
     },
     "q_img": "q2_question_images/E_Jf1A4420_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4420_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22391,7 +20912,6 @@ window.QUIZ_DATA = [
       "D": "有效。"
     },
     "q_img": "q2_question_images/E_Jf1A4421_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4421_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22408,7 +20928,6 @@ window.QUIZ_DATA = [
       "D": "电 流速断。 鉴 定 试 题 库 选 择 题 86 鉴 定 试 题 库 4. 1.2 判断题 判断下列描述是否正确，对的在括号内打“√”,错的在括 号内打“×”。"
     },
     "q_img": "q2_question_images/E_Jf1A4422_q.png",
-    "a_img": "q2_answer_images/E_Jf1A4422_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -22423,7 +20942,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La5B1001_q.png",
-    "a_img": "q2_answer_images/E_La5B1001_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22438,7 +20956,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La5B2002_q.png",
-    "a_img": "q2_answer_images/E_La5B2002_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22453,7 +20970,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La5B3003_q.png",
-    "a_img": "q2_answer_images/E_La5B3003_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22468,7 +20984,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La5B4004_q.png",
-    "a_img": "q2_answer_images/E_La5B4004_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22483,7 +20998,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La5B4005_q.png",
-    "a_img": "q2_answer_images/E_La5B4005_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22498,7 +21012,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La5B4006_q.png",
-    "a_img": "q2_answer_images/E_La5B4006_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22513,7 +21026,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La5B5007_q.png",
-    "a_img": "q2_answer_images/E_La5B5007_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22528,7 +21040,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La4B1008_q.png",
-    "a_img": "q2_answer_images/E_La4B1008_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22543,7 +21054,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La4B2009_q.png",
-    "a_img": "q2_answer_images/E_La4B2009_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22558,7 +21068,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La4B3010_q.png",
-    "a_img": "q2_answer_images/E_La4B3010_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22573,7 +21082,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La4B3011_q.png",
-    "a_img": "q2_answer_images/E_La4B3011_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22588,7 +21096,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La4B4012_q.png",
-    "a_img": "q2_answer_images/E_La4B4012_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22603,7 +21110,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La4B5013_q.png",
-    "a_img": "q2_answer_images/E_La4B5013_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22618,7 +21124,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La4B5014_q.png",
-    "a_img": "q2_answer_images/E_La4B5014_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22633,7 +21138,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La3B1015_q.png",
-    "a_img": "q2_answer_images/E_La3B1015_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22648,7 +21152,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La3B2016_q.png",
-    "a_img": "q2_answer_images/E_La3B2016_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22663,7 +21166,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La3B3017_q.png",
-    "a_img": "q2_answer_images/E_La3B3017_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22678,7 +21180,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La3B3018_q.png",
-    "a_img": "q2_answer_images/E_La3B3018_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22693,7 +21194,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La3B3019_q.png",
-    "a_img": "q2_answer_images/E_La3B3019_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22708,7 +21208,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La3B4020_q.png",
-    "a_img": "q2_answer_images/E_La3B4020_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22723,7 +21222,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La3B5021_q.png",
-    "a_img": "q2_answer_images/E_La3B5021_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22738,7 +21236,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La2B1022_q.png",
-    "a_img": "q2_answer_images/E_La2B1022_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22753,7 +21250,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La2B1023_q.png",
-    "a_img": "q2_answer_images/E_La2B1023_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22768,7 +21264,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La2B2024_q.png",
-    "a_img": "q2_answer_images/E_La2B2024_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22783,7 +21278,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La2B3025_q.png",
-    "a_img": "q2_answer_images/E_La2B3025_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22798,7 +21292,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La2B3026_q.png",
-    "a_img": "q2_answer_images/E_La2B3026_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22813,7 +21306,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La2B4027_q.png",
-    "a_img": "q2_answer_images/E_La2B4027_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22828,7 +21320,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La2B5028_q.png",
-    "a_img": "q2_answer_images/E_La2B5028_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22843,7 +21334,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La1B1029_q.png",
-    "a_img": "q2_answer_images/E_La1B1029_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22858,7 +21348,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La1B2030_q.png",
-    "a_img": "q2_answer_images/E_La1B2030_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22873,7 +21362,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La1B3031_q.png",
-    "a_img": "q2_answer_images/E_La1B3031_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22888,7 +21376,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La1B4032_q.png",
-    "a_img": "q2_answer_images/E_La1B4032_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22903,7 +21390,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_La1B5033_q.png",
-    "a_img": "q2_answer_images/E_La1B5033_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22918,7 +21404,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb5B1034_q.png",
-    "a_img": "q2_answer_images/E_Lb5B1034_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22933,7 +21418,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb5B1035_q.png",
-    "a_img": "q2_answer_images/E_Lb5B1035_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22948,7 +21432,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb5B2036_q.png",
-    "a_img": "q2_answer_images/E_Lb5B2036_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -22963,7 +21446,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb5B2037_q.png",
-    "a_img": "q2_answer_images/E_Lb5B2037_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22978,7 +21460,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb5B3038_q.png",
-    "a_img": "q2_answer_images/E_Lb5B3038_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -22993,7 +21474,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb5B3039_q.png",
-    "a_img": "q2_answer_images/E_Lb5B3039_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23008,7 +21488,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb5B4040_q.png",
-    "a_img": "q2_answer_images/E_Lb5B4040_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23023,7 +21502,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb5B5041_q.png",
-    "a_img": "q2_answer_images/E_Lb5B5041_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23038,7 +21516,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb4B1042_q.png",
-    "a_img": "q2_answer_images/E_Lb4B1042_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23053,7 +21530,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb4B2043_q.png",
-    "a_img": "q2_answer_images/E_Lb4B2043_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23068,7 +21544,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb4B3044_q.png",
-    "a_img": "q2_answer_images/E_Lb4B3044_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23083,7 +21558,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb4B3045_q.png",
-    "a_img": "q2_answer_images/E_Lb4B3045_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23098,7 +21572,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb4B4046_q.png",
-    "a_img": "q2_answer_images/E_Lb4B4046_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23113,7 +21586,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb4B5047_q.png",
-    "a_img": "q2_answer_images/E_Lb4B5047_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23128,7 +21600,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B1048_q.png",
-    "a_img": "q2_answer_images/E_Lb3B1048_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23143,7 +21614,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B1049_q.png",
-    "a_img": "q2_answer_images/E_Lb3B1049_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23158,7 +21628,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B2050_q.png",
-    "a_img": "q2_answer_images/E_Lb3B2050_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23173,7 +21642,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B2051_q.png",
-    "a_img": "q2_answer_images/E_Lb3B2051_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23188,7 +21656,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B3052_q.png",
-    "a_img": "q2_answer_images/E_Lb3B3052_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23203,7 +21670,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B3053_q.png",
-    "a_img": "q2_answer_images/E_Lb3B3053_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23218,7 +21684,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B4054_q.png",
-    "a_img": "q2_answer_images/E_Lb3B4054_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23233,7 +21698,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B4055_q.png",
-    "a_img": "q2_answer_images/E_Lb3B4055_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23248,7 +21712,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B5056_q.png",
-    "a_img": "q2_answer_images/E_Lb3B5056_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23263,7 +21726,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb3B5057_q.png",
-    "a_img": "q2_answer_images/E_Lb3B5057_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23278,7 +21740,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B1058_q.png",
-    "a_img": "q2_answer_images/E_Lb2B1058_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23293,7 +21754,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B1059_q.png",
-    "a_img": "q2_answer_images/E_Lb2B1059_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23308,7 +21768,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B1060_q.png",
-    "a_img": "q2_answer_images/E_Lb2B1060_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23323,7 +21782,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B1061_q.png",
-    "a_img": "q2_answer_images/E_Lb2B1061_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23338,7 +21796,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B2062_q.png",
-    "a_img": "q2_answer_images/E_Lb2B2062_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23353,7 +21810,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B2063_q.png",
-    "a_img": "q2_answer_images/E_Lb2B2063_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23368,7 +21824,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B3064_q.png",
-    "a_img": "q2_answer_images/E_Lb2B3064_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23383,7 +21838,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B3065_q.png",
-    "a_img": "q2_answer_images/E_Lb2B3065_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23398,7 +21852,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B3066_q.png",
-    "a_img": "q2_answer_images/E_Lb2B3066_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23413,7 +21866,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B3067_q.png",
-    "a_img": "q2_answer_images/E_Lb2B3067_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23428,7 +21880,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B3068_q.png",
-    "a_img": "q2_answer_images/E_Lb2B3068_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23443,7 +21894,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B4069_q.png",
-    "a_img": "q2_answer_images/E_Lb2B4069_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23458,7 +21908,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B4070_q.png",
-    "a_img": "q2_answer_images/E_Lb2B4070_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23473,7 +21922,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B4071_q.png",
-    "a_img": "q2_answer_images/E_Lb2B4071_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23488,7 +21936,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb2B5072_q.png",
-    "a_img": "q2_answer_images/E_Lb2B5072_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23503,7 +21950,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B1073_q.png",
-    "a_img": "q2_answer_images/E_Lb1B1073_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23518,7 +21964,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B1074_q.png",
-    "a_img": "q2_answer_images/E_Lb1B1074_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23533,7 +21978,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B1075_q.png",
-    "a_img": "q2_answer_images/E_Lb1B1075_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23548,7 +21992,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B2076_q.png",
-    "a_img": "q2_answer_images/E_Lb1B2076_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23563,7 +22006,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B2077_q.png",
-    "a_img": "q2_answer_images/E_Lb1B2077_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23578,7 +22020,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B2078_q.png",
-    "a_img": "q2_answer_images/E_Lb1B2078_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23593,7 +22034,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B2079_q.png",
-    "a_img": "q2_answer_images/E_Lb1B2079_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23608,7 +22048,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B2080_q.png",
-    "a_img": "q2_answer_images/E_Lb1B2080_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23623,7 +22062,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B3081_q.png",
-    "a_img": "q2_answer_images/E_Lb1B3081_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23638,7 +22076,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B3082_q.png",
-    "a_img": "q2_answer_images/E_Lb1B3082_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23653,7 +22090,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B3083_q.png",
-    "a_img": "q2_answer_images/E_Lb1B3083_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23668,7 +22104,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B3084_q.png",
-    "a_img": "q2_answer_images/E_Lb1B3084_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23683,7 +22118,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B3085_q.png",
-    "a_img": "q2_answer_images/E_Lb1B3085_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23698,7 +22132,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B4086_q.png",
-    "a_img": "q2_answer_images/E_Lb1B4086_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23713,7 +22146,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B4087_q.png",
-    "a_img": "q2_answer_images/E_Lb1B4087_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23728,7 +22160,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B4088_q.png",
-    "a_img": "q2_answer_images/E_Lb1B4088_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23743,7 +22174,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lb1B5089_q.png",
-    "a_img": "q2_answer_images/E_Lb1B5089_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23758,7 +22188,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc5B1090_q.png",
-    "a_img": "q2_answer_images/E_Lc5B1090_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23773,7 +22202,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc5B2091_q.png",
-    "a_img": "q2_answer_images/E_Lc5B2091_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23788,7 +22216,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc5B3092_q.png",
-    "a_img": "q2_answer_images/E_Lc5B3092_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23803,7 +22230,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc5B4093_q.png",
-    "a_img": "q2_answer_images/E_Lc5B4093_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23818,7 +22244,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc5B4094_q.png",
-    "a_img": "q2_answer_images/E_Lc5B4094_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23833,7 +22258,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc5B5095_q.png",
-    "a_img": "q2_answer_images/E_Lc5B5095_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23848,7 +22272,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc5B5096_q.png",
-    "a_img": "q2_answer_images/E_Lc5B5096_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23863,7 +22286,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc4B1097_q.png",
-    "a_img": "q2_answer_images/E_Lc4B1097_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23878,7 +22300,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc4B1098_q.png",
-    "a_img": "q2_answer_images/E_Lc4B1098_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23893,7 +22314,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc4B2099_q.png",
-    "a_img": "q2_answer_images/E_Lc4B2099_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23908,7 +22328,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc4B2100_q.png",
-    "a_img": "q2_answer_images/E_Lc4B2100_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23923,7 +22342,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc4B2101_q.png",
-    "a_img": "q2_answer_images/E_Lc4B2101_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -23938,7 +22356,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc4B3102_q.png",
-    "a_img": "q2_answer_images/E_Lc4B3102_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23953,7 +22370,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc4B4103_q.png",
-    "a_img": "q2_answer_images/E_Lc4B4103_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23968,7 +22384,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc3B4104_q.png",
-    "a_img": "q2_answer_images/E_Lc3B4104_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23983,7 +22398,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc3B5105_q.png",
-    "a_img": "q2_answer_images/E_Lc3B5105_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -23998,7 +22412,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Le3B5106_q.png",
-    "a_img": "q2_answer_images/E_Le3B5106_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24013,7 +22426,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B1107_q.png",
-    "a_img": "q2_answer_images/E_Lc2B1107_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24028,7 +22440,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B1108_q.png",
-    "a_img": "q2_answer_images/E_Lc2B1108_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24043,7 +22454,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Le2B2109_q.png",
-    "a_img": "q2_answer_images/E_Le2B2109_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24058,7 +22468,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B2110_q.png",
-    "a_img": "q2_answer_images/E_Lc2B2110_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24073,7 +22482,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B3111_q.png",
-    "a_img": "q2_answer_images/E_Lc2B3111_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24088,7 +22496,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B3112_q.png",
-    "a_img": "q2_answer_images/E_Lc2B3112_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24103,7 +22510,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B4113_q.png",
-    "a_img": "q2_answer_images/E_Lc2B4113_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24118,7 +22524,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B4114_q.png",
-    "a_img": "q2_answer_images/E_Lc2B4114_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24133,7 +22538,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B5115_q.png",
-    "a_img": "q2_answer_images/E_Lc2B5115_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24148,7 +22552,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc2B5116_q.png",
-    "a_img": "q2_answer_images/E_Lc2B5116_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24163,7 +22566,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B1117_q.png",
-    "a_img": "q2_answer_images/E_Lc1B1117_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24178,7 +22580,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B2118_q.png",
-    "a_img": "q2_answer_images/E_Lc1B2118_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24193,7 +22594,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B2119_q.png",
-    "a_img": "q2_answer_images/E_Lc1B2119_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24208,7 +22608,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B2120_q.png",
-    "a_img": "q2_answer_images/E_Lc1B2120_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24223,7 +22622,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B2121_q.png",
-    "a_img": "q2_answer_images/E_Lc1B2121_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24238,7 +22636,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B3122_q.png",
-    "a_img": "q2_answer_images/E_Lc1B3122_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24253,7 +22650,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B3123_q.png",
-    "a_img": "q2_answer_images/E_Lc1B3123_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24268,7 +22664,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B4124_q.png",
-    "a_img": "q2_answer_images/E_Lc1B4124_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24283,7 +22678,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B4125_q.png",
-    "a_img": "q2_answer_images/E_Lc1B4125_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24298,7 +22692,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Lc1B4126_q.png",
-    "a_img": "q2_answer_images/E_Lc1B4126_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24313,7 +22706,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Le1B5127_q.png",
-    "a_img": "q2_answer_images/E_Le1B5127_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24328,7 +22720,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Le1B5128_q.png",
-    "a_img": "q2_answer_images/E_Le1B5128_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24343,7 +22734,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B1129_q.png",
-    "a_img": "q2_answer_images/E_Jd5B1129_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24358,7 +22748,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B1130_q.png",
-    "a_img": "q2_answer_images/E_Jd5B1130_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24373,7 +22762,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B1131_q.png",
-    "a_img": "q2_answer_images/E_Jd5B1131_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24388,7 +22776,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B2132_q.png",
-    "a_img": "q2_answer_images/E_Jd5B2132_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24403,7 +22790,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B2133_q.png",
-    "a_img": "q2_answer_images/E_Jd5B2133_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24418,7 +22804,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B2134_q.png",
-    "a_img": "q2_answer_images/E_Jd5B2134_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24433,7 +22818,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B3135_q.png",
-    "a_img": "q2_answer_images/E_Jd5B3135_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24448,7 +22832,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B3136_q.png",
-    "a_img": "q2_answer_images/E_Jd5B3136_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24463,7 +22846,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B3137_q.png",
-    "a_img": "q2_answer_images/E_Jd5B3137_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24478,7 +22860,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B4138_q.png",
-    "a_img": "q2_answer_images/E_Jd5B4138_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24493,7 +22874,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B4139_q.png",
-    "a_img": "q2_answer_images/E_Jd5B4139_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24508,7 +22888,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B5140_q.png",
-    "a_img": "q2_answer_images/E_Jd5B5140_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24523,7 +22902,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B5141_q.png",
-    "a_img": "q2_answer_images/E_Jd5B5141_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24538,7 +22916,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd5B5142_q.png",
-    "a_img": "q2_answer_images/E_Jd5B5142_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24553,7 +22930,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B1143_q.png",
-    "a_img": "q2_answer_images/E_Jd4B1143_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24568,7 +22944,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B1144_q.png",
-    "a_img": "q2_answer_images/E_Jd4B1144_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24583,7 +22958,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B1145_q.png",
-    "a_img": "q2_answer_images/E_Jd4B1145_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24598,7 +22972,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B2146_q.png",
-    "a_img": "q2_answer_images/E_Jd4B2146_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24613,7 +22986,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B2147_q.png",
-    "a_img": "q2_answer_images/E_Jd4B2147_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24628,7 +23000,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B2148_q.png",
-    "a_img": "q2_answer_images/E_Jd4B2148_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24643,7 +23014,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B3149_q.png",
-    "a_img": "q2_answer_images/E_Jd4B3149_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24658,7 +23028,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B3150_q.png",
-    "a_img": "q2_answer_images/E_Jd4B3150_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24673,7 +23042,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B3151_q.png",
-    "a_img": "q2_answer_images/E_Jd4B3151_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24688,7 +23056,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B4152_q.png",
-    "a_img": "q2_answer_images/E_Jd4B4152_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24703,7 +23070,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B4153_q.png",
-    "a_img": "q2_answer_images/E_Jd4B4153_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24718,7 +23084,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B4154_q.png",
-    "a_img": "q2_answer_images/E_Jd4B4154_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24733,7 +23098,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B5155_q.png",
-    "a_img": "q2_answer_images/E_Jd4B5155_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24748,7 +23112,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B5156_q.png",
-    "a_img": "q2_answer_images/E_Jd4B5156_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24763,7 +23126,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd4B5157_q.png",
-    "a_img": "q2_answer_images/E_Jd4B5157_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24778,7 +23140,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B1158_q.png",
-    "a_img": "q2_answer_images/E_Jd3B1158_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24793,7 +23154,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B1159_q.png",
-    "a_img": "q2_answer_images/E_Jd3B1159_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24808,7 +23168,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B1160_q.png",
-    "a_img": "q2_answer_images/E_Jd3B1160_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24823,7 +23182,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B2161_q.png",
-    "a_img": "q2_answer_images/E_Jd3B2161_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24838,7 +23196,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B2162_q.png",
-    "a_img": "q2_answer_images/E_Jd3B2162_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24853,7 +23210,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B2163_q.png",
-    "a_img": "q2_answer_images/E_Jd3B2163_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24868,7 +23224,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B3164_q.png",
-    "a_img": "q2_answer_images/E_Jd3B3164_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24883,7 +23238,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B3165_q.png",
-    "a_img": "q2_answer_images/E_Jd3B3165_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24898,7 +23252,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B3166_q.png",
-    "a_img": "q2_answer_images/E_Jd3B3166_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24913,7 +23266,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B4167_q.png",
-    "a_img": "q2_answer_images/E_Jd3B4167_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24928,7 +23280,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B4168_q.png",
-    "a_img": "q2_answer_images/E_Jd3B4168_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24943,7 +23294,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B4169_q.png",
-    "a_img": "q2_answer_images/E_Jd3B4169_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -24958,7 +23308,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B5170_q.png",
-    "a_img": "q2_answer_images/E_Jd3B5170_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24973,7 +23322,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B5171_q.png",
-    "a_img": "q2_answer_images/E_Jd3B5171_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -24988,7 +23336,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B5172_q.png",
-    "a_img": "q2_answer_images/E_Jd3B5172_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25003,7 +23350,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd3B5173_q.png",
-    "a_img": "q2_answer_images/E_Jd3B5173_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25018,7 +23364,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B1174_q.png",
-    "a_img": "q2_answer_images/E_Jd2B1174_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25033,7 +23378,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B1175_q.png",
-    "a_img": "q2_answer_images/E_Jd2B1175_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25048,7 +23392,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B1176_q.png",
-    "a_img": "q2_answer_images/E_Jd2B1176_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25063,7 +23406,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B2177_q.png",
-    "a_img": "q2_answer_images/E_Jd2B2177_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25078,7 +23420,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B2178_q.png",
-    "a_img": "q2_answer_images/E_Jd2B2178_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25093,7 +23434,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B2179_q.png",
-    "a_img": "q2_answer_images/E_Jd2B2179_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25108,7 +23448,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B3180_q.png",
-    "a_img": "q2_answer_images/E_Jd2B3180_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25123,7 +23462,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B3181_q.png",
-    "a_img": "q2_answer_images/E_Jd2B3181_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25138,7 +23476,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B4182_q.png",
-    "a_img": "q2_answer_images/E_Jd2B4182_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25153,7 +23490,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B4183_q.png",
-    "a_img": "q2_answer_images/E_Jd2B4183_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25168,7 +23504,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B4184_q.png",
-    "a_img": "q2_answer_images/E_Jd2B4184_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25183,7 +23518,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B5185_q.png",
-    "a_img": "q2_answer_images/E_Jd2B5185_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25198,7 +23532,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B5186_q.png",
-    "a_img": "q2_answer_images/E_Jd2B5186_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25213,7 +23546,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd2B5187_q.png",
-    "a_img": "q2_answer_images/E_Jd2B5187_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25228,7 +23560,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B1188_q.png",
-    "a_img": "q2_answer_images/E_Jd1B1188_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25243,7 +23574,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B1189_q.png",
-    "a_img": "q2_answer_images/E_Jd1B1189_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25258,7 +23588,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B1190_q.png",
-    "a_img": "q2_answer_images/E_Jd1B1190_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25273,7 +23602,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B1191_q.png",
-    "a_img": "q2_answer_images/E_Jd1B1191_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25288,7 +23616,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B2192_q.png",
-    "a_img": "q2_answer_images/E_Jd1B2192_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25303,7 +23630,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B2193_q.png",
-    "a_img": "q2_answer_images/E_Jd1B2193_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25318,7 +23644,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B2194_q.png",
-    "a_img": "q2_answer_images/E_Jd1B2194_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25333,7 +23658,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B3195_q.png",
-    "a_img": "q2_answer_images/E_Jd1B3195_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25348,7 +23672,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B3196_q.png",
-    "a_img": "q2_answer_images/E_Jd1B3196_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25363,7 +23686,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B3197_q.png",
-    "a_img": "q2_answer_images/E_Jd1B3197_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25378,7 +23700,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B4198_q.png",
-    "a_img": "q2_answer_images/E_Jd1B4198_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25393,7 +23714,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B4299_q.png",
-    "a_img": "q2_answer_images/E_Jd1B4299_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25408,7 +23728,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B4200_q.png",
-    "a_img": "q2_answer_images/E_Jd1B4200_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25423,7 +23742,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B5201_q.png",
-    "a_img": "q2_answer_images/E_Jd1B5201_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25438,7 +23756,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B5202_q.png",
-    "a_img": "q2_answer_images/E_Jd1B5202_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25453,7 +23770,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Jd1B5203_q.png",
-    "a_img": "q2_answer_images/E_Jd1B5203_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25468,7 +23784,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B1204_q.png",
-    "a_img": "q2_answer_images/E_Je5B1204_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25483,7 +23798,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B1205_q.png",
-    "a_img": "q2_answer_images/E_Je5B1205_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25498,7 +23812,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B1206_q.png",
-    "a_img": "q2_answer_images/E_Je5B1206_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25513,7 +23826,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2207_q.png",
-    "a_img": "q2_answer_images/E_Je5B2207_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25528,7 +23840,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2208_q.png",
-    "a_img": "q2_answer_images/E_Je5B2208_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25543,7 +23854,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2209_q.png",
-    "a_img": "q2_answer_images/E_Je5B2209_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25558,7 +23868,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2210_q.png",
-    "a_img": "q2_answer_images/E_Je5B2210_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25573,7 +23882,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3211_q.png",
-    "a_img": "q2_answer_images/E_Je5B3211_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25588,7 +23896,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3212_q.png",
-    "a_img": "q2_answer_images/E_Je5B3212_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25603,7 +23910,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3213_q.png",
-    "a_img": "q2_answer_images/E_Je5B3213_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25618,7 +23924,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3214_q.png",
-    "a_img": "q2_answer_images/E_Je5B3214_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25633,7 +23938,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3215_q.png",
-    "a_img": "q2_answer_images/E_Je5B3215_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25648,7 +23952,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3216_q.png",
-    "a_img": "q2_answer_images/E_Je5B3216_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25663,7 +23966,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2217_q.png",
-    "a_img": "q2_answer_images/E_Je5B2217_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25678,7 +23980,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2218_q.png",
-    "a_img": "q2_answer_images/E_Je5B2218_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25693,7 +23994,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2219_q.png",
-    "a_img": "q2_answer_images/E_Je5B2219_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25708,7 +24008,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2220_q.png",
-    "a_img": "q2_answer_images/E_Je5B2220_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25723,7 +24022,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2221_q.png",
-    "a_img": "q2_answer_images/E_Je5B2221_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25738,7 +24036,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2222_q.png",
-    "a_img": "q2_answer_images/E_Je5B2222_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25753,7 +24050,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B2223_q.png",
-    "a_img": "q2_answer_images/E_Je5B2223_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25768,7 +24064,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3224_q.png",
-    "a_img": "q2_answer_images/E_Je5B3224_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25783,7 +24078,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3225_q.png",
-    "a_img": "q2_answer_images/E_Je5B3225_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25798,7 +24092,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3226_q.png",
-    "a_img": "q2_answer_images/E_Je5B3226_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25813,7 +24106,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3227_q.png",
-    "a_img": "q2_answer_images/E_Je5B3227_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25828,7 +24120,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3228_q.png",
-    "a_img": "q2_answer_images/E_Je5B3228_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25843,7 +24134,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3229_q.png",
-    "a_img": "q2_answer_images/E_Je5B3229_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25858,7 +24148,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3230_q.png",
-    "a_img": "q2_answer_images/E_Je5B3230_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25873,7 +24162,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3231_q.png",
-    "a_img": "q2_answer_images/E_Je5B3231_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25888,7 +24176,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B3232_q.png",
-    "a_img": "q2_answer_images/E_Je5B3232_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25903,7 +24190,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B4233_q.png",
-    "a_img": "q2_answer_images/E_Je5B4233_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25918,7 +24204,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B4234_q.png",
-    "a_img": "q2_answer_images/E_Je5B4234_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25933,7 +24218,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B4235_q.png",
-    "a_img": "q2_answer_images/E_Je5B4235_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -25948,7 +24232,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B4236_q.png",
-    "a_img": "q2_answer_images/E_Je5B4236_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25963,7 +24246,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B4237_q.png",
-    "a_img": "q2_answer_images/E_Je5B4237_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25978,7 +24260,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B4238_q.png",
-    "a_img": "q2_answer_images/E_Je5B4238_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -25993,7 +24274,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B5239_q.png",
-    "a_img": "q2_answer_images/E_Je5B5239_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26008,7 +24288,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B5240_q.png",
-    "a_img": "q2_answer_images/E_Je5B5240_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26023,7 +24302,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B5241_q.png",
-    "a_img": "q2_answer_images/E_Je5B5241_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26038,7 +24316,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je5B5242_q.png",
-    "a_img": "q2_answer_images/E_Je5B5242_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26053,7 +24330,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B1243_q.png",
-    "a_img": "q2_answer_images/E_Je4B1243_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26068,7 +24344,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B1244_q.png",
-    "a_img": "q2_answer_images/E_Je4B1244_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26083,7 +24358,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B1245_q.png",
-    "a_img": "q2_answer_images/E_Je4B1245_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26098,7 +24372,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B2246_q.png",
-    "a_img": "q2_answer_images/E_Je4B2246_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26113,7 +24386,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B2247_q.png",
-    "a_img": "q2_answer_images/E_Je4B2247_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26128,7 +24400,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B2248_q.png",
-    "a_img": "q2_answer_images/E_Je4B2248_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26143,7 +24414,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B2249_q.png",
-    "a_img": "q2_answer_images/E_Je4B2249_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26158,7 +24428,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B2250_q.png",
-    "a_img": "q2_answer_images/E_Je4B2250_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26173,7 +24442,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B3251_q.png",
-    "a_img": "q2_answer_images/E_Je4B3251_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26188,7 +24456,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B3252_q.png",
-    "a_img": "q2_answer_images/E_Je4B3252_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26203,7 +24470,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B3253_q.png",
-    "a_img": "q2_answer_images/E_Je4B3253_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26218,7 +24484,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B3254_q.png",
-    "a_img": "q2_answer_images/E_Je4B3254_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26233,7 +24498,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B3255_q.png",
-    "a_img": "q2_answer_images/E_Je4B3255_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26248,7 +24512,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B3256_q.png",
-    "a_img": "q2_answer_images/E_Je4B3256_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26263,7 +24526,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B3257_q.png",
-    "a_img": "q2_answer_images/E_Je4B3257_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26278,7 +24540,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B3258_q.png",
-    "a_img": "q2_answer_images/E_Je4B3258_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26293,7 +24554,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4259_q.png",
-    "a_img": "q2_answer_images/E_Je4B4259_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26308,7 +24568,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4260_q.png",
-    "a_img": "q2_answer_images/E_Je4B4260_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26323,7 +24582,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4261_q.png",
-    "a_img": "q2_answer_images/E_Je4B4261_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26338,7 +24596,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4262_q.png",
-    "a_img": "q2_answer_images/E_Je4B4262_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26353,7 +24610,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4263_q.png",
-    "a_img": "q2_answer_images/E_Je4B4263_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26368,7 +24624,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4264_q.png",
-    "a_img": "q2_answer_images/E_Je4B4264_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26383,7 +24638,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4265_q.png",
-    "a_img": "q2_answer_images/E_Je4B4265_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26398,7 +24652,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4266_q.png",
-    "a_img": "q2_answer_images/E_Je4B4266_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26413,7 +24666,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4267_q.png",
-    "a_img": "q2_answer_images/E_Je4B4267_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26428,7 +24680,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4268_q.png",
-    "a_img": "q2_answer_images/E_Je4B4268_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26443,7 +24694,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B4269_q.png",
-    "a_img": "q2_answer_images/E_Je4B4269_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26458,7 +24708,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B5270_q.png",
-    "a_img": "q2_answer_images/E_Je4B5270_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26473,7 +24722,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B5271_q.png",
-    "a_img": "q2_answer_images/E_Je4B5271_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26488,7 +24736,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B5272_q.png",
-    "a_img": "q2_answer_images/E_Je4B5272_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26503,7 +24750,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je4B5273_q.png",
-    "a_img": "q2_answer_images/E_Je4B5273_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26518,7 +24764,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B1274_q.png",
-    "a_img": "q2_answer_images/E_Je3B1274_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26533,7 +24778,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B1275_q.png",
-    "a_img": "q2_answer_images/E_Je3B1275_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26548,7 +24792,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B1276_q.png",
-    "a_img": "q2_answer_images/E_Je3B1276_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26563,7 +24806,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B2277_q.png",
-    "a_img": "q2_answer_images/E_Je3B2277_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26578,7 +24820,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B2278_q.png",
-    "a_img": "q2_answer_images/E_Je3B2278_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26593,7 +24834,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B2279_q.png",
-    "a_img": "q2_answer_images/E_Je3B2279_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26608,7 +24848,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B2280_q.png",
-    "a_img": "q2_answer_images/E_Je3B2280_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26623,7 +24862,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B2281_q.png",
-    "a_img": "q2_answer_images/E_Je3B2281_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26638,7 +24876,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B2282_q.png",
-    "a_img": "q2_answer_images/E_Je3B2282_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26653,7 +24890,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B2283_q.png",
-    "a_img": "q2_answer_images/E_Je3B2283_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26668,7 +24904,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B2284_q.png",
-    "a_img": "q2_answer_images/E_Je3B2284_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26683,7 +24918,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3285_q.png",
-    "a_img": "q2_answer_images/E_Je3B3285_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26698,7 +24932,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3286_q.png",
-    "a_img": "q2_answer_images/E_Je3B3286_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26713,7 +24946,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3287_q.png",
-    "a_img": "q2_answer_images/E_Je3B3287_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26728,7 +24960,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3288_q.png",
-    "a_img": "q2_answer_images/E_Je3B3288_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26743,7 +24974,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3289_q.png",
-    "a_img": "q2_answer_images/E_Je3B3289_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26758,7 +24988,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3290_q.png",
-    "a_img": "q2_answer_images/E_Je3B3290_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26773,7 +25002,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3291_q.png",
-    "a_img": "q2_answer_images/E_Je3B3291_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26788,7 +25016,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3292_q.png",
-    "a_img": "q2_answer_images/E_Je3B3292_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26803,7 +25030,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B3293_q.png",
-    "a_img": "q2_answer_images/E_Je3B3293_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26818,7 +25044,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B4294_q.png",
-    "a_img": "q2_answer_images/E_Je3B4294_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26833,7 +25058,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B4295_q.png",
-    "a_img": "q2_answer_images/E_Je3B4295_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26848,7 +25072,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B4296_q.png",
-    "a_img": "q2_answer_images/E_Je3B4296_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26863,7 +25086,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B4297_q.png",
-    "a_img": "q2_answer_images/E_Je3B4297_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26878,7 +25100,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je3B4298_q.png",
-    "a_img": "q2_answer_images/E_Je3B4298_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26893,7 +25114,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B1299_q.png",
-    "a_img": "q2_answer_images/E_Je2B1299_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26908,7 +25128,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B1300_q.png",
-    "a_img": "q2_answer_images/E_Je2B1300_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26923,7 +25142,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B1301_q.png",
-    "a_img": "q2_answer_images/E_Je2B1301_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26938,7 +25156,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B1302_q.png",
-    "a_img": "q2_answer_images/E_Je2B1302_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26953,7 +25170,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B1303_q.png",
-    "a_img": "q2_answer_images/E_Je2B1303_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -26968,7 +25184,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B1304_q.png",
-    "a_img": "q2_answer_images/E_Je2B1304_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26983,7 +25198,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B1305_q.png",
-    "a_img": "q2_answer_images/E_Je2B1305_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -26998,7 +25212,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B1306_q.png",
-    "a_img": "q2_answer_images/E_Je2B1306_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27013,7 +25226,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B2307_q.png",
-    "a_img": "q2_answer_images/E_Je2B2307_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27028,7 +25240,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B2308_q.png",
-    "a_img": "q2_answer_images/E_Je2B2308_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27043,7 +25254,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B2309_q.png",
-    "a_img": "q2_answer_images/E_Je2B2309_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27058,7 +25268,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B3310_q.png",
-    "a_img": "q2_answer_images/E_Je2B3310_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27073,7 +25282,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B3311_q.png",
-    "a_img": "q2_answer_images/E_Je2B3311_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27088,7 +25296,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4312_q.png",
-    "a_img": "q2_answer_images/E_Je2B4312_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27103,7 +25310,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4313_q.png",
-    "a_img": "q2_answer_images/E_Je2B4313_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27118,7 +25324,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4314_q.png",
-    "a_img": "q2_answer_images/E_Je2B4314_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27133,7 +25338,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4315_q.png",
-    "a_img": "q2_answer_images/E_Je2B4315_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27148,7 +25352,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4316_q.png",
-    "a_img": "q2_answer_images/E_Je2B4316_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27163,7 +25366,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4317_q.png",
-    "a_img": "q2_answer_images/E_Je2B4317_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27178,7 +25380,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4318_q.png",
-    "a_img": "q2_answer_images/E_Je2B4318_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27193,7 +25394,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4319_q.png",
-    "a_img": "q2_answer_images/E_Je2B4319_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27208,7 +25408,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4320_q.png",
-    "a_img": "q2_answer_images/E_Je2B4320_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27223,7 +25422,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4321_q.png",
-    "a_img": "q2_answer_images/E_Je2B4321_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27238,7 +25436,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4322_q.png",
-    "a_img": "q2_answer_images/E_Je2B4322_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27253,7 +25450,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B4323_q.png",
-    "a_img": "q2_answer_images/E_Je2B4323_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27268,7 +25464,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B5324_q.png",
-    "a_img": "q2_answer_images/E_Je2B5324_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27283,7 +25478,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B5325_q.png",
-    "a_img": "q2_answer_images/E_Je2B5325_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27298,7 +25492,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B5326_q.png",
-    "a_img": "q2_answer_images/E_Je2B5326_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27313,7 +25506,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je2B5327_q.png",
-    "a_img": "q2_answer_images/E_Je2B5327_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27328,7 +25520,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B1328_q.png",
-    "a_img": "q2_answer_images/E_Je1B1328_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27343,7 +25534,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B1329_q.png",
-    "a_img": "q2_answer_images/E_Je1B1329_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27358,7 +25548,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B1330_q.png",
-    "a_img": "q2_answer_images/E_Je1B1330_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27373,7 +25562,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B1331_q.png",
-    "a_img": "q2_answer_images/E_Je1B1331_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27388,7 +25576,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B1332_q.png",
-    "a_img": "q2_answer_images/E_Je1B1332_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27403,7 +25590,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B1333_q.png",
-    "a_img": "q2_answer_images/E_Je1B1333_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27418,7 +25604,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B2334_q.png",
-    "a_img": "q2_answer_images/E_Je1B2334_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27433,7 +25618,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B2335_q.png",
-    "a_img": "q2_answer_images/E_Je1B2335_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27448,7 +25632,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B2336_q.png",
-    "a_img": "q2_answer_images/E_Je1B2336_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27463,7 +25646,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B2337_q.png",
-    "a_img": "q2_answer_images/E_Je1B2337_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27478,7 +25660,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B2338_q.png",
-    "a_img": "q2_answer_images/E_Je1B2338_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27493,7 +25674,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B2339_q.png",
-    "a_img": "q2_answer_images/E_Je1B2339_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27508,7 +25688,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B3340_q.png",
-    "a_img": "q2_answer_images/E_Je1B3340_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27523,7 +25702,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B3341_q.png",
-    "a_img": "q2_answer_images/E_Je1B3341_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27538,7 +25716,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B3342_q.png",
-    "a_img": "q2_answer_images/E_Je1B3342_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27553,7 +25730,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B3343_q.png",
-    "a_img": "q2_answer_images/E_Je1B3343_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27568,7 +25744,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4344_q.png",
-    "a_img": "q2_answer_images/E_Je1B4344_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27583,7 +25758,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4345_q.png",
-    "a_img": "q2_answer_images/E_Je1B4345_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27598,7 +25772,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4346_q.png",
-    "a_img": "q2_answer_images/E_Je1B4346_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27613,7 +25786,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4347_q.png",
-    "a_img": "q2_answer_images/E_Je1B4347_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27628,7 +25800,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4348_q.png",
-    "a_img": "q2_answer_images/E_Je1B4348_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27643,7 +25814,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4349_q.png",
-    "a_img": "q2_answer_images/E_Je1B4349_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27658,7 +25828,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4350_q.png",
-    "a_img": "q2_answer_images/E_Je1B4350_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27673,7 +25842,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4351_q.png",
-    "a_img": "q2_answer_images/E_Je1B4351_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27688,7 +25856,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B4352_q.png",
-    "a_img": "q2_answer_images/E_Je1B4352_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27703,7 +25870,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5353_q.png",
-    "a_img": "q2_answer_images/E_Je1B5353_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27718,7 +25884,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5354_q.png",
-    "a_img": "q2_answer_images/E_Je1B5354_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27733,7 +25898,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5355_q.png",
-    "a_img": "q2_answer_images/E_Je1B5355_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27748,7 +25912,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5356_q.png",
-    "a_img": "q2_answer_images/E_Je1B5356_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27763,7 +25926,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5357_q.png",
-    "a_img": "q2_answer_images/E_Je1B5357_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27778,7 +25940,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5358_q.png",
-    "a_img": "q2_answer_images/E_Je1B5358_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27793,7 +25954,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5359_q.png",
-    "a_img": "q2_answer_images/E_Je1B5359_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27808,7 +25968,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5360_q.png",
-    "a_img": "q2_answer_images/E_Je1B5360_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27823,7 +25982,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5361_q.png",
-    "a_img": "q2_answer_images/E_Je1B5361_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27838,7 +25996,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5362_q.png",
-    "a_img": "q2_answer_images/E_Je1B5362_a.png",
     "explain": "该说法错误。",
     "show_q_img_in_question": false
   },
@@ -27853,7 +26010,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5363_q.png",
-    "a_img": "q2_answer_images/E_Je1B5363_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27868,7 +26024,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5364_q.png",
-    "a_img": "q2_answer_images/E_Je1B5364_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27883,7 +26038,6 @@ window.QUIZ_DATA = [
       "错误": "错误"
     },
     "q_img": "q2_question_images/E_Je1B5365_q.png",
-    "a_img": "q2_answer_images/E_Je1B5365_a.png",
     "explain": "该说法正确。",
     "show_q_img_in_question": false
   },
@@ -27895,7 +26049,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机是根据电磁感应原理，将机械能转换为电能的\n旋转电机。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5C1001_q.png",
-    "a_img": "q2_answer_images/E_Lb5C1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -27907,7 +26060,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)额定电压：长期安全工作的允许电压。\n(2)额定电流：正常连续工作的允许电流。\n(3)额定容量：长期安全运行的最大允许输出功率。\n(4)允许温升：发电机绕组最高温度与环境温度之差。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5C1002_q.png",
-    "a_img": "q2_answer_images/E_Lb5C1002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -27919,7 +26071,6 @@ window.QUIZ_DATA = [
     "a": "答：同步发电机既发有功功率又发无功功率的运行状态叫\n同步发电机的滞相运行；同步发电机发出有功功率吸收无功功\n率的运行状态叫同步发电机的进相运行。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5C3003_q.png",
-    "a_img": "q2_answer_images/E_Lb5C3003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -27931,7 +26082,6 @@ window.QUIZ_DATA = [
     "a": "答：“同步”是指定子磁场和转子磁场以相同的方向、相同\n的速度旋转。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5C4004_q.png",
-    "a_img": "q2_answer_images/E_Lb5C4004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -27943,7 +26093,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)磁场旋转的方向与三相电流的相序一致。\n(2)哪一相绕组的电流达到最大值，旋转磁场的轴线正好\n转到该相绕组的轴线上。\n(3)磁场的旋转速度n ( 同步转速)与频率f 和极对数p\n有关，即\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n( r/min,转/分)",
     "o": null,
     "q_img": "q2_question_images/E_Lb5C5005_q.png",
-    "a_img": "q2_answer_images/E_Lb5C5005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -27955,7 +26104,6 @@ window.QUIZ_DATA = [
     "a": "答：有功功率是保持用电设备正常运行所需的电功率，也\n就是将电能转换为其他形式能量(机械能、光能、热能)的电\n功率。\n无功功率是用于电路内电场与磁场的交换，并用来在电气\n设备中建立和维持磁场的电功率。\n简\n答\n题",
     "o": null,
     "q_img": "q2_question_images/E_Lb4C1006_q.png",
-    "a_img": "q2_answer_images/E_Lb4C1006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -27967,7 +26115,6 @@ window.QUIZ_DATA = [
     "a": "答：主要有定子部分，转子部分，其他部件(端盖、轴承、\n风扇、接线盒等)三大部分组成。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4C1007_q.png",
-    "a_img": "q2_answer_images/E_Lb4C1007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -27979,7 +26126,6 @@ window.QUIZ_DATA = [
     "a": "答：有定子和转子绕组中的铜损；定子和转子绕组中的铁\n损；摩擦和通风阻力损耗。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4C2008_q.png",
-    "a_img": "q2_answer_images/E_Lb4C2008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -27991,7 +26137,6 @@ window.QUIZ_DATA = [
     "a": "答：有铜损，铁损，机械损耗，附加损耗等。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4C3009_q.png",
-    "a_img": "q2_answer_images/E_Lb4C3009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28003,7 +26148,6 @@ window.QUIZ_DATA = [
     "a": "答：短路对设备的危害，概括起来，一是电流的热效应使\n设备烧坏、损坏绝缘，二是电动力使设备变形、毁坏，对系统\n的危害是使供电受阻，甚至造成系统稳定的破坏，使之出现非\n故障部分的大面积停电。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4C4010_q.png",
-    "a_img": "q2_answer_images/E_Lb4C4010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28015,7 +26159,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器是电力系统中的重要电气设备之一，起到传递\n电能的作用。在从发电厂到用户传输电能的过程中，变压器起\n11l\n鉴\n定\n试\n题\n库\n\n112\n着升高和降低电压的作用。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4C5011_q.png",
-    "a_img": "q2_answer_images/E_Lb4C5011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28027,7 +26170,6 @@ window.QUIZ_DATA = [
     "a": "答: 油枕也叫辅助油箱,它的容积一般为变压器新装油量\n的8%～10%。油枕的作用是使变压器内部充满油，而由于油枕\n内油位在一定限度,当油在不同温度下的膨胀和收缩有回旋余\n地并且由于油枕内空余空间小,使油和空气接触少,减少了油\n受潮和氧化的可能性;同时还在浦枕和油箱的连接管上加装气\n体继电器,来反应变压器的内部故障。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3C1012_q.png",
-    "a_img": "q2_answer_images/E_Lb3C1012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28039,7 +26181,6 @@ window.QUIZ_DATA = [
     "a": "答: 防止外界气体进入发电机以及机内氢气漏出,实现转\n轴与端盖之间密封。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3C2013_q.png",
-    "a_img": "q2_answer_images/E_Lb3C2013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28051,7 +26192,6 @@ window.QUIZ_DATA = [
     "a": "答:(1)磁极绕组有短路或断路;\n(2)磁极绕组接线错误,以致极性不符;\n(3)磁极绕组的励磁电流过低;\n(4)换向磁极的极性错误;\n(5)励磁机整流子铜片与绕组的连接处焊锡熔化;\n(6)电刷位置不正或压力不足;\n(7)原动机转速不够或容量过小,外电路过载。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3C2014_q.png",
-    "a_img": "q2_answer_images/E_Lb3C2014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28063,7 +26203,6 @@ window.QUIZ_DATA = [
     "a": "答:\\textcircled1换向不良引起火花;\\textcircled2机械的原因;\\textcircled3化学原因。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3C3015_q.png",
-    "a_img": "q2_answer_images/E_Lb3C3015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28075,7 +26214,6 @@ window.QUIZ_DATA = [
     "a": "答:\\textcircled1流经炭刷的电流密度过高;\\textcircled2整流子灼伤;\\textcircled3整\n流子片间绝缘云母片突出;\\textcircled4\n整流子表面脏污。\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n113",
     "o": null,
     "q_img": "q2_question_images/E_Lb3C4016_q.png",
-    "a_img": "q2_answer_images/E_Lb3C4016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28087,7 +26225,6 @@ window.QUIZ_DATA = [
     "a": "答：①外电路过载及三相不平衡；②电枢绕组有短路或\n绝缘损坏；③轴承发热；④冷却系统故障。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3C5017_q.png",
-    "a_img": "q2_answer_images/E_Lb3C5017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28099,7 +26236,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机和系统进行准同期并列时必须满足以下四个条\n件：\n(1)电压相等(电压差小于5%);\n(2)电压相位一致；\n(3)频率相等(频率差小于0.1Hz);\n(4)相序相同。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2C1018_q.png",
-    "a_img": "q2_answer_images/E_Lb2C1018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28111,7 +26247,6 @@ window.QUIZ_DATA = [
     "a": "答：有全压启动和降压启动两种。\n全压启动也即直接启动。降压启动包括采用星角启动器，\n采用自耦减压启动器，在定子绕组中串联电阻或电抗器启动等\n方法。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2C1019_q.png",
-    "a_img": "q2_answer_images/E_Lb2C1019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28123,7 +26258,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)转速低，噪声大；\n(2)启动电流大而且三相电流不平衡；\n(3)因电动机过热启动保护动作切断电源。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2C2020_q.png",
-    "a_img": "q2_answer_images/E_Lb2C2020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28135,7 +26269,6 @@ window.QUIZ_DATA = [
     "a": "答：目前大型汽轮发电机多采用水、水、空冷却系统(双\n水内冷)和水、氢、氢冷却系统。其中水、氢、氢冷却的发电\n机冷却系统包括三个支系统，即氢气控制系统、密封供油系统\n和发电机定子冷却水系统；水、水、空冷却系统需闭式循环冷\n却水系统。\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n114",
     "o": null,
     "q_img": "q2_question_images/E_Lb2C3021_q.png",
-    "a_img": "q2_answer_images/E_Lb2C3021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28147,7 +26280,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)发电机外壳应有良好的密封装置。\n(2) 氢冷发电机周围禁止明火，因为氢气和空气的混合气\n体是爆炸性气体，一旦泄漏遇火将可能引起爆炸，造成事故。\n(3)保持发电机内氢气纯度和含氧量，以防止发电机绕组\n击穿引起明火。\n(4)严格遵守排氢、充氢制度和操作规程。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2C4022_q.png",
-    "a_img": "q2_answer_images/E_Lb2C4022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28159,7 +26291,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)在汽轮发电机中，由于定子磁场的不平衡或大轴\n本身带磁，转子在高速旋转时将会出现交变的磁通。交变磁场\n在大轴上感应出的电压称为发电机的轴电压。\n(2)轴电压由轴颈、油膜、轴承、机座及基础低层构成通\n路，当油膜破坏时，就在此回路中产生一个很大的电流，这个\n电流就称为轴电流。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2C5023_q.png",
-    "a_img": "q2_answer_images/E_Lb2C5023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28171,7 +26302,6 @@ window.QUIZ_DATA = [
     "a": "答：运行中，当滑环与电刷滑动接触时，会由于摩擦而发\n热。为此，在滑环表面车出螺旋状的沟槽，这一方面可以增加\n散热面积，加强冷却，另一方面可以改善同电刷的接触。而且\n也容易让电刷的粉末沿螺旋状沟槽排出。滑环上还可以钻一些\n斜孔，或让边缘呈齿状，这也可加强冷却效果，因为转子转动\n时，这些斜孔和齿可起风扇的作用。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1C1024_q.png",
-    "a_img": "q2_answer_images/E_Lb1C1024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28183,7 +26313,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)变压器内部有严重故障；\n(2)变压器保护装置二次回路有故障；\n(3)变压器检修后油中气体分离过快，也可能使气体继电\n器动作跳闸。\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n115",
     "o": null,
     "q_img": "q2_question_images/E_Lb1C2025_q.png",
-    "a_img": "q2_answer_images/E_Lb1C2025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28195,7 +26324,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)电源缺相；\n(2)开关接触不良；\n(3)绕线式转子开路；\n(4)机械部件卡涩。\n!",
     "o": null,
     "q_img": "q2_question_images/E_Lb1C3026_q.png",
-    "a_img": "q2_answer_images/E_Lb1C3026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28207,7 +26335,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)限制短路电流。\n(2) 当分裂变压器有一个支路发生故障时，另一支路的电\n压降低很小。\n(3)采用一台分裂变压器与达到同样要求而采用两台普通\n变压器相比，节省用地面积。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1C4027_q.png",
-    "a_img": "q2_answer_images/E_Lb1C4027_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28219,7 +26346,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)两相运行；\n(2)定子绕组一相反接或将星形接线错接为三角形接线；\n(3)转子的铝(铜)条脱焊或断裂，滑环电刷接触不良；\n(4)轴承严重损坏，轴被卡住。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1C5028_q.png",
-    "a_img": "q2_answer_images/E_Lb1C5028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28231,7 +26357,6 @@ window.QUIZ_DATA = [
     "a": "答：对地电压在250V以上的为高压；对地电压在250V及\n以下的为低压；对人体不会引起生命危险的电压叫安全电压。",
     "o": null,
     "q_img": "q2_question_images/E_Lc5C1029_q.png",
-    "a_img": "q2_answer_images/E_Lc5C1029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28243,7 +26368,6 @@ window.QUIZ_DATA = [
     "a": "答：是指对人体不发生生命危险的电流叫安全电流(交流\n电50mA以下，直流电是10mA 以下)。",
     "o": null,
     "q_img": "q2_question_images/E_Lc5C2030_q.png",
-    "a_img": "q2_answer_images/E_Lc5C2030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28255,7 +26379,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)事故原因未查清不放过；\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n116\n(2)责任人员未处理不放过；\n(3)整改措施未落实不放过；\n(4)有关人员未受到教育不放过。",
     "o": null,
     "q_img": "q2_question_images/E_Lc5C3031_q.png",
-    "a_img": "q2_answer_images/E_Lc5C3031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28267,7 +26390,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)精神正常，身体健康，没有妨碍工作的疾病；\n(2)具备必要的电力专业知识，熟悉《电业安全工作规程》\n的有关规定，并经考试合格；\n(3)应会进行触电急救。",
     "o": null,
     "q_img": "q2_question_images/E_Lc5C4032_q.png",
-    "a_img": "q2_answer_images/E_Lc5C4032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28279,7 +26401,6 @@ window.QUIZ_DATA = [
     "a": "答：电流通过人体叫人身触电。\n触电有单相触电、两相触电和跨步电压触电、接触触电四\n种形式。",
     "o": null,
     "q_img": "q2_question_images/E_Lc5C5033_q.png",
-    "a_img": "q2_answer_images/E_Lc5C5033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28291,7 +26412,6 @@ window.QUIZ_DATA = [
     "a": "答：电击伤是指电流通过人体，引起人体内部组织损伤、\n破坏的一种伤害。",
     "o": null,
     "q_img": "q2_question_images/E_Lc4C1034_q.png",
-    "a_img": "q2_answer_images/E_Lc4C1034_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28303,7 +26423,6 @@ window.QUIZ_DATA = [
     "a": "答：电灼伤是指电流不通过人体，引起人体外部组织受到\n局部损害的一种伤害，如弧光烧伤等。",
     "o": null,
     "q_img": "q2_question_images/E_Lc4C2035_q.png",
-    "a_img": "q2_answer_images/E_Lc4C2035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28315,7 +26434,6 @@ window.QUIZ_DATA = [
     "a": "答：①电流的种类，如频率；②电流大小；③电压高低；\n④电流通过人体的路径；⑤通电时间长短；⑥人体电阻的大\n小；⑦人的精神状态。",
     "o": null,
     "q_img": "q2_question_images/E_Lc4C3036_q.png",
-    "a_img": "q2_answer_images/E_Lc4C3036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28327,7 +26445,6 @@ window.QUIZ_DATA = [
     "a": "答：有从手到手、从左手到脚、从右手到脚，从脚到脚构\n鉴\n定\n试\n题\n库\n\n117\n成路径。",
     "o": null,
     "q_img": "q2_question_images/E_Lc4C4037_q.png",
-    "a_img": "q2_answer_images/E_Lc4C4037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28339,7 +26456,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)缺乏电力安全作业知识，作业时，不认真执行《电\n业安全工作规程》和有关安全操作的规章制度。\n(2)对电气接线及电气设备的构造不熟悉。\n(3)对电气设备安装不符合规程要求。\n(4)电气设备的保养维修质量差或不及时造成绝缘不良而\n漏电。",
     "o": null,
     "q_img": "q2_question_images/E_Lc4C5038_q.png",
-    "a_img": "q2_answer_images/E_Lc4C5038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28351,7 +26467,6 @@ window.QUIZ_DATA = [
     "a": "答：首先应迅速使触电者脱离电源。",
     "o": null,
     "q_img": "q2_question_images/E_Lc3C1039_q.png",
-    "a_img": "q2_answer_images/E_Lc3C1039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28363,7 +26478,6 @@ window.QUIZ_DATA = [
     "a": "答：应注意在没有急救断电前不可赤手直接接触触电者的\n身体；急救断电的同时，要做好防止触电者再次摔倒跌伤的措\n施；如因急救断电影响肇事地点照明时，应解决临时照明措施。",
     "o": null,
     "q_img": "q2_question_images/E_Lc3C2040_q.png",
-    "a_img": "q2_answer_images/E_Lc3C2040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28375,7 +26489,6 @@ window.QUIZ_DATA = [
     "a": "答：有口对口吹气法、俯卧压背法、仰卧压胸法及摇臂压\n胸法四种。",
     "o": null,
     "q_img": "q2_question_images/E_Lc3C3041_q.png",
-    "a_img": "q2_answer_images/E_Lc3C3041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28387,7 +26500,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)迅速解除妨碍触电者呼吸的一切障碍；\n(2)立即进行人工呼吸，尽快通知医务人员前来抢救；\n(3) 抢救人员动作要有节奏，压力要适当，并保持不变；\n(4)始终采取一种方法抢救，不可中途变换；\n(5)坚持连续不断，直至恢复自然呼吸为止；\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n118\n(6)要设法把触电者，抬放到温暖和空气流通的地方。",
     "o": null,
     "q_img": "q2_question_images/E_Lc3C4042_q.png",
-    "a_img": "q2_answer_images/E_Lc3C4042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28399,7 +26511,6 @@ window.QUIZ_DATA = [
     "a": "答：①闸刀开关；②负荷开关；③自动空气开关；④接\n触器。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5C1043_q.png",
-    "a_img": "q2_answer_images/E_Jd5C1043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28411,7 +26522,6 @@ window.QUIZ_DATA = [
     "a": "答：电压互感器电压比与电流互感器电流比的乘积就是三\n相电度表的倍率。电度表倍率与读数的乘积就是实际电量。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5C1044_q.png",
-    "a_img": "q2_answer_images/E_Jd5C1044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28423,7 +26533,6 @@ window.QUIZ_DATA = [
     "a": "答：有可能因电动机中心不准，使转子扫膛，或轴承磨损\n使转子扫膛。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5C2045_q.png",
-    "a_img": "q2_answer_images/E_Jd5C2045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28435,7 +26544,6 @@ window.QUIZ_DATA = [
     "a": "答：①因电刷研磨不好而与滑环的接触不良；②电刷碎\n裂；③刷架压簧的压力不均匀；④滑环不光滑或不圆；⑤滑\n环与电刷污秽；⑥电刷压力过大或过小；⑦电刷与刷架挤得\n过紧。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5C3046_q.png",
-    "a_img": "q2_answer_images/E_Jd5C3046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28447,7 +26555,6 @@ window.QUIZ_DATA = [
     "a": "答：①三相电线中断一相；②三相电压不平衡；③轴承\n磨损严重或缺油；④定子与转子发生摩擦；⑤风扇与风罩或\n机盖摩擦；⑥机座松动。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5C4047_q.png",
-    "a_img": "q2_answer_images/E_Jd5C4047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28459,7 +26566,6 @@ window.QUIZ_DATA = [
     "a": "答：①电动机连续启动使定子、转子发热；②超负荷运\n行；③通风不良，风扇损坏，风路堵塞；④电压不正常。\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n119\nJd5C504 9\n电动机启动困难或达不到正常转速是什么\n原因?\n答：有可能是下列原因：①负荷过大；②启动电压或方\n法不适当；③电动机的六极引线的始端、末端接错；④电压\n电源过低；⑤转子铝(铜)条脱焊或断裂。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5C5048_q.png",
-    "a_img": "q2_answer_images/E_Jd5C5048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28471,7 +26577,6 @@ window.QUIZ_DATA = [
     "a": "答：应注意下列各项：\n(1) 如果接通电源后，电动机转子不动，应立即拉闸，查\n明原因并消除故障后，才允许重新启动。\n(2)接通电源开关后，电动机发出异常响声，应立即拉闸，\n检查电动机的传动装置及熔断器等。\n(3) 接通电源开关后，应监视电动机的启动时间和电流表\n的变化。如启动时间过长或电流表迟迟不返回，应立即拉闸，\n进行检查。\n(4)启动时发现电动机冒火或启动后振动过大，应立即拉\n闸，停机检查。\n(5)在正常情况下，厂用电动机允许在冷状态下启动两次，\n每次间隔时间不得少于5min; 在热状态下启动一次。只有在处\n理事故时，以及启动时间不超过2～3s 的电动机，可以多启动\n一次。\n(6)如果启动后发现运转方向反了，应立即拉闸，停电，\n调换三相电源任意两相接线后再重新启动。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4C2050_q.png",
-    "a_img": "q2_answer_images/E_Jd4C2050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28483,7 +26588,6 @@ window.QUIZ_DATA = [
     "a": "答：有个别补偿、合组补偿和集中补偿三种方式。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4C2051_q.png",
-    "a_img": "q2_answer_images/E_Jd4C2051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28495,7 +26599,6 @@ window.QUIZ_DATA = [
     "a": "答：型号由字母和数字两部分组成。\n(1)字母部分：\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n120\n鉴\n定\n试\n题\n库\n第一个字母表示用途，如Y为移相用；C 为串联用。\n第二个字母表示浸渍物，如Y为油浸；L为氯化联苯浸渍。\n第三个字母表示介质材料或使用场所，如W为户外。\n最后字母为使用环境，如TH为温热带用。\n(2) 数字部分：\n第一位数字为额定电压；\n第二位数字为额定容量；\n第三位数字为相数。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4C3052_q.png",
-    "a_img": "q2_answer_images/E_Jd4C3052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28507,7 +26610,6 @@ window.QUIZ_DATA = [
     "a": "答：有①额定电压；②额定电流；③热稳定电流；④动\n稳定电流；⑤额定断开电流；⑥额定断开容量。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4C4053_q.png",
-    "a_img": "q2_answer_images/E_Jd4C4053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28519,7 +26621,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)应保证电容器组在放电1min 后，电容器电压\nUc<65V。\n(2)在正常运行时的电力损失每千乏电容量的有功损耗不\n超过1W。\n(3) 应装在电容器开关的负荷侧，并和电容器永久接在一起。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4C5054_q.png",
-    "a_img": "q2_answer_images/E_Jd4C5054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28531,7 +26632,6 @@ window.QUIZ_DATA = [
     "a": "答：因为熔断器和开关一旦断开，电容器就无法放电，这\n是不允许的。\n电容器储存电荷未放尽，两端电压高，很危险，而且一旦\n重合闸时，会产生强大冲击电流，影响安全运行。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3C1055_q.png",
-    "a_img": "q2_answer_images/E_Jd3C1055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28543,7 +26643,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)运行时电压应不超过电容器额定电压的10%,不\n平衡电流应不超过电容器额定电流的5%。\n(2)发现电容器外壳膨胀、严重漏油，内部有噪声或外部\n\n121\n有火花时，应立即停止运行。\n(3)电容器室内的温度不应超过40℃。\n(4)当保护装置动作，不准强送。\n(5)电容器在合闸投入前必须放电完毕。\n(6)电容器外壳接地要良好，每月要检查放电回路及放电\n电阻完好。\nJd3C305 7\n常用低压熔断器有哪几种?\n答：①管式熔断器(包括闭管式和填料管式); ②插式熔\n断器；③螺旋熔断器；④盒式熔断器。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3C2056_q.png",
-    "a_img": "q2_answer_images/E_Jd3C2056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28555,7 +26654,6 @@ window.QUIZ_DATA = [
     "a": "答：高压断路器能切断、接通电力电路的空载电流、负荷\n电流、短路电流，保证整个电网的安全运行。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3C4058_q.png",
-    "a_img": "q2_answer_images/E_Jd3C4058_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28567,7 +26665,6 @@ window.QUIZ_DATA = [
     "a": "答：由导电、灭弧、绝缘和操动机构四部分组成。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3C5059_q.png",
-    "a_img": "q2_answer_images/E_Jd3C5059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28579,7 +26676,6 @@ window.QUIZ_DATA = [
     "a": "答：高压断路器就是指额定电压为3kV及以上的用于切断\n或接通有载或空载电路，以及发生故障电路的高压电器。断路\n器按不同方式可分为以下种类：\n(1)按灭弧介质分为油断路器、空气断路器、SF₆ 断路器、\n真空断路器和磁吹断路器等。油断路器又分多油、少油两种。\n(2)按断路器操动机构分，有电动、手动、气动、液压、\n弹簧储能机构等。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C1060_q.png",
-    "a_img": "q2_answer_images/E_Jd2C1060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28591,7 +26687,6 @@ window.QUIZ_DATA = [
     "a": "答：(1) 因为当电容器与电网断开时，电容器两端的电压\n等于断开时电源两端的电压，会造成对工作人的生命威胁。\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n122\n简\n答\n题\n鉴\n定\n试\n题\n库\n(2)在重合闸时，假设电容器残存电压与电源电压极性相\n反，会因合闸而引起很大的冲击电流。\n根据上述两种情况，所以电容器要配装放电电阻。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C2061_q.png",
-    "a_img": "q2_answer_images/E_Jd2C2061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28603,7 +26698,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)动、静触头中心对准，无卡阻现象；\n(2)触头弹簧压力均匀一致，合闸时接触严密；\n(3) 软铜丝或(铜片)不应断裂、无锈蚀，固定螺栓齐全；\n(4)三相不同期要求不大于1～2min;\n(5)保证最大负荷时动、静触头不发热，接触深度>15mm。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C3062_q.png",
-    "a_img": "q2_answer_images/E_Jd2C3062_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28615,7 +26709,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)合理选择电动机的容量，使其接近满负荷运行。\n(2)对于平均负荷小于40%的感应电动机，换用小容量电\n动机或改定子绕组三角形接线为星形接线。\n(3)改善电气设备的运行方式，限制空载运行。\n(4)正确选择变压器的容量，提高变压器的负荷率。\n(5)提高感应电动机的检修质量。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C3063_q.png",
-    "a_img": "q2_answer_images/E_Jd2C3063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28627,7 +26720,6 @@ window.QUIZ_DATA = [
     "a": "答：①断路器断开容量不足；②导体与箱壁距离不够造\n成短路；③油量不适当(油面过高或过低);④油有杂质或因\n受潮绝缘强度降低；⑤外部套管破裂；⑥断路器动作迟缓或部\n件损坏。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C3064_q.png",
-    "a_img": "q2_answer_images/E_Jd2C3064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28639,7 +26731,6 @@ window.QUIZ_DATA = [
     "a": "答：①油断路器容量符合规定；②保持各种机构完整；\n③断路器的导电部分与油箱距离符合规定，绝缘良好；④定\n期换油、检查油面位置判断油的温度符合规定。\n\n123",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4065_q.png",
-    "a_img": "q2_answer_images/E_Jd2C4065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28651,7 +26742,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)增加整流相数；\n(2)装高次谐波滤过器；\n(3)合理选择电容器安装地点和容量；\n(4)选择电容器的额定电压高于系统额定电压10%。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4066_q.png",
-    "a_img": "q2_answer_images/E_Jd2C4066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28663,7 +26753,6 @@ window.QUIZ_DATA = [
     "a": "答：①有无异常；②绝缘套管有无闪络；③外壳温度是\n否正常；④油面是否在标线上，是否渗漏油；⑤信号装置是\n否正常；⑥当跳闸重合不良，电压、电流变化很大、开关喷油\n或有瓦斯气味时，均应禁止手动强送。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4067_q.png",
-    "a_img": "q2_answer_images/E_Jd2C4067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28675,7 +26764,6 @@ window.QUIZ_DATA = [
     "a": "答：有电路方面、机械方面和操作机构方面的原因。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4068_q.png",
-    "a_img": "q2_answer_images/E_Jd2C4068_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28687,7 +26775,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)电路方面的原因有操作电压过低；操作熔丝及跳\n闸电路内各件接触不良；断线。\n(2)机械方面的原因有操动机构有异常、滑动杆及缓冲杆\n卡涩。\nJd2C507 0\n手动操作隔离开关的要点有哪些?\n答：(1)合闸时：核对操作项目；操作迅速果断，但不要\n用力过猛；操作完毕，要检查合闸良好。\n(2) 拉闸时：开始动作要慢而谨慎，闸刀离开端触头时应\n迅速拉开；拉闸完毕，要检查断开良好。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4069_q.png",
-    "a_img": "q2_answer_images/E_Jd2C4069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28699,7 +26786,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)如错拉隔离开关：当隔离开关未完全开断便发生\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n124\n电弧，应立即合上；若隔离开关已全部开断，则不许再合上。\n(2)如错合隔离开关时：即使错合，甚至在合闸时发生电\n弧，也不准再把刀闸拉开；应尽快操作油断路器切断负荷。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C5071_q.png",
-    "a_img": "q2_answer_images/E_Jd2C5071_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28711,7 +26797,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)停电时：①先断开断路器；②拉开线路侧隔离\n开关；③拉开母线侧隔离开关。\n(2)送电时：①合上母线侧隔离开关；②合上线路侧隔\n离开关；③检查关合良好；④最后合上断路器。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C5072_q.png",
-    "a_img": "q2_answer_images/E_Jd2C5072_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28723,7 +26808,6 @@ window.QUIZ_DATA = [
     "a": "答：真空断路器的结构非常简单，在一只抽真空的玻璃泡\n中放一对触头，因为真空的绝缘性其灭弧性能特别好，可使动、\n静触头的开距非常小，所以真空断路器的体积和质量都很小。\n由于真空断路器的触头不会氧化，并且熄弧快，触头不易烧损，\n因此适用于频繁操作的场合，使用寿命比油断路器约高10倍。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2C5073_q.png",
-    "a_img": "q2_answer_images/E_Jd2C5073_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28735,7 +26819,6 @@ window.QUIZ_DATA = [
     "a": "答：①油面过高：箱内缓冲空间减小。当开断切断短路故\n障时，电流使周围的油气化，将产生强大压力可能发生喷油，\n油箱变形甚至爆炸。②油面过低：当切断短路电流时，电弧可\n能冲击油面，游离气体混入空气中，引起燃烧爆炸。同时绝缘\n外露在空气中容易受潮，造成内部闪络。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C1074_q.png",
-    "a_img": "q2_answer_images/E_Jd1C1074_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28747,7 +26830,6 @@ window.QUIZ_DATA = [
     "a": "答：单稳态电路只有一个稳定状态，在没有外加信号触发\n时，它就处在稳定状态下，当加入触发信号后，电路翻转到一\n个新状态，但不能持久，经过一段时间，电路又恢复到原来的\n稳定状态。\n双稳态电路是由两个反相器交叉耦合组成的，第一级反相\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n125\n器的输出端接至第二级反相器的输入端，而第二级反相器的输\n出端又反接到第一级反相器的输入端。在电路中，一管的截止\n保证另一管饱和导通，而另一管的饱和导通又保证了这一管的\n截止。在外加触发信号时，由一种稳态翻转到另一种稳态，触\n发信号消失后，能保持稳定状态不变。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C1075_q.png",
-    "a_img": "q2_answer_images/E_Jd1C1075_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28759,7 +26841,6 @@ window.QUIZ_DATA = [
     "a": "答：通常无载调压变压器都是从高压侧引出分接头的，这\n是因为高压绕组套在低压绕组外面，焊接分接头比较方便；又\n因高压侧流过的电流小，可以使出线和分接开关载流部分的截\n面小一些，从而使接触不良问题比较容易解决。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C1076_q.png",
-    "a_img": "q2_answer_images/E_Jd1C1076_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28771,7 +26852,6 @@ window.QUIZ_DATA = [
     "a": "答：可能有四方面的原因：\n(1) 系统发生单相间歇电弧接地；\n(2)系统发生铁磁谐振；\n(3)电压互感器内部发生单相接地或层间、相间短路故障；\n(4)电压互感器二次回路发生短路而二次侧熔丝选择太粗\n而未熔断时，可能造成高压侧熔丝熔断。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C2077_q.png",
-    "a_img": "q2_answer_images/E_Jd1C2077_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28783,7 +26863,6 @@ window.QUIZ_DATA = [
     "a": "答：电压互感器是电压回路(是高阻抗),电流互感器电流\n回路(是低阻抗),若两者二次侧并联，会使二次侧发生短路烧\n坏电压互感器，或保护误动，会使电流互感器开路，对工作人\n员造成生命危险。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C2078_q.png",
-    "a_img": "q2_answer_images/E_Jd1C2078_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28795,7 +26874,6 @@ window.QUIZ_DATA = [
     "a": "答：要检查接点是否良好；有无过热；运行声音是否正常；\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n126",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C2079_q.png",
-    "a_img": "q2_answer_images/E_Jd1C2079_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28807,7 +26885,6 @@ window.QUIZ_DATA = [
     "a": "答：可能出现二次侧开路、过热、螺丝松动、运行声音异常。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C3080_q.png",
-    "a_img": "q2_answer_images/E_Jd1C3080_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28819,7 +26896,6 @@ window.QUIZ_DATA = [
     "a": "答：电流互感器是利用电磁感应原理工作的，因此过负荷\n会使铁芯磁通密度达到饱和或过饱和，则电流比误差增大，使\n表针指示不正确；由于磁通密度增大，使铁芯和二次绕组过热，\n加快绝缘老化。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C3081_q.png",
-    "a_img": "q2_answer_images/E_Jd1C3081_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28831,7 +26907,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)运行中能维持发电机的出口电压在额定值附近。\n(2)能实现并列运行机组之间合理的无功分配。\n(3) 当发电机内部故障(发电机主开关以内)时，能够实\n现对发电机的快速灭磁。\n(4)当发电机外部故障(发电机主开关以外电网)时，能\n够实行可靠的强行励磁。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C4082_q.png",
-    "a_img": "q2_answer_images/E_Jd1C4082_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28843,7 +26918,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器运行时，当周围环境温度下降很多时，变压器\n的外壳散热能力将大大增加，而变压器内部的散热能力却提高很\n少，尽管有时变压器上层油温尚未超过额定值，但温升却很高，\n绕组也会有过热现象。因此，变压器运行时要规定允许温升。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C4083_q.png",
-    "a_img": "q2_answer_images/E_Jd1C4083_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28855,7 +26929,6 @@ window.QUIZ_DATA = [
     "a": "答：因为大型发电机特别是水内冷发电机，由于机械损伤\n或发生漏水等原因，导致中性点附近的定子绕组发生接地故障\n是完全可能的。如果这种故障不能及时发现并处理，将造成匝\n间短路、相间短路或两点接地短路，甚至造成发电机严重损坏。\n简\n答\n题\n鉴\n定\n试\n题\n库\n有无异味；瓷套部位应清洁完整无破损和放电现象。\n\n127\n因此，对这种发电机和大容量的发电机必须装设定子100%接\n地保护。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5084_q.png",
-    "a_img": "q2_answer_images/E_Jd1C5084_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28867,7 +26940,6 @@ window.QUIZ_DATA = [
     "a": "答：一般极限参数有：\n(1)三种反向击穿电压：\n1)集电极一基极反向击穿电压，即当发射极开路时，集电\n结的反向击穿电压( BUcbo)。\n2)发射极—基极反向击穿电压，即当集电极开路时，发射\n结的反向击穿电压(BUebo)。\n3)集电极—发射极击穿电压是指基极开路时，集电极和发\n射极之间的击穿电压( BUce)。\n(2)集电极最大允许电流是指集电极允许通过的最大电流\n(Icm)。\n(3)集电极最大允许耗散功率( Pcm)。由于集电结处于反\n向连接，电阻很大，当电流通过集电结时，在结上产生热量，\n结温升高，为使结温不超过规定值，集电极耗散功率要受到\n限制。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5085_q.png",
-    "a_img": "q2_answer_images/E_Jd1C5085_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28879,7 +26951,6 @@ window.QUIZ_DATA = [
     "a": "答：检查项目的正常要求有：\n(1) 油枕及充油套管内油位高度应正常、油色透明。\n(2)上层油温不超过允许温度。\n(3)变压器声音正常。\n(4)变压器套管清洁无裂纹和无放电现象，引线接头接触\n良好，无过热现象。\n(5)冷却装置运行正常。\n(6)呼吸器畅通，硅胶受潮不能至饱和状态。\n(7) 防爆管隔膜完整无破损。\n(8)变压器的主、附设备不漏油，不渗油及外壳接地良好。\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n128\n鉴\n定\n试\n题\n库\n(9)气体继电器内充满油、无气体。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5086_q.png",
-    "a_img": "q2_answer_images/E_Jd1C5086_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28891,7 +26962,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)当发电机转子绕组发生两点接地后，使相当一部\n分绕组短路。由于电阻减小，所以另一部分绕组电流增大，破\n坏了发电机气隙磁场的对称性，引起发电机剧烈振动，同时无\n功出力降低。\n(2)转子电流通过转子本体，如果电流较大，可能烧坏转\n子和磁化汽机部件，以及引起局部发热，使转子缓慢变形而偏\n心，进一步加剧振动。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5087_q.png",
-    "a_img": "q2_answer_images/E_Jd1C5087_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28903,7 +26973,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)查找和处理必须两人进行。\n(2)查找接地点禁止使用灯泡查找的方法。\n(3)查找时不得造成直流短路或另一点接地。\n(4)断路前应采取措施防止直流失电压引起保护自动装置\n误动。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5088_q.png",
-    "a_img": "q2_answer_images/E_Jd1C5088_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28915,7 +26984,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)使用的清扫工具应干燥；\n(2)金属部分，用绝缘带包好；\n(3)工作人员应摘下手上的金属物品；\n(4)穿工作服，带绝缘手套；\n(5)小心谨慎，不要用力抽打。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C1089_q.png",
-    "a_img": "q2_answer_images/E_Je5C1089_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28927,7 +26995,6 @@ window.QUIZ_DATA = [
     "a": "答：绝缘电阻>1MQ; 直流小母线或控制盘的电压，小母\n线与其相连接回路的绝缘电阻>10MQ。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C1090_q.png",
-    "a_img": "q2_answer_images/E_Je5C1090_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28939,7 +27006,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)工作电源失去电压；\n(2)工作电源故障，工作电源保护动作；\n(3)由于电压互感器熔丝熔断，误跳工作电源开关引起备\n用电源自动投入。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C1091_q.png",
-    "a_img": "q2_answer_images/E_Je5C1091_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28951,7 +27017,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)记录保护动作情况不至于发生遗漏而造成错误判断。\n(2)通过“掉牌未复归”光字牌和预告铃来反映被保护设\n备的故障。\n(3)提示运行人员迅速查找故障。\n简\n答\n题",
     "o": null,
     "q_img": "q2_question_images/E_Je5C1092_q.png",
-    "a_img": "q2_answer_images/E_Je5C1092_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28963,7 +27028,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)交流电源电压过低；\n(2)硅整流器交流侧一根相线断路，直流电压比正常降低\n33%;\n(3)硅整流器的元件在不同相不同侧有两只整流元件断路，\n直流电压降低33%;\n(4)硅整流器有一只元件开路时，直流母线电压降低17%;\n(5)硅整流器在不同相同一侧有两只整流元件开路时，直\n流母线电压降低50%。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C2093_q.png",
-    "a_img": "q2_answer_images/E_Je5C2093_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28975,7 +27039,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)按二次回路电源性质分：①交流电流回路；②交\n流电压回路；③直流回路。\n(2) 按二次回路的用途分：①仪表测量回路；②继电保\n护及自动装置回路；③开关控制和信号回路；④断路器和隔\n离开关电气闭锁回路；⑤操作电源回路。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C2094_q.png",
-    "a_img": "q2_answer_images/E_Je5C2094_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28987,7 +27050,6 @@ window.QUIZ_DATA = [
     "a": "答：铜损是电流通过绕组时，变压器一次、二次绕组的电\n阻所消耗的电能之和。\n铁损：交变磁通在铁芯中产生的涡流损失和磁滞损失之和。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C2095_q.png",
-    "a_img": "q2_answer_images/E_Je5C2095_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -28999,7 +27061,6 @@ window.QUIZ_DATA = [
     "a": "答：由铁芯、绕组、油箱、油枕、分接开关等部分组成。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C2096_q.png",
-    "a_img": "q2_answer_images/E_Je5C2096_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29011,7 +27072,6 @@ window.QUIZ_DATA = [
     "a": "答：(1) 发现变压器着火时，首先检查变压器的断路器是\n否已跳闸。如未跳闸，应立即断开各侧电源的断路器，然后进\n行灭火。\n(2)将变压器冷却装置停运。\n(3)变压器故障起火时，不能打开事故放油门放油，以防\n变压器发生爆炸。\n(4)扑灭变压器火灾时，应使用二氧化碳、干粉或泡沫灭\n火器等灭火器材，并通知消防队。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C3097_q.png",
-    "a_img": "q2_answer_images/E_Je5C3097_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29023,7 +27083,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)额定电流：是变压器绕组允许长期连续通过的电流。\n(2)空载电流：是变压器二次开路时，变压器一次加额定\n电压所通过的电流。\n(3)额定电压：变压器允许长期运行的工作电压。\n(4)短路电压：将变压器二次短路，一次侧施加电压，使\n电流达到额定值，此时一次侧电压和额定电压之比的百分数。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C3098_q.png",
-    "a_img": "q2_answer_images/E_Je5C3098_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29035,7 +27094,6 @@ window.QUIZ_DATA = [
     "a": "答：轻瓦斯信号出现后，应立即对变压器进行全面外部检\n查，分析原因，及时处理。检查：①油枕中的油位、油色是否\n正常；②气体继电器内是否有气体；③变压器本体及强油系\n\n131\n分析变压器是否经检修换油后投入运行，运行中补油、更\n换再生器硅胶的情况等；应取出气体继电器中的气体，确定是\n否是可燃气体，必要时做色谱分析或抽取油样化验分析。\n在处理过程中，如轻瓦斯保护动作时间间隔越来越短时，\n应立即倒换备用变压器，将该变压器退出运行。",
     "o": null,
     "q_img": "q2_question_images/E_Je5C3099_q.png",
-    "a_img": "q2_answer_images/E_Je5C3099_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29047,7 +27105,6 @@ window.QUIZ_DATA = [
     "a": "答：极性就是变压器一次、二次绕组的感应电动势相量的\n相对方向。\n一般习惯用电流方向表示变压器的极性。一次侧电流I₁流\n入的线端和二次电流I₂流出线端是同极性，用*表示，如图C-1\n所示。\n图C-1",
     "o": null,
     "q_img": "q2_question_images/E_Je4C1100_q.png",
-    "a_img": "q2_answer_images/E_Je4C1100_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29059,7 +27116,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器温度计所指的温度是变压器上层油温。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C1101_q.png",
-    "a_img": "q2_answer_images/E_Je4C1101_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29071,7 +27127,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器的温度是指变压器本体各部位的温度，温升是\n指变压器本体温度与周围环境温度的差值。\n统有无漏油现象；④变压器负荷电流、温度是否在允许范围内；\n⑤变压器声音是否正常等。\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n132",
     "o": null,
     "q_img": "q2_question_images/E_Je4C1102_q.png",
-    "a_img": "q2_answer_images/E_Je4C1102_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29083,7 +27138,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)变比基本相等；\n(2)短路电压基本相等；\n(3)接线组别相同；\n(4)容量比不超过3:1。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C1103_q.png",
-    "a_img": "q2_answer_images/E_Je4C1103_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29095,7 +27149,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)变压器台或基础是否稳定坚实。\n(2)分接头位置是否符合要求。\n(3)测试绝缘电阻和各相是否通路，防止内部断线。\n(4)油位是否达到标准。\n(5)温度计应完好，指示正确。\n(6)变压器各部位是否渗油。\n(7)各接线端子紧固良好。\n(8)套管有无破损，是否清洁。\n(9)接地装置应完好，接地电阻值合格。\n(10)油枕门应打开，油枕与油箱间阀门应开启。\n(11)油箱顶盖上不应有杂物。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C2104_q.png",
-    "a_img": "q2_answer_images/E_Je4C2104_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29107,7 +27160,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)变压器声音是否正常；\n(2)瓷套管是否清洁，有无破损、裂纹及放电痕迹；\n(3)油位、油色是否正常，有无渗油现象；\n(4)变压器温度是否正常；\n(5)变压器接地应完好；\n(6)电压值、电流值是否正常；\n(7) 各部位螺丝有无松动；\n(8)一次、二次引线接头有无松动和过热现象。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C2105_q.png",
-    "a_img": "q2_answer_images/E_Je4C2105_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29119,7 +27171,6 @@ window.QUIZ_DATA = [
     "a": "答：在过负荷时；雷雨后；大风后；大雾后；雪后；地震\n后；事故后。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C2106_q.png",
-    "a_img": "q2_answer_images/E_Je4C2106_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29131,7 +27182,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)变压：将按一定比例把高电压变成适合二次设备\n应用的低电压(一般为100V), 便于二次设备标准化；\n(2)隔离：将高电压系统与低电压系统实行电气隔离，以\n保证工作人员和二次设备的安全；\n(3)用于特殊用途。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C2107_q.png",
-    "a_img": "q2_answer_images/E_Je4C2107_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29143,7 +27193,6 @@ window.QUIZ_DATA = [
     "a": "答：直流电源将其他形式的能量转为电能，电源内部的电\n源力，能够不断地将正电荷从负极移到正极，从而保持了两极\n之间的电位差，使电流在电路中持续不断地流通。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C3108_q.png",
-    "a_img": "q2_answer_images/E_Je4C3108_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29155,7 +27204,6 @@ window.QUIZ_DATA = [
     "a": "答：主要作用是隔离电源和切换电路。其特点是：①没有\n专门的灭弧装置；②有明显开断点，有足够的绝缘能力，用以\n保证人身和设备的安全。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C3109_q.png",
-    "a_img": "q2_answer_images/E_Je4C3109_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29167,7 +27215,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器在试验或运行中，由于静电感应，铁芯和不接\n地金属件会产生悬浮电位。由于在电场中所处的位置不同，产\n生的电位也不同。当金属件之间或金属件对其他部件的电位差\n超过其绝缘强度时就会放电，因此金属构件及铁芯要可靠接地。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C4110_q.png",
-    "a_img": "q2_answer_images/E_Je4C4110_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29179,7 +27226,6 @@ window.QUIZ_DATA = [
     "a": "答：少油断路器合闸后，导电杆与静触头接触，整个油箱\n带电。绝缘油仅作为灭弧介质用，分闸后，导电杆与静触头分\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n134\n简\n答\n题\n鉴\n定\n试\n题\n库\n断，导电杆借助瓷套管与油箱绝缘。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C4111_q.png",
-    "a_img": "q2_answer_images/E_Je4C4111_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29191,7 +27237,6 @@ window.QUIZ_DATA = [
     "a": "答：电气二次设备是与一次设备有关的保护、测量、信号、\n控制和操作回路中所使用的设备。",
     "o": null,
     "q_img": "q2_question_images/E_Je4C4112_q.png",
-    "a_img": "q2_answer_images/E_Je4C4112_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29203,7 +27248,6 @@ window.QUIZ_DATA = [
     "a": "答：二次接线图是表示电气二次设备之间相互连接的电气图。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C1113_q.png",
-    "a_img": "q2_answer_images/E_Je3C1113_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29215,7 +27259,6 @@ window.QUIZ_DATA = [
     "a": "答：主要包括：①仪表；②控制和信号元件；③继电保\n护装置；④操作、信号电源回路；⑤控制电缆及连接导线；\n⑥发出音响的信号元件；⑦接线端子板及熔断器等。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C1114_q.png",
-    "a_img": "q2_answer_images/E_Je3C1114_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29227,7 +27270,6 @@ window.QUIZ_DATA = [
     "a": "答：基本要求是：①保证可靠的持续供电；②保证良好\n的电能质量；③保证系统的运行经济性。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C2115_q.png",
-    "a_img": "q2_answer_images/E_Je3C2115_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29239,7 +27281,6 @@ window.QUIZ_DATA = [
     "a": "答：从技术和经济的角度考虑，对应一定的输送功率和输\n送距离有一最合理的线路电压。但是，为保证制造电力设备的\n系列性，又不能任意确定线路电压，所以电力系统要规定标准\n电压等级。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C2116_q.png",
-    "a_img": "q2_answer_images/E_Je3C2116_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29251,7 +27292,6 @@ window.QUIZ_DATA = [
     "a": "答：目前我国规定的输电与配电标准电压等级有：0.22、\n0.38、3、6、10、35、110、220、330、500、750、1000kV。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C2117_q.png",
-    "a_img": "q2_answer_images/E_Je3C2117_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29263,7 +27303,6 @@ window.QUIZ_DATA = [
     "a": "答：电力系统运行的静态稳定性也称微变稳定性，它是指\n当正常运行的电力系统受到很小的扰动，将自动恢复到原来运\n行状态的能力。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C3118_q.png",
-    "a_img": "q2_answer_images/E_Je3C3118_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29275,7 +27314,6 @@ window.QUIZ_DATA = [
     "a": "答：电力系统运行的动态稳定性是指当正常运行的电力系\n统受到较大的扰动，它的功率平衡受到相当大的波动时，将过\n渡到一种新的运行状态或回到原来的运行状态，继续保持同步\n运行的能力。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C3119_q.png",
-    "a_img": "q2_answer_images/E_Je3C3119_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29287,7 +27325,6 @@ window.QUIZ_DATA = [
     "a": "答：提高动态稳定的常用措施有：\n①快速切除短路故障；②采用自动重合闸装置；③采用\n电气制动和机械制动；④变压器中性点经小电阻接地；⑤设\n置开关站和采用强行串联电容补偿；⑥采用连锁切机；⑦快\n速控制调速汽门等。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C3120_q.png",
-    "a_img": "q2_answer_images/E_Je3C3120_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29299,7 +27336,6 @@ window.QUIZ_DATA = [
     "a": "答：分裂导线就是每相导线由两根或两根以上同型号的导\n线组成。它是发展超高压输电中，出现的一种新布线方式。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C4121_q.png",
-    "a_img": "q2_answer_images/E_Je3C4121_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29311,7 +27347,6 @@ window.QUIZ_DATA = [
     "a": "答：应考虑：①装设地点；②额定电压；③额定电流；\n④额定断流容量；⑤操作方式；⑥动稳定和热稳定；⑦切\n断时间。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C5122_q.png",
-    "a_img": "q2_answer_images/E_Je3C5122_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29323,7 +27358,6 @@ window.QUIZ_DATA = [
     "a": "答：这是为了检查变压器内部绝缘的薄弱点和考核变压器\n的机械强度，以及继电保护装置能否躲过励磁涌流而不发生误\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n136\n动作。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C5123_q.png",
-    "a_img": "q2_answer_images/E_Je3C5123_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29335,7 +27369,6 @@ window.QUIZ_DATA = [
     "a": "答：选用励磁特性较好的电磁式电压互感器或电容式电压\n互感器；在电磁式电压互感器的开口三角线圈内(35kV 以下系\n统)装设10～100Ω的阻尼电阻；在10kV及以下电压的母线上，\n装设中性点接地的星形接线电容器组等。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C5124_q.png",
-    "a_img": "q2_answer_images/E_Je3C5124_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29347,7 +27380,6 @@ window.QUIZ_DATA = [
     "a": "答：当电动机的供电母线电压短时降低或短时中断又恢复\n时，为防止电动机自起动时使电源电压严重降低。通常在次要\n电动机上装设低电压保护，当供电母线电压低到一定值时，低\n电压保护动作将次要电动机切除，使供电母线电压迅速恢复到\n足够的电压，以保证重要电动机的自起动。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C5125_q.png",
-    "a_img": "q2_answer_images/E_Je3C5125_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29359,7 +27391,6 @@ window.QUIZ_DATA = [
     "a": "答：运算放大器是一种增益很高的放大器，能同时放大直\n流电压和一定频率的交流电压，能完成积分、微分、加法等数\n学运算，即为运算放大器。",
     "o": null,
     "q_img": "q2_question_images/E_Je3C5126_q.png",
-    "a_img": "q2_answer_images/E_Je3C5126_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29371,7 +27402,6 @@ window.QUIZ_DATA = [
     "a": "答：(1) 熔断器。\n(2)热继电器。\n(3)带有失压脱扣、过流脱扣功能的控制设备。\n(4)继电保护装置。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C1127_q.png",
-    "a_img": "q2_answer_images/E_Je2C1127_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29383,7 +27413,6 @@ window.QUIZ_DATA = [
     "a": "答：电阻值不随电压、电流的变化而变化的电阻称为线性\n电阻，线性电阻的阻值是一个常量，其伏安特性为一条直线，\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n137\n线性电阻上的电压与电流的关系是为欧姆定律。\n电阻值随着电压、电流的变化而改变的电阻，称为非线性\n电阻，其伏安特性是一条曲线，所以不能用欧姆定律来直接运\n算，而要根据伏安特性用作图法来求解。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C1128_q.png",
-    "a_img": "q2_answer_images/E_Je2C1128_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29395,7 +27424,6 @@ window.QUIZ_DATA = [
     "a": "答：母线完全差动电流保护，按差动保护原理工作。在母\n线连接的所有元件上，都装设变比和特性均相同的电流互感器。\n电流互感器的二次绕组在母线侧的端子相互连接。差动继电器\n绕组与电流互感器二次绕组并联。各电流互感器之间的一次电\n气设备，就是母线差动保护的保护区。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C1129_q.png",
-    "a_img": "q2_answer_images/E_Je2C1129_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29407,7 +27435,6 @@ window.QUIZ_DATA = [
     "a": "答：应加强监视发电机定子线棒层间测温元件的温差和出\n水支路的同层各定子线棒引水管出水温差。温差控制值应按制\n造厂规定，制造厂未明确规定的，应按照以下限额执行：定子\n线棒层间最高与最低温度间的温差达8℃或定子线棒引水管出\n水温差达8℃应报警，应及时查明原因，此时可降低负荷。定\n子线棒温差达14℃或定子引水管出水温差达12℃,或任一定子\n槽内层间测温元件温度超过90℃或出水温度超过85℃时，在确\n认测温元件无误后，应立即停机处理。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C1130_q.png",
-    "a_img": "q2_answer_images/E_Je2C1130_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29419,7 +27446,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)有多个断口可使加在每个断口上的电压降低，从\n而使每段的弧隙恢复电压降低；\n(2) 多个断口把电弧分割成多个小电弧段串联，在相等的\n触头行程下多断口比单断口的电弧拉深更长，从而增大了弧隙\n电阻；\n(3)多断口相当于总的分闸速度加快了，介质恢复速度增大。\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n138\n答：过电压按产生机理分为外部过电压(又叫大气过电压\n或雷电过电压)和内部过电压。外部过电压又分为直接雷过电\n压和感应雷过电压两类；内部过电压又分为操作过电压、工频\n过电压和谐振过电压三类。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C1131_q.png",
-    "a_img": "q2_answer_images/E_Je2C1131_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29431,7 +27457,6 @@ window.QUIZ_DATA = [
     "a": "答：在自动控制系统中，作为测量和检测放大元件、执行\n元件及计算元件的旋转电机，统称为控制电机。\n控制电机主要用于发电厂中自动控制、自动调节系统、遥\n控遥测系统、自动监视系统、自动仪表和自动记录装置等。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C2133_q.png",
-    "a_img": "q2_answer_images/E_Je2C2133_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29443,7 +27468,6 @@ window.QUIZ_DATA = [
     "a": "答：雷电放电时，不是击中地面，而是击中输配电线路、\n杆塔或其建筑物。大量雷电流通过被击物体，经被击物体的阻\n抗接地，在阻抗上产生电压降，使被击点出现很高的电位被击\n点对地的电压叫直接雷过电压。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C2134_q.png",
-    "a_img": "q2_answer_images/E_Je2C2134_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29455,7 +27479,6 @@ window.QUIZ_DATA = [
     "a": "答：在下列情况下易产生操作过电压：①切、合电容器组\n或空载长线路；②断开空载变压器、电抗器、消弧线圈及同步\n电动机等；③在中性点不接地系统中，一相接地后，产生间歇\n性电弧等。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C2135_q.png",
-    "a_img": "q2_answer_images/E_Je2C2135_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29467,7 +27490,6 @@ window.QUIZ_DATA = [
     "a": "答：系统内部过电压的高低，不仅取决于系统参数及其配\n合，而且与电网结构、系统容量、中性点接地方式、断路器性\n能、母线出线回路数量以及电网的运行方式、操作方式等因素\n有关。\n简\n答\n题\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Je2C2136_q.png",
-    "a_img": "q2_answer_images/E_Je2C2136_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29479,7 +27501,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_Je2C2132_q.png",
-    "a_img": "q2_answer_images/E_Je2C2132_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29491,7 +27512,6 @@ window.QUIZ_DATA = [
     "a": "答：由于零序电流互感器的一次绕组就是三相星形接线的\n中性线。在正常情况下，三相电流之和等于零，中性线(一次\n绕组)无电流，互感器的铁芯中不产生磁通，二次绕组中没\n有感应电流。当被保护设备或系统上发生单相接地故障时，三\n相电流之和不再等于零，一次绕组将流过电流，此电流等于每\n相零序电流的三倍，此时铁芯中产生磁通，二次绕组将感应出\n电流。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C2137_q.png",
-    "a_img": "q2_answer_images/E_Je2C2137_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29503,7 +27523,6 @@ window.QUIZ_DATA = [
     "a": "答：少油断路器漏油严重造成油量不足，使断弧时间延长\n或难于灭弧，其结果会引起触头和灭弧室遭到损坏。由于电弧\n不易熄灭，甚至冲出油面进入箱体的缓冲空间，这个空间的气\n体与被电弧高温分解出来的游离气体(氢、氮、甲烷、乙炔等)\n混合后，再与电弧相遇即可引起燃烧、爆炸。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C3138_q.png",
-    "a_img": "q2_answer_images/E_Je2C3138_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29515,7 +27534,6 @@ window.QUIZ_DATA = [
     "a": "答：对漏油严重的油断路器，不允许切断负荷，而应将负\n荷经备用断路器或旁路断路器移出。如没有备用断路器或旁路\n断路器，则采取措施使断路器不跳闸，如取下操作保险或切断\n跳闸回路等。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C3139_q.png",
-    "a_img": "q2_answer_images/E_Je2C3139_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29527,7 +27545,6 @@ window.QUIZ_DATA = [
     "a": "答：当少油断路器油位过高、缓冲空间减少、箱体承受压\n力过大时，就会发生喷油。切断电动机的启动电流或短路电流\n时，电弧不易熄灭，也会发生喷油。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C3140_q.png",
-    "a_img": "q2_answer_images/E_Je2C3140_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29539,7 +27556,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器套管脏污容易引起套管闪络。当供电回路有一\n定幅值的过电压波侵入或遇有雨雪潮湿天气，可能导致闪络而\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n140\n简\n答\n题\n鉴\n定\n试\n题\n库\n使断路器跳闸，降低了供电的可靠性。另外由于脏物吸收水分\n后，导电性提高，不仅容易引起表面放电，还可能使泄漏电流\n增加，引起绝缘套管发热，最后导致击穿。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C4141_q.png",
-    "a_img": "q2_answer_images/E_Je2C4141_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29551,7 +27567,6 @@ window.QUIZ_DATA = [
     "a": "答：分级绝缘是指变压器绕组整个绝缘的水平等级不一样，\n靠近中性点部位的主绝缘水平比绕组端部的绝缘水平低。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C4142_q.png",
-    "a_img": "q2_answer_images/E_Je2C4142_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29563,7 +27578,6 @@ window.QUIZ_DATA = [
     "a": "答：一般对分级绝缘的变压器规定：只许在中性点直接接\n地的情况下投入运行；如果几台变压器并联运行，投入运行后，\n若需将中性点断开时，必须投入零序过压保护，且投入跳闸位置。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C5143_q.png",
-    "a_img": "q2_answer_images/E_Je2C5143_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29575,7 +27589,6 @@ window.QUIZ_DATA = [
     "a": "答：当运行电压超过额定电压值时，变压器铁芯饱和程度\n增加，空载电流增大，电压波形中高次谐波成分增大，超过额\n定电压过多会引起电压和磁通的波形发生严重畸变。当运行电\n压低于额定电压值时，对变压器本身没有影响，但低于额定电\n压值过多时，将影响供电质量。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C5144_q.png",
-    "a_img": "q2_answer_images/E_Je2C5144_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29587,7 +27600,6 @@ window.QUIZ_DATA = [
     "a": "答：在不损坏变压器绕组绝缘和不减少变压器使用寿命的\n前提下，变压器可以在负荷高峰及冬季过负荷运行。变压器允\n许的正常过负荷数值及允许的持续时间与昼夜负荷率有关，可\n以根据变压器的负荷曲线、冷却介质温度以及过负荷前变压器\n已带负荷的情况按运行规程确定。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C5145_q.png",
-    "a_img": "q2_answer_images/E_Je2C5145_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29599,7 +27611,6 @@ window.QUIZ_DATA = [
     "a": "答：直流电动机低速运行将使温升增高，对电动机产生许\n多不良影响。但若采取有效措施，提高电动机的散热能力(如\n增设风扇或附设风机等改善通风条件),则在不超过额定温升的\n前提下，可以长期低速运行。",
     "o": null,
     "q_img": "q2_question_images/E_Je2C5146_q.png",
-    "a_img": "q2_answer_images/E_Je2C5146_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29611,7 +27622,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器的并联运行，就是将两台或两台以上变压器的\n一次绕组并联在同一电压的母线上，二次绕组并联在另一电压\n的母线上运行。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C1147_q.png",
-    "a_img": "q2_answer_images/E_Je1C1147_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29623,7 +27633,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)变压器运行时，如果发出“冷却系统故障”光字\n牌，应立即检查原因，并在允许的时间内尽快恢复。\n(2)出现冷却器的冷却电源中断时，应检查原因，迅速恢\n复供电。\n在出现上述两种情况后，应注意变压器的上层油温和油位\n的变化。若在规定时间内且上层油温已达到允许值而无法恢复\n冷却装置运行时，应立即停止变压器运行。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C1148_q.png",
-    "a_img": "q2_answer_images/E_Je1C1148_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29635,7 +27644,6 @@ window.QUIZ_DATA = [
     "a": "答：一般有以下两种方式：\n(1)两个电源一个作为工作电源，另一个作为备用电源，\n备用电源投入装置( BZT) 装在备用电源的进线断路器上。正\n常运行时，断路器断开。当工作电源因故障断开时，BZT动作，\n备用断路器闭合，备用电源继续供电。\n(2)两条独立电源分别供电，BZT装在母线分段断路器上，\n正常时，分断路器断开，当其中任一条发生故障切除后，分段\n断路器自动投入，由另一电源供给全部负荷。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C1149_q.png",
-    "a_img": "q2_answer_images/E_Je1C1149_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29647,7 +27655,6 @@ window.QUIZ_DATA = [
     "a": "答：此小管使防爆管的上部空间与油枕的上部空间连通，\n让两个空间内压力相等，油面高度保持相同。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C1150_q.png",
-    "a_img": "q2_answer_images/E_Je1C1150_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29659,7 +27666,6 @@ window.QUIZ_DATA = [
     "a": "答：将异步电动机的三相电源线任意两相对调，就改变了\n绕组中三相电流的相序，旋转磁场的方向就随之改变，也就改\n变了转子的旋转方向。\nJe1C215 2\n电动机的铭牌上有哪些主要数据?\n答：主要有额定功率、额定电压、额定电流、额定转数、\n相数、型号、绝缘等级、工作方式、允许温升、功率因数、重\n量、出厂日期等。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C1151_q.png",
-    "a_img": "q2_answer_images/E_Je1C1151_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29671,7 +27677,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)只有在备用电源正常时，BZT装置才能使用。\n(2)工作电源不论因何种原因断电，备用电源应能自动投入。\n(3)为防止将备用电源合闸到故障上，BZT只允许动作一次。\n(4)备用电源必须在工作电源切除后才能投入。\n(5) BZT的动作时间应尽可能短。\n(6)当电压互感器的熔断器之一熔断时，不应误动作。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C2153_q.png",
-    "a_img": "q2_answer_images/E_Je1C2153_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29683,7 +27688,6 @@ window.QUIZ_DATA = [
     "a": "答：在正常情况下因启动过程不长，短时间内流过大电流，\n虽然对电动机有一定影响，但发热一般不会很厉害，电动机是\n能够承受的。但如果重复超载启动以及连续带负荷多次启动等，\n将有可能使电动机绕组因过热而烧毁。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C2154_q.png",
-    "a_img": "q2_answer_images/E_Je1C2154_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29695,7 +27699,6 @@ window.QUIZ_DATA = [
     "a": "答：气隙过大使磁阻增大，因此励磁电流增大，功率因数\n降低，电动机性能变坏。气隙过小，铁芯损耗增加，运行时定、\n转子铁芯易发生碰触，引起扫膛。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C2155_q.png",
-    "a_img": "q2_answer_images/E_Je1C2155_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29707,7 +27710,6 @@ window.QUIZ_DATA = [
     "a": "答：根据发电厂用机械对发电厂运行所起的作用及供电中\n断对人身和设备产生的影响，一般分三类：\n第一类，在极短的时间内停止供电，都可能影响人身和设\n备的安全，引起生产停止或大量降低出力或被迫停机者。\n第二类，在较长时间内停止供电，会造成设备损坏或影响\n生产，但在允许的停电时间内，经运行人员操作即恢复送电，\n不至于造成生产混乱者。\n第三类，在较长时间内停止供电，也不至于直接影响生产者。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C3156_q.png",
-    "a_img": "q2_answer_images/E_Je1C3156_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29719,7 +27721,6 @@ window.QUIZ_DATA = [
     "a": "答：在正常负荷和正常冷却条件下，如果变压器上层油温\n较平时高出10℃以上，或负荷不变，油温不断上升，不是测温\n计出问题，就是变压器内部发生故障，此时应立即将变压器停\n止运行。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C3157_q.png",
-    "a_img": "q2_answer_images/E_Je1C3157_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29731,7 +27732,6 @@ window.QUIZ_DATA = [
     "a": "答：在运行中，如果发现变压器油位计内油的颜色发生变\n化，应取油样进行分析化验。若油位骤然变化，油中出现炭质，\n并有其他不正常现象时，则应立即将变压器停止运行。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C3158_q.png",
-    "a_img": "q2_answer_images/E_Je1C3158_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29743,7 +27743,6 @@ window.QUIZ_DATA = [
     "a": "答：如果发现异步电动机电流不稳，电流表指针摆动时，\n应对电动机进行检查，有无异常声响和其他不正常现象，并启\n动备用设备，通知检修人员到场，共同分析原因进行处理。\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n144\n简\n答\n题\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Je1C4159_q.png",
-    "a_img": "q2_answer_images/E_Je1C4159_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29755,7 +27754,6 @@ window.QUIZ_DATA = [
     "a": "答：根据发电机运行特性曲线( P-Q曲线),在稳态条件下，\n发电机的稳态运行范围受下列四个条件限制：\n(1) 原动机输出功率的极限的限制，即原动机的额定功率\n一般要稍大于或等于发电机的额定功率；\n(2)发电机的额定视在功率的限制，即由定子发热决定容\n许范围；\n(3)发电机的磁场和励磁机的最大励磁电流的限制，通常\n由转子发热决定；\n(4)进相运行时的稳定度，即发电机的有功功率输出受到\n静态稳定条件的限制。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C4160_q.png",
-    "a_img": "q2_answer_images/E_Je1C4160_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29767,7 +27765,6 @@ window.QUIZ_DATA = [
     "a": "答：应符合以下要求：\n(1)水质透明纯净，无机械混合物。\n(2)2 0℃时水的电导率：0.5～1.5μS/cm。\n(3) pH值7.0～8.0。\n(4)Pɴ <200 MW时，硬度<10微克当量/L;PN>200MW\n时，硬度<2微克当量/L。\n为保证进入发电机内的水质合格，水系统安装或大修结束\n后应进行冲洗、连续排污，直至水路系统的污物和杂物除尽为\n止。水质合格后，方允许发电机内部通水。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C5161_q.png",
-    "a_img": "q2_answer_images/E_Je1C5161_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29779,7 +27776,6 @@ window.QUIZ_DATA = [
     "a": "答：为了保持发电机的稳定运行，调整有功负荷时应注意：\n(1)使功率因数保持在规定的范围内，一般不大于滞后\n0.95。因为功率因数高说明此时有功功率相对应的励磁电流小，\n即发电机定、转子磁极间用以拉住的磁力线少，易失去稳定。\n从功角特性来看，送出去的有功功率增大，功角就会接近90°\n\n145\n角,这样易引起失步。\n(2)调整有功负荷时要缓慢,与机、炉运行人员配合好。",
     "o": null,
     "q_img": "q2_question_images/E_Je1C5162_q.png",
-    "a_img": "q2_answer_images/E_Je1C5162_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29791,7 +27787,6 @@ window.QUIZ_DATA = [
     "a": "答: P 型半导体也称空穴半导体。在半导体中掺入微量的\n杂质,能提高半导体的导电能力。根据这一特性,在半导体中\n掺入铟、铝、硼、镓等元素后,半导体中就会产生许多缺少电子\n的空穴,靠空穴导电的半导体叫空穴半导体,简称P 型半导体。",
     "o": null,
     "q_img": "q2_question_images/E_Jf5C1163_q.png",
-    "a_img": "q2_answer_images/E_Jf5C1163_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29803,7 +27798,6 @@ window.QUIZ_DATA = [
     "a": "答: N 型半导体也称电子型半导体。在半导体中掺入微量\n的杂质,能提高半导体的导电能力。根据这一特性,在半导体\n中掺入锑、磷、砷等元素后,半导体中就会产生许多带负电的\n电子,靠电子导电的半导体叫电子型半导体,简称N 型半导体。",
     "o": null,
     "q_img": "q2_question_images/E_Jf5C2164_q.png",
-    "a_img": "q2_answer_images/E_Jf5C2164_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29815,7 +27809,6 @@ window.QUIZ_DATA = [
     "a": "答: 是指发生短路故障时,能满足系统稳定及设备安全的\n基本要求,首先动作于跳闸,有选择地切除被保护设备和全线\n路故障的保护。",
     "o": null,
     "q_img": "q2_question_images/E_Jf5C3165_q.png",
-    "a_img": "q2_answer_images/E_Jf5C3165_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29827,7 +27820,6 @@ window.QUIZ_DATA = [
     "a": "答: 是指主保护或断路器拒动时,用以切除故障的保护。",
     "o": null,
     "q_img": "q2_question_images/E_Jf5C4166_q.png",
-    "a_img": "q2_answer_images/E_Jf5C4166_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29839,7 +27831,6 @@ window.QUIZ_DATA = [
     "a": "答:是为补充主保护和后备保护的不足而增设的简单保护。\nJf5C\n5 168\n为什么高压断路器与隔离开关之间要加装闭\n锁装置?\n答: 因为隔离开关没有灭弧装置,只能接通和断开空载电\n路。所以在断路器断开的情况下,才能拉、合隔离开关,否则\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n146\n将发生带负荷拉、合隔离开关的错误。",
     "o": null,
     "q_img": "q2_question_images/E_Jf5C5167_q.png",
-    "a_img": "q2_answer_images/E_Jf5C5167_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29851,7 +27842,6 @@ window.QUIZ_DATA = [
     "a": "答：晶体三极管通常称为晶体管，它由三块半导体材料按\n一定形式组合而成。它有两个PN结(发射结和集电结),三个\n电极(基极、发射极和集电极),一般用字母b、e和c 表示。\n基极b 接在中间的半导体上，发射极e 和集电极c 分别接在基\n极两边的半导体上。",
     "o": null,
     "q_img": "q2_question_images/E_Jf4C1169_q.png",
-    "a_img": "q2_answer_images/E_Jf4C1169_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29863,7 +27853,6 @@ window.QUIZ_DATA = [
     "a": "答：自动电源自投入装置由低电压起动部分和自动重合闸\n部分组成。\n低压起动部分的作用是：当电压降到低压保护动作值时跳\n闸，备用电源投入；自动重合闸部分的作用是：在工作电源断\n路器断开之后，BZT装置自动投入备用电源的断路器。",
     "o": null,
     "q_img": "q2_question_images/E_Jf4C2170_q.png",
-    "a_img": "q2_answer_images/E_Jf4C2170_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29875,7 +27864,6 @@ window.QUIZ_DATA = [
     "a": "答：主要参数有：\n(1)放大倍数(β);\n(2)反向饱和电流(Icbo);\n(3)穿透电流( Iceo)。",
     "o": null,
     "q_img": "q2_question_images/E_Jf4C3171_q.png",
-    "a_img": "q2_answer_images/E_Jf4C3171_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29887,7 +27875,6 @@ window.QUIZ_DATA = [
     "a": "答：主要由充电设备供给正常的直流负载，同时还以不大\n的电流来补充蓄电池的自放电，这种运行方式称为浮充电方式。",
     "o": null,
     "q_img": "q2_question_images/E_Jf4C4172_q.png",
-    "a_img": "q2_answer_images/E_Jf4C4172_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29899,7 +27886,6 @@ window.QUIZ_DATA = [
     "a": "答：所谓电力系统稳定器( Power System Stabilizer, 简称\nPSS) 是指为了解决大电网因缺乏足够的正阻尼转矩而容易发\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n147\n生低频振荡的问题，所引入的一种相位补偿附加励磁控制环节，\n即向励磁控制系统引入一种按某一振荡频率设计的新的附加控\n制信号，以增加正阻尼转矩，克服快速励磁调节器对系统稳定\n产生的有害作用，改善系统的暂态特性。\nJE3C1174\n什么叫推挽功率放大器?\n答：利用两只特性相同的晶体管，使它们都工作在乙类状\n态，其中一只管在正半周工作，另一只管在负半周工作，然后\n设法将两只管的输出波形在负载上组合到一起，得到一个完整\n的输出波形，这种放大器就叫推挽功率放大器。\nJE3C2175 什么是晶体管的反馈?反馈分哪几种?\n答：在晶体管放大器中，将输出端的一部分电压或电流用\n某种方法反回到输入端，这种方法叫反馈。\n反馈有两种：引入反馈后，使放大器的放大倍数增加的叫\n正反馈，使放大倍数减小的叫负反馈。",
     "o": null,
     "q_img": "q2_question_images/E_Jf4C5173_q.png",
-    "a_img": "q2_answer_images/E_Jf4C5173_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29911,7 +27897,6 @@ window.QUIZ_DATA = [
     "a": "答：复合管是由两个或两个以上的晶体管组合而成的等效\n新管子，它具有新的电气参数。两只晶体管复合连接后，对外\n电路仍有三个电极，其放大倍数是组合复合管的所用晶体管放\n大倍数的乘积。这种组合的新管子就是复合管。",
     "o": null,
     "q_img": "q2_question_images/E_Jf3C3176_q.png",
-    "a_img": "q2_answer_images/E_Jf3C3176_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29923,7 +27908,6 @@ window.QUIZ_DATA = [
     "a": "答：利用电容器两端间的电压不能突变的原理，能将矩形\n波变成尖脉冲波的电路称微分电路，能将矩形波变成锯齿波的\n电路称为积分电路。\nJE3C5178\n在投入6kV 电压互感器操作时，发生了铁磁谐\n振，怎样处理?\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n148\n答:(1)迅速启动一台热备用中的电动机,改变系统的阻\n抗参数,消除谐振条件,从而使谐振消失。\n(2)铁磁谐振消除后,再将不需用的电动机停运。\nJI2C1179\n什么是可控硅?\n答: 可控硅是一种大功率整流元件,它的整流电压可以控\n制,当供给整流电路的交流电压一定时,输出电压能够均匀调\n节,它是一个四层三端的硅半导体器件。",
     "o": null,
     "q_img": "q2_question_images/E_Jf3C4177_q.png",
-    "a_img": "q2_answer_images/E_Jf3C4177_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29935,7 +27919,6 @@ window.QUIZ_DATA = [
     "a": "答: 在整流电路中,可控硅在承受正向电压的时间内,改\n变触发脉冲的输入时刻,即改变控制角的大小,在负载上可得\n到不同数值的直流电压,因而控制了输出电压的大小。",
     "o": null,
     "q_img": "q2_question_images/E_Jf2C1180_q.png",
-    "a_img": "q2_answer_images/E_Jf2C1180_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29947,7 +27930,6 @@ window.QUIZ_DATA = [
     "a": "答: 整流装置把交流电转化为直流电,但整流后的波形中\n还包含相当大的交流成分,为了提高整流电压质量,改善整流\n电路的电压波形,常常加装滤波电路,将交流成分滤掉。",
     "o": null,
     "q_img": "q2_question_images/E_Jf2C1181_q.png",
-    "a_img": "q2_answer_images/E_Jf2C1181_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29959,7 +27941,6 @@ window.QUIZ_DATA = [
     "a": "答: 电缆与其他电气设备相连接时,需要有一个能满足一\n定绝缘与密封要求的连接装置,该装置叫做电缆终端。",
     "o": null,
     "q_img": "q2_question_images/E_Jf2C3182_q.png",
-    "a_img": "q2_answer_images/E_Jf2C3182_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29971,7 +27952,6 @@ window.QUIZ_DATA = [
     "a": "答: 由于制造、运输和敷设施工等原因,对每盘电缆的长\n度有一定的限制。但在实际工作中,有时需要将若干条电缆在\n现场把它们连接起来,构成一条连接的输配电线路,这种电缆\n的中间连接附件,叫电缆接头。",
     "o": null,
     "q_img": "q2_question_images/E_Jf2C4183_q.png",
-    "a_img": "q2_answer_images/E_Jf2C4183_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29983,7 +27963,6 @@ window.QUIZ_DATA = [
     "a": "答：当电力系统发生故障时，利用一些电气自动装置将故\n障部分从电力系统中迅速切除，当发生异常时，及时发出信\n号，以达到缩小故障范围，减少故障损失，保证系统安全运行\n的目的。",
     "o": null,
     "q_img": "q2_question_images/E_Jf2C4184_q.png",
-    "a_img": "q2_answer_images/E_Jf2C4184_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -29995,7 +27974,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)\n电压互感器断线保护：\n(2)过励磁(V/Hz) 限制和保护；\n(3)低励限制和保护；\n(4)过励限制和保护；\n(5)误强励保护；\n(6)误失磁保护。\nJI2C5186 电力系统对继电保护装置的基本要求是什么?\n答：基本要求是：\n(1)快速性：要求继电保护装置的动作时间尽量快，以提\n高系统并列运行的稳定性，减轻故障设备的损坏，加速非故障\n设备恢复正常运行。\n(2)可靠性：要求继电保护装置随时保持完整、灵活状态。\n不应发生误动或拒动。\n(3) 选择性：要求继电保护装置动作时，跳开距故障点最\n近的断路器，使停电范围尽可能缩小。\n(4)灵敏性：要求继电保护装置在其保护范围内发生故障\n时，应灵敏地动作。灵敏性用灵敏系数表示。",
     "o": null,
     "q_img": "q2_question_images/E_Jf2C5185_q.png",
-    "a_img": "q2_answer_images/E_Jf2C5185_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30007,7 +27985,6 @@ window.QUIZ_DATA = [
     "a": "答：配电装置中的母线涂漆有利于母线散热，可使容许负\n荷提高12%～15%;便于值班人员，检修人员识别直流的极性\n和交流的相别，铜母线涂漆还可以起到防锈作用。\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n150\n简\n答\n题",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C1187_q.png",
-    "a_img": "q2_answer_images/E_Jf1C1187_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30019,7 +27996,6 @@ window.QUIZ_DATA = [
     "a": "答：蓄电池电动势的大小与极板上的活性物质的电化性质\n和电解液的浓度有关。但是当极板活性物质已经固定，则蓄电\n池的电动势主要由电解液浓度来决定。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C1188_q.png",
-    "a_img": "q2_answer_images/E_Jf1C1188_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30031,7 +28007,6 @@ window.QUIZ_DATA = [
     "a": "答：蓄电池的内电路主要由电解液构成。电解液有电阻，\n而极栅、活性物质、连接物、隔离物等，都有一定电阻，这些\n电阻之和就是蓄电池的内阻。影响内阻大小的因素很多，主要\n有各部分的构成材料、组装工艺、电解液的密度和温度等。因\n此，蓄电池内阻不是固定值，在充、放电过程中，随电解液的\n密度、温度和活性物质的变化而变化。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C2189_q.png",
-    "a_img": "q2_answer_images/E_Jf1C2189_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30043,7 +28018,6 @@ window.QUIZ_DATA = [
     "a": "答：产生自放电的原因很多，主要有：\n(1) 电解液中或极板本身含有有害物质，这些杂质沉附在\n极板上，使杂质与极板之间、极板上各杂质之间产生电位差。\n(2)极板本身各部分之间存在电位差和极板处于不同浓度\n的电解液层，而使极板各部分之间存在电位差。这些电位差相\n当于小的局部电池，通过电解液形成电流，使极板上的活性物\n质溶解或电化作用，转变为硫酸铅，导致蓄电池容量损失。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C2190_q.png",
-    "a_img": "q2_answer_images/E_Jf1C2190_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30055,7 +28029,6 @@ window.QUIZ_DATA = [
     "a": "答：主要优点是：\n(1)可靠性高。由于每相母线均封闭于互相隔离的外壳内，\n可以防止发生相间短路故障。\n(2)减小母线之间的电动力。由于封闭母线在结构上有良\n好的磁屏蔽性能，壳外几乎无磁场，故短路时母线相间的电动\n力可大为减少(一般认为只有敞开式母线的1%左右)。\n(3)放至邻近母线处的钢构件严重发热。由于壳外磁场的\n鉴\n定\n试\n题\n库\n\n151\n减少，邻近母线处的钢构件内感应的涡流也会减小，涡流引起\n的发热损耗也减少。\n(4)安装方便，维护工作量少，整齐美观。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C3191_q.png",
-    "a_img": "q2_answer_images/E_Jf1C3191_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30067,7 +28040,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机转子一点接地后励磁回路对地电压将有所升高，\n在正常情况下，励磁回路对地电压约为励磁电压的一半。当励\n磁回路的一端发生金属性接地故障时，另一端对地电压将升高\n为全部励磁电压值，即比正常电压值高出一倍。在这种情况下\n运行，当切断励磁回路中的开关或一次回路的主断路器时，将\n在励磁回路中产生暂态过电压，在此电压作用下，可能将励磁\n回路中其他绝缘薄弱的地方击穿，从而导致第二点接地。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C3192_q.png",
-    "a_img": "q2_answer_images/E_Jf1C3192_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30079,7 +28051,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)正常运行时的安全性、可靠性、灵活性及经济性；\n(2)发生事故时，能尽量缩小对厂用电系统的影响，避免\n引起全厂停电事故，即各机厂用电系统具有较高的独立性；\n(3)保证启动电源有足够的容量和合格的电压质量；\n(4)有可靠的备用电源，并且在工作电源发生故障时能自\n动地投入，保证供电的连续性；\n(5)厂用电系统发生事故时，处理方便。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C4193_q.png",
-    "a_img": "q2_answer_images/E_Jf1C4193_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30091,7 +28062,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机正常运行时发出的功率和用户的负荷功率是平\n衡的，发电机和系统都处在稳定状态下运行。当系统中发生某\n些重大干扰时，发电机与用户之间的功率平衡将遭到破坏，此\n时必须立即改变发电机的输出功率以求得重新达到平衡。但由\n于发电机的转子转动具有惯性，汽轮机调速器的动作需要一定\n的延时，故改变发电机的功率就要有一个过程。在这个过程当\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n152\n中，发电机的功率和用户的负荷功率不能平衡，就会破坏发电\n机的稳定运行，使发电机产生振荡或失步。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5194_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5194_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30103,7 +28073,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机的非同期并列，将会产生很大的冲击电流，它\n对发电机及与其三相串联的主变压器、断路器等电气设备破坏\n极大，严重时将烧毁发电机绕组，使端部变形。如果一台大型\n发电机发生此类事故，则该机与系统间将产生功率振荡，影响\n系统的稳定运行。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5195_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5195_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30115,7 +28084,6 @@ window.QUIZ_DATA = [
     "a": "答：蓄电池在充电过程中，水被分解产生大量的氢气和氧\n气。如果这些混合的气体，不能及时排出室外，一遇火花，就\n会引起爆炸。\n预防的方法是：\n(1)密封式蓄电池的加液孔上盖的通气孔，经常保持畅通，\n便于气体逸出；\n(2)蓄电池内部连接和电极连接要牢固，防止松动打火；\n(3)室内保持良好的通风；\n(4)蓄电池室内严禁烟火；\n(5)室内应装设防爆照明灯具，且控制开关应装在室外。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5196_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5196_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30127,7 +28095,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)绝缘棒(拉杆)应垂直存放，架在支架上或吊挂\n在室内，不要靠墙壁。\n(2)绝缘手套、绝缘鞋应定位存放在柜内，与其他工具分开。\n(3)安全用具的橡胶制品不能与石油类的油脂接触。存放\n的环境温度不能过热或过冷。\n(4)高压验电器用后存放于匣内，置于干燥处，防止积灰\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n153\n和受潮。\n(5)存放安全用具的地点，应有明显标志，做到“对号入\n座”,存取方便。\n(6)安全用具不准移作他用。\n(7)应定期进行检查、试验，使用前检查有无破损和是否\n在有效期内。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5197_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5197_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30139,7 +28106,6 @@ window.QUIZ_DATA = [
     "a": "答：电力工业是将一次能源转化为二次能源的能源工业。\n它为各行各业提供着动力，而电力能源又是其他能源不可代替\n的，所以电能应用的广泛性，决定了电力工业是一种社会公益\n型的行业。同时，电力工业生产的安全可靠性关系着整个国民\n经济、“四化”建设和人民生活。因此，当前电力工业已经成为\n国民经济建设中具有重要地位的基础行业，是实现国家现代化\n和国民经济发展的战略重点。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5198_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5198_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30151,7 +28117,6 @@ window.QUIZ_DATA = [
     "a": "答：主要有以下几方面：\n(1)煤场、油罐储存燃料的多少，当日供应燃料的预报，\n燃煤供应能否满足负荷曲线的要求；\n(2)制粉系统的工作情况，总储存粉的多少，能否满足负\n荷曲线的要求；\n(3)备用机炉、检修机炉的预定启停时间安排和增减负荷\n速度，能否满足负荷曲线的要求；\n(4)循环水、化学供水量能否满足汽轮机、发电机、锅炉\n启动的需要，是否影响负荷曲线的需要；\n(5)锅炉燃烧情况，汽轮机、发电机设备状态及主要辅助\n设备状况，能否满足负荷曲线中高峰、低谷点的要求；\n(6)批准设备停用检修的时间，是否影响负荷曲线的执行；\n简\n答\n题\n鉴\n定\n试\n题\n库\n\n154\n简\n：\n答\n题\n鉴\n定\n试\n题\n库\n(7) 系统倒闸操作(并环路、解环路),是否会影响负荷曲\n线的执行等。\n总之，一切生产工作的安排，均不得影响负荷曲线的执行。\n如果由于某种原因，将影响负荷曲线的执行，要及时或提前与调\n度员联系，由调度员协助考虑负荷曲线的执行或修改负荷曲线。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5199_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5199_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30163,7 +28128,6 @@ window.QUIZ_DATA = [
     "a": "答：AVC装置的功能是：AVC装置作为电网电压无功优化\n系统中分级控制的电压控制实现手段，是针对负荷波动和偶然\n事故造成的电压变化迅速动作，来控制调节发电机励磁实现电\n厂侧的电压控制，保证向电网输送合格的电压和满足系统需求\n的无功。同时接受来自省调度通信中心的上级电压控制命令和\n电压整定值，通过电压无功优化算法计算，并输出以控制发电\n机励磁调节器的整定点来实现远方调度控制。运行中的限制条\n件为：\n(1)发电机端电压最高、最低限制；\n(2)系统电压的限制；\n(3)发电机功率因数的限制等。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5200_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5200_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30175,7 +28139,6 @@ window.QUIZ_DATA = [
     "a": "答：按漏氢部位有两种表现形式：\n(1) 外漏氢：氢气泄漏到发电机周围空气中，一般距离漏\n点0.25m以外，已基本扩散，所以外漏氢引起氢气爆炸的危险\n性较小。\n(2)内漏氢：氢气从定子套管法兰结合面泄漏到发电机封\n闭母线中；从密封瓦间隙进入密封油系统中；氢气通过定子绕\n组空芯导线、引水管等又进入冷却水中；氢气通过冷却器铜管\n进入循环冷却水中。内漏氢引起氢气爆炸的危险性最大，因为\n空气和氢气是在密闭空间内混合的，若氢含量达4%～76%时，\n遇火即发生氢爆。\n\n155",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5201_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5201_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30187,7 +28150,6 @@ window.QUIZ_DATA = [
     "a": "答：氢压降低的原因有：\n(1)轴封中的油压过低或供油中断；\n(2)供氢母管氢压低；\n(3)发电机突然甩负荷，引起过冷却而造成氢压降低；\n(4) 氢管破裂或闸门泄漏；\n(5)密封瓦塑料垫破裂，氢气大量进入油系统、定子引出\n线套管，或转子密封破坏造成漏氢，空芯导线或冷却器铜管有\n砂眼或在运行中发生裂纹，氢气进入冷却水系统中等；\n(6)运行误操作，如错开排氢门等而造成氢压降低等。\n鉴\n定\n试\n题\n库\n简\n答\n题\n\n156\n4.1.4\n计算题",
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5202_q.png",
-    "a_img": "q2_answer_images/E_Jf1C5202_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30199,7 +28161,6 @@ window.QUIZ_DATA = [
     "a": "答：通过导线的电流是250mA。",
     "o": null,
     "q_img": "q2_question_images/E_La5D1001_q.png",
-    "a_img": "q2_answer_images/E_La5D1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30211,7 +28172,6 @@ window.QUIZ_DATA = [
     "a": "答：切成4段。",
     "o": null,
     "q_img": "q2_question_images/E_La5D1002_q.png",
-    "a_img": "q2_answer_images/E_La5D1002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30223,7 +28183,6 @@ window.QUIZ_DATA = [
     "a": "答：a、b两端的电阻Rab为2Ω。\n(4)图D-1'(d)\n为图D-1(d)\n的等效电路图。\n(Q)\n(Q)\n答：a、b两端的电阻Rab为20Ω。",
     "o": null,
     "q_img": "q2_question_images/E_La5D2003_q.png",
-    "a_img": "q2_answer_images/E_La5D2003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30235,7 +28194,6 @@ window.QUIZ_DATA = [
     "a": "答：a、b两端电阻Rab为2Ω。\n(2)图D-1'(b)\n为图D-1(b)\n的等效电路图。\n答：a、b两端的电阻Rab为2Ω。\n图D-2\n(Ω)\n\n159\nR₂₃=R₂+R₃=3+3=6(Ω)\nR₄5=Rs+R₄=5+1=6(Ω)\n(Q)\n(A)\n(A)\n答：支路电流I₁为0.4A, 支路电流I₂、I₃、I4、I₅相等均为\n0.2A。",
     "o": null,
     "q_img": "q2_question_images/E_La5D2004_q.png",
-    "a_img": "q2_answer_images/E_La5D2004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30247,7 +28205,6 @@ window.QUIZ_DATA = [
     "a": "答：支路电流I₁ 为0.25A, I₂ 为0.15A,U AB为3.1V。\n鉴\n定\n试\n题\n库\n计\n算\n题\n图D-3\n\n160",
     "o": null,
     "q_img": "q2_question_images/E_La5D3005_q.png",
-    "a_img": "q2_answer_images/E_La5D3005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30259,7 +28216,6 @@ window.QUIZ_DATA = [
     "a": "答：RAB为4Ω, UAB为2.4V,I₁、I₂ 为0.1A,I₃ 是0.2A,\nI₅为0 .3A。",
     "o": null,
     "q_img": "q2_question_images/E_La5D3006_q.png",
-    "a_img": "q2_answer_images/E_La5D3006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30271,7 +28227,6 @@ window.QUIZ_DATA = [
     "a": "答：R₁电阻两端电压U₁是1V。",
     "o": null,
     "q_img": "q2_question_images/E_La5D4007_q.png",
-    "a_img": "q2_answer_images/E_La5D4007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30283,7 +28238,6 @@ window.QUIZ_DATA = [
     "a": "答：总电阻R 为2Ω,电阻R₃、R4两端电压相等为2.4V,\n电阻R₁的电压U₁ 是3.6V, 电阻R₂两端电压为6V。I₁为1A,\nI₂为2A,I₃ 为0.6A,I4 为0.4A。",
     "o": null,
     "q_img": "q2_question_images/E_La5D4008_q.png",
-    "a_img": "q2_answer_images/E_La5D4008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30295,7 +28249,6 @@ window.QUIZ_DATA = [
     "a": "答：各个电阻值分别为3.2Q, 电压的路端电压U 是11V,\nU₁=U₃是3.2V,Us 是4.6V, U₂=U₆=U₄为1.56V。",
     "o": null,
     "q_img": "q2_question_images/E_La5D5009_q.png",
-    "a_img": "q2_answer_images/E_La5D5009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30307,7 +28260,6 @@ window.QUIZ_DATA = [
     "a": "答：B 点电位高。电阻R₁为6Ω时，UAB=0。",
     "o": null,
     "q_img": "q2_question_images/E_La5D5010_q.png",
-    "a_img": "q2_answer_images/E_La5D5010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30319,7 +28271,6 @@ window.QUIZ_DATA = [
     "a": "答：电源1发出功率为330W, 电源2发出功率为880W,\n负载电阻R上消耗功率为1210W。",
     "o": null,
     "q_img": "q2_question_images/E_La4D1011_q.png",
-    "a_img": "q2_answer_images/E_La4D1011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30331,7 +28282,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_La4D1012_q.png",
-    "a_img": "q2_answer_images/E_La4D1012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30343,7 +28293,6 @@ window.QUIZ_DATA = [
     "a": "答：支路电流I₁ 为0.1mA, I 为0.2mA,I ₃为0.1mA。\n鉴\n定\n试\n题\n库\n计\n算\n题\n\n168\n计\n算\n题\n鉴\n定\n试\n题\n库\n(Q)\n(3) 等效电路图如图D-11′(c) 所示。\n(A)\n答：支路电流I₃ 为10A。",
     "o": null,
     "q_img": "q2_question_images/E_La4D2013_q.png",
-    "a_img": "q2_answer_images/E_La4D2013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30355,7 +28304,6 @@ window.QUIZ_DATA = [
     "a": "答：支路电流I₁是1A。\n\n169",
     "o": null,
     "q_img": "q2_question_images/E_La4D2014_q.png",
-    "a_img": "q2_answer_images/E_La4D2014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30367,7 +28315,6 @@ window.QUIZ_DATA = [
     "a": "答：电压超前电流\n, 电压超前电流0.005s。",
     "o": null,
     "q_img": "q2_question_images/E_La4D3015_q.png",
-    "a_img": "q2_answer_images/E_La4D3015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30379,7 +28326,6 @@ window.QUIZ_DATA = [
     "a": "答：i=28sinwt, u=537sin(wt+60°)",
     "o": null,
     "q_img": "q2_question_images/E_La4D3016_q.png",
-    "a_img": "q2_answer_images/E_La4D3016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30391,7 +28337,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_La4D4017_q.png",
-    "a_img": "q2_answer_images/E_La4D4017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30403,7 +28348,6 @@ window.QUIZ_DATA = [
     "a": "答：负载电流为34.38A。",
     "o": null,
     "q_img": "q2_question_images/E_La4D4018_q.png",
-    "a_img": "q2_answer_images/E_La4D4018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30415,7 +28359,6 @@ window.QUIZ_DATA = [
     "a": "答：电动机的视在功率为2420VA。\n电动机的有功功率为2008.6W。\n电动机的无功功率为1349.8var。\nP、无功功率Q。\n\n171\n答：线路上的电流I 是5.68A。",
     "o": null,
     "q_img": "q2_question_images/E_La4D5019_q.png",
-    "a_img": "q2_answer_images/E_La4D5019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30427,7 +28370,6 @@ window.QUIZ_DATA = [
     "a": "答：有功功率P 为90kW, 视在功率S 为103.9kVA, 无功\n功率Q 为51.9kvar。",
     "o": null,
     "q_img": "q2_question_images/E_La4D5020_q.png",
-    "a_img": "q2_answer_images/E_La4D5020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30439,7 +28381,6 @@ window.QUIZ_DATA = [
     "a": "答：通过电阻中的电流瞬时值表达式\n电流的有效值I为5A。",
     "o": null,
     "q_img": "q2_question_images/E_La3D1021_q.png",
-    "a_img": "q2_answer_images/E_La3D1021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30451,7 +28392,6 @@ window.QUIZ_DATA = [
     "a": "答：通过电容器的电流Ic近似为1.38A。",
     "o": null,
     "q_img": "q2_question_images/E_La3D1022_q.png",
-    "a_img": "q2_answer_images/E_La3D1022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30463,7 +28403,6 @@ window.QUIZ_DATA = [
     "a": "答：电流是7.1A:\n电流与电压相位差是45°。",
     "o": null,
     "q_img": "q2_question_images/E_La3D2023_q.png",
-    "a_img": "q2_answer_images/E_La3D2023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30475,7 +28414,6 @@ window.QUIZ_DATA = [
     "a": "答：i\n为131.5/-60°A,i\n为131.5/-180°A,i\n为\n131.5/-60°A。",
     "o": null,
     "q_img": "q2_question_images/E_La3D2024_q.png",
-    "a_img": "q2_answer_images/E_La3D2024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30487,7 +28425,6 @@ window.QUIZ_DATA = [
     "a": "答：正常情况下线电流I 为14.33A, A′、B′ 两点短路\n时i\n=95.5/25.5°A,iB=95.5 /145.7°A,ic\n为14.33A。",
     "o": null,
     "q_img": "q2_question_images/E_La3D3025_q.png",
-    "a_img": "q2_answer_images/E_La3D3025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30499,7 +28436,6 @@ window.QUIZ_DATA = [
     "a": "答：电压之和为220.86/68.96°V。",
     "o": null,
     "q_img": "q2_question_images/E_La3D3026_q.png",
-    "a_img": "q2_answer_images/E_La3D3026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30511,7 +28447,6 @@ window.QUIZ_DATA = [
     "a": "答：复阻抗Z₃的电流i₂ 为8.13/18.53°A。",
     "o": null,
     "q_img": "q2_question_images/E_La3D4027_q.png",
-    "a_img": "q2_answer_images/E_La3D4027_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30523,7 +28458,6 @@ window.QUIZ_DATA = [
     "a": "答：各线的线电流分别是：\n1 为23.2/117° A。\ni 为51.2/-1 443.4°A。\n1.为71.6/444.4° A。",
     "o": null,
     "q_img": "q2_question_images/E_La3D4028_q.png",
-    "a_img": "q2_answer_images/E_La3D4028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30535,7 +28469,6 @@ window.QUIZ_DATA = [
     "a": "答：频率为50Hz 和50kHz 时，线圈电抗分别为3.14Ω和\n3140Ω,通过线圈的电流分别为22.5A和22.5mA。",
     "o": null,
     "q_img": "q2_question_images/E_La3D5029_q.png",
-    "a_img": "q2_answer_images/E_La3D5029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30547,7 +28480,6 @@ window.QUIZ_DATA = [
     "a": "答：当频率为50Hz时，周期是0.02s, 角频率为314rad/s。\n当频率为1000Hz时，周期是0.001s,角频率为6.28×10³rad/s。",
     "o": null,
     "q_img": "q2_question_images/E_La3D5030_q.png",
-    "a_img": "q2_answer_images/E_La3D5030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30559,7 +28491,6 @@ window.QUIZ_DATA = [
     "a": "答：交流电压的最大值Um为311V, 交流电流的最大值Im\n为14.14A。",
     "o": null,
     "q_img": "q2_question_images/E_La2D1031_q.png",
-    "a_img": "q2_answer_images/E_La2D1031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30571,7 +28502,6 @@ window.QUIZ_DATA = [
     "a": "答：电流的有效值I 为0.707A。",
     "o": null,
     "q_img": "q2_question_images/E_La2D1032_q.png",
-    "a_img": "q2_answer_images/E_La2D1032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30583,7 +28513,6 @@ window.QUIZ_DATA = [
     "a": "答：感抗XL是31.4Ω,电流I 为7A。\n鉴\n定\n试\n题\n库\n计\n算\n题\n\n182\n计\n算\n题\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_La2D2033_q.png",
-    "a_img": "q2_answer_images/E_La2D2033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30595,7 +28524,6 @@ window.QUIZ_DATA = [
     "a": "答：容抗Xc为3.98Ω,电流Ic是57.8A。",
     "o": null,
     "q_img": "q2_question_images/E_La2D2034_q.png",
-    "a_img": "q2_answer_images/E_La2D2034_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30607,7 +28535,6 @@ window.QUIZ_DATA = [
     "a": "答：感抗X 为8.007Ω,阻抗Z 是10Ω,电流I 为22A,\n电阻上的压降UR为132V, 电感上的压降UL为176V。",
     "o": null,
     "q_img": "q2_question_images/E_La2D3035_q.png",
-    "a_img": "q2_answer_images/E_La2D3035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30619,7 +28546,6 @@ window.QUIZ_DATA = [
     "a": "答：容抗Xc为318.1Ω,电阻两端电压UR为60V, 电容两\n端电压Uc为191V, 外加电源电压U 为200V。",
     "o": null,
     "q_img": "q2_question_images/E_La2D3036_q.png",
-    "a_img": "q2_answer_images/E_La2D3036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30631,7 +28557,6 @@ window.QUIZ_DATA = [
     "a": "答：电流表PA1的读数为13A, 电流表PA2的读数为3A。",
     "o": null,
     "q_img": "q2_question_images/E_La2D4037_q.png",
-    "a_img": "q2_answer_images/E_La2D4037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30643,7 +28568,6 @@ window.QUIZ_DATA = [
     "a": "答：串联电路总功率与并联电路总功率之比为1:4。",
     "o": null,
     "q_img": "q2_question_images/E_La2D4038_q.png",
-    "a_img": "q2_answer_images/E_La2D4038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30655,7 +28579,6 @@ window.QUIZ_DATA = [
     "a": "答：支路电流I₂ 为1A, 电阻R₂为200Ω。\n解：串联电路的总功率P₁\n并联电路的总功率P₂\n接法的总功率之比?\n\n185",
     "o": null,
     "q_img": "q2_question_images/E_La2D5039_q.png",
-    "a_img": "q2_answer_images/E_La2D5039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30667,7 +28590,6 @@ window.QUIZ_DATA = [
     "a": "答：铁导线的电阻R为4Ω。",
     "o": null,
     "q_img": "q2_question_images/E_La2D5040_q.png",
-    "a_img": "q2_answer_images/E_La2D5040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30679,7 +28601,6 @@ window.QUIZ_DATA = [
     "a": "答：电动机所消耗的功率为3.2kW。",
     "o": null,
     "q_img": "q2_question_images/E_La1D1041_q.png",
-    "a_img": "q2_answer_images/E_La1D1041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30691,7 +28612,6 @@ window.QUIZ_DATA = [
     "a": "答：有功功率P 为718W, 无功功率Q 为484var。",
     "o": null,
     "q_img": "q2_question_images/E_La1D1042_q.png",
-    "a_img": "q2_answer_images/E_La1D1042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30703,7 +28623,6 @@ window.QUIZ_DATA = [
     "a": "答：电源改为110V的转速n'为930r/min。",
     "o": null,
     "q_img": "q2_question_images/E_La1D2043_q.png",
-    "a_img": "q2_answer_images/E_La1D2043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30715,7 +28634,6 @@ window.QUIZ_DATA = [
     "a": "答：绝缘电阻应是1.56MQ。\n\n187",
     "o": null,
     "q_img": "q2_question_images/E_La1D2044_q.png",
-    "a_img": "q2_answer_images/E_La1D2044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30727,7 +28645,6 @@ window.QUIZ_DATA = [
     "a": "答：A 相直流电阻RA为0.062Ω,B 相的RB为0.06Ω, C\n相的Rc为0.06Ω。",
     "o": null,
     "q_img": "q2_question_images/E_La1D3045_q.png",
-    "a_img": "q2_answer_images/E_La1D3045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30739,7 +28656,6 @@ window.QUIZ_DATA = [
     "a": "答：合成电流i 为4 √2 sin(wt+75°)A。",
     "o": null,
     "q_img": "q2_question_images/E_La1D3046_q.png",
-    "a_img": "q2_answer_images/E_La1D3046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30751,7 +28667,6 @@ window.QUIZ_DATA = [
     "a": "答：该照明电路中的总电流是0.52A。",
     "o": null,
     "q_img": "q2_question_images/E_La1D3047_q.png",
-    "a_img": "q2_answer_images/E_La1D3047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30763,7 +28678,6 @@ window.QUIZ_DATA = [
     "a": "答：一个月耗用电量为2400kWh。",
     "o": null,
     "q_img": "q2_question_images/E_La1D4048_q.png",
-    "a_img": "q2_answer_images/E_La1D4048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30775,7 +28689,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_La1D5049_q.png",
-    "a_img": "q2_answer_images/E_La1D5049_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30787,7 +28700,6 @@ window.QUIZ_DATA = [
     "a": "答：电动机的转数n 为735r/min。",
     "o": null,
     "q_img": "q2_question_images/E_La1D5050_q.png",
-    "a_img": "q2_answer_images/E_La1D5050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30799,7 +28711,6 @@ window.QUIZ_DATA = [
     "a": "答：通过该导线电流为0.25A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D1051_q.png",
-    "a_img": "q2_answer_images/E_Lb5D1051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30811,7 +28722,6 @@ window.QUIZ_DATA = [
     "a": "答：电阻值为720Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D1052_q.png",
-    "a_img": "q2_answer_images/E_Lb5D1052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30823,7 +28733,6 @@ window.QUIZ_DATA = [
     "a": "答：电阻值为15Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D2053_q.png",
-    "a_img": "q2_answer_images/E_Lb5D2053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30835,7 +28744,6 @@ window.QUIZ_DATA = [
     "a": "答：改为电动机运行时，额定电流IDN为233.78A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D1054_q.png",
-    "a_img": "q2_answer_images/E_Lb5D1054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30847,7 +28755,6 @@ window.QUIZ_DATA = [
     "a": "答：两极间的电场强度为80kV/cm。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D3055_q.png",
-    "a_img": "q2_answer_images/E_Lb5D3055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30859,7 +28766,6 @@ window.QUIZ_DATA = [
     "a": "答：这条导线的电阻R为1.415Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D3056_q.png",
-    "a_img": "q2_answer_images/E_Lb5D3056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30871,7 +28777,6 @@ window.QUIZ_DATA = [
     "a": "答：电阻为0.5Q。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D4057_q.png",
-    "a_img": "q2_answer_images/E_Lb5D4057_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30883,7 +28788,6 @@ window.QUIZ_DATA = [
     "a": "答：镇流电阻r₁ 为4925Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D4058_q.png",
-    "a_img": "q2_answer_images/E_Lb5D4058_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30895,7 +28799,6 @@ window.QUIZ_DATA = [
     "a": "答：线圈的端电压为314sin(wt+90°),\n吸取无功功率为\n157var。",
     "o": null,
     "q_img": "q2_question_images/E_Lb5D5059_q.png",
-    "a_img": "q2_answer_images/E_Lb5D5059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30907,7 +28810,6 @@ window.QUIZ_DATA = [
     "a": "答：电路的视在功率S 为86.7VA, 电路的有功功率P 为\n31W, 电路的无功功率Q 为81var, 功率因数为0.358。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1060_q.png",
-    "a_img": "q2_answer_images/E_Lb4D1060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30919,7 +28821,6 @@ window.QUIZ_DATA = [
     "a": "答：负载的相电流为19A, 负载的线电流为32.9A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1061_q.png",
-    "a_img": "q2_answer_images/E_Lb4D1061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30931,7 +28832,6 @@ window.QUIZ_DATA = [
     "a": "答：支路电流i₁为21.7/97.04°A,i₂\n为21.48/-61.18°A,\ni₃ 为8.13/ 18.53°A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1062_q.png",
-    "a_img": "q2_answer_images/E_Lb4D1062_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30943,7 +28843,6 @@ window.QUIZ_DATA = [
     "a": "答：R₁为723Ω, R₂为750Ω, R₃为6000Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D2063_q.png",
-    "a_img": "q2_answer_images/E_Lb4D2063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30955,7 +28854,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机负载两端电压UR为220V, 发电机的电动势E\n为223V,端电压U为222V,外电路上消耗的功率Pw为2220W,\n负载获得的功率PR为2200W, 输电线路损失功率PL为20W,\n发电机内部发热损耗功率PN为10W,发电机发出的有功功率P\n为2230W。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D2064_q.png",
-    "a_img": "q2_answer_images/E_Lb4D2064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30967,7 +28865,6 @@ window.QUIZ_DATA = [
     "a": "答：电流的有效值为0.566A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D3065_q.png",
-    "a_img": "q2_answer_images/E_Lb4D3065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30979,7 +28876,6 @@ window.QUIZ_DATA = [
     "a": "答：电流的有效值1.414A, 无功功率为20var, 电容所储\n存的能量为2×10⁻²J。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D4066_q.png",
-    "a_img": "q2_answer_images/E_Lb4D4066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -30991,7 +28887,6 @@ window.QUIZ_DATA = [
     "a": "答：A 相的相电流、线电流为11A;B 相的相电流、线电\n流为11A,C 相的相电流、线电流为22A, 中性线电流为11A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D4067_q.png",
-    "a_img": "q2_answer_images/E_Lb4D4067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31003,7 +28898,6 @@ window.QUIZ_DATA = [
     "a": "答：电路中的总电压UAB为36V,电路中的总电流I为0.9A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D4068_q.png",
-    "a_img": "q2_answer_images/E_Lb4D4068_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31015,7 +28909,6 @@ window.QUIZ_DATA = [
     "a": "答：60W的灯泡亮些。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D5069_q.png",
-    "a_img": "q2_answer_images/E_Lb4D5069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31027,7 +28920,6 @@ window.QUIZ_DATA = [
     "a": "答：电源E₂为46V;B 点电位为-8V; C点电位为-26V;\nD点电位为-30V。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D5070_q.png",
-    "a_img": "q2_answer_images/E_Lb4D5070_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31039,7 +28931,6 @@ window.QUIZ_DATA = [
     "a": "答：总电压为175V。\n计\n算\n题\n鉴\n定\n试\n题\n库\n\n202",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1071_q.png",
-    "a_img": "q2_answer_images/E_Lb4D1071_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31051,7 +28942,6 @@ window.QUIZ_DATA = [
     "a": "答：两盏灯的总电流为0.295 (A)。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1072_q.png",
-    "a_img": "q2_answer_images/E_Lb4D1072_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31063,7 +28953,6 @@ window.QUIZ_DATA = [
     "a": "答：电阻两端的电压为220V。",
     "o": null,
     "q_img": "q2_question_images/E_Lb4D2073_q.png",
-    "a_img": "q2_answer_images/E_Lb4D2073_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31075,7 +28964,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_Lb3D2074_q.png",
-    "a_img": "q2_answer_images/E_Lb3D2074_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31087,7 +28975,6 @@ window.QUIZ_DATA = [
     "a": "答：二极管反向电阻R为40mΩ。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3D3075_q.png",
-    "a_img": "q2_answer_images/E_Lb3D3075_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31099,7 +28986,6 @@ window.QUIZ_DATA = [
     "a": "答：AB 两端电压UAB为44V。\n\n204\n解：根据欧姆定律\n, 公式\n则该导线的电\n阻率为\n(Ω·m)\n答：该导线的电阻率是0.43×10-⁶Ω ·m。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3D3076_q.png",
-    "a_img": "q2_answer_images/E_Lb3D3076_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31111,7 +28997,6 @@ window.QUIZ_DATA = [
     "a": "答：灯泡消耗的功率是P₂ 为10W。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3D4077_q.png",
-    "a_img": "q2_answer_images/E_Lb3D4077_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31123,7 +29008,6 @@ window.QUIZ_DATA = [
     "a": "答：蓄电池的内阻r 为0.5Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3D4078_q.png",
-    "a_img": "q2_answer_images/E_Lb3D4078_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31135,7 +29019,6 @@ window.QUIZ_DATA = [
     "a": "答：电源的内阻ro≤500Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb3D5079_q.png",
-    "a_img": "q2_answer_images/E_Lb3D5079_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31147,7 +29030,6 @@ window.QUIZ_DATA = [
     "a": "答：电动机线电流为58.82A, 电动机相电流为34A。",
     "o": null,
     "q_img": "q2_question_images/E_Je2D5080_q.png",
-    "a_img": "q2_answer_images/E_Je2D5080_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31159,7 +29041,6 @@ window.QUIZ_DATA = [
     "a": "答：串入启动回路的电阻是7.9Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2D1081_q.png",
-    "a_img": "q2_answer_images/E_Lb2D1081_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31171,7 +29052,6 @@ window.QUIZ_DATA = [
     "a": "答：用现有灯泡40、60、100 W 凑成320W 即可。方法很\n多，我们采用两个100W, 两个60W 四个灯泡并联后再与电钻\n串联使用，电钻就可以在220V电压下正常工作。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2D1082_q.png",
-    "a_img": "q2_answer_images/E_Lb2D1082_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31183,7 +29063,6 @@ window.QUIZ_DATA = [
     "a": "答：表头电阻RG是160Ω,分流电阻R 是22.86Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2D2083_q.png",
-    "a_img": "q2_answer_images/E_Lb2D2083_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31195,7 +29074,6 @@ window.QUIZ_DATA = [
     "a": "答：通过V1 管电流400mA, 通过V2 管电流100mA, 这\n样使用有问题。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2D2084_q.png",
-    "a_img": "q2_answer_images/E_Lb2D2084_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31207,7 +29085,6 @@ window.QUIZ_DATA = [
     "a": "答：V1 管上反向电压为60V, V2管上反向电压为240V。\n使用有问题。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2D3085_q.png",
-    "a_img": "q2_answer_images/E_Lb2D3085_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31219,7 +29096,6 @@ window.QUIZ_DATA = [
     "a": "答：R₁两端电压UR₁ 为4.41V, 表相对误差11.8%。",
     "o": null,
     "q_img": "q2_question_images/E_Lb2D3086_q.png",
-    "a_img": "q2_answer_images/E_Lb2D3086_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31231,7 +29107,6 @@ window.QUIZ_DATA = [
     "a": "答：可选用截面SA为35mm² 的铝线。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5087_q.png",
-    "a_img": "q2_answer_images/E_Lb1D5087_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31243,7 +29118,6 @@ window.QUIZ_DATA = [
     "a": "答：在三相四线制电路中，A相断开时，中线电流为44A,\n若接成三线制，A 相断开时，B、C两相线电流均为38A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5088_q.png",
-    "a_img": "q2_answer_images/E_Lb1D5088_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31255,7 +29129,6 @@ window.QUIZ_DATA = [
     "a": "答：额定电流为1650A。\n铝线，要求导线传输能力不改变。试求所需铝线的截面积SA(Pc=\n0.0175×10⁻³Ω·m,PA=0.0283×10⁻³Ω·m)。\n计\n算\n题\n鉴\n定\n试\n题\n库\n\n211",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5089_q.png",
-    "a_img": "q2_answer_images/E_Lb1D5089_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31267,7 +29140,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器的容量为120000kVA, 变压器过负荷百分数为\n11%。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5090_q.png",
-    "a_img": "q2_answer_images/E_Lb1D5090_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31279,7 +29151,6 @@ window.QUIZ_DATA = [
     "a": "答：电抗器的感抗为0.866Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5091_q.png",
-    "a_img": "q2_answer_images/E_Lb1D5091_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31291,7 +29162,6 @@ window.QUIZ_DATA = [
     "a": "答：应选截面积为2.5mm² 的控制电缆。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5092_q.png",
-    "a_img": "q2_answer_images/E_Lb1D5092_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31303,7 +29173,6 @@ window.QUIZ_DATA = [
     "a": "答：感抗为1.01kΩ。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5093_q.png",
-    "a_img": "q2_answer_images/E_Lb1D5093_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31315,7 +29184,6 @@ window.QUIZ_DATA = [
     "a": "答：电路总电流为5e-j53.1°A, 表达式为i=5√2 sin(wt-53.1°)A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D4094_q.png",
-    "a_img": "q2_answer_images/E_Lb1D4094_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31327,7 +29195,6 @@ window.QUIZ_DATA = [
     "a": "答：主绕组的电流i₁ 为73.4×10⁻³e-j⁴⁵A,启动绕组的电流I₂\n为73.4×10⁻³ej⁴5A。",
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5095_q.png",
-    "a_img": "q2_answer_images/E_Lb1D5095_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31339,7 +29206,6 @@ window.QUIZ_DATA = [
     "a": "答：通C₁的电流有效值I₁ 为0.43A, 通C₂的电流有效值\nI₂为1.07A。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5D1096_q.png",
-    "a_img": "q2_answer_images/E_Jd5D1096_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31351,7 +29217,6 @@ window.QUIZ_DATA = [
     "a": "答：电路的阻抗为7.07e-j⁴5°Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5D1097_q.png",
-    "a_img": "q2_answer_images/E_Jd5D1097_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31363,7 +29228,6 @@ window.QUIZ_DATA = [
     "a": "答：电路的阻抗为20e-36.9°Ω,电路的电流1为5e1⁶69A, 电\n鉴\n定\n试\n题\n库\n\n215\n路的有功功率P 为400W。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5D2098_q.png",
-    "a_img": "q2_answer_images/E_Jd5D2098_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31375,7 +29239,6 @@ window.QUIZ_DATA = [
     "a": "答：A、C 两点间的电压UC为114ei¹⁵°V。",
     "o": null,
     "q_img": "q2_question_images/E_Jd5D3099_q.png",
-    "a_img": "q2_answer_images/E_Jd5D3099_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31387,7 +29250,6 @@ window.QUIZ_DATA = [
     "a": "答：输电线的功率损耗△P为168.7kW。",
     "o": null,
     "q_img": "q2_question_images/E_Ld5D4100_q.png",
-    "a_img": "q2_answer_images/E_Ld5D4100_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31399,7 +29261,6 @@ window.QUIZ_DATA = [
     "a": "答：电动势最大值Em为502.4V, 当\n时的电动势\n为251.2V。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4D1101_q.png",
-    "a_img": "q2_answer_images/E_Jd4D1101_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31411,7 +29272,6 @@ window.QUIZ_DATA = [
     "a": "答：此电容器电容量是206pF。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4D2102_q.png",
-    "a_img": "q2_answer_images/E_Jd4D2102_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31423,7 +29283,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_Jd4D5103_q.png",
-    "a_img": "q2_answer_images/E_Jd4D5103_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31435,7 +29294,6 @@ window.QUIZ_DATA = [
     "a": "答：并联电容为168μF。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3D1104_q.png",
-    "a_img": "q2_answer_images/E_Jd3D1104_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31447,7 +29305,6 @@ window.QUIZ_DATA = [
     "a": "答：相的电阻Rph为10Ω,相电抗Xph为7.8Ω。\n相电抗为\n\n219\n该电路的无功功率\nQ=220×3.45sin90°=759(var)\n答：该电路无功功率为759var。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3D2105_q.png",
-    "a_img": "q2_answer_images/E_Jd3D2105_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31459,7 +29316,6 @@ window.QUIZ_DATA = [
     "a": "答：两根导线间的作用力21.33N。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3D3106_q.png",
-    "a_img": "q2_answer_images/E_Jd3D3106_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31471,7 +29327,6 @@ window.QUIZ_DATA = [
     "a": "答：线圈的电感为2.4×10⁻⁴H。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3D4107_q.png",
-    "a_img": "q2_answer_images/E_Jd3D4107_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31483,7 +29338,6 @@ window.QUIZ_DATA = [
     "a": "答：电动机的有功功率为5.3kW, 电动机的无功功率为\n4kvar。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2D3108_q.png",
-    "a_img": "q2_answer_images/E_Jd2D3108_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31495,7 +29349,6 @@ window.QUIZ_DATA = [
     "a": "答：电容器损耗数为1.59×10⁻⁷。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2D4109_q.png",
-    "a_img": "q2_answer_images/E_Jd2D4109_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31507,7 +29360,6 @@ window.QUIZ_DATA = [
     "a": "答：负载电流为20e°。\n\n221",
     "o": null,
     "q_img": "q2_question_images/E_Jd2D5110_q.png",
-    "a_img": "q2_answer_images/E_Jd2D5110_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31519,7 +29371,6 @@ window.QUIZ_DATA = [
     "a": "答：有功功率降低了3000kW。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2D5111_q.png",
-    "a_img": "q2_answer_images/E_Jd2D5111_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31531,7 +29382,6 @@ window.QUIZ_DATA = [
     "a": "答：电路的电阻为7.07e-j⁴5°Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D3112_q.png",
-    "a_img": "q2_answer_images/E_Jd1D3112_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31543,7 +29393,6 @@ window.QUIZ_DATA = [
     "a": "答：电动机的功率为8.2kW。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3113_q.png",
-    "a_img": "q2_answer_images/E_Jb1D3113_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31555,7 +29404,6 @@ window.QUIZ_DATA = [
     "a": "答：k点的短路电流为1689A, M点的残压为23125V。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3114_q.png",
-    "a_img": "q2_answer_images/E_Jb1D3114_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31567,7 +29415,6 @@ window.QUIZ_DATA = [
     "a": "答：功率因数cosφ为0.8;回路电流I 为44A; 有功功率P\n为7744W; 无功功率Q 为5800var; 视在功率S 为9680VA;\n一个月消耗的电量为5575.68kWh。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3115_q.png",
-    "a_img": "q2_answer_images/E_Jb1D3115_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31579,7 +29426,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器总的有功损耗为4.33KW和无功损耗为20.08kvar。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3116_q.png",
-    "a_img": "q2_answer_images/E_Jb1D3116_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31591,7 +29437,6 @@ window.QUIZ_DATA = [
     "a": "答：环流为2900A。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3117_q.png",
-    "a_img": "q2_answer_images/E_Jb1D3117_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31603,7 +29448,6 @@ window.QUIZ_DATA = [
     "a": "答：可见负载的功率因数由0.85降到0.6时，发电机有功\n功率由125MW 降至88MW, 发电机的无功功率由77.44Mvar\n计\n算\n题\n鉴\n定\n试\n题\n库\n\n225\n上升至117.6Mvar。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3118_q.png",
-    "a_img": "q2_answer_images/E_Jb1D3118_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31615,7 +29459,6 @@ window.QUIZ_DATA = [
     "a": "答：输入电压U₁ 的频率为1000Hz 时输出电压U₂的相位\n超前输入电压45°,当输入电压的最大值U₁m为1V 时输出电\n压的最大值U2m是0.707V。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D4119_q.png",
-    "a_img": "q2_answer_images/E_Jb1D4119_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31627,7 +29470,6 @@ window.QUIZ_DATA = [
     "a": "答：全年平均负荷58.26MW,全年消耗电量5.10×10⁸kWh,\n最大负荷利用时间5100h。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D4120_q.png",
-    "a_img": "q2_answer_images/E_Jb1D4120_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31639,7 +29481,6 @@ window.QUIZ_DATA = [
     "a": "答：高压侧相电压为69.86kV, 中压侧相电压为22.23kV,\n低压侧相电压为11kV, 高压侧线电流、相电流为47.72A, 中\n计\n算\n题\n鉴\n定\n试\n题\n库\n\n228\n压侧线电流、相电流为74.98A, 低压侧线电流为524.88A, 相\n电流为303A。",
     "o": null,
     "q_img": "q2_question_images/E_Jb1D4121_q.png",
-    "a_img": "q2_answer_images/E_Jb1D4121_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31651,7 +29492,6 @@ window.QUIZ_DATA = [
     "a": "答：需要装补偿电容2.1μF。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D1122_q.png",
-    "a_img": "q2_answer_images/E_Jd1D1122_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31663,7 +29503,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器的变比K为26,二次侧的匝数N₂ 为58匝。\n鉴\n定\n试\n题\n库\n\n229",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D2123_q.png",
-    "a_img": "q2_answer_images/E_Jd1D2123_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31675,7 +29514,6 @@ window.QUIZ_DATA = [
     "a": "答：二次侧电压U₂为200V, 一次侧电流I 为4A。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D2124_q.png",
-    "a_img": "q2_answer_images/E_Jd1D2124_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31687,7 +29525,6 @@ window.QUIZ_DATA = [
     "a": "答：串入启动回路的电阻是7.9Ω。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D2125_q.png",
-    "a_img": "q2_answer_images/E_Jd1D2125_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31699,7 +29536,6 @@ window.QUIZ_DATA = [
     "a": "答：在额定工况下电动机的效率为86.99%, 转差率为\n0.04r/min。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D3126_q.png",
-    "a_img": "q2_answer_images/E_Jd1D3126_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31711,7 +29547,6 @@ window.QUIZ_DATA = [
     "a": "答：电流互感器标准变比300/5,二次电流为4.56A。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D3127_q.png",
-    "a_img": "q2_answer_images/E_Jd1D3127_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31723,7 +29558,6 @@ window.QUIZ_DATA = [
     "a": "答：绕组接成三角形接线时，电动机的相电流为8.6A, 线\n电流为15A; 绕组接成星形接线时，电动机的相电流和线电流\n为8.6A, 有功功率为4734W。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D3128_q.png",
-    "a_img": "q2_answer_images/E_Jd1D3128_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31735,7 +29569,6 @@ window.QUIZ_DATA = [
     "a": "答：各绕组的电压为6.06kV。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D4129_q.png",
-    "a_img": "q2_answer_images/E_Jd1D4129_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31747,7 +29580,6 @@ window.QUIZ_DATA = [
     "a": "答：△UT为281.25V,U₂ 为0.409KV。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D4130_q.png",
-    "a_img": "q2_answer_images/E_Jd1D4130_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31759,7 +29591,6 @@ window.QUIZ_DATA = [
     "a": "答：cosφ= 1 时，变压器输出功率P₁ 为50kW;\ncosφ= 0.8时，变压器输出功率P₂为40kW;\ncosφ₃=0.6 时，变压器输出功率P₃ 为30kW;\ncosφ4=0.2 时，变压器输出功率P₄为10kW。\n鉴计\n定\n试算\n题\n库\n\n233",
     "o": null,
     "q_img": "q2_question_images/E_Jd1D5131_q.png",
-    "a_img": "q2_answer_images/E_Jd1D5131_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31771,7 +29602,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-1所示。\n图E-1",
     "o": null,
     "q_img": "q2_question_images/E_La5E1001_q.png",
-    "a_img": "q2_answer_images/E_La5E1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31783,7 +29613,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-2所示。\n图E-2\n鉴\n定\n试\n题\n库\n绘\n图\n题\n4.1.5\n绘图题\n\n234",
     "o": null,
     "q_img": "q2_question_images/E_La5E2002_q.png",
-    "a_img": "q2_answer_images/E_La5E2002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31795,7 +29624,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-3 所示。",
     "o": null,
     "q_img": "q2_question_images/E_La5E3003_q.png",
-    "a_img": "q2_answer_images/E_La5E3003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31807,7 +29635,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-4 所示。\n图E-3",
     "o": null,
     "q_img": "q2_question_images/E_La5E4004_q.png",
-    "a_img": "q2_answer_images/E_La5E4004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31819,7 +29646,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-5 所示。\n图E-5",
     "o": null,
     "q_img": "q2_question_images/E_La5E5005_q.png",
-    "a_img": "q2_answer_images/E_La5E5005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31831,7 +29657,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_La4E1006_q.png",
-    "a_img": "q2_answer_images/E_La4E1006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31843,7 +29668,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-8 所示。\n图E-8",
     "o": null,
     "q_img": "q2_question_images/E_La4E3008_q.png",
-    "a_img": "q2_answer_images/E_La4E3008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31855,7 +29679,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-9 所示。\n面),画出周围磁力方向。\n答：如图E-6 所示。",
     "o": null,
     "q_img": "q2_question_images/E_La4E4009_q.png",
-    "a_img": "q2_answer_images/E_La4E4009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31867,7 +29690,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-7所示。\n图E-7\n\n236\n绘\n图\n题\n鉴\n定\n试\n题\n库\n图E-9",
     "o": null,
     "q_img": "q2_question_images/E_La4E2007_q.png",
-    "a_img": "q2_answer_images/E_La4E2007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31879,7 +29701,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-10所示。\n图E-10",
     "o": null,
     "q_img": "q2_question_images/E_La4E5010_q.png",
-    "a_img": "q2_answer_images/E_La4E5010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31891,7 +29712,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-11所示。",
     "o": null,
     "q_img": "q2_question_images/E_La3E1011_q.png",
-    "a_img": "q2_answer_images/E_La3E1011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31903,7 +29723,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-12 所示。\n\n237\n图E-11\n图E- 12\n鉴\n定\n试\n题\n库\n绘\n图\n题",
     "o": null,
     "q_img": "q2_question_images/E_La3E2012_q.png",
-    "a_img": "q2_answer_images/E_La3E2012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31915,7 +29734,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-13(b)\n所示。\n(a)\n(b)\n图E-13",
     "o": null,
     "q_img": "q2_question_images/E_La3E3013_q.png",
-    "a_img": "q2_answer_images/E_La3E3013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31927,7 +29745,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-14(b)\n所示。\n\n238\n鉴\n定\n试\n图\n题\n库\n(a)\n(b)\n图E-14",
     "o": null,
     "q_img": "q2_question_images/E_La3E5014_q.png",
-    "a_img": "q2_answer_images/E_La3E5014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31939,7 +29756,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-15(b)\n所示。\n(a)\n(b)\n图E-15",
     "o": null,
     "q_img": "q2_question_images/E_La2E1015_q.png",
-    "a_img": "q2_answer_images/E_La2E1015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31951,7 +29767,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-16所示。\n(a)\n(b)\n(c)\n图E-16\n(a) 电阻；( b) 可变电阻；( c) 电位器",
     "o": null,
     "q_img": "q2_question_images/E_La2E2016_q.png",
-    "a_img": "q2_answer_images/E_La2E2016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31963,7 +29778,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-17 所示。\n\n239\n鉴\n定\n试\n题\n库\n绘\n图\n题",
     "o": null,
     "q_img": "q2_question_images/E_La2E3017_q.png",
-    "a_img": "q2_answer_images/E_La2E3017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31975,7 +29789,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-18所示。\n(a)\n(b)\n(c)\n图E-18\n(a) 电容；( b) 电感线圈；( c) 有铁芯电感线圈",
     "o": null,
     "q_img": "q2_question_images/E_La2E4018_q.png",
-    "a_img": "q2_answer_images/E_La2E4018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31987,7 +29800,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-19 所示。",
     "o": null,
     "q_img": "q2_question_images/E_La2E5019_q.png",
-    "a_img": "q2_answer_images/E_La2E5019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -31999,7 +29811,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-20 所示。\n图E-19\n图E-20\n图E-17\n\n240\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_La1E1020_q.png",
-    "a_img": "q2_answer_images/E_La1E1020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32011,7 +29822,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-21 所示。\n图E- 21",
     "o": null,
     "q_img": "q2_question_images/E_La1E2021_q.png",
-    "a_img": "q2_answer_images/E_La1E2021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32023,7 +29833,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-22所示。\n图E-22",
     "o": null,
     "q_img": "q2_question_images/E_La1E3022_q.png",
-    "a_img": "q2_answer_images/E_La1E3022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32035,7 +29844,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-23所示。\n图E-23\n\n241",
     "o": null,
     "q_img": "q2_question_images/E_La1E4023_q.png",
-    "a_img": "q2_answer_images/E_La1E4023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32047,7 +29855,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-25所示。\n图E-24",
     "o": null,
     "q_img": "q2_question_images/E_Lb5E1025_q.png",
-    "a_img": "q2_answer_images/E_Lb5E1025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32059,7 +29866,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-26所示。\n图E-26\n(a) 电动机原理接线；( b) 出线盒Y 形接线\n鉴\n定\n试\n题\n库\n绘\n图\n题",
     "o": null,
     "q_img": "q2_question_images/E_Lb5E2026_q.png",
-    "a_img": "q2_answer_images/E_Lb5E2026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32071,7 +29877,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-24所示。\n图E-25\n\n242\n绘\n图\n题\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_La1E5024_q.png",
-    "a_img": "q2_answer_images/E_La1E5024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32083,7 +29888,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-27 所示。\n(a)\n(b)\n图E-27\n(a) 电动机原理接线；( b) 出线盒△形接线",
     "o": null,
     "q_img": "q2_question_images/E_Lb5E3027_q.png",
-    "a_img": "q2_answer_images/E_Lb5E3027_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32095,7 +29899,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-28所示。\n放电刷\n分流暑\n浮充设备\n充电刷\n切\n合\n图E-28\n\n243",
     "o": null,
     "q_img": "q2_question_images/E_Lb5E4028_q.png",
-    "a_img": "q2_answer_images/E_Lb5E4028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32107,7 +29910,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-29所示。\n(a)\n(b)\n图E-29\n(a) 电路图；( b) 相量图",
     "o": null,
     "q_img": "q2_question_images/E_Lb5E5029_q.png",
-    "a_img": "q2_answer_images/E_Lb5E5029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32119,7 +29921,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-30所示。\nU\n(a)\n(b)\n图E-30\n(a)\n电路图；( b)\n电压相量图",
     "o": null,
     "q_img": "q2_question_images/E_Lb4E1030_q.png",
-    "a_img": "q2_answer_images/E_Lb4E1030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32131,7 +29932,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-31所示。\n鉴\n定\n试\n题\n库\n绘\n图\n题\n\n244\n绘\n图\n题\n鉴\n定\n试\n题\n库\n(a)\n(b)\n图E-31\n(a) 电路图；(b) 电压相量图",
     "o": null,
     "q_img": "q2_question_images/E_Lb4E2031_q.png",
-    "a_img": "q2_answer_images/E_Lb4E2031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32143,7 +29943,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-32所示。\n(a)\n(b)\n图E-32\n(a) 电路图；(b) 电流相量图",
     "o": null,
     "q_img": "q2_question_images/E_Lb4E3032_q.png",
-    "a_img": "q2_answer_images/E_Lb4E3032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32155,7 +29954,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-33 所示。\n\n245\n鉴\n定\n试\n题\n库\n绘\n图\n题\n图E-33\n(a) 电路图；(b)相量图",
     "o": null,
     "q_img": "q2_question_images/E_Lb4E4033_q.png",
-    "a_img": "q2_answer_images/E_Lb4E4033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32167,7 +29965,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-34 所示。\nR\n·\nC\nL\n(a)\n(b)\n图E-34\n(a)交流电路；(b)相量图",
     "o": null,
     "q_img": "q2_question_images/E_Lb4E5034_q.png",
-    "a_img": "q2_answer_images/E_Lb4E5034_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32179,7 +29976,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-35 所示。\n(a)\n(b)\nU\nI₁\n4\n\n246\n鉴\n定\n词\n题\n库\n图E-35",
     "o": null,
     "q_img": "q2_question_images/E_Lb3E1035_q.png",
-    "a_img": "q2_answer_images/E_Lb3E1035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32191,7 +29987,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-36所示。\n图E-36",
     "o": null,
     "q_img": "q2_question_images/E_Lb3E2036_q.png",
-    "a_img": "q2_answer_images/E_Lb3E2036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32203,7 +29998,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-37 所示。\n图E-37\n\n247\ny\nU.\n图E-38\nT1、T2—变压器；V1、V2—三极管；E。一直流电源",
     "o": null,
     "q_img": "q2_question_images/E_Lb3E3037_q.png",
-    "a_img": "q2_answer_images/E_Lb3E3037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32215,7 +30009,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-39 所示。\n图E-39\n鉴\n定\n试\n题\n库\n绘\n图\n题",
     "o": null,
     "q_img": "q2_question_images/E_Lb3E5039_q.png",
-    "a_img": "q2_answer_images/E_Lb3E5039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32227,7 +30020,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-38所示。\n\n248\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Lb3F4038_q.png",
-    "a_img": "q2_answer_images/E_Lb3F4038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32239,7 +30031,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-40 所示。\nu,i\nu=umsin\nwt\ni=“R\nsinut\n2π ct\n0\n图E-40",
     "o": null,
     "q_img": "q2_question_images/E_Lb2E1040_q.png",
-    "a_img": "q2_answer_images/E_Lb2E1040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32251,7 +30042,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-41所示。\n(a)\n(b)\n图E41\n(a) 电路图；(b) 相量图",
     "o": null,
     "q_img": "q2_question_images/E_Lb2E2041_q.png",
-    "a_img": "q2_answer_images/E_Lb2E2041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32263,7 +30053,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-42 所示。\n图E-42\n\n249",
     "o": null,
     "q_img": "q2_question_images/E_Lb2E3042_q.png",
-    "a_img": "q2_answer_images/E_Lb2E3042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32275,7 +30064,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-44所示。\n图E-43",
     "o": null,
     "q_img": "q2_question_images/E_Lb2E4044_q.png",
-    "a_img": "q2_answer_images/E_Lb2E4044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32287,7 +30075,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-45所示。\n图E-45\nKR—热继电器；KM—中间继电器；S一切换开关；SWG—水位接点；\nHR一红灯；HG一绿灯；SA一按钮\n鉴\n定\n试\n题\n库\n绘\n图\n题",
     "o": null,
     "q_img": "q2_question_images/E_Lb1E1045_q.png",
-    "a_img": "q2_answer_images/E_Lb1E1045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32299,7 +30086,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-43所示。\n图E-44\n\n250\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Lb2E4043_q.png",
-    "a_img": "q2_answer_images/E_Lb2E4043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32311,7 +30097,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-46 所示。\nFU\n1TM\nS\n1S\nM\n1S\nS\n1S\n2TM\n2CQ\n1CQ\n1S\n1S\nFU\n图E-46\n+、-—控制回路电源；S、1S—切换开关；FU一熔断器",
     "o": null,
     "q_img": "q2_question_images/E_Lb1E2046_q.png",
-    "a_img": "q2_answer_images/E_Lb1E2046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32323,7 +30108,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-47所示。\n定子绕组空心导线\n励端\n汽端\n补给水\n水箱\n过滤器\n离子\n交换器\n水冷器\n水泵\n循环水\n汇\n水\n总\n管\n汇\n水\n总\n管\n图E-47\n\n251",
     "o": null,
     "q_img": "q2_question_images/E_Lb1E3047_q.png",
-    "a_img": "q2_answer_images/E_Lb1E3047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32335,7 +30119,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-48所示。\n图E-48\nKS一跳闸信号继电器；SA—按钮",
     "o": null,
     "q_img": "q2_question_images/E_Jd5E1048_q.png",
-    "a_img": "q2_answer_images/E_Jd5E1048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32347,7 +30130,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-49所示。\n图E-49\n27ab 、27bc、27ca—低电压继电器",
     "o": null,
     "q_img": "q2_question_images/E_Jd5E1049_q.png",
-    "a_img": "q2_answer_images/E_Jd5E1049_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32359,7 +30141,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-50 所示。\n鉴\n定\n试\n题\n库\n绘\n图\n题\n\n252\n鉴么\n定\n试图\n题\n库\n图E-50\n(a)\n改向前；( b) 改向后",
     "o": null,
     "q_img": "q2_question_images/E_Jd5E1050_q.png",
-    "a_img": "q2_answer_images/E_Jd5E1050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32371,7 +30152,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-51 所示。\nKD\nH\n接地\n电容\nH\nR2\nKD C\n图E-51\nKD一差动继电器；R2—磁场电阻；H—换向极绕组",
     "o": null,
     "q_img": "q2_question_images/E_Jd5E2051_q.png",
-    "a_img": "q2_answer_images/E_Jd5E2051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32383,7 +30163,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-52 所示。\n换向极\n绕\n组\n换向极\n绕\n组\n(a)\n(b)\n磁\n场\n电\n阻\n励磁绕组\n\n253\n(a)\n(b)\n图E-52\n(a) 接线图；( b) 相量图",
     "o": null,
     "q_img": "q2_question_images/E_Jd5E3052_q.png",
-    "a_img": "q2_answer_images/E_Jd5E3052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32395,7 +30174,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-53所示。\n(a)\n(b)\n图E-53\n(a) 接线图；( b) 相量图",
     "o": null,
     "q_img": "q2_question_images/E_Jd5E4053_q.png",
-    "a_img": "q2_answer_images/E_Jd5E4053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32407,7 +30185,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-54所示。\n绘\n图\n题\n鉴\n定\n试\n题\n库\n\n绘\n图\n题\n鉴\n定\n试\n题\n库\n图E-54\n1～3—断路器；T—变压器",
     "o": null,
     "q_img": "q2_question_images/E_Jd5E5054_q.png",
-    "a_img": "q2_answer_images/E_Jd5E5054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32419,7 +30196,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-55 所示。\n图E-55\nKP—极化继电器；V一二极管\n254\n\n255",
     "o": null,
     "q_img": "q2_question_images/E_Jd4E1055_q.png",
-    "a_img": "q2_answer_images/E_Jd4E1055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32431,7 +30207,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-56所示。\n图E-56",
     "o": null,
     "q_img": "q2_question_images/E_Jd4E2056_q.png",
-    "a_img": "q2_answer_images/E_Jd4E2056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32443,7 +30218,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-57所示。\n图E-57",
     "o": null,
     "q_img": "q2_question_images/E_Jd4E3057_q.png",
-    "a_img": "q2_answer_images/E_Jd4E3057_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32455,7 +30229,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-58所示。\n图E-58\nKR一阻抗继电器；QF—断路器\n鉴\n定\n试\n题\n库\n绘\n图\n题\n\n256\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Jd4E4058_q.png",
-    "a_img": "q2_answer_images/E_Jd4E4058_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32467,7 +30240,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-59 所示。\n图E-59",
     "o": null,
     "q_img": "q2_question_images/E_Jd4E5059_q.png",
-    "a_img": "q2_answer_images/E_Jd4E5059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32479,7 +30251,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-60 所示。\n一冷却水进口\n冷却水出口\n潜油泵\n变压器\n冷\n油\n器\n油\n管\n道\n图E-60",
     "o": null,
     "q_img": "q2_question_images/E_Jd3E1060_q.png",
-    "a_img": "q2_answer_images/E_Jd3E1060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32491,7 +30262,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-61所示。\n\n257\n+\n转子绕组\n1 第一点接地\n1第二点接地\n鉴\n定\n试\n题\n库\n绘\n图\n题",
     "o": null,
     "q_img": "q2_question_images/E_Jd3E2061_q.png",
-    "a_img": "q2_answer_images/E_Jd3E2061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32503,7 +30273,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-62所示。\n图E-62\nQS—隔离开关；QF1、QF2—断路器；KT1—温度继电器\nKS1—信号继电器；KOM—出口继电器",
     "o": null,
     "q_img": "q2_question_images/E_Jd3E3062_q.png",
-    "a_img": "q2_answer_images/E_Jd3E3062_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32515,7 +30284,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-63所示。\n图E-61\n电\n枢\n励\n磁\n绕\n组\n\n258\n鉴\n定\n试\n题\n库\n图E-63\nSD一灭磁开关；GE一励磁机；G—发电机",
     "o": null,
     "q_img": "q2_question_images/E_Jd3E4063_q.png",
-    "a_img": "q2_answer_images/E_Jd3E4063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32527,7 +30295,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-64所示。\nU\n转\n子5\n线3\n圈\nTA\nTV\nA\nc\n自动电压调整器\n图E-64\nU一整流器；TA 一电流互感器；TV 一电压互感器；GE—励磁机",
     "o": null,
     "q_img": "q2_question_images/E_Jd3E5064_q.png",
-    "a_img": "q2_answer_images/E_Jd3E5064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32539,7 +30306,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-65所示。\nG\n~\n转\n子\n图\n激\n线\n圈\n\n259\n鉴\n定\n试\n题\n库\n绘\n图\n题\nTA1\nTA3\n由TV 二次来\n(a)\nL-\nKPD1\nKT\nKPD1\nKPD2\nKA2\nQF1 LT\nKT\nKS\nKPD1\nWS+\nKPD2\nFU\nKS\n信号\n(b)\n图E-65\n(a) 原理图；( b) 展开图\nQF、QF1一断路器；TA1、TA3—电流互感器；KPD一功率方向继电器；\nKA1、KA2—电流继电器；KT—时间继电器；\nKS一信号继电器；FU一熔断器；WS+一信号母线",
     "o": null,
     "q_img": "q2_question_images/E_Jd3E5065_q.png",
-    "a_img": "q2_answer_images/E_Jd3E5065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32551,7 +30317,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-66所示。\n图E-66\nKE一接地继电器；1S、2S一切换开关；M711、M712—预告音响信号小母线",
     "o": null,
     "q_img": "q2_question_images/E_Jd2E4066_q.png",
-    "a_img": "q2_answer_images/E_Jd2E4066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32563,7 +30328,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-67所示。\n图E-67\nSB一按钮；QF一断路器；XB一连接片；SD一灭磁开关；Rba一平衡电阻；\nS一开关；GE一励磁机；M一电动机；R —励磁绕组；KA一电流继电器\n\n261",
     "o": null,
     "q_img": "q2_question_images/E_Jd2E5067_q.png",
-    "a_img": "q2_answer_images/E_Jd2E5067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32575,7 +30339,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-68所示。\n图E-68",
     "o": null,
     "q_img": "q2_question_images/E_Jd1E1068_q.png",
-    "a_img": "q2_answer_images/E_Jd1E1068_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32587,7 +30350,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-69所示。\n图E-69",
     "o": null,
     "q_img": "q2_question_images/E_Jd1E2069_q.png",
-    "a_img": "q2_answer_images/E_Jd1E2069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32599,7 +30361,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-70所示。\n鉴\n定\n试\n题\n库\n绘\n图\n题\n\n262\n绘\n图\n题\n鉴\n定\n试\n题\n库\n图E-70",
     "o": null,
     "q_img": "q2_question_images/E_Jd1E3070_q.png",
-    "a_img": "q2_answer_images/E_Jd1E3070_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32611,7 +30372,6 @@ window.QUIZ_DATA = [
     "a": "答：三相短路示意图如图E-71 所示，其代表符号用k(³)\n表示。\n图E-71",
     "o": null,
     "q_img": "q2_question_images/E_Jd1E4071_q.png",
-    "a_img": "q2_answer_images/E_Jd1E4071_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32623,7 +30383,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-72 所示。\nA 相接地短路，短路电流iAk\n图E-72\n\n263\n答：如图E-73所示。\nEA↑\nUcD\nUᴀ=0\niA=i\nUBD\n3U=-E\n图E-73",
     "o": null,
     "q_img": "q2_question_images/E_Jd1E5072_q.png",
-    "a_img": "q2_answer_images/E_Jd1E5072_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32635,7 +30394,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-74所示。\n图E-74",
     "o": null,
     "q_img": "q2_question_images/E_Je5E1074_q.png",
-    "a_img": "q2_answer_images/E_Je5E1074_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32647,7 +30405,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-75所示。",
     "o": null,
     "q_img": "q2_question_images/E_Je5E1075_q.png",
-    "a_img": "q2_answer_images/E_Je5E1075_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32659,7 +30416,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_Jd1E5073_q.png",
-    "a_img": "q2_answer_images/E_Jd1E5073_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32671,7 +30427,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-76 所示。\nKA\n图E-76",
     "o": null,
     "q_img": "q2_question_images/E_Je5E2076_q.png",
-    "a_img": "q2_answer_images/E_Je5E2076_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32683,7 +30438,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-77 所示。\nKD1\nKD2\nKD2\nKD1\n用于交流电源\n用于直流电源\n图E-77\nKD一差动继电器\n\n265",
     "o": null,
     "q_img": "q2_question_images/E_Je5E3077_q.png",
-    "a_img": "q2_answer_images/E_Je5E3077_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32695,7 +30449,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-78所示。\nks\n信号\nKT\nk1\nQF2 QF1\nTV\nKPD[\nTA\nKA\n图E-78\n方向过流保护原理接线\nQF一断路器；TV—电压互感器；TA—电流互感器；KS一信号继电器；\nKT—时间继电器；KPD一功率方向继电器；KA一电流继电器",
     "o": null,
     "q_img": "q2_question_images/E_Je5E4078_q.png",
-    "a_img": "q2_answer_images/E_Je5E4078_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32707,7 +30460,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-79所示。\n信号\nTV\nKPDZ\nTA0\n图E-79\n零序功率方向保护原理接线图\nKPDZ—零序功率方向继电器；TA0 —零序电流互感器",
     "o": null,
     "q_img": "q2_question_images/E_Je5E4079_q.png",
-    "a_img": "q2_answer_images/E_Je5E4079_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32719,7 +30471,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-80 所示。\n图E-80",
     "o": null,
     "q_img": "q2_question_images/E_Je5E4080_q.png",
-    "a_img": "q2_answer_images/E_Je5E4080_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32731,7 +30482,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-81所示。\n图E-81\nFU一熔断器；KA一电流继电器；KV—电压继电器；\nQF—断路器；TV一电压互感器；TA—电流互感器",
     "o": null,
     "q_img": "q2_question_images/E_Je5E5081_q.png",
-    "a_img": "q2_answer_images/E_Je5E5081_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32743,7 +30493,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_Je5E2082_q.png",
-    "a_img": "q2_answer_images/E_Je5E2082_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32755,7 +30504,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-83所示。\n电源母线\nA\nB\nC\n至预告信号\nT V\nKV\nU。\nWPvA\nPVB\nPVc\n0\n至信号\nKOM\n图E-83\nKV—电压继电器；PVA、PVg、PVc—电压表；KOM一出口继电器\n答：如图E-82 所示。\n\n268\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Je4E1083_q.png",
-    "a_img": "q2_answer_images/E_Je4E1083_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32767,7 +30515,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-84 所示。\n图E-84",
     "o": null,
     "q_img": "q2_question_images/E_Je4E3084_q.png",
-    "a_img": "q2_answer_images/E_Je4E3084_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32779,7 +30526,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-85 所示。\n图E-85\nT一变压器；G—发电机；QF一断路器；\nKR一阻抗继电器；TV—电压互感器；TA—电流互感器",
     "o": null,
     "q_img": "q2_question_images/E_Je4E4085_q.png",
-    "a_img": "q2_answer_images/E_Je4E4085_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32791,7 +30537,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_Je4E5086_q.png",
-    "a_img": "q2_answer_images/E_Je4E5086_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32803,7 +30548,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-87 所示。\nI M\n1QF\n2QF\n3QF\n3QF\nⅡM\n2QF\n1QF\n图E-87\n答：如图E-86所示。\n\n270",
     "o": null,
     "q_img": "q2_question_images/E_Je3E1087_q.png",
-    "a_img": "q2_answer_images/E_Je3E1087_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32815,7 +30559,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-88所示。\n(a)\n(b)\n图E-88\n(a) 代表符号；( b) 一相电路图",
     "o": null,
     "q_img": "q2_question_images/E_Je3E2088_q.png",
-    "a_img": "q2_answer_images/E_Je3E2088_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32827,7 +30570,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-89 所示。\nQF3\n至N侧的保护\nQF4\nL1\nKOM1EKOM2\nL2\nKA\nUL\nKPD2\nQF1\nQF1.1\nQF2\nQF2.1\nM\n图E-89\nKOM1、KOM2—出口继电器；KA—电流继电器；\nKPD1、KPD2一功率方向继电器；QF1～QF4—断路器；YT—断路器跳闸线圈\n鉴\n定\n试\n题\n库\n\n271",
     "o": null,
     "q_img": "q2_question_images/E_Je3E3089_q.png",
-    "a_img": "q2_answer_images/E_Je3E3089_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32839,7 +30581,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-90所示。\n图E-90\nKV—电压继电器；n—中性线",
     "o": null,
     "q_img": "q2_question_images/E_Je3E4090_q.png",
-    "a_img": "q2_answer_images/E_Je3E4090_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32851,7 +30592,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-91所示。\n图E-91\nG—发电机；KS一信号继电器；TA一电流互感器；KT一时间继电器；\nXB—连接片；KA一电流继电器；KM—中间继电器\n鉴\n定\n试\n题\n库\n绘\n图\n题\n\n272\n绘\n图\n题\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Je3E5091_q.png",
-    "a_img": "q2_answer_images/E_Je3E5091_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32863,7 +30603,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-92所示。\nEB\n图E-92",
     "o": null,
     "q_img": "q2_question_images/E_Je2E1092_q.png",
-    "a_img": "q2_answer_images/E_Je2E1092_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32875,7 +30614,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-93所示。\n图E- 93",
     "o": null,
     "q_img": "q2_question_images/E_Je2E2093_q.png",
-    "a_img": "q2_answer_images/E_Je2E2093_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32887,7 +30625,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-94所示。\n\n273\nQF2\nKAB2\nKAB1\nL2\nL1\nQF1\nKT1\n图E-94\nQF1、QF2—断路器；KT1、KT2—时间继电器；KAB—电流平衡继电器；\nLop—工作线圈；Lre一制动线圈；L— 电压保持线圈",
     "o": null,
     "q_img": "q2_question_images/E_Je2E3094_q.png",
-    "a_img": "q2_answer_images/E_Je2E3094_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32899,7 +30636,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-95所示。\n图E-95\n鉴\n定\n试\n题\n库\n绘\n图\n题\n\n274\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Je2E4095_q.png",
-    "a_img": "q2_answer_images/E_Je2E4095_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32911,7 +30647,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-96 所示。\n铁芯\nE\nE₂\n二\n次\n侧\n一\n次\n侧\n₂U\nU\nΦ1\n图E-96",
     "o": null,
     "q_img": "q2_question_images/E_Je2E5096_q.png",
-    "a_img": "q2_answer_images/E_Je2E5096_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32923,7 +30658,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-97 所示。\n一次绕组\n二次绕组\n图E-97",
     "o": null,
     "q_img": "q2_question_images/E_Je1E1097_q.png",
-    "a_img": "q2_answer_images/E_Je1E1097_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32935,7 +30669,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-98所示。\n\n275\n信号\n自×B\nQF1 YT\nQF\nXB4\nKS1\nKS2\nKS4\n重合加速\nKT1\nKT2\nI₀\nKAZ3\nKPDZ\n3。\n3U₀\nIo\nKAZ1\nIo\nKAZ2\nKOM\n图E-98\nKPDZ一零序功率方向继电器；KS1～KS3一信号继电器；KT1、KT2—时间继电器；\nKOM—出口中间继电器；YT一跳闸线圈；XB一连接片；KAZ一电流继电器",
     "o": null,
     "q_img": "q2_question_images/E_Je1E2098_q.png",
-    "a_img": "q2_answer_images/E_Je1E2098_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32947,7 +30680,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-99所示。\nP(MW)\n1000\n850-\n500-\n250\n0\n2\n8\n1618\n20\n1(h)\n图E-99\n鉴\n定\n试\n题\n库\n绘\n图\n题\n\n276\n绘\n图\n题\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Je1E3099_q.png",
-    "a_img": "q2_answer_images/E_Je1E3099_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32959,7 +30691,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-100 所示。\n图E-100",
     "o": null,
     "q_img": "q2_question_images/E_Je1F4100_q.png",
-    "a_img": "q2_answer_images/E_Je1F4100_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32971,7 +30702,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-101所示。\nKD\nM\nM\n(a)\n(b)\n图E-101\n(a) 长分式；( b) 短分式\nKD一差动继电器\n励\n磁\n绕\n组\n励\n磁\n绕\n组\nKD\n\n277\n答：调节特性是指n=n₁, U=常数，cosφ=常数的条件下，\n励磁电流I 随负载电流I 而变化的关系，即IFf(I)\n曲线，图\n中示出了对应于不同负载功率因数，有不同的调节特性曲线(n\n为正常转速、n₁为额定转速)。\n图E-102",
     "o": null,
     "q_img": "q2_question_images/E_Je1E5101_q.png",
-    "a_img": "q2_answer_images/E_Je1E5101_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32983,7 +30713,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-103所示。\n图E-103\n鉴\n定\n试\n题\n库\n绘\n图\n题",
     "o": null,
     "q_img": "q2_question_images/E_Jf3E1103_q.png",
-    "a_img": "q2_answer_images/E_Jf3E1103_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -32995,7 +30724,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_Je1E5102_q.png",
-    "a_img": "q2_answer_images/E_Je1E5102_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33007,7 +30735,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-104所示。\n图E-104",
     "o": null,
     "q_img": "q2_question_images/E_Jf3E2104_q.png",
-    "a_img": "q2_answer_images/E_Jf3E2104_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33019,7 +30746,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-105所示。\n图E-105",
     "o": null,
     "q_img": "q2_question_images/E_Jf3E5105_q.png",
-    "a_img": "q2_answer_images/E_Jf3E5105_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33031,7 +30757,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-106所示。\n图E-106\n\n279",
     "o": null,
     "q_img": "q2_question_images/E_Jf2E1106_q.png",
-    "a_img": "q2_answer_images/E_Jf2E1106_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33043,7 +30768,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-107所示。\n110~220kV\nQF1\n至信号\nKT1\nKA0\nQS\n至信号\nTA\nKS2\nKV0\n3U₀\nQF2\n由110~220kV母线\n电压互感器来\nKT2\nKOM\nXB1\nXB2\nKS1\n图E-107\nKA0—零序电流继电器；KT1、KT2—温度继电器；KS1、KS2—信号继电器；\nXB1一连接片；KOM—出口继电器；QS一隔离开关；QF—断路器",
     "o": null,
     "q_img": "q2_question_images/E_Jf2E2107_q.png",
-    "a_img": "q2_answer_images/E_Jf2E2107_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33055,7 +30779,6 @@ window.QUIZ_DATA = [
     "a": "答：如图E-108所示。\n图E-108\n鉴\n定\n试\n题\n库\n绘\n图\n题\n\n280\n鉴\n定\n试\n题\n库\nJI2E4109 画出直接接入单相回路中的功率表接线图。\n答：如图E-109所示。\n图E-109\nPW一功率表\nJI2E5110\n画出三相两元件有功功率表接线图。\n答：如图E-110所示。\n图E-110\n\n281\n4.1.6\n论述题",
     "o": null,
     "q_img": "q2_question_images/E_Jf2E3108_q.png",
-    "a_img": "q2_answer_images/E_Jf2E3108_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33067,7 +30790,6 @@ window.QUIZ_DATA = [
     "a": "答：功率因数cosφ, 也叫力率，是有功功率与视在功率的\n比值，即\n在一定额定电压和额定电流下，功率因数越高，有功功率\n所占的比重越大，反之越低。\n提高功率因数的意义分两个方面：\n在发电机的额定电压、额定电流一定时，发电机的容量即\n是它的视在功率。如果发电机在额定容量下运行，输出的有功\n功率的大小取决于负载的功率因数。功率因数越低，发电机输\n出的功率越低，其容量得不到充分利用。\n功率因数低，在输电线路上引起较大的电压降和功率损耗。\n故当输电线输出功率P一定时，线路中电流与功率因数成反比，\n即\n当cosφ 越低时，电流I 增大，在输电线阻抗上压降增大，\n使负载端电压过低。严重时，影响设备正常运行，用户无法用\n电。\n此外，阻抗上消耗的功率与电流平方成正比，电流增大要\n引起线损增大。\n提高功率因数的措施有：\n合理地选择和使用电气设备，用户的同步电动机可以提高\n功率因数，甚至可以使功率因数为负值，即进相运行。而感应\n电动机的功率因数很低，尤其是空载和轻载运行时，所以应该\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n282\n论\n述\n题\n鉴\n定\n试\n题\n库\n避免感应电动机空载和轻载运行。\n安装并联补偿电容器或静止补偿器等设备，使电路中总的\n无功功率减少。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4F1001_q.png",
-    "a_img": "q2_answer_images/E_Jd4F1001_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33079,7 +30801,6 @@ window.QUIZ_DATA = [
     "a": "答：因为氢气和空气混合易引起爆炸，而二氧化碳与氢气\n或空气混合时都不会发生爆炸，所以二氧化碳作为置换的中间\n介质。二氧化碳传热系数是空气的1.132倍，在置换过程中，\n冷却效能并不比空气差。此外，二氧化碳作为中间介质还有利\n于防火。\n不能用二氧化碳作为冷却介质、长期运行的原因是，二氧\n化碳能与机壳内可能含水蒸气等化合，生成一种绿垢，附着在\n发电机绝缘物和构件上，这样，使冷却效果剧烈恶化，并使机\n件脏污。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4F2002_q.png",
-    "a_img": "q2_answer_images/E_Jd4F2002_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33091,7 +30812,6 @@ window.QUIZ_DATA = [
     "a": "答：通常情况下，机组进相运行时，定子端部漏磁较大，\n并由此引起的损耗比调相运行时还要大，故定子端部附近各金\n属部件温升会较高，引起端部线圈发热，深度进相对系统电压\n及稳定也会产生影响。\n制造厂允许或经过专门试验确定能进相运行的发电机，如\n系统需要，在不影响电网稳定运行的前提下，可将功率因数提\n高到1或在允许的进相状态运行，但是，要严密监视发电机的\n运行工况，防止失步，尽早使发电机恢复正常运行。同时，还\n应注意高压厂用母线电压的监视，保证其安全。对水轮发电机\n而言，其纵轴和横轴同步电抗相等，电磁功率中有附加分量，\n因此相对汽轮机发电机而言，有较大的进相能力。当然，一般\n的机组最好不要进相运行。进相运行的最大危害就是发热。若\n运行中该进相是由设备原因引起，在发电机还没有出现振荡或\n\n283\n失步的情况下，可适当降低有功，增加励磁，使发电机脱离进\n相状态，然后查明进相原因。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4F3003_q.png",
-    "a_img": "q2_answer_images/E_Jd4F3003_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33103,7 +30823,6 @@ window.QUIZ_DATA = [
     "a": "答：依据发电机容量大小，类型、重要程度及特点，装设\n下列发电机保护，以便及时反映发电机的各种故障及不正常工\n作状态。\n(1) 纵差动保护。用于反映发电机线圈及其引出线的相间\n短路。\n(2)横差动保护。用于反映发电机定子绕组的一相的一个\n分支匝间或二个分支间短路。\n(3)过电流保护。用于切除发电机外部短路引起的过流，\n并作为发电机内部故障的后备保护。\n(4)单相接地保护。反映定子绕组单相接地故障。在不装\n设单相接地保护时，应用绝缘监视装置发出接地故障信号。\n(5)不对称过负荷保护。反映不对称负荷引起的过电流，\n一般在5MW以上的发电机应装设此保护，动作于信号。\n(6)对称过负荷保护。反映对称过负荷引起的过电流，一\n般应装设于一相过负荷信号保护。\n(7)无负荷过压保护。反映大型汽轮发电机突然甩负荷时，\n引起的定子绕组的过电压。\n(8)励磁回路的接地保护，分转子一点接地保护和转子两\n点接地保护。反映励磁回路绝缘不好。\n(9)失磁保护。是反应发电机由于励磁故障造成发电机失\n磁，根据失磁严重程度，使发电机减负荷或切厂用电或跳发电\n机。\n(10)发电机断水保护。装设在水冷发电机组上，反映发电\n机冷却水源消失。\n以上十种保护是大型发电机必需的保护。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n284\n论\n述\n题\n鉴\n定\n试\n题\n库\n为了快速消除发电机故障，以上介绍的各类保护，除已标\n明作用于信号的外，其他保护均作用发电机断路器跳闸，并且\n同时作用于自动灭磁开关跳闸，断开发电机断路器。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4F4004_q.png",
-    "a_img": "q2_answer_images/E_Jd4F4004_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33115,7 +30834,6 @@ window.QUIZ_DATA = [
     "a": "答：新安装或检修后及停运半个月以上的变压器，投入运\n行前，均应测定变压器线圈的绝缘电阻。\n测量变压器线圈的绝缘电阻时，对运行电压在500V以上，\n应使用1000～2500V兆欧表，500V以下可用500V兆欧表。\n测量变压器绝缘电阻时应注意以下问题。\n(1)必须在变压器停电时进行，各线圈都应有明显断开点；\n(2)变压器周围清洁，无接地物，无作业人员；\n(3)测量前用地线对变压器线圈和铁芯应对地放电，测量\n后也应对地放电；\n(4)测量使用的兆欧表应符合电压等级的要求；\n(5)中性点接地的变压器，测量前应将中性点刀闸拉开，\n测量后应恢复原位。\n变压器绝缘状况的好坏按以下要求判定。\n(1)变压器在使用时，所测得的绝缘电阻值，与变压器安\n装或大修干燥后投入运行前测得的数值之比，不得低于50%。\n(2)吸收比R60“/R₁5”不得小于1.3倍。\n符合上述条件，则认为变压器绝缘合格。",
     "o": null,
     "q_img": "q2_question_images/E_Jd4F5005_q.png",
-    "a_img": "q2_answer_images/E_Jd4F5005_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33127,7 +30845,6 @@ window.QUIZ_DATA = [
     "a": "答：厂用电系统的倒闸操作应遵循下列规定：\n(1)厂用电系统的倒闸操作和运行方式的改变，应由值长\n发令，并通知有关人员。\n(2)除紧急操作和事故处理外，一切正常操作应按规定填\n写操作票，并严格执行操作监护及复诵制度。\n\n285\n(3)厂用电系统倒闸操作，一般应避免在高峰负荷或交接\n班时进行。操作当中不应进行交接班，只有当操作全部终结或\n告一段落时，方可进行交接班。\n(4)新安装或进行过有可能变换相位作业的厂用电系统，\n在受电与并列切换前，应检查相序、相位的正确性。\n(5)厂用电系统电源切换前，必须了解电源系统的连接方\n式。若环网运行，应并列切换，若开环运行及事故情况下对系\n统接线方式不清时，不得并列切换。\n(6)倒闸操作应考虑环并回路与变压器有无过载的可能，\n运行系统是否可靠及事故处理是否方便等。\n(7)厂用电系统送电操作时，应先合电源侧隔离开关、后\n合负荷侧隔离开关。停电操作与此相反。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F1006_q.png",
-    "a_img": "q2_answer_images/E_Jd3F1006_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33139,7 +30856,6 @@ window.QUIZ_DATA = [
     "a": "答：遇有下列情况：\n(1)电动机内发出不正常的声音或绝缘有烧焦的气味；\n(2)电动机内或启动调节装置内出现火花或烟气；\n(3)静子电流超过运行的数值；\n(4)出现强烈的振动；\n(5)轴承温度出现不允许的升高。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F2007_q.png",
-    "a_img": "q2_answer_images/E_Jd3F2007_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33151,7 +30867,6 @@ window.QUIZ_DATA = [
     "a": "答：现象：三相电压不平衡，一或两相电压升高超过线电\n压。\n消除办法：改变系统参数，如：\n(1) 断开充电断路器，改变运行方式。\n(2)投入母线上的线路，改变运行方式。\n(3)投入母线上的备用变压器或所用变压器。\n(4)将TV 开口三角侧短接。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n286\n(5)投、切电容器或电抗器。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F3008_q.png",
-    "a_img": "q2_answer_images/E_Jd3F3008_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33163,7 +30878,6 @@ window.QUIZ_DATA = [
     "a": "答：继电保护装置就是能反应电力系统中各电气设备发生\n故障或不正常工作状态，并作用于断路器跳闸或发出信号的一\n种自动装置。它的基本任务是：\n(1) 能自动地、迅速地、有选择性地借助断路器将故障设\n备从系统中切除，保证无故障设备迅速恢复正常运行，并使故\n障设备免于继续遭受破坏。\n(2) 能反应电气设备的不正常工作状态：并根据运行维护\n的条件作用于信号或将那些继续运行即会造成损坏或发展为故\n障的设备切除。反应不正常状态的继电保护，通常都不需要立\n即动作，即可带一定的延时。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4009_q.png",
-    "a_img": "q2_answer_images/E_Jd3F4009_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33175,7 +30889,6 @@ window.QUIZ_DATA = [
     "a": "答：用来供给继电保护装置工作的电源有直流和交流两种。\n无论哪种操作电源，都必须保证在系统故障时，保护装置能可\n靠工作，工作电源的电压要不受系统事故和运行方式变化的影\n响。\n直流电源取自直流发电机和蓄电池供电，其电压为110V\n或220V, 它与被保护的交流系统没有直接联系，是一个独立电\n源。蓄电池组储存足够的能量，即使在发电厂或变电所内完全\n停电的情况下，也能保证继电保护、自动装置的可靠工作。直\n流电源的缺点是：需要专门的蓄电池组和辅助设备，投资大、\n运行维护麻烦，直流系统复杂，发生接地故障后，难以寻找故\n障点，降低了操作回路的可靠性。\n继电保护采用交流工作电源时有两种供电方式：一种是将\n交流电源整流成直流后，供给继电保护、自动装置用。另一种\n是全交流的工作电源，由电流、电压互感器供电。由于继电保\n护、自动装置采用交流电源，则应采用交流继电器进行工作。\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n287\n交流电源与直流电源比较，有节省投资、简化运行维护工\n作量等优点。其缺点是可靠性差，特别在交流系统故障时，操\n作电源受到影响大，所以应用还不够广泛。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4010_q.png",
-    "a_img": "q2_answer_images/E_Jd3F4010_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33187,7 +30900,6 @@ window.QUIZ_DATA = [
     "a": "答：备用电源自动投入装置就是当工作电源因故障跳闸后，\n能自动地而且迅速地将备用电源投入，使用户不致于停电的一\n种装置，简称为BZT装置。\n对BZT装置的基本要求有以下几点：\n(1) 装置的启动部分应能反应工作母线失去电压的状态。\n(2)为防止工作电源与备用电源之间发生非同期并列，要\n求只有当工作电源断开后，备用电源方可投入。\n(3) BZT装置只能动作一次，以免在母线上或引出线上发\n生持续性故障时，备用电源被多次投入到故障元件上，造成更\n严重的事故。\n(4)BZ T装置应该保证停电时间最短，使电动机容易自启\n动。\n(5)当电压互感器的熔断器熔断时BZT装置不应动作。\n(6)当备用电源无电压时，BZT装置不应动作。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4011_q.png",
-    "a_img": "q2_answer_images/E_Jd3F4011_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33199,7 +30911,6 @@ window.QUIZ_DATA = [
     "a": "答：氢冷发电机漏氢的原因主要有以下几点：\n(1)氢管路系统的焊缝、阀门及法兰不严密引起漏氢；\n(2)机座、端罩及出线罩的结合面，由于密封胶没注满密\n封槽或密封胶、密封橡胶条等老化引起漏氢；\n(3)密封瓦有缺陷或密封油压过低，使油膜产生断续现象，\n造成大量漏氢；\n(4)氢冷器不严密，使氢气漏入氢冷却水中；\n(5)定子内冷水系统，尤其是绝缘引水管接头等部位不严\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n288\n密，使氢气漏入内冷水中。\n发电机漏氢量较大时，应对内冷水箱、氢冷器放气门、发\n电机两侧轴瓦、发电机各结合面处、密封油箱及氢系统的管路、\n阀门等处进行重点查找。\n通常采用专门检漏仪、涂刷洗净剂水、洗衣粉水或肥皂水\n等办法查找。\n内冷水系统有微量漏氢时，一定要保持氢压高于水压\n0.05MPa 以上，应尽早安排停机处理。大量漏氢时，应立即停\n机处理，不可延误。\n氢冷器漏氢时，将漏泄的氢冷器进、出口水门关闭，根据\n温升情况降低发电机负荷，进行堵漏。\n密封油压低造成漏氢时，应提高油压。\n密封瓦缺陷及发电机各结合面不严造成漏氢，可在大、小\n修或临检时处理。\n在发电机运行时如果漏点不能消除而氢压不能保持时，则\n可降低氢压运行，同时按低氢压运行的规定降低负荷，此时应\n采取措施防止空气进入发电机外壳内。发电机大量漏氢时，应\n做好防止氢爆的安全措施。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4012_q.png",
-    "a_img": "q2_answer_images/E_Jd3F4012_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33211,7 +30922,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机内所进的油均来自密封瓦。20号透平油含有油\n烟、水分和空气，大量进油后危害是：\n(1)侵蚀电机的绝缘，加快绝缘老化；\n(2)使发电机内氢气纯度降低，增大排污补氢量；\n(3)如果油中含水量大，将使发电机内部氢气湿度增大，\n使绝缘受潮，降低气体电击穿强度，严重时可能造成发电机内\n部相间短路。\n处理：\n(1) 控制发电机氢、油压差在规定范围，不要过大，以防\n止进油；\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n289\n(2) 运行人员加强监视，发现有油及时排净，不使油大量\n积存；\n(3)保持油质合格；\n(4)经常投入氢气干燥器，使氢气湿度降低；\n(5)如密封瓦有缺陷，应尽早安排停机处理。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4013_q.png",
-    "a_img": "q2_answer_images/E_Jd3F4013_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33223,7 +30933,6 @@ window.QUIZ_DATA = [
     "a": "答：常用电刷分三类：\n(1)石墨电刷；\n(2)电化石墨电刷；\n(3)金属石墨电刷。\n特点：\n石墨电刷电阻系数小，电刷上的接触电压降较小。\n电化石墨电刷电阻系数大，电刷上的接触电压降较大。\n金属石墨电刷电阻系数小，电刷上的接触电压降小。\n不同牌号的电刷具有不同的接触电阻，接触电阻大的，换\n向性能好，能限制换向元件中的附加电流，故抑制火花能力\n强。\n但过大又会造成电刷接触电压降增大，滑动的接触点上电\n能损耗增大，引起电刷和换向器发热。另外，还应根据具体情\n况考虑电流的大小，电刷的压力，周围环境的温度、湿度，电\n刷与换向器的磨损以及噪声等因素。因此，在选择电刷时，要\n以具体的电动机来考虑。对一般情况，小型电动机应采用S-3\n型石墨电刷；对于牵引电动机等应采用接触电阻较大的硬质电\n化石墨电刷，如DS-8、DS-14及DS-74B型；而对于低电压、\n大电流的电动机，应采用接触电压较小的含铜石墨电刷，如\nF-1、F-5型；如需要减小换向器的磨损时，应采用软质电化石\n墨电刷，如DS-4、DS-72 型。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n290\n论\n述\n题\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4014_q.png",
-    "a_img": "q2_answer_images/E_Jd3F4014_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33235,7 +30944,6 @@ window.QUIZ_DATA = [
     "a": "答：定子绕组采用水内冷的发电机，两侧汇流管管壁上分\n别焊接一根导线，通常叫做屏蔽线。并将其接至发电机接线盒\n内的专用端子，通常叫做屏蔽端子。运行中将两个屏蔽端子通\n过外部引线连在一起接在接地端子上，即运行中两侧汇流管屏\n蔽线接地，停机测发电机定子绕组绝缘时，将两个屏蔽端子通\n过外部引线连在一起接在兆欧表屏蔽端，即停机测发电机定子\n绕组绝缘时将屏蔽线接兆欧表屏蔽端。\n发电机运行中两侧汇流管屏蔽线接地，主要是为了人身和\n设备的安全，因为汇流管距发电机线圈端部近，且汇流管周围\n埋很多测温元件，如果不接地，一旦线圈端部绝缘损坏或绝缘\n引水管绝缘击穿，使汇流管带电，对在测温回路工作的人员和\n测温设备都是危险的。\n用兆欧表测发电机定子绕组对地绝缘电阻，实际上是在定\n子绕组和地端之间加一直流电压，测量流过的电流及其变化情\n况，来判断绝缘好坏。电流越大，兆欧表指针偏转角度越小，\n指示的绝缘电阻值越小。定子绕组采用水内冷的发电机，由于\n外部水系统管道是接地的，且水中含有导电离子，当兆欧表的\n直流电压加在绕组和地端之间时，水中要产生漏泄电流，水中\n的漏泄电流流入兆欧表的测量机构，将使绝缘电阻读数显著下\n降，引起错误判断。测发电机定子绕组绝缘时，若采用将两侧\n汇流管屏蔽线接到摇表的屏蔽端的接线方式，可使水中的漏泄\n电流经摇表的屏蔽端直接流回摇表的电源负极，不流过测量机\n构，也就不会带来误差，即消除水中漏泄电流的影响。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4015_q.png",
-    "a_img": "q2_answer_images/E_Jd3F4015_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33247,7 +30955,6 @@ window.QUIZ_DATA = [
     "a": "答：常用的变压器油有3种，其代号为DB-10、DB-25、\nDB-45。\n\n291\n变压器油在变压器中起绝缘和散热作用，变压器油是矿物\n油，由于它的成分不同，若将不同的变压器油混合在一起，对\n油的安定度有影响，会加快油质的劣化，所以不同型号的变压\n器油一般不应混合使用。如果同型号的油不足的情况下不得不\n混合使用时，则应经过混油试验，即通过化学、物理化验证明\n可以混合，再混合使用。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5016_q.png",
-    "a_img": "q2_answer_images/E_Jd3F5016_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33259,7 +30966,6 @@ window.QUIZ_DATA = [
     "a": "答：当启动电动机的开关合闸后，电动机不转动而只发出\n响声，或者不能达到正常转速，则为电动机启动不良，应立即\n停止故障电动机，检查原因，主要原因：\n(1)机械有损坏或卡住；\n(2)转子回路可能有断线或接触不良。鼠笼式电动机铜条\n和端环间的连接破坏；绕组式转子电动机的变阻器回路断开，\n电缆的连接点破坏，电刷器有毛病，引线与滑环的连接破坏等；\n(3)定子回路有一相断线；\n(4)定子回路接线错误。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5017_q.png",
-    "a_img": "q2_answer_images/E_Jd3F5017_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33271,7 +30977,6 @@ window.QUIZ_DATA = [
     "a": "答：若加于变压器的电压低于额定值，对变压器寿命不会\n有任何不良影响，但将影响变压器容量不能充分利用。\n若加于变压器的电压高于额定值，对变压器是有不良影响\n的。当外加电压增大时，铁芯的饱和程度增加，使电压和磁通\n的波形发生严重的畸变，且使变压器的空载电流大增。\n电压波形的畸变也即出现高次谐波，这要影响电能质量，\n其危害如下：\n(1)引起用户电流波形的畸变，增加电机和线路上的附加\n损耗。\n(2)可能在系统中造成谐波共振现象，导致过电压使绝缘\n损坏。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n292\n(3)线路中电流的高次谐波会影响电信线路，干扰电信的\n正常工作。\n(4)某些高次谐波会引起某些继电保护装置不正确动作。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5018_q.png",
-    "a_img": "q2_answer_images/E_Jd3F5018_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33283,7 +30988,6 @@ window.QUIZ_DATA = [
     "a": "答：现代电力系统中变压器中性点的接地方式分为三种：\n中性点不接地；中性点经消弧线圈接地；中性点直接接地。\n在中性点不接地系统中，当发生单相金属性接地时，三相\n系统的对称性不被破坏，在某些条件下，系统可以照常运行，\n但是其他两相对地电压升高到线电压水平。\n当系统容量较大，线路较长时，接地电弧不能自行熄灭。\n为了避免电弧过电压的发生，可采用经消弧线圈接地的方式。\n在单相接地时，消弧线圈中的感性电流能够补偿单相接地的电\n容电流。既可保持中性点不接地方式的优点，又可避免产生接\n地电弧的过电压。\n随着电力系统电压等级的增高和系统容量的扩大，设备绝\n缘费用占的比重越来越大，采用中性点直接接地方式，可以降低\n绝缘的投资。我国110、220、330kV及500kV 系统中性点皆直\n接接地。380V的低压系统，为方便的抽取相电压，也直接接地。\n关于变压器中性点套管上正常运行时有没有电压问题，这\n要具体情况具体分析。理论上讲，当电力系统正常运行时，如\n果三相对称，则无论中性点接地采用何种方式，中性点的电压\n均等于零。但是，实际上三相输电线对地电容不可能完全相等，\n如果不换位或换位不当，特别是在导线垂直排列的情况下，对\n于不接地系统和经消弧线圈接地系统，由于三相不对称，变压\n器的中性点在正常运行时会有对地电压。在消弧线圈接地系统，\n还和补偿程度有关。对于直接接地系统，中性点电位固定为地\n电位，对地电压应为零。\n鉴\n定\n试\n题\n库\n\n293",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5019_q.png",
-    "a_img": "q2_answer_images/E_Jd3F5019_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33295,7 +30999,6 @@ window.QUIZ_DATA = [
     "a": "答：高压厂用母线电压互感器停电时应注意下列事项：\n(1)停用电压互感器时，应首先考虑该电压互感器所带继\n电保护及自动装置，为防止误动可将有关继电保护及自动装置\n或所用的直流电源停用。\n(2)当电压互感器停用时，应将二次侧熔断器取下。然后\n将一次熔断器取下。\n(3)小车式或抽匣式电压互感器停电时，还应将其小车或\n抽匣拉出，其二次插件同时拔出。\n高压厂用母线电压互感器送电时应注意下列事项：\n(1) 应首先检查该电压互感器所带的继电保护及自动装置\n确在停用状态。\n(2)将电压互感器的一次侧熔断器投入。\n(3)小车式或抽匣式电压互感器推至工作位置。\n(4)将电压互感器的二次侧熔断器投入。\n(5)小车式或抽匣式电压互感器的二次插件投入。\n(6)停用的继电保护及自动装置直流电源投入。\n(7)电压互感器本身检修后，在送电前还应按规定测高、\n低压绕组的绝缘状况。\n(8)电压互感器停电期间，可能使该电压互感器所带负荷\n的电度表转速变慢，但由于厂用电还都装有总负荷电度表，因\n此，电压互感器停电期间，各分负荷所少用的电量不必追计。",
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5020_q.png",
-    "a_img": "q2_answer_images/E_Jd3F5020_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33307,7 +31010,6 @@ window.QUIZ_DATA = [
     "a": "答：这要从自动空气开关和交流接触器的性能说起，自动\n空气开关有过载、短路和失压保护功能，但在结构上它着重提\n高了灭弧性能，不适宜于频繁操作。而交流接触器没有过载、\n短路的保护功能，只适用于频繁操作。因此，有些需要在正常\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n294\n论\n述\n题\n鉴\n定\n试\n题\n库\n工作电流下进行频繁操作的场所，常采用自动空气开关串联交\n流接触器的接线方式。这样既能由交流接触器承担工作电流的\n频繁接通和断开，又能由自动空气开关承担过载、短路和失压\n保护。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F1021_q.png",
-    "a_img": "q2_answer_images/E_Jd2F1021_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33319,7 +31021,6 @@ window.QUIZ_DATA = [
     "a": "答：距离保护的组成按作用可分为下列几部分：\n(1)测量元件：用以测量被保护线路相间短路时由保护安\n装处到故障点的阻抗。每相有两个方向阻抗继电器，一段每相\n单独用一个方向阻抗继电器；二、三段每相共用一个方向阻抗\n继电器，正常时阻抗继电器工作在二段上，当故障发生在第三\n段保护范围内时，由切换继电器切换到第三段。\n(2) 保护启动元件：一般由负序电流及零序电流增量元件\n构成。其主要作用是在发生故障的瞬间短时间内(0.3s 内) 启\n动整套保护，并兼起系统振荡闭锁保护的作用。\n(3)电压断线闭锁装置：采用交流二次与三次零序平衡原\n理，当交流电压二次回路发生断线，交流二次出现零序电压而\n三次无零序电压，断线闭锁装置动作，将保护闭锁，并发出断\n线闭锁信号。\n(4)振荡闭锁装置：其作用是当电力系统发生振荡时，闭\n锁一、二段保护，使一、二段保护在系统振荡期间退出工作，\n防止其误动。\n(5)直流回路：主要实现距离保护三段式阶梯时限特性，\n振荡、断线闭锁保护，重合闸各种后加速跳闸方式以及各种信\n号正确表示等的直流逻辑回路。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F2022_q.png",
-    "a_img": "q2_answer_images/E_Jd2F2022_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33331,7 +31032,6 @@ window.QUIZ_DATA = [
     "a": "答：当电压互感器二次回路断线造成距离保护失去电压时，\n由于电流回路仍然有负荷电流，阻抗继电器有可能误动作。为\n了防止距离保护在电压回路断线时误动作，距离保护中设置了\n\n295\n电压回路断线闭锁装置。该装置在距离保护交流电压回路断线\n时，将整套保护闭锁。对于采用负序、零序电流增量元件作为\n启动元件的距离保护来说，虽然增量元件能起到断线闭锁的作\n用，但当电压回路断线时，外部又发生故障。由于增量元件的\n动作将引起保护误动，所以也必须装设断线闭锁装置。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F2023_q.png",
-    "a_img": "q2_answer_images/E_Jd2F2023_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33343,7 +31043,6 @@ window.QUIZ_DATA = [
     "a": "答：电压互感器常见的接线方式有：Vv, YNynd,Yyn 和\nDyn等。\nVv接线。在只需要测线电压的场合，用两只单相电压互感\n器，接成Vv 接线。这种接法仅用于中性点不接地或经消弧线\n圈接地的系统中。380V 厂用母线电压互感器也用这种接线方\n式。这种接线较经济，但有局限性。\nYNynd 接线。这种接线方式可测量线、相电压，又能\n组成绝缘监察装置和供单相接地保护用，应用比较广泛。可\n接成这种接线方式的电压互感器必须有第三线圈。三只单\n相三线圈电压互感器和三相五柱式电压互感器，都可接成这\n种接线。\nYyn接线。这种接线方式可满足仪表和继电保护装置接相\n电压和线电压的要求，但是，不能测量对地电压。这种接线可\n由三只单相电压互感器组成，也可用三相三柱式互感器，接于\n中性点不接地或经消弧线圈接地的系统中。\nDyn接线。这种接线方式只用于发电机的电磁式电压校正\n器的电压互感器中。因为：\n(1) 可以充分利用电压互感器容量。\n(2)使接线组别与校正器的区分，变压器及电流互感器的\n接线方式相配合，可以使校正器的特性随发电机负荷变化，得\n到所需要的调差系数。\n(3)二次侧接成星形，便于取得接地点(中性点)。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n296",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F2024_q.png",
-    "a_img": "q2_answer_images/E_Jd2F2024_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33355,7 +31054,6 @@ window.QUIZ_DATA = [
     "a": "答：电压互感器投入运行，要检验其接线与其他二次回路\n有关电压线关系的正确性。包括：\n(1) 测量相、线电压应正常。\n(2)测量相序应为正相序。\n(3)核相，确定相位的正确性。\n如果相序、相位不正确将无法用以测量一次系统的相位，\n无法进行同期并列和电压互感器间的并列。在日常运行和操作\n中有时需要两母线上的电压互感器短时间进行并列，如两个母\n线绝缘监察切换开关同时插入，造成的两台电压互感器并列；\n倒母线时造成的两台电压互感器并列等，因此在电压互感器投\n入运行前必须进行核相。核相的步骤如下：\n(1) 校验核相所用的三相电压是否对称。\n(2)按接线组别，分别测量两互感器二次侧端子间的各电\n压。\n(3)根据测定结果，检查二次端子的标号及所接端子排是\n否正确。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F3025_q.png",
-    "a_img": "q2_answer_images/E_Jd2F3025_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33367,7 +31065,6 @@ window.QUIZ_DATA = [
     "a": "答：为防止高压系统受电压互感器本身或其引出线上故障\n的影响和对电压互感器自身的保护，所以在一次侧装设熔断器。\n110kV及以上的配电装置中，电压互感器高压侧不装熔断\n器。\n电压互感器二次侧出口是否装熔断器有几个特殊情况：\n(1) 二次接线为开口三角的出线除供零序过电压保护用以\n外，一般不装熔断器。\n(2)中线上不装熔断器。\n(3) 接自动电压调整器的电压互感器二次侧不装熔断器。\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n297\n(4) 110kV及以上的配电装置中的电压互感器二次侧装空\n气小开关而不用熔断器。\n二次侧熔断器选择的原则是：熔件的熔断时间必须保证在\n二次回路发生短路时小于保护装置动作时间。熔件额定电流应\n大于最大负荷电流，且取可靠系数为1.5。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4026_q.png",
-    "a_img": "q2_answer_images/E_Jd2F4026_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33379,7 +31076,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器因用途不同，有的一次电流随二次电流变化，\n有的二次电流随一次电流变化，例如普通降压变压器的一次电\n流就是随二次电流变化，二次电流起主导作用，而电流互感器\n的一次电流由主电路负荷决定，不由二次电流决定，永远是一\n次电流起主导作用。\n电流互感器二次回路所串接的负荷是电流表和继电器的电\n流线圈，阻抗很小，因此电流互感器的正常运行情况，相当于\n二次短路变压器的运行状态。\n变压器的一次电压决定了铁芯中的主磁通，主磁通又决定\n了二次电动势，因此一次电压不变，二次电动势也基本不变。\n电流互感器则不然，二次回路的阻抗变化时，影响二次电动势。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4027_q.png",
-    "a_img": "q2_answer_images/E_Jd2F4027_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33391,7 +31087,6 @@ window.QUIZ_DATA = [
     "a": "答：电流互感器的准确等级分0.2、0.5、1、3、10共五级。\n一般发电机、变压器、厂用电、引出线等回路中的电度表，\n用0.5级电流互感器。\n供运行监视、估算电能的电度表、功率表、电流表用的电\n流互感器为1级。\n无被测值或估计被测值大小的表计用的电流互感器为3级\n或者10级。\n用于继电保护的电流互感器为一级。\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n298\n鉴\n定\n试\n题\n库\n0.2级用于精密试验，测量。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4028_q.png",
-    "a_img": "q2_answer_images/E_Jd2F4028_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33403,7 +31098,6 @@ window.QUIZ_DATA = [
     "a": "答：原理图如图F-1 所示。\n图F-1\n1—线圈；2—电磁铁；3—气隙；4—可动衔铁；5、6—接点；7一弹簧；8—止挡\n主要技术参数有：\n(1) 起动电流。使继电器可动衔铁克服弹簧拉力而触点可\n靠闭合的最小电流值，称为继电器的起动电流。\n(2)返回电流。使继电器在弹簧拉力作用下返回原位的最\n大电流值，称为继电器的返回电流。\n(3)返回系数。返回电流与起动电流的比值，称为继电器\n的返回系数。在实际应用中返回系数一般为0.85～0.9。返回系\n数越大则保护装置的灵敏度越高，但过大的返回系数会使继电\n器触点闭合不够可靠。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4029_q.png",
-    "a_img": "q2_answer_images/E_Jd2F4029_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33415,7 +31109,6 @@ window.QUIZ_DATA = [
     "a": "",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4030_q.png",
-    "a_img": "q2_answer_images/E_Jd2F4030_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33427,7 +31120,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机大轴接地电刷具有如下三种用途：\n(1)消除大轴对地的静电电压；\n(2)供转子接地保护装置用；\n(3)供测量转子线圈正、负极对地电压用。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n300\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5031_q.png",
-    "a_img": "q2_answer_images/E_Jd2F5031_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33439,7 +31131,6 @@ window.QUIZ_DATA = [
     "a": "答：大修后的发电机，在整套启动并网前，都要做短路和\n空载特性试验。这两项试验都属于发电机的特性和参数试验。\n它与预防性试验的目的不同，这类试验是为了了解发电机的运\n行性能、基本量之间关系的特性曲线以及被发电机结构确定了\n的参数。因为这些性能曲线和参数是电厂运行中分析发电机的\n某些问题、电力系统调度部门研究计算继电保护和系统稳定问\n题时所需用的。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5032_q.png",
-    "a_img": "q2_answer_images/E_Jd2F5032_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33451,7 +31142,6 @@ window.QUIZ_DATA = [
     "a": "答：大修后的发电机，为了验证同期回路的正确性，并网\n前应做假同期试验。其操作步骤如下：\n220kV\n220kV\nTV\n主油断路器\n主变压器\nTV\nG\nI 母线\nⅡ母线\n图F-2\n假同期试验系统接线\n\n301\n(1) 将220kVI 母线上运行的所有元件倒至Ⅱ母线，拉开\n母联断路器，I 母线停电。\n(2)合上主变中性点接地开关及I 母隔离开关。\n(3)保持发电机转速为额定值。\n(4)合上灭磁开关，合上同期开关，将同期方式选择开关\n切至手动位置，合上主油断路器，升压，检查220kVI 母线电\n压表及发电机出口电压表指示情况，正常，升压至额定值。\n(5)检查频率差表针和电压差表针应在零位，同步表针应\n指同步点，同期检查继电器应返回，其动断触点应闭合。拉开\n同期开关，将同期方式选择开关切至断开位置(同步表通电时\n间不能超过15min)。\n(6)220 kVI 母线TV 二次与发电机出口TV 二次定相，相\n位正确后，拉开主油断路器，拉开主变I 母线隔离开关并将其\n辅助接点垫上，以使同期电压能够切换。\n(7)合上母联断路器，用220kVⅡ母线电源向I 母线充电。\n(8)调整发电机电压和频率与系统一致，合上同期开关，\n将同期方式选择开关切至手动位置，检查频率差表、电压差表、\n同步表及同期检查继电器指示无误，动作正确，在同步点合上\n主油断路器(假同期并列)。\n(9)假同期并列正确后，拉开同期开关，将同期方式选择\n开关切至断开位置，拉开主油断路器，降发电机电压，拉开灭\n磁开关，将主变压器I 母线隔离开关辅助接点恢复正常。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5033_q.png",
-    "a_img": "q2_answer_images/E_Jd2F5033_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33463,7 +31153,6 @@ window.QUIZ_DATA = [
     "a": "答：启机前运行人员应进行下述试验：\n(1) 测量机组各部绝缘电阻应合格。\n(2)投入直流后，各信号应正确。\n(3)自动调节励磁装置电压整定电位器、感应调压器及调\n速电机加减方向正确、动作灵活。\n(4)做发电机出口断路器、励磁系统各开关及厂用工作电\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n302\n源开关拉合闸试验。大、小修或电气回路作业后，启机前还应\n做下述试验：\n1)做保护动作跳主油断路器、灭磁开关及厂用工作电源开\n关试验。\n2)自动调节励磁装置强励限制试验。\n3)备励强励动作试验。\n4) 同期检定试验。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5034_q.png",
-    "a_img": "q2_answer_images/E_Jd2F5034_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33475,7 +31164,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机启动升压过程中，监视转子电流的目的：\n(1) 监视转子电流和与之对应的定子电压，可以发现励磁\n回路有无短路。\n(2)额定电压下的转子电流较额定空载励磁电流显著增大\n时，可以粗略判定转子有匝间短路或定子铁芯有局部短路。\n(3) 电压回路断线或电压表卡涩时，防止发电机电压升高，\n威胁绝缘。\n发电机启动升压过程中，监视定子电流是为了判断发电机\n出口及主变压器高压侧有无短路线。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5035_q.png",
-    "a_img": "q2_answer_images/E_Jd2F5035_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33487,7 +31175,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机滑环电刷冒火的原因和消除的方法如下：\n(1)电刷研磨不良，接触面积小。应重磨电刷或使发电机\n在轻负荷下作长时间运行，直到磨好为止。\n(2)电刷和引线、引线和接线端子间的连接松动，接触电\n阻大，造成负荷分配不均匀。应检查电刷与铜辫的接触及引线\n回路中各螺丝是否上紧，接触是否良好。\n(3)电刷牌号不符合规定，或部分换用了不同牌号的电刷。\n应检查电刷牌号，更换成制造厂指定的或经试验适用的电刷。\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n303\n(4)电刷压力不均匀，或不符合要求。调整弹簧压力(电\n刷的压力应按制造厂规定，制造厂无规定)。\n(5)电刷磨短。电刷磨短至规定值时，必须更换。\n(6)滑环和电刷表面不洁，随不洁程度，可能在个别电刷\n上，也可能在全部电刷上发生火花。用白布浸少许酒精擦拭滑\n环，用干净白布擦电刷表面，在研磨工具上，覆以细玻璃砂纸\n研磨滑环。\n(7)电刷在刷框中摇摆或动作滞涩，火花随负荷而增加。\n应检查电刷在刷框内的情况，能否上下自由活动，更换摇摆的\n和滞涩的电刷。电刷在刷框内应有0.1～0.2mm的间隙。\n(8)滑环磨损不均匀、电刷松弛或机组振动等原因造成电\n刷振动，火花依振动的大小而不同。应查明振动的原因并消除\n之。\n(9)滑环不圆、表面不平、严重磨损或撞伤。应进行车磨。\n滑环电刷维护时注意事项：\n在运行中的发电机滑环电刷上工作时，工作人员应穿绝缘\n鞋或铺胶皮垫，使用绝缘良好的工具并应采取防止短路及接地\n的措施。当励磁系统有一点接地时，更应注意。禁止同时用两\n手接触发电机励磁回路和接地部分或两个不同极的带电部分。\n工作时应穿工作服，禁止穿短袖衣服或把衣袖卷起来。衣袖要\n小，并在手腕处扣住。女工还应将长发或辫子卷在帽子内。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5036_q.png",
-    "a_img": "q2_answer_images/E_Jd2F5036_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33499,7 +31186,6 @@ window.QUIZ_DATA = [
     "a": "答：水具有非常高的导热性能，它的冷却能力比空气大125\n倍，比氢气大40倍，且水的化学性能稳定，不燃烧、价廉。\n定子绕组是静止的，采用水冷却时它的冷却水系统比较简\n单，这是大容量汽轮发电机定子绕组广泛采用水冷却的另一个\n原因。\n通常对冷却水质量有如下要求：电导率不大于2μS/ cm,\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n304\n论\n述\n题\n鉴\n定\n试\n题\n库\npH值为7～8,硬度小于2微克当量/L,\n允许有微量的NH₃,\n水质透明纯净、无机械混合物。\n电导率：反映水中金属离子和盐分含量。电导率过高，铜\n线腐蚀速度加快，以致堵塞水孔。另外，电导率过高将引起泄\n漏电流增加，使损耗增大，严重时引起绝缘引水管绝缘击穿水\n闪络。\npH值：反映水质的酸碱度。pH值过大或过小均使水的电\n导率增大，腐蚀加快。\n硬度：它标志着水中钙镁离子和盐分含量。硬度大，水的\n电导率增大，易结垢。\n定子内冷水水质不合格，长期运行将使空心导线内壁结垢，\n定子线棒温升逐年升高，严重时可造成局部堵塞过热，甚至使\n绝缘引水管绝缘击穿，造成事故。",
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5037_q.png",
-    "a_img": "q2_answer_images/E_Jd2F5037_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33511,7 +31197,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)转子电流指示为零或接近于零。当发电机失去励\n磁后，转子电流迅速地依指数规律衰减，其减小的程度与失磁\n原因、剩磁大小有关。当励磁回路开路时，转子电流表指示为\n零；当励磁回路短路或经小电阻闭合时，转子回路有交流电流\n通过，直流电流表有指示，但指示值很小。\n(2)定子电流增大并波动。失磁后的发电机进入异步运行\n状态时，既向电网送出有功功率，又从电网吸收无功功率，所\n以造成电流上升。波动的原因简单地说是由于转子回路中有差\n频脉动电流所引起的。\n(3)有功功率降低并波动。异步运行发电机的有功功率的\n平均值比失磁前略有降低，这是因为机组失磁后，转子电流很\n快以指数曲线衰减到零，原来由转子电流所建立的转子磁场也\n很快消失，这样作为原动机力矩的电磁转矩也消失了，“释载”\n的转子在原动机的作用下很快升速。这时汽轮机的调速系统自\n\n305\n动使汽门关小一些，以调整转速。所以在平衡点建立起来的时\n候，有功功率要下降一些。有功功率降低的程度和大小，与汽\n轮机的调整特性以及该发电机在某一些转差下所能产生的异步\n力矩的大小有关。\n(4)机端电压显著下降，且随定子电流波动。由于定子电\n流增大，线路压降增大，导致机端电压下降，危及厂用负荷安\n全稳定运行。如在发电机带50%额定功率时，6.3kV 母线电压\n平均值约为失磁前的78%,最低值达72%。\n(5)无功功率指示负值，发电机进相运行。\n(6)转子各部件温度升高。异步运行发电机的励磁绕组，\n阻尼绕组、转子铁芯等处产生滑差电流，从而在转子上引起损\n耗使温度升高，特别是在转子本体端部，温升更高，它们的大\n小与异步电磁转矩和滑差成正比，严重时将危及转子的安全运\n行。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1038_q.png",
-    "a_img": "q2_answer_images/E_Jd1F1038_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33523,7 +31208,6 @@ window.QUIZ_DATA = [
     "a": "答：GIS为GasInsulatedSwitchgear, 即气体绝缘开关设备。\nC-GIS为Cubic Gas Insulated Switchgear, 即箱式或罐式气体绝\n缘开关设备。\nGIS 指六氟化硫封闭式组合电器，它是把断路器、隔离开\n关、母线、接地开关、互感器、出线套管或电缆终端头等分别\n装在各自密封间中集中组成一个整体，外壳充以六氟化硫气体\n作为绝缘介质。结构紧凑、体积小、重量轻、不受大气条件影\n响、检修间隔长、无触电事故和电噪声干扰等优点。\nC-GIS 指的是气体绝缘金属封闭开关设备，一般采用真空\n断路器，隔离开关、电压互感器等设备密封在一个空间内，用\nSF₆气体绝缘，其他部分是传统空气绝缘。SF₆气室部分气压较\n低，一般是GIS 的几分之一。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n306\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1039_q.png",
-    "a_img": "q2_answer_images/E_Jd1F1039_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33535,7 +31219,6 @@ window.QUIZ_DATA = [
     "a": "答：发电机失磁异步运行时，一般处理原则如下：\n(1)对于不允许无励磁运行的发电机应立即从电网解列，\n以免损坏设备或造成系统事故。\n(2)对于允许无励磁运行的发电机应按无励磁运行规定执\n行以下操作：\n1)迅速降低有功功率到允许值(本厂失磁规定的功率值\n与表计摆动的平均值相符合),此时定子电流将在额定电流左右\n摆动。\n2) 手动断开灭磁开关，退出自动电压调节装置和发电机\n强行励磁装置。\n3) 注意其他正常运行的发电机定子电流和无功功率值是\n否超出规定，必要时按发电机允许过负荷规定执行。\n4) 对励磁系统进行迅速而细致的检查，如属工作励磁机\n的问题，应迅速启动备用励磁机恢复励磁。\n5) 注意厂用电母线电压水平，必要时可倒至备用电源供电。\n6)在规定无励磁运行的时间内，仍不能使机组恢复励磁，\n则应将发电机与系统解列。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1040_q.png",
-    "a_img": "q2_answer_images/E_Jd1F1040_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33547,7 +31230,6 @@ window.QUIZ_DATA = [
     "a": "答：采用钳形电流表测量绕线式异步电动机的转子电流时，\n必须采用具有电磁系测量机构的钳形表。如采用一般常见的整\n流式磁电系钳形表测量，指示值与被测量的实际值会有很大出\n入，甚至没有指示。其原因是，整流式磁电系钳形表的表头是\n与互感器的二次绕组相连的，表头电压是由二次绕组得到的。\n根据电磁感应原理可知，互感电动势E₂=4.44fND, 由公式不难\n看出，互感电动势的大小与频率成正比。当采用此种钳形表测\n量转子电流时，由于转子上的频率很低，表头上得到的电压将\n比测量同样电流值的工频电流小得多，有时电流很小，甚至不\n\n307\n能使表头中的整流元件导通，所以钳形电流表没有指示，或指\n示值与实际值有很大出入。\n如果采用电磁系测量机构的钳形表，由于测量机构没有二\n次绕组，也没有整流元件，磁回路中磁通直接作用表头，而且\n与频率没有关系，所以能够正确指示出转子电流的数值。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1041_q.png",
-    "a_img": "q2_answer_images/E_Jd1F1041_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33559,7 +31241,6 @@ window.QUIZ_DATA = [
     "a": "答：我国常采用电力系统正常时高频通道无高频电流的工\n作方式。由于高频通道涉及两个厂站的设备，其中输电线路跨\n越几千米至几百千米的地区，经受着自然界气候的变化和风、\n霜、雨、雪、雷电的考验。高频通道上各加工设备和收发信机\n元件的老化和故障都会引起衰耗；高频通道上任何一个环节出\n问题，都会影响高额保护的正常运行。系统正常运行时，高频\n通道无高频电流，高频通道上的设备有问题也不易发现，因此\n每日由运行人员用启动按钮启动高频发信机向对侧发送高频信\n号，通过检测相应的电流、电压和收发信机上相应的指示灯来\n检查高频通道，以确保故障时保护装置的高频部分能可靠工作。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1042_q.png",
-    "a_img": "q2_answer_images/E_Jd1F1042_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33571,7 +31252,6 @@ window.QUIZ_DATA = [
     "a": "答：主要区别是正常运行时，工作状态很不相同，表现为：\n(1)电流互感器二次可以短路，但不得开路；电压互感器\n二次可以开路，但不得短路。\n(2)相对于二次侧的负载来说，电压互感器的一次内阻抗\n较小以至可以忽略，可以认为电压互感器是一个电压源；而电\n流互感器的一次却内阻很大，以致可以认为是一个内阻无穷大\n的电流源。\n(3)电压互感器正常工作时的磁通密度接近饱和值，故障\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n308\n论\n述\n题\n鉴\n定\n试\n题\n库\n时磁通密度下降；电流互感器正常工作时磁通密度很低，而短\n路时由于一次侧短路电流变得很大，使磁通密度大大增加，有\n时甚至远远超过饱和值。\n电压互感器是一个内阻极小的电压源，正常运行时负载阻\n抗很大，相当于开路状态，二次侧仅有很小的负载电流，当二\n次侧短路时，负载阻抗为零，将产生很大的短路电流，会将电\n压互感器烧坏。因此，禁止电压互感器二次侧短路。\n电流互感器在正常运行时，二次电流产生的磁通势对一次\n电流产生的磁通势起去磁作用，励磁电流甚小，铁芯中的总磁\n通很小，二次绕组的感应电动势不超过几十伏。如果二次侧开\n路，二次电流的去磁作用消失，其一次电流完全变为励磁电流，\n引起铁芯内磁通剧增，铁芯处于高度饱和状态，加之二次绕组\n的匝数很多，根据电磁感应定律E=4.44fND, 就会在二次绕组\n两端产生很高(甚至可达数千伏)的电压，不但可能损坏二次\n绕组的绝缘，而且将严重危及人身安全。再者，由于磁感应强\n度剧增，使铁芯损耗增大，严重发热，甚至烧坏绝缘。鉴于以\n上原因，电流互感器的二次回路中不能装设熔断器；二次回路\n一般不进行切换，若需要切换时，应有防止开路的可靠措施。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2043_q.png",
-    "a_img": "q2_answer_images/E_Jd1F2043_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33583,7 +31263,6 @@ window.QUIZ_DATA = [
     "a": "答：母差保护作用能快速、有选择性地切除母线故障，将\n故障控制在最小范围内，从而提高系统运行的稳定性和供电的\n可靠性。\n母差保护动作应闭锁下列保护：\n(1)当母线不采用重合闸时，母差保护动作后应解除线路\n重合闸，以防线路重合闸动作，使线路重合于故障母线上。\n(2)双母线接线的母差保护动作后，应闭锁平行双回线路，\n分别连接在两母线上的横联差动方向保护和电流平衡保护，以\n防将连接在另一正常母线上的线路误跳闸。\n\n309\n(3)母差保护动作后，应闭锁线路本侧高频保护，使其停\n止发信。从而在线路断路器和电流互感器之间故障时，加速线\n路对侧断路器跳闸切除故障。但对那些线路上支接有变压器负\n荷的除外。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2044_q.png",
-    "a_img": "q2_answer_images/E_Jd1F2044_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33595,7 +31274,6 @@ window.QUIZ_DATA = [
     "a": "答：主要现象\n(1) 回路仪表指示降低或为零。如用于测量表计的电流回\n路开路，会使三相电流表指示不一致，功率表指示减小，计量\n表计不转或转速变慢。\n(2)电流互感器本体噪声、振动等增大，这种现象在负荷\n小时不太明显。\n(3)开路时，由于磁饱和的严重，铁芯过热，外壳温度升\n高，内部绝缘受热有异味，严重时冒烟烧坏。\n(4)由于电流互感器二次产生高电压，可能使互感器二次\n接线柱、二次回路元件接头、接线端子等处放电打火，严重时\n使绝缘击穿。\n(5)部分仪表、电能表、继电器等冒烟烧坏。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2045_q.png",
-    "a_img": "q2_answer_images/E_Jd1F2045_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33607,7 +31285,6 @@ window.QUIZ_DATA = [
     "a": "答：处理方法：\n(1) 发现电流互感器二次开路，应先分清故障属哪一组电\n流回路、开路的相别、对保护有无影响，汇报调度，解除可能\n误动的保护。\n(2)尽量减少一次负荷电流，若电流互感器严重损伤，应\n转移负荷，并停电检查处理(如有旁路，可采用旁路供电，保\n证供电的可靠性)。\n(3)尽量设法在就近的试验端子上，将电流互感器二次短\n路，再检查处理开路点。若短接时有火花，则说明短接有效，\n故障点就在短接点以下的回路中，可进一步查找；若短接时无\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n310\n论\n述\n题\n鉴\n定\n试\n题\n库\n火花，可能是短接无效，故障点可能在短接点以前的回路中，\n可以逐点向前变换短接点，缩小范围。\n(4)在故障范围内，应检查容易发生故障的端子及元件，\n检查回路有否工作时触动过的部位。对检查出的故障，能自行\n处理的可立即处理，然后投入所退出的保护，若开路点在互感\n器本体的接线端子上，应停电处理。若是不能自行处理的故障\n或不能自行查明的故障，应向上级汇报，派人检查处理，此时\n应先将电流互感器二次短路，或转移负荷，停电处理。\n(5)在短接二次回路时，工作人员一定要坚持操作监护制，\n一人操作，一人监护，并与带电设备保持适当的安全距离。操\n作人员一定要穿绝缘靴、戴绝缘手套和带绝缘把手的工具。禁\n止在电流互感器与短路点之间的回路上进行任何工作。\n(6)当电流互感器发生下列故障时，应立即向上级汇报，\n并切断电源再行处理。\n1)内部发出异味、冒烟、着火；\n2)内部有放电现象、声音异常或引线与外壳间有火花放电\n现象；\n3)主绝缘发生击穿，造成单相接地故障；\n4)充油式电流互感器漏油、漏胶。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2046_q.png",
-    "a_img": "q2_answer_images/E_Jd1F2046_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33619,7 +31296,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器瓦斯保护反应变压器油箱内部气体的数量和流\n动的速度而动作的保护，保护变压器油箱内各种短路故障，特\n别是对绕组的相间短路和匝间短路。主要优点：动作迅速、灵\n敏度高、安装接线简单、能反应油箱内部发生的各种故障。瓦\n斯保护主要缺点：不能反应油箱以外的套管及引出线等部位上\n发生的故障。变压器纵差动保护是反应被保护变压器各端流入\n和流出电流的相量差。主要优点是对相间短路动作迅速。缺点\n是不能反应变压器内部绕组匝间短路，并要解决差动回路的不\n平衡电流问题。\n\n311\n因此瓦斯保护与纵差动保护相互配合、相互补充，实现快\n速而灵敏地切除变压器油箱内、外及引出线上发生的各种故障。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2047_q.png",
-    "a_img": "q2_answer_images/E_Jd1F2047_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33631,7 +31307,6 @@ window.QUIZ_DATA = [
     "a": "答：若发现运行中无法消除且有威胁整体安全的可能性的\n异常现象时，应立即将变压器停运。\n发生下述情况之一时，应立即将变压器停运：\n(1) 变压器内部音响很大，很不正常，有爆裂声；\n(2)在正常负荷和冷却条件下，变压器上层油温异常，并\n不断上升；\n(3)油枕或防爆筒喷油；\n(4) 严重漏油，致使油面低于油位计的指示限度；\n(5)油色变化过甚，油内出现炭质；\n(6)套管有严重的破损和放电现象；\n(7)变压器范围内发生人身事故，必须停电时；\n(8)变压器着火；\n(9)套管接头和引线发红、熔化或熔断。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2048_q.png",
-    "a_img": "q2_answer_images/E_Jd1F2048_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33643,7 +31318,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器瓦斯保护的使用规定如下：\n(1)变压器投入前重瓦斯保护应作用于跳闸，轻瓦斯保护\n应作用于信号。\n(2)运行和备用中的变压器，重瓦斯保护应投入跳闸位置，\n轻瓦斯保护应投入信号位置，重瓦斯和差动保护不许同时停用。\n(3)变压器运行中进行滤油、加油、更换硅胶及处理呼吸\n器时，应先将重瓦斯保护改投信号，此时变压器的其他保护(如\n差动保护、电流速断保护等)仍应投入跳闸位置。工作完毕，\n变压器空气排尽后，方可将重瓦斯保护重新投入跳闸。\n(4)当变压器油位异常升高或油路系统有异常现象时，为\n查明其原因，需要打开各放气或放油塞子、阀门，检查吸湿器\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n312\n鉴\n定\n试\n这\n题\n库\n或进行其他工作时，必须先将重瓦斯保护改接信号，然后才能\n开始工作，工作结束后即可将重瓦斯保护重新投入跳闸。\n(5)在地震预报期间，根据变压器的具体情况和气体继电\n器的类型来确定将重瓦斯保护投入跳闸或信号。地震引起重瓦\n斯动作停运的变压器，在投运前应对变压器及瓦斯保护进行检\n查试验，确定无异状后方可投入。\n(6)变压器大量漏油致使油位迅速下降，禁止将重瓦斯保\n护改接信号。\n(7)变压器轻瓦斯信号动作，若因油中剩余空气逸出或强\n油循环系统吸入空气引起，而且信号动作间隔时间逐次缩短，\n将造成跳闸时，如无备用变压器，则应将瓦斯保护改接信号，\n同时应立即查明原因加以消除。但如有备用变压器时，则应\n换用备用变压器，而不准将运行中变压器的重瓦斯保护改接\n信号。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F3049_q.png",
-    "a_img": "q2_answer_images/E_Jd1F3049_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33655,7 +31329,6 @@ window.QUIZ_DATA = [
     "a": "答：当220kV双母线各装设单独母线差动保护时，各元件\n必须固定接在规定的母线上，其各元件的电流互感器二次绕组\n只接入所在母线的母差保护电流回路中，而与另一条母差保护\n无联系，即各母线差动保护是独立的，互不影响。当破坏固定\n连接方式时，由于元件的电流互感器二次未能随一次系统进行\n相应切换，这将造成两条母差保护电流回路有差流存在。若母\n差保护未能可靠被闭锁或切换元件负荷较小，未能启动母线差\n动保护电流回路断线闭锁。当外部发生故障时，可能造成两条\n母差保护误动作，或一条母线故障造成另一条母差保护误动，\n从而扩大了停电范围。所以，在母线固定连接方式破坏时，必\n须同时停用两条母线的差动保护。\n\n313",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F4050_q.png",
-    "a_img": "q2_answer_images/E_Jd1F4050_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33667,7 +31340,6 @@ window.QUIZ_DATA = [
     "a": "答：断路器失灵保护装有下列连接片：\n(1) 线路或变压器保护启动断路器失灵保护连接片：该连\n接片是用来接通断路器失灵保护启动回路的。当线路或变压器\n发生故障，且断路器拒绝跳闸，则由线路或变压器的保护出口\n继电器触点，经断路器的失灵保护连接片启动失灵保护相应出\n口继电器，经一定时间跳开与故障设备相连所有断路器。该连\n接片装设在断路器保护屏上，随断路器投入、停用而变动。\n(2)启动母联断路器失灵保护连接片：当母联断路器拒绝\n跳闸时(其中一条母线故障情况下),用此连接片接通母联断路\n器失灵保护启动回路。该连接片装在母联断路器失灵保护屏上。\n(3)失灵保护跳相邻断路器连接片：是断路器失灵保护跳\n各相邻断路器的连接片。当断路器失灵保护动作后，经该连接\n片，将相邻断路器跳开。该连接片装在失灵保护屏上。当断路\n器停电时，应将停电断路器的失灵保护连接片停用。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F5051_q.png",
-    "a_img": "q2_answer_images/E_Jd1F5051_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33679,7 +31351,6 @@ window.QUIZ_DATA = [
     "a": "答：我国电力系统中性点接地方式有三种：\n(1)中性点直接接地方式；\n(2)中性点经消弧线圈接地方式；\n(3)中性点不接地方式。\n110kV及以上电网的中性点均采用第(1)种接地方式。在\n这种系统中，发生单相接地故障时接地短路电流很大，故称其\n为大接地电流系统。在大接地电流系统故障中发生单相接地故\n障的概率较高，可占总短路故障的70%左右，因此要求其接地\n保护能灵敏、可靠、快速地切除接地短路故障，以免危及电气\n设备的安全。\n3～35kV 电网的中性点采用第(2)或第(3)种接地方式。\n在这种系统中，发生单相接地故障时接地短路电流很小，故称\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n314\n其小接地电流系统。在小接地电流系统中发生单相接地故障时，\n并不破坏系统线电压的对称性，系统还可继续运行1～2h。同\n时，绝缘监察装置发出无选择性信号，可由值班人员采取措施\n加以消除。只有在特殊情况或电网比较复杂、接地电流比较大\n时，根据技术保安条件，才装设有选择性的接地保护，动作于\n信号或跳闸。所以，小接地电流系统的接地保护带有很大的特\n殊性。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F5052_q.png",
-    "a_img": "q2_answer_images/E_Jd1F5052_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33691,7 +31362,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器油位因温度上升而逐渐升高时，若最高油温时\n的油位可能高出油位指示计，则应放油，使油位降至适当的高\n度，以免溢油。同时应查清油温升高的原因，并做相应的处理。\n检查油位计、油枕及防爆筒顶部的大气连通管是否堵塞，\n对采用隔膜式油枕的变压器，应检查胶囊的呼吸是否畅通，以\n及油枕的气体是否排尽等，以避免产生假油位。\n在检查过程中，需打开各放气或放油塞子、阀门时，必须\n先将重瓦斯保护由跳闸改接信号，以防油位发生突然变化，产\n生油流，使重瓦斯保护误动。",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F5053_q.png",
-    "a_img": "q2_answer_images/E_Jd1F5053_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33703,7 +31373,6 @@ window.QUIZ_DATA = [
     "a": "答：方向过流保护是在过流保护上加装一个方向元件而组\n成的保护装置。它广泛用于多电源的网络中，用来保护电网中\n相间短路和单相接地短路。由于加装了方向元件，它可以使线\n路小电源一端过流保护的动作值与对端过流保护同一时限段取\n较小的定值，并能选择性地切除故障。\n方向过流保护原理接线如图F-3 所示。电流继电器3、4\n作为启动元件，功率方向继电器1、2作为控制元件。为防止保\n护安装处附近两相短路时，母线故障相间电压很低造成功率方\n向元件拒动，所以采用90°接线，即A 相功率元件接入I 和\nU,\nC 相功率元件接入ic 和Ua。各相电流继电器触点和对应\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n315\n的功率方向继电器的触点是按相串联的。时限元件5是使保护\n装置获得必要的动作时限，其触点闭合经信号继电器7后，使\n出口中间继电器启动，发出跳闸脉冲，使断路器跳闸。\n图F-3\n二相式方向过流保护原理接线图\n1、2一功率方向继电器；3、4—电流继电器；5—时限元件；6、7—信号继电器；\n8、9—连接法",
     "o": null,
     "q_img": "q2_question_images/E_Jd1F5054_q.png",
-    "a_img": "q2_answer_images/E_Jd1F5054_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33715,7 +31384,6 @@ window.QUIZ_DATA = [
     "a": "答：使用兆欧表测量绝缘电阻应注意以下事项：\n(1) 测量高压设备绝缘电阻应有两人进行，必须在测量前\n切断电源，验明无电压且对地放电，确认检修设备无人工，测\n量线路绝缘应征得对方同意方可进行。\n(2)在接线测量以前，检查兆欧表在开路时指示“无穷大”,\n短路时指示为“零”。\n(3)测量电容较大的设备时，如电容器、电缆、大型变压\n器等，要有一定的充电时间，绝缘电阻测量结束后，应将被测\n设备对地放电。\n(4)被测对象的表面应保持清洁，不应有污物，以免漏电\n影响测量的准确性。\n(5)兆欧表的引线不得使用双股绞线，或把引线随便放在\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n316\n论\n述\n题\n鉴\n定\n试\n题\n库\n地上，以免引起引线绝缘不良引起错误，兆欧表测试导线尽量\n避免相互缠绕，以免测试导线本身影响测试精度。\n(6)屏蔽端子应与被测设备的金属屏蔽相连接。\n(7) 测量绝缘电阻时，兆欧表及人员应与带电设备保持安\n全距离，同时，采取措施，防止兆欧表的引线反弹至带电设备\n上，引起短路或人身触电。",
     "o": null,
     "q_img": "q2_question_images/E_Je4F1055_q.png",
-    "a_img": "q2_answer_images/E_Je4F1055_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33727,7 +31395,6 @@ window.QUIZ_DATA = [
     "a": "答：手动准同期并列操作程序：\n(1)先将发电机转速升至额定值，然后合上励磁回路开关\n给发电机加励磁，零起升压至额定值。\n(2) 投发电机同期装置，调整发电机转速和励磁，使其频\n率和电压与系统频率、电压相等。\n(3)视同步表指针缓慢旋转，当其指针与“同期点”差较\n小角度时合上发电机主开关(超前一个小角度合闸是考虑到开\n关从操动机构动作到开关触头接触要经过一段时间)。\n(4)断开发电机同期开关，适当接带无功负荷。将发电机\n励磁由手动倒为自动运行。\n手动准同期并列时注意事项：\n(1) 发电机转速达额定值时，方可加励磁升压。\n(2)发电机零起升压过程中，应注意监视发电机定子三相\n电流指示及核对发电机空载特性，以检查定子绕组、转子绕组\n有无故障及定子电压指示的正确性。\n(3)发电机零起升压应用手动励磁。在合励磁回路开关前，\n应检查手动励磁装置输出在最低位置。用备励供发电机励磁，\n升压前应将备励强励连接片停用。并列后方可启用，以防强励\n误动使发电机定子绕组承受过电压。\n(4)并列过程中应注意同期装置投入时间尽可能短。并列\n后立即退出运行，以防时间过长损坏同期装置。并列时应保证\n同期闭锁装置在投入状态，以防造成非同期合闸。\n\n317\n(5)同步表指针旋转较快或同步表指针经过“同期点”有\n跳动现象时，严禁并列。\n(6)如果同步表指针停在“同期点”不动，此时不准合闸。\n这是因为开关在合闸过程中，如果系统或待并发电机的频率突\n然变动，就可能使开关正好合在非同期点上。",
     "o": null,
     "q_img": "q2_question_images/E_Je2F1056_q.png",
-    "a_img": "q2_answer_images/E_Je2F1056_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33739,7 +31406,6 @@ window.QUIZ_DATA = [
     "a": "答：自同期并列法就是先将发电机转速升至额定值，接着\n合上主断路器，然后再合上励磁回路开关给发电机加励磁，即\n在不给励磁的情况下，将发电机接入电网的并列法。我国过去\n在水轮发电机上采用过自同期并列法。自同期法分为自动及手\n动两种。\n自同期法优点是操作简单，合闸过程中自动化也简单，在\n事故情况下能迅速并列。缺点是有冲击电流，即在合闸瞬间使\n系统的电压下降。\n采用自同期法并列时，应注意发电机转速和系统的同步转\n速(系统频率)不能相差过大，且合闸时应保证励磁绕组以灭\n磁电阻或自同期电阻在短接状态，以防合闸瞬间引起励磁绕组\n过电压，损坏励磁绕组。",
     "o": null,
     "q_img": "q2_question_images/E_Je3F2057_q.png",
-    "a_img": "q2_answer_images/E_Je3F2057_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33751,7 +31417,6 @@ window.QUIZ_DATA = [
     "a": "答：凡不符合准同期条件进行并列，即将带励磁的发电机\n并入电网，叫做非同期并列。\n非同期并列是发电厂的一种严重事故，由于某种原因造成\n非同期并列时，将可能产生很大的冲击电流和冲击转矩，会造\n成发电机及有关电气设备的损坏。严重时会将发电机线圈烧毁、\n端部变形，即使当时没有立即将设备损坏，也可能造成严重的\n隐患。就整个电力系统来讲，如果一台大型机组发生非同期并\n列，这台发电机与系统间将产生功率振荡，严重扰乱整个系统\n的正常运行，甚至造成电力系统稳定破坏。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n318\n论\n述\n题\n鉴\n定\n试\n题\n库\n为了防止非同期并列事故，应采取以下技术和组织措施：\n(1)并列人员应熟悉主系统和二次系统。\n(2)严格执行规章制度，并列操作应由有关部门批准的有\n并列权的值班人员进行，并由班长、值长监护，严格执行操作\n票制度。\n(3)采取防止非同期并列的技术措施，如使用同期插锁、\n同期角度闭锁、自动准同期并列装置等。\n(4)新安装或大修后发电机投入运行前，一定要检查发电\n机系统相序和进行核相。有关的电压互感器二次回路检修后也\n应核相。",
     "o": null,
     "q_img": "q2_question_images/E_Je3F2058_q.png",
-    "a_img": "q2_answer_images/E_Je3F2058_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33763,7 +31428,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)中间介质置换充氢：\n1) 将来氢管堵板拆除，将氢系统各门置正常运行时状态；\n2)从二氧化碳母管向发电机内充二氧化碳，压力稍增后，\n开启氢母管侧排污门排空气，保持在0.0029～0.0049MPa表压\n下进行置换，当二氧化碳含量达85%以上时为合格；\n3)从氢母管向发电机内充氢气，压力稍增后，开二氧化碳\n母管侧排污门排二氧化碳，保持在0.0029～0.0049MPa表压下\n进行置换，当氢气含量达96%以上，氧气含量达2%以下时为\n合格。\n(2) 中间介质置换排氢：\n1)在来氢管加堵板；\n2)停止内冷水泵运行；\n3)排氢压接近零；\n4)从二氧化碳母管向发电机内充二氧化碳，压力稍增后，\n开氢母管排污门排氢气，在0.0029～0.0049MPa表压下置换，\n当二氧化碳含量达95%以上时为合格；\n5)经空气干燥器从氢母管向发电机充压缩空气，压力稍增\n后，开二氧化碳母管侧排污门排二氧化碳，在0.0029~\n\n319\n0.0049MPa表压下置换，当空气含量达90%以上时为合格。",
     "o": null,
     "q_img": "q2_question_images/E_Je3F3059_q.png",
-    "a_img": "q2_answer_images/E_Je3F3059_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33775,7 +31439,6 @@ window.QUIZ_DATA = [
     "a": "答：变压器的外加一次电压可以较额定电压为高，但一般\n不得超过相应分头电压值的5%。\n不论电压分头在任何位置，如果所加一次电压不超过其相\n应分头额定值的5%,则变压器的二次侧可带额定电流。\n根据变压器的构造特点，经过试验或经制造厂认可，加在\n变压器一次侧的电压允许比该分头额定电压增高10%。此时，\n允许的电流值应遵守制造厂的规定或根据试验确定。\n无载调压变压器在额定电压±5%范围内改换分头位置运\n行时，其额定容量不变，如为-7.5%和-10%分头时，额定容量\n应相应降低2.5%和5%。\n有载调压变压器各分头位置的额定容量，应遵守制造厂规\n定。",
     "o": null,
     "q_img": "q2_question_images/E_Je3F3060_q.png",
-    "a_img": "q2_answer_images/E_Je3F3060_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33787,7 +31450,6 @@ window.QUIZ_DATA = [
     "a": "答：电力系统的无功功率损耗由电力系统中的线路无功损\n耗和变压器中的无功损耗两部分组成。线路电抗中的无功损耗\n与线路电流的平方成正比，线路电纳中的无功功率是容性的，\n又称为充电功率，也可把它看成是无功电源。变压器的无功损\n耗包括励磁无功损耗和电抗中的无功损耗两部分。\n补偿方法主要有：\n(1)同步调相机；\n(2)静电电容器补偿；\n(3)变压器分接头调压；\n(4)电抗器补偿。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n320\n鉴\n定\n试\n题\n库",
     "o": null,
     "q_img": "q2_question_images/E_Je2F4061_q.png",
-    "a_img": "q2_answer_images/E_Je2F4061_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33799,7 +31461,6 @@ window.QUIZ_DATA = [
     "a": "答：常见原因主要有：\n(1) 呼吸系统不畅通。呼吸系统不畅或堵塞会造成轻、重\n瓦斯保护动作。\n(2)冷却系统漏气。当冷却系统密封不严进入了空气，或新\n投入运行的变压器未经真空脱气时，都会引起气体继电器的动作。\n(3)潜油泵有缺陷。潜油泵缺陷对油中气体的影响一是潜\n油泵本身烧损，使本体油热分解，产生大量可燃性气体；二是\n当窥视玻璃破裂时，由于轴尖处油流急速而造成负压，可以带\n入大量空气，以上两种情况都会造成气体继电器动作。\n(4)变压器进气。轻瓦斯动作的原因绝大多数是变压器进\n气造成的。造成进气的原因主要有密封垫老化和破损、法兰结\n合面变形、油循环系统进气、潜油泵滤网堵塞、焊接处砂眼进\n气等。\n(5)油枕油室中有气体。若油室中有气体，当运行时油面\n升高就会产生假油面，严重时会从呼吸器喷油或防爆膜破裂。\n此时变压器油箱内的压力经呼吸器法兰突然释熬，在气体继电\n器管路产生油流，同时套管升高座等死区的气体被压缩面积累\n的能量也突然释放，使油流的速度加快，导致瓦斯保护动作。\n(6)气温骤降。运行正常的变压器，压力和温度下降时，\n有时空气过饱和而逸出，严重时甚至引起瓦斯保护动作。\n(7) 忽视气体继器防雨。下大雨时，气体继电器的触点被\n接线端子和地之间的雨水漏电阻短接，使跳闸回路接通。当出\n口继电器两端电压达到其动作电压时，导致变压器两侧的断路\n器跳闸。\n(8)放气操作不当。当气温很高、变压器负荷又大时，或\n虽然气温不很高，负荷突然增大时，运行值班员应加强巡视，\n发现油位计油位异常升高时，应及时进行放气。放气时，必须\n是缓慢地打开放气阀，而不要快速大开阀门，以防止因油枕空\n\n321\n间压力骤然降低，油箱的油迅速涌向油枕，而导致重瓦斯保护\n动作，引起跳闸。\n(9)安装不当。新装的变压器，轻瓦斯保护80%动作是安\n装存在问题。例如，某部分出现",
     "o": null,
     "q_img": "q2_question_images/E_Je2F4062_q.png",
-    "a_img": "q2_answer_images/E_Je2F4062_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33811,7 +31472,6 @@ window.QUIZ_DATA = [
     "a": "答：套管表面脏污将使闪络电压(即发生闪络的最低电压)\n降低，如果脏污的表面潮湿，则闪络电压降得更低，此时线路\n中若有一定数值的过电压侵入，即引起闪络。闪络有如下危害：\n(1) 造成电网接地故障，引起保护动作，断路器跳闸；\n(2) 对套管表面有损伤，成为未来可能产生绝缘击穿的一\n个因素。\n套管表面的脏物吸收水分后，导电性提高，泄漏电流增加，\n使绝缘套管发热，有可能使套管里面产生裂缝而最后导致击穿。\n套管出现裂纹会使抗电强度降低。因为裂纹中充满了空气，\n空气的介电系数小，瓷套管的瓷质部分介电系数大，而电场强\n度的分布规律是，介电系数小的电场强度大，介电系数大的电\n场强度小，裂纹中的电场强度大到一定数值时，空气就被游离，\n引起局部放电，造成绝缘的进一步损坏，直至全部击穿。\n裂纹中进入水分结冰时，也可能将套管胀裂。",
     "o": null,
     "q_img": "q2_question_images/E_Je3F4063_q.png",
-    "a_img": "q2_answer_images/E_Je3F4063_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33823,7 +31483,6 @@ window.QUIZ_DATA = [
     "a": "答：由于变压器铁芯是由一片片硅钢片叠成，所以片与片\n间存在间隙。当变压器通电后，有了激磁电流，铁芯中产生交\n变磁通，在侧推力和纵牵力作用下硅钢片产生倍频振动。这种\n振动使周围的空气或油发生振动，就发出“嗡嗡”的声音来。\n另外，靠近铁芯的里层线圈所产生的漏磁通对铁芯产生交变的\n吸力，芯柱两侧最外两极的铁芯硅钢片，若紧固得不牢，很容\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n322\n易受这个吸力的作用而产生倍频振动。这个吸力与电流的平方\n成正比，因此这种振动的大小与电流有关。\n正常运行时，变压器铁芯的声音应是均匀的，当有其他杂\n音时，就应认真查找原因。\n(1)过电压或过电流。变压器的响声增大，但仍是“嗡嗡”\n声，无杂音。随负荷的急剧变化，也可能呈现“割割割、割割\n割割”突击的间歇响声，此声音的发生和变压器的指示仪表(电\n流表、电压表)的指针同时动作，易辨别。\n(2)夹紧铁芯的螺钉松动。呈现非常惊人的“锤击”和“刮\n大风”之声，如“叮叮当当”和“呼……呼……”之音。但指\n示仪表均正常，油色、油拉、油温也正常。\n(3)变压器外壳与其他物体撞击。这是因为变压器内部铁\n芯振动引起其他部件的振动，使接触处相互撞击。如变压器上\n装控制线的软管与外壳或散热器撞击，呈现“沙沙沙”的声音，\n有连续较长、间歇的特点，变压器各部不会呈异常现象。这时\n可寻找声源，在最响的一侧用手或木棒按住再听声有何变化，\n以判别之。\n(4)外界气候影响造成的放电。如大雾天、雪天造成套管\n处电晕放电或辉光放电，呈现“嘶嘶”、“嗤嗤”之声，夜间可\n见蓝色小火花。\n(5)铁芯故障。如铁芯接地线断开会产生如放电的劈裂声，\n“铁芯着火”造成不正常鸣音。\n(6)匝间短路。因短路处严重局部发热，使油局部沸腾会\n发出“咕噜咕噜”像水开了似的声音，这种声音特别要注意。\n(7) 分接开",
     "o": null,
     "q_img": "q2_question_images/E_Je3F5064_q.png",
-    "a_img": "q2_answer_images/E_Je3F5064_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33835,7 +31494,6 @@ window.QUIZ_DATA = [
     "a": "答：电业生产事故也和其他事物一样，存在必然性和偶然\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n323\n性。出了事故，分析原因、总结教训，采取防止事故重演的措\n施是非常必要的，但更重要的是应把着眼点放在防止发生事故\n上。也就是说在事故发生前就采取各种行之有效和强有力的防\n范措施，防止事故发生。把事故后的处理变为事故前的预防，\n把事故消灭在萌芽阶段，做到居安思危，化危为安，这就是“预\n防为主”的安全生产方针。\n要防止发生事故，首先要掌握发生事故的规律，采取对症\n下药的措施，是预防事故的有效方法。总结本单位过去发生事\n故的教训，从中找出原因；根据季节特点，制定防范措施；定\n期进行安全大检查和设备预防性试验，查找事故隐患；管理好\n安全网；及时掌握设备状况和职工安全思想情况；经常学习事\n故通报和安全通报，吸取外单位经验教训等，都是防止发生事\n故，行之有效的方法。\n变电所在贯彻“预防为主”的安全生产方针时，应重点抓\n好以下几方面工作：\n(1)树立事故可预防的信心，做好各项岗位安全工作，对\n本岗位安全负责。把“严”字贯穿于交接班、巡回检查、抄表、\n倒闸操作、检修配合、设备验收等值班工作的全过程，渗透到\n各项工作的每个细小的环节之中。\n(2)严格执行设备的技术标准和各项规章制度，杜绝误操\n作事故，提高技术水平和执行规程的自觉性。\n(3)及时发现设备缺陷，掌握设备技术状况，认真搞好季\n节性安全工作，对存在问题及时采取针对性措施。\n(4)仔细认真对待各种异常障碍，对事故坚持三不放过。\n(5)认真组织各种安全活动，做到安全活动周周有，安全\n生产天天议，安全措施人人订，安全目标齐努力。",
     "o": null,
     "q_img": "q2_question_images/E_Jf3F3065_q.png",
-    "a_img": "q2_answer_images/E_Jf3F3065_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33847,7 +31505,6 @@ window.QUIZ_DATA = [
     "a": "答：(1)额定电压：它是表征断路器绝缘强度的参数，是\n断路器长期工作的标准电压。\n论\n述\n题\n鉴\n定\n试\n题\n库\n\n324\n(2)额定电流：它是表征断路器通过长期电流能力的参数，\n即断路器允许连续长期通过的最大电流。\n(3)额定开断电流：它是表征断路器开断能力的参数。在\n额定电压下，断路器能保证可靠开断的最大电流，称为额定开\n断电流，其单位用断路器触头分离瞬间短路电流周期分量有效\n值的千安数表示。\n(4)动稳定电流：它是表征断路器通过短时电流能力的参\n数，反映断路器承受短路电流电动力效应的能力。\n(5)热稳定电流和热稳定电流的持续时间：执稳定电流也\n是表征断路器通过短时电流能力的参数，但它反映断路器承受\n短路电流热效应的能力。\n(6)合闸时间与分闸时间：这是表征断路器操作性能的参\n数。各种不同类型的断路器的分、合闸时间不同，但都要求动\n作迅速。合闸时间是指从断路器操动机构合闸线圈接通到主触\n头接触这段时间，断路器的分闸时间包括固有分闸时间和熄弧\n时间两部分。固有分闸时间是指从操动机构分闸线圈接通到触\n头分离这段时间。熄弧时间是指从触头分离到各相电弧熄灭为\n止这段时间。所以，分闸时间也称为全分闸时间。\n(7) 操作循环：这也是表征断路器操作性能的指标。架空\n线路的短路故障大多是暂时性的，短路电流切断后，故障即迅\n速消失。因此，为了提高供电的可靠性和系统运行的稳定性，\n断路器应能承受一次或两次以上的关合、开断，或关合后立即\n开断的动作能力。此种按一定时间间隔进行多次分、合的操作\n称为操作循环。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1F1066_q.png",
-    "a_img": "q2_answer_images/E_Jf1F1066_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33859,7 +31516,6 @@ window.QUIZ_DATA = [
     "a": "答：造成过励磁的原因有以下几方面。\n(1)发电机一变压器组与系统并列前，由于误操作，误加\n大励磁电流引起。\n鉴\n定\n试\n之\n题\n库\n\n325\n(2) 发电机启动中，转子在低速预热时，误将电压升至额\n定值，则因发电机变压器低频运行而造成过励磁。\n(3)切除发电机中，发电机解列减速，若灭磁开关拒动，\n使发电机遭受低频引起过励磁，\n(4)发电机一变压器组出口断路器跳开后，若自动励磁调\n节器退出或失灵，则电压与频率均会升高，但因频率升高慢而\n引起过励磁，即使正常甩负荷，由于电压上升快，频率上升慢\n(惯性不一样),也可能使变压器过励磁。\n(5)系统正常运行时频率降低也会引起。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1F2067_q.png",
-    "a_img": "q2_answer_images/E_Jf1F2067_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33871,7 +31527,6 @@ window.QUIZ_DATA = [
     "a": "答：发生事故，运行人员处理的原则是尽早作出准确判断，\n如故障设备、故障范围、故障原因、操作步骤等，尽快进行处\n理，尽量缩小事故范围。\n(1)事故处理的主要任务：\n1)尽快限制事故发展，消除事故的根源并解除对人身和设\n备的危险。\n2)用一切可能的方法保持设备继续运行，保证对用户的\n正常供电；必要时应设法在未直接受到事故损害的机组上增加\n负荷。\n3)尽快对已停电的用户恢复送电。\n4)调整电力系统的运行方式，使其恢复正常。\n处理事故应注意，在恢复对用户供电的同时，要首先恢复\n站用电的正常状态，特别是对于直流操作和较大型的变电所，\n这一点十分重要。\n(2)事故处理对运行人员的要求：\n1)所有运行人员必须坚守岗位。\n2) 当交接班时发生事故，而交接班手续尚未完成时，应停\n止交接班，由交班人处理事故，接班人协助处理。\n鉴\n定\n试\n题\n库\n论\n述\n题\n\n326\n3)发生事故时，当值调度员是处理事故的指挥人，凡与处\n理事故无关的人员，严禁进入现场或在现场停留。\n4)处理事故时，重要操作(应在现场规程中明确规定)必\n须有值班调度员命令方可执行。\n5)以下各项操作，在任何情况下均可不等值班调度员的命\n令，由值班人员执行：①将直接对人员生命有威胁的设备停电；\n②将已损坏的设备隔离(电气隔离);③运行中的设备有受损\n伤的威胁时，根据现场事故处理规程的规定加以隔离；④当母\n线电压消失时，将连接到该母线上的断路器拉开。\n以上操作执行后，应加以记录并尽快报告值班调度员。\n异常及事故是威胁电力系统正常运行的大敌，而且又是运\n行中不可避免的现象。因此，能正确处理异常及事故，是每个\n运行人员最重要的基本功。要学会事故的分析、判断与处理的\n一般方法与原则，不断提高判断事故和处理事故的能力，以满\n足现场工作的需要。",
     "o": null,
     "q_img": "q2_question_images/E_Jf1F2068_q.png",
-    "a_img": "q2_answer_images/E_Jf1F2068_a.png",
     "explain": "",
     "show_q_img_in_question": false
   },
@@ -33883,7 +31538,6 @@ window.QUIZ_DATA = [
     "a": "答：变电设备运行中，一旦遇到人身无法抗拒的自然灾害，\n如有淹没配电装置危险的洪水、配电装置附近的火灾及地震等。\n对于自然灾害一般的处理原则是：\n(1)值班人员应尽可能采取的措施，防止设备损坏，尽可\n能地保持设备的正常运行。\n(2)应尽可能利用一切联络手段向值班调度员和主管上级\n汇报，请求指示。\n(3)如得不到上级明确指示或通信中断无法联系时，若值\n班人员已判明灾害确为不可避免，对设备有直接危害时，则可\n将设备电源切断，停止运行。\n如灾害已威胁到值班人员的安全，在设备退出运行后，人\n员也可撤至安全地带。\n鉴\n定\n试\n题\n库\n\n327\n技能操作试题\n4. 2. 1\n单项操作\n行业：电力工程\n工种：电气值班员\n等级：初\n编\n号\nC05A001\n行为领域\ne\n鉴定范围\n3\n考核时限\n15min\n题\n型\nA\n题\n分\n10\n试题正文\n6kV1号引风电动机送电\n需要说明的\n问题和要求\n1.操作人员独立完成\n2.注意安全，不准触摸设备\n工具、材料、\n设备场地\n现场实际设备\n评\n分\n标\n准\n序号\n项\n目\n名\n称\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n检查1号引风电动机工作票是否全部收回，安全措施是否全部拆除\n检查1号引风电动机回路是否具备送电条件\n测量1号引风电动机绝缘电阻合格\n检查1号引风电动机保护投入应正确\n检查1号引风电动机开关在开位\n合上1号引风电动机开关控制直流熔断器\n将1号引风电动机开关推至试验位置\n合上1号引风电动机开关插件\n将1号引风电动机开关推至工作位置\n合上1号引风电动机开关动力直流熔断器\n检查上述操作无误后汇报\n质量\n要求\n严格执行电气运行规程\n不准漏项和顺序颠倒\n得分\n或\n扣分\n1.安全措施、工作票不检查，扣4分\n2.回路未测绝缘电阻送电，扣2分\n3.每操作完一项要检查是否良好，未检查者，扣2分\n4.操作结束后未及时汇报，扣2",
     "o": null,
     "q_img": "q2_question_images/E_Jf1F1069_q.png",
-    "a_img": "q2_answer_images/E_Jf1F1069_a.png",
     "explain": "",
     "show_q_img_in_question": false
   }

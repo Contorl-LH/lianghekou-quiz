@@ -878,10 +878,6 @@
               <span class="answer-image-label">题目图片</span>
               <img id="qImg" src="" alt="题干" onclick="toggleZoom(this)">
             </div>
-            <div class="answer-image-item">
-              <span class="answer-image-label">答案图片</span>
-              <img id="aImg" src="" alt="答案" onclick="toggleZoom(this)">
-            </div>
           </div>
         </div>
       </div>
@@ -947,10 +943,6 @@
               <div class="answer-image-item">
                 <span class="answer-image-label">题目图片</span>
                 <img id="planQImg" src="" alt="题干" onclick="toggleZoom(this)">
-              </div>
-              <div class="answer-image-item">
-                <span class="answer-image-label">答案图片</span>
-                <img id="planAImg" src="" alt="答案" onclick="toggleZoom(this)">
               </div>
             </div>
           </div>
@@ -1339,9 +1331,8 @@ function renderPlanQuestion() {
     planQText.style.display = q.q ? 'block' : 'none';
   }
 
-  // 答案部分的题干图片和答案图片
+  // 答案部分的题干图片
   document.getElementById('planQImg').src = q.q_img;
-  document.getElementById('planAImg').src = q.a_img;
 
   // 题干部分的条件显示图片（仅对选项不完整的题目显示）
   const planQImgInline = document.getElementById('planQImgInline');
@@ -1654,9 +1645,7 @@ function renderQuestion() {
     }
   }
 
-  const aImg = document.getElementById('aImg');
-  aImg.src = q.a_img;
-  aImg.classList.remove('zoomed');
+
 
   // 显示答案文字
   const aText = document.getElementById('answerText');

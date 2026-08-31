@@ -372,6 +372,10 @@
     background: linear-gradient(135deg, #f56565, #c53030);
     color: white;
   }
+  .action-btn.skip-mark {
+    background: linear-gradient(135deg, #9f7aea, #805ad5);
+    color: white;
+  }
 
   /* 答案区域 */
   .answer-section {
@@ -820,6 +824,7 @@
     <button class="mode-tab" data-mode="plan" onclick="switchMode('plan')">10天计划</button>
     <button class="mode-tab" data-mode="wrong" onclick="switchMode('wrong')">错题本<span class="badge" id="wrongBadge">0</span></button>
     <button class="mode-tab" data-mode="fav" onclick="switchMode('fav')">收藏夹<span class="badge" id="favBadge">0</span></button>
+    <button class="mode-tab" data-mode="skip" onclick="switchMode('skip')">不考题<span class="badge" id="skipBadge">0</span></button>
   </div>
 </div>
 
@@ -865,6 +870,7 @@
           <button class="action-btn done-mark" id="doneBtn" onclick="toggleDoneMark()">✅ 标记已做</button>
           <button class="action-btn fav" id="favBtn" onclick="toggleFavorite()">⭐ 收藏</button>
           <button class="action-btn wrong-mark" id="wrongBtn" onclick="toggleWrongMark()">❌ 标记错题</button>
+          <button class="action-btn skip-mark" id="skipBtn" onclick="toggleSkipMark()">🚫 不考题</button>
         </div>
         <div class="answer-section" id="answerSection">
           <span class="answer-label">参考答案</span>
@@ -883,6 +889,25 @@
       </div>
     </div>
     <div class="hint">选择题点击选项作答 | 点击图片放大</div>
+  </div>
+
+  <!-- 不考题列表 -->
+  <div class="list-mode" id="skipMode" style="display:none">
+    <div class="list-header">
+      <h2>🚫 不考题</h2>
+      <p style="color:#666;font-size:14px">已标记为不考的题目，不会出现在答题和10天计划中</p>
+      <button class="btn-danger" onclick="clearAllSkipConfirm()">清空不考题</button>
+    </div>
+    <div class="list-filter">
+      <button class="type-filter-btn active" data-type="all" onclick="setSkipFilter('all')">全部</button>
+      <button class="type-filter-btn" data-type="A" onclick="setSkipFilter('A')">选择</button>
+      <button class="type-filter-btn" data-type="B" onclick="setSkipFilter('B')">判断</button>
+      <button class="type-filter-btn" data-type="C" onclick="setSkipFilter('C')">简答</button>
+      <button class="type-filter-btn" data-type="D" onclick="setSkipFilter('D')">计算</button>
+      <button class="type-filter-btn" data-type="E" onclick="setSkipFilter('E')">绘图</button>
+      <button class="type-filter-btn" data-type="F" onclick="setSkipFilter('F')">论述</button>
+    </div>
+    <div class="question-list" id="skipList"></div>
   </div>
 
   <!-- 10天计划模式 -->
@@ -1072,7 +1097,7 @@
 <script>
 // ============ 数据与状态 ============
 const allQuestions = window.QUIZ_DATA || [];
-let filteredQuestions = [...allQuestions];
+let filteredQuestions = allQuestions.filter(q => !skipBook.includes(q.id));
 let currentIndex = 0;
 let answerVisible = false;
 let currentMode = 'quiz'; // quiz / plan / wrong / fav
@@ -1085,6 +1110,8 @@ let favorites = JSON.parse(localStorage.getItem('quiz_favorites') || '[]');
 let doneBook = JSON.parse(localStorage.getItem('quiz_done_book') || '[]');
 let planData = JSON.parse(localStorage.getItem('quiz_10day_plan') || 'null');
 let quizProgress = JSON.parse(localStorage.getItem('quiz_progress') || 'null');
+let skipBook = JSON.parse(localStorage.getItem('quiz_skip_book') || '[]');
+let skipFilterType = 'all';
 
 const typeNames = {A:'选择题', B:'判断题', C:'简答题', D:'计算题', E:'绘图题', F:'论述题'};
 
@@ -1553,7 +1580,8 @@ function init() {
   updateBadges();
   renderQuestion();
   initSwipe();
-  document.getElementById('stats').textContent = `共 ${allQuestions.length} 题`;
+  const activeCount = allQuestions.filter(q => !skipBook.includes(q.id)).length;
+  document.getElementById('stats').textContent = `共 ${activeCount} 题`;
   // 移除Netlify徽章（延迟执行确保元素已加载）
   setTimeout(removeNetlifyBadge, 500);
   setTimeout(removeNetlifyBadge, 2000);
@@ -1574,6 +1602,11 @@ function updateBadges() {
   document.getElementById('favBadge').textContent = favorites.length;
   document.getElementById('wrongBadge').style.display = wrongBook.length ? 'inline-block' : 'none';
   document.getElementById('favBadge').style.display = favorites.length ? 'inline-block' : 'none';
+  const skipBadge = document.getElementById('skipBadge');
+  if (skipBadge) {
+    skipBadge.textContent = skipBook.length;
+    skipBadge.style.display = skipBook.length ? 'inline-block' : 'none';
+  }
 }
 
 // ============ 模式切换 ============
@@ -1584,6 +1617,8 @@ function switchMode(mode) {
   document.getElementById('planMode').classList.toggle('active', mode === 'plan');
   document.getElementById('wrongMode').classList.toggle('active', mode === 'wrong');
   document.getElementById('favMode').classList.toggle('active', mode === 'fav');
+  const skipMode = document.getElementById('skipMode');
+  if (skipMode) skipMode.classList.toggle('active', mode === 'skip');
 
   const showBottomNav = (mode === 'quiz' || (mode === 'plan' && document.getElementById('planQuiz').style.display === 'block'));
   document.getElementById('bottomNav').style.display = showBottomNav ? 'flex' : 'none';
@@ -1604,6 +1639,7 @@ function switchMode(mode) {
     renderWrongList();
   }
   if (mode === 'fav') renderFavList();
+  if (mode === 'skip') renderSkipList();
 }
 
 // ============ 答题模式 ============
@@ -1701,6 +1737,7 @@ function renderQuestion() {
   const progress = ((currentIndex + 1) / filteredQuestions.length) * 100;
   document.getElementById('progressFill').style.width = progress + '%';
   saveQuizProgress(); // 保存当前做题位置
+  updateSkipButton(); // 更新不考题按钮状态
 }
 
 function selectOption(opt) {
@@ -2456,6 +2493,104 @@ if (typeof supabase !== 'undefined') {
 
 // 初始化题库
 init();
+
+// ============ 不考题功能 ============
+function saveSkip() {
+  localStorage.setItem('quiz_skip_book', JSON.stringify(skipBook));
+  updateBadges();
+}
+
+function toggleSkipMark() {
+  const q = filteredQuestions[currentIndex];
+  const idx = skipBook.indexOf(q.id);
+  if (idx > -1) {
+    skipBook.splice(idx, 1);
+  } else {
+    skipBook.push(q.id);
+  }
+  saveSkip();
+  updateSkipButton();
+  // 如果标记为不考题，自动跳转到下一题
+  if (idx === -1 && currentIndex < filteredQuestions.length - 1) {
+    setTimeout(() => nextQuestion(), 300);
+  }
+}
+
+function updateSkipButton() {
+  const q = filteredQuestions[currentIndex];
+  const btn = document.getElementById('skipBtn');
+  if (btn) {
+    const isSkipped = skipBook.includes(q.id);
+    btn.textContent = isSkipped ? '✅ 恢复考题' : '🚫 不考题';
+    btn.style.background = isSkipped ? 'linear-gradient(135deg,#48bb78,#38a169)' : 'linear-gradient(135deg,#ed8936,#dd6b20)';
+  }
+}
+
+function isSkipped(qid) {
+  return skipBook.includes(qid);
+}
+
+function renderSkipList() {
+  const list = document.getElementById('skipList');
+  if (!list) return;
+  let skipped = allQuestions.filter(q => skipBook.includes(q.id));
+  if (skipFilterType !== 'all') {
+    skipped = skipped.filter(q => q.type === skipFilterType);
+  }
+  if (skipped.length === 0) {
+    list.innerHTML = '<div class="empty-state">暂无不考题</div>';
+    return;
+  }
+  list.innerHTML = skipped.map(q => `
+    <div class="list-item" onclick="jumpToQuestion('${q.id}')">
+      <span class="list-qid">${q.id}</span>
+      <span class="list-type type-${q.type}">${typeNames[q.type]}</span>
+      <span class="list-text">${q.q.substring(0, 60)}...</span>
+      <button class="action-btn skip-mark" onclick="event.stopPropagation();restoreSkipQuestion('${q.id}')">恢复</button>
+    </div>
+  `).join('');
+}
+
+function setSkipFilter(type) {
+  skipFilterType = type;
+  document.querySelectorAll('#skipMode .type-filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.type === type);
+  });
+  renderSkipList();
+}
+
+function restoreSkipQuestion(qid) {
+  const idx = skipBook.indexOf(qid);
+  if (idx > -1) {
+    skipBook.splice(idx, 1);
+    saveSkip();
+    renderSkipList();
+  }
+}
+
+function clearAllSkipConfirm() {
+  if (confirm('确定要清空所有不考题吗？')) {
+    skipBook = [];
+    saveSkip();
+    renderSkipList();
+  }
+}
+
+function jumpToQuestion(qid) {
+  const idx = allQuestions.findIndex(q => q.id === qid);
+  if (idx > -1) {
+    // 先从skip中恢复
+    const skipIdx = skipBook.indexOf(qid);
+    if (skipIdx > -1) {
+      skipBook.splice(skipIdx, 1);
+      saveSkip();
+    }
+    currentIndex = idx;
+    switchMode('quiz');
+    renderQuestion();
+  }
+}
+
 </script>
 
 

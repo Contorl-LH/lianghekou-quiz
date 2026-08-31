@@ -422,6 +422,33 @@
     word-break: break-word;
   }
 
+  /* 题目讲解 */
+  .explanation-section {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 12px 14px;
+    background: linear-gradient(135deg, #fffbeb, #fef3c7);
+    border-radius: 10px;
+    border-left: 4px solid #f59e0b;
+  }
+  .explanation-label {
+    display: inline-block;
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .explanation-text {
+    font-size: 14px;
+    line-height: 1.8;
+    color: #78350f;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
   /* 答案图片组 */
   .answer-image-group {
     display: flex;
@@ -841,6 +868,10 @@
         <div class="answer-section" id="answerSection">
           <span class="answer-label">参考答案</span>
           <div class="answer-text" id="answerText"></div>
+          <div class="explanation-section" id="explanationSection">
+            <span class="explanation-label">📝 题目讲解</span>
+            <div class="explanation-text" id="explanationText"></div>
+          </div>
           <div class="answer-image-group">
             <div class="answer-image-item">
               <span class="answer-image-label">题目图片</span>
@@ -906,6 +937,10 @@
           <div class="answer-section" id="planAnswerSection">
             <span class="answer-label">参考答案</span>
             <div class="answer-text" id="planAnswerText"></div>
+            <div class="explanation-section" id="planExplanationSection">
+              <span class="explanation-label">📝 题目讲解</span>
+              <div class="explanation-text" id="planExplanationText"></div>
+            </div>
             <div class="answer-image-group">
               <div class="answer-image-item">
                 <span class="answer-image-label">题目图片</span>
@@ -1316,6 +1351,15 @@ function renderPlanQuestion() {
     planAText.style.display = answerText ? 'block' : 'none';
   }
 
+  // 显示题目讲解
+  const planExpText = document.getElementById('planExplanationText');
+  const planExpSection = document.getElementById('planExplanationSection');
+  if (planExpText && planExpSection) {
+    const explain = q.explain || q.explanation || q.analysis || '';
+    planExpText.textContent = explain;
+    planExpSection.style.display = explain ? 'block' : 'none';
+  }
+
   // 选择题和判断题选项
   const optsDiv = document.getElementById('planAnswerOptions');
   optsDiv.innerHTML = '';
@@ -1598,6 +1642,15 @@ function renderQuestion() {
     }
     aText.textContent = answerText;
     aText.style.display = answerText ? 'block' : 'none';
+  }
+
+  // 显示题目讲解
+  const expText = document.getElementById('explanationText');
+  const expSection = document.getElementById('explanationSection');
+  if (expText && expSection) {
+    const explain = q.explain || q.explanation || q.analysis || '';
+    expText.textContent = explain;
+    expSection.style.display = explain ? 'block' : 'none';
   }
 
   const optsDiv = document.getElementById('answerOptions');

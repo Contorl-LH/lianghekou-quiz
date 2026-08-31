@@ -957,6 +957,7 @@
             <button class="action-btn done-mark" id="planDoneBtn" onclick="togglePlanDone()">✅ 标记已做</button>
             <button class="action-btn fav" id="planFavBtn" onclick="togglePlanFavorite()">⭐ 收藏</button>
             <button class="action-btn wrong-mark" id="planWrongBtn" onclick="togglePlanWrongMark()">❌ 标记错题</button>
+            <button class="action-btn skip-mark" id="planSkipBtn" onclick="togglePlanSkipMark()">🚫 不考题</button>
           </div>
           <div class="answer-section" id="planAnswerSection">
             <span class="answer-label">参考答案</span>
@@ -1426,6 +1427,13 @@ function renderPlanQuestion() {
     wrongBtn.innerHTML = isWrong ? '❌ 已标记' : '❌ 标记错题';
   }
 
+  const skipBtn = document.getElementById('planSkipBtn');
+  const isSkipped = skipBook.includes(q.id);
+  if (skipBtn) {
+    skipBtn.classList.toggle('active', isSkipped);
+    skipBtn.innerHTML = isSkipped ? '✅ 恢复考题' : '🚫 不考题';
+  }
+
   // 设置底部导航按钮启用/禁用状态（基于筛选后的列表）
   const filteredIds2 = getFilteredPlanIds();
   const fIdx = filteredIds2.indexOf(qid);
@@ -1526,6 +1534,36 @@ function togglePlanWrongMark() {
   saveWrong();
   updateBadges();
   renderPlanQuestion();
+}
+
+function togglePlanSkipMark() {
+  const dayIds = planDays[planCurrentDay];
+  const qid = dayIds[planQuizIndex];
+  const wasSkipped = skipBook.includes(qid);
+  
+  if (wasSkipped) {
+    // 恢复考题
+    const idx = skipBook.indexOf(qid);
+    if (idx > -1) skipBook.splice(idx, 1);
+  } else {
+    // 标记为不考题
+    skipBook.push(qid);
+  }
+  saveSkip();
+  updateBadges();
+  
+  // 从当天的题目列表中移除/恢复不考题
+  if (!wasSkipped) {
+    // 标记为不考题：从当天列表中移除
+    const dayIdx = dayIds.indexOf(qid);
+    if (dayIdx > -1) dayIds.splice(dayIdx, 1);
+    // 调整当前索引
+    if (planQuizIndex >= dayIds.length) planQuizIndex = dayIds.length - 1;
+    if (planQuizIndex < 0) planQuizIndex = 0;
+  }
+  
+  renderPlanQuestion();
+  updateStats();
 }
 
 function planPrevQuestion() {

@@ -716,6 +716,7 @@
 
   /* 隐藏类 */
   .hidden { display: none !important; }
+  .list-mode { display: none; }
   .list-mode.hidden { display: none !important; }
   .list-mode.active { display: block; }
   .plan-mode { display: none; }
@@ -1614,15 +1615,22 @@ function updateBadges() {
 function switchMode(mode) {
   currentMode = mode;
   document.querySelectorAll('.mode-tab').forEach(t => t.classList.toggle('active', t.dataset.mode === mode));
-  document.getElementById('quizMode').classList.toggle('hidden', mode !== 'quiz');
-  document.getElementById('planMode').classList.toggle('active', mode === 'plan');
-  document.getElementById('wrongMode').classList.toggle('active', mode === 'wrong');
-  document.getElementById('favMode').classList.toggle('active', mode === 'fav');
+
+  // 统一控制所有窗口的显示
+  const quizMode = document.getElementById('quizMode');
+  const planMode = document.getElementById('planMode');
+  const wrongMode = document.getElementById('wrongMode');
+  const favMode = document.getElementById('favMode');
   const skipMode = document.getElementById('skipMode');
-  if (skipMode) {
-    skipMode.classList.toggle('active', mode === 'skip');
-    skipMode.style.display = mode === 'skip' ? 'block' : 'none';
-  }
+
+  // quizMode使用hidden类控制
+  if (quizMode) quizMode.classList.toggle('hidden', mode !== 'quiz');
+
+  // 其他模式使用active类控制（默认display:none，有active才显示）
+  if (planMode) planMode.classList.toggle('active', mode === 'plan');
+  if (wrongMode) wrongMode.classList.toggle('active', mode === 'wrong');
+  if (favMode) favMode.classList.toggle('active', mode === 'fav');
+  if (skipMode) skipMode.classList.toggle('active', mode === 'skip');
 
   const showBottomNav = (mode === 'quiz' || (mode === 'plan' && document.getElementById('planQuiz').style.display === 'block'));
   document.getElementById('bottomNav').style.display = showBottomNav ? 'flex' : 'none';

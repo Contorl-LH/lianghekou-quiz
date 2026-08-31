@@ -1097,14 +1097,8 @@
 <script>
 // ============ 数据与状态 ============
 const allQuestions = window.QUIZ_DATA || [];
-let filteredQuestions = allQuestions.filter(q => !skipBook.includes(q.id));
-let currentIndex = 0;
-let answerVisible = false;
-let currentMode = 'quiz'; // quiz / plan / wrong / fav
-let answered = false;
-let selectedOption = null;
 
-// localStorage 数据
+// localStorage 数据（必须在filteredQuestions之前声明）
 let wrongBook = JSON.parse(localStorage.getItem('quiz_wrong_book') || '[]');
 let favorites = JSON.parse(localStorage.getItem('quiz_favorites') || '[]');
 let doneBook = JSON.parse(localStorage.getItem('quiz_done_book') || '[]');
@@ -1112,6 +1106,13 @@ let planData = JSON.parse(localStorage.getItem('quiz_10day_plan') || 'null');
 let quizProgress = JSON.parse(localStorage.getItem('quiz_progress') || 'null');
 let skipBook = JSON.parse(localStorage.getItem('quiz_skip_book') || '[]');
 let skipFilterType = 'all';
+
+let filteredQuestions = allQuestions.filter(q => !skipBook.includes(q.id));
+let currentIndex = 0;
+let answerVisible = false;
+let currentMode = 'quiz'; // quiz / plan / wrong / fav
+let answered = false;
+let selectedOption = null;
 
 const typeNames = {A:'选择题', B:'判断题', C:'简答题', D:'计算题', E:'绘图题', F:'论述题'};
 

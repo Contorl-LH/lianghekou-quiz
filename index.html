@@ -858,6 +858,7 @@
       </div>
       <div class="card-body">
         <div class="question-text" id="questionText"></div>
+        <img id="qImgInline" src="" alt="题干" onclick="toggleZoom(this)" style="display:none;margin-bottom:16px;border-radius:10px;max-width:100%;cursor:pointer;">
         <div class="answer-options" id="answerOptions"></div>
         <div class="result-tip" id="resultTip"></div>
         <div class="action-row">
@@ -927,6 +928,7 @@
         </div>
         <div class="card-body">
           <div class="question-text" id="planQuestionText"></div>
+          <img id="planQImgInline" src="" alt="题干" onclick="toggleZoom(this)" style="display:none;margin-bottom:16px;border-radius:10px;max-width:100%;cursor:pointer;">
           <div class="answer-options" id="planAnswerOptions"></div>
           <div class="result-tip" id="planResultTip"></div>
           <div class="action-row">
@@ -1337,8 +1339,20 @@ function renderPlanQuestion() {
     planQText.style.display = q.q ? 'block' : 'none';
   }
 
+  // 答案部分的题干图片和答案图片
   document.getElementById('planQImg').src = q.q_img;
   document.getElementById('planAImg').src = q.a_img;
+
+  // 题干部分的条件显示图片（仅对选项不完整的题目显示）
+  const planQImgInline = document.getElementById('planQImgInline');
+  if (planQImgInline) {
+    if (q.show_q_img_in_question) {
+      planQImgInline.src = q.q_img;
+      planQImgInline.style.display = 'block';
+    } else {
+      planQImgInline.style.display = 'none';
+    }
+  }
 
   // 显示答案文字
   const planAText = document.getElementById('planAnswerText');
@@ -1623,10 +1637,22 @@ function renderQuestion() {
     qText.style.display = q.q ? 'block' : 'none';
   }
 
+  // 答案部分的题干图片
   const qImg = document.getElementById('qImg');
   qImg.src = q.q_img;
   qImg.classList.remove('zoomed');
   qImg.style.display = 'block';
+
+  // 题干部分的条件显示图片（仅对选项不完整的题目显示）
+  const qImgInline = document.getElementById('qImgInline');
+  if (qImgInline) {
+    if (q.show_q_img_in_question) {
+      qImgInline.src = q.q_img;
+      qImgInline.style.display = 'block';
+    } else {
+      qImgInline.style.display = 'none';
+    }
+  }
 
   const aImg = document.getElementById('aImg');
   aImg.src = q.a_img;

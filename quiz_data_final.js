@@ -13,7 +13,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5A1001_q.png",
     "a_img": "q1_answer_images/La5A1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A1002",
@@ -25,11 +26,12 @@ window.QUIZ_DATA = [
       "B": "并联",
       "A": "串联",
       "C": "混联",
-      "D": "电桥。\n图A-1"
+      "D": "电桥。"
     },
     "q_img": "q1_question_images/La5A1002_q.png",
     "a_img": "q1_answer_images/La5A1002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A2003",
@@ -41,11 +43,12 @@ window.QUIZ_DATA = [
       "A": "旋转",
       "B": "检修",
       "C": "国民经济",
-      "D": "事\n故。"
+      "D": "事 故。"
     },
     "q_img": "q1_question_images/La5A2003_q.png",
     "a_img": "q1_answer_images/La5A2003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A2004",
@@ -55,13 +58,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "内部存在大量自由电子",
-      "B": "内部的电子比其它物质\n多",
+      "B": "内部的电子比其它物质 多",
       "C": "内部的电荷多",
       "D": "由电子组成。"
     },
     "q_img": "q1_question_images/La5A2004_q.png",
     "a_img": "q1_answer_images/La5A2004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A2005",
@@ -77,7 +81,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5A2005_q.png",
     "a_img": "q1_answer_images/La5A2005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A3006",
@@ -93,7 +98,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5A3006_q.png",
     "a_img": "q1_answer_images/La5A3006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A3007",
@@ -109,7 +115,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5A3007_q.png",
     "a_img": "q1_answer_images/La5A3007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A3008",
@@ -119,13 +126,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "二极管整流是利用二极管的单向导电性",
-      "B": "半波整\n流电路输出电压低、脉动大、效率高",
-      "C": "全波整流电路输出\n电压高、脉动小、效率低",
+      "B": "半波整 流电路输出电压低、脉动大、效率高",
+      "C": "全波整流电路输出 电压高、脉动小、效率低",
       "D": "以上说法都错。"
     },
     "q_img": "q1_question_images/La5A3008_q.png",
     "a_img": "q1_answer_images/La5A3008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A3009",
@@ -137,11 +145,12 @@ window.QUIZ_DATA = [
       "A": "正比",
       "B": "反比",
       "C": "非线性",
-      "D": "二次函\n数关系。"
+      "D": "二次函 数关系。"
     },
     "q_img": "q1_question_images/La5A3009_q.png",
     "a_img": "q1_answer_images/La5A3009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A3010",
@@ -152,12 +161,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "实现水能转换",
       "A": "自动调节水流流量",
-      "C": "承受\n水轮机转动部分重量",
+      "C": "承受 水轮机转动部分重量",
       "D": "回收能量。"
     },
     "q_img": "q1_question_images/La5A3010_q.png",
     "a_img": "q1_answer_images/La5A3010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A3011",
@@ -173,7 +183,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5A3011_q.png",
     "a_img": "q1_answer_images/La5A3011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5A3012",
@@ -189,7 +200,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5A3012_q.png",
     "a_img": "q1_answer_images/La5A3012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "La4A1013",
@@ -198,14 +210,15 @@ window.QUIZ_DATA = [
     "q": "免维护蓄电池的名称为。",
     "a": "C",
     "o": {
-      "C": "阀控式密封\n铅蓄电池",
+      "C": "阀控式密封 铅蓄电池",
       "A": "铅酸蓄电池",
       "B": "阀控式蓄电池",
       "D": "密封蓄电池。"
     },
     "q_img": "q1_question_images/La4A1013_q.png",
     "a_img": "q1_answer_images/La4A1013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4A1014",
@@ -221,7 +234,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4A1014_q.png",
     "a_img": "q1_answer_images/La4A1014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "La4A1015",
@@ -237,7 +251,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4A1015_q.png",
     "a_img": "q1_answer_images/La4A1015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4A2016",
@@ -249,11 +264,12 @@ window.QUIZ_DATA = [
       "D": "挣脱共价键束缚的电子。",
       "A": "价电子",
       "B": "组成共价键的电子",
-      "C": "与空穴复合\n的电子"
+      "C": "与空穴复合 的电子"
     },
     "q_img": "q1_question_images/La4A2016_q.png",
     "a_img": "q1_answer_images/La4A2016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4A2017",
@@ -265,11 +281,12 @@ window.QUIZ_DATA = [
       "C": "低于",
       "A": "高于",
       "B": "等于",
-      "D": "或高于\n或低于。"
+      "D": "或高于 或低于。"
     },
     "q_img": "q1_question_images/La4A2017_q.png",
     "a_img": "q1_answer_images/La4A2017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4A2018",
@@ -281,11 +298,12 @@ window.QUIZ_DATA = [
       "B": "反比",
       "A": "正比",
       "C": "非线性",
-      "D": "二次\n函数关系。"
+      "D": "二次 函数关系。"
     },
     "q_img": "q1_question_images/La4A2018_q.png",
     "a_img": "q1_answer_images/La4A2018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4A3019",
@@ -301,7 +319,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4A3019_q.png",
     "a_img": "q1_answer_images/La4A3019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4A3020",
@@ -317,7 +336,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4A3020_q.png",
     "a_img": "q1_answer_images/La4A3020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4A3021",
@@ -333,7 +353,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4A3021_q.png",
     "a_img": "q1_answer_images/La4A3021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4A4022",
@@ -349,7 +370,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4A4022_q.png",
     "a_img": "q1_answer_images/La4A4022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3A2023",
@@ -365,7 +387,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La3A2023_q.png",
     "a_img": "q1_answer_images/La3A2023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3A2024",
@@ -376,12 +399,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "部分或全部地阻断引水钢管中水击波的传播",
       "A": "为便于安装长引水钢管",
-      "B": "为降低引水钢管压力，\n节约成本",
+      "B": "为降低引水钢管压力， 节约成本",
       "D": "有效降低引水钢管中水的流速。"
     },
     "q_img": "q1_question_images/La3A2024_q.png",
     "a_img": "q1_answer_images/La3A2024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3A3025",
@@ -390,14 +414,15 @@ window.QUIZ_DATA = [
     "q": "下面说法错误的是。",
     "a": "D",
     "o": {
-      "D": "电路中产\n\n5\n生感应电动势必有感应电流。",
+      "D": "电路中产 5 生感应电动势必有感应电流。",
       "A": "电路中有感应电流必有感应电动势存在",
-      "B": "自感是\n电磁感应的一种",
+      "B": "自感是 电磁感应的一种",
       "C": "互感是电磁感应的一种"
     },
     "q_img": "q1_question_images/La3A3025_q.png",
     "a_img": "q1_answer_images/La3A3025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3A3026",
@@ -413,7 +438,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La3A3026_q.png",
     "a_img": "q1_answer_images/La3A3026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3A4027",
@@ -429,7 +455,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La3A4027_q.png",
     "a_img": "q1_answer_images/La3A4027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "La3A5028",
@@ -440,12 +467,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "中性点不接地",
       "A": "中性点直接接地",
-      "C": "中性点\n经消弧线圈接地",
+      "C": "中性点 经消弧线圈接地",
       "D": "中性点经电容器接地。"
     },
     "q_img": "q1_question_images/La3A5028_q.png",
     "a_img": "q1_answer_images/La3A5028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La2A3029",
@@ -457,11 +485,12 @@ window.QUIZ_DATA = [
       "A": "CPU",
       "B": "键盘",
       "C": "打印机",
-      "D": "显示\n器。"
+      "D": "显示 器。"
     },
     "q_img": "q1_question_images/La2A3029_q.png",
     "a_img": "q1_answer_images/La2A3029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La2A3030",
@@ -477,7 +506,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La2A3030_q.png",
     "a_img": "q1_answer_images/La2A3030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La1A2031",
@@ -493,7 +523,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La1A2031_q.png",
     "a_img": "q1_answer_images/La1A2031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La1A3032",
@@ -509,7 +540,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La1A3032_q.png",
     "a_img": "q1_answer_images/La1A3032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A1033",
@@ -525,7 +557,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A1033_q.png",
     "a_img": "q1_answer_images/Lb5A1033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A1034",
@@ -541,7 +574,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A1034_q.png",
     "a_img": "q1_answer_images/Lb5A1034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lb5A1035",
@@ -557,7 +591,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A1035_q.png",
     "a_img": "q1_answer_images/Lb5A1035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2036",
@@ -573,7 +608,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A2036_q.png",
     "a_img": "q1_answer_images/Lb5A2036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2037",
@@ -589,7 +625,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A2037_q.png",
     "a_img": "q1_answer_images/Lb5A2037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2038",
@@ -605,7 +642,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A2038_q.png",
     "a_img": "q1_answer_images/Lb5A2038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2039",
@@ -614,14 +652,15 @@ window.QUIZ_DATA = [
     "q": "人体触电时，危害人体安全的主要因素是。",
     "a": "C",
     "o": {
-      "C": "流过人体的\n电流",
+      "C": "流过人体的 电流",
       "A": "加于人体的电压",
       "B": "电流频率",
-      "D": "电流的热效应。\n2\n3\n\n7"
+      "D": "电流的热效应。 2 3 7"
     },
     "q_img": "q1_question_images/Lb5A2039_q.png",
     "a_img": "q1_answer_images/Lb5A2039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2040",
@@ -632,12 +671,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "电压相位滞后电流相位90°",
       "A": "相同",
-      "C": "电压\n相位超前电流相位90°",
+      "C": "电压 相位超前电流相位90°",
       "D": "电压相位超前电流相位180°。"
     },
     "q_img": "q1_question_images/Lb5A2040_q.png",
     "a_img": "q1_answer_images/Lb5A2040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2041",
@@ -649,11 +689,12 @@ window.QUIZ_DATA = [
       "C": "1 个",
       "A": "3 个",
       "B": "2 个",
-      "D": "若干个\n都行。"
+      "D": "若干个 都行。"
     },
     "q_img": "q1_question_images/Lb5A2041_q.png",
     "a_img": "q1_answer_images/Lb5A2041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2042",
@@ -665,11 +706,12 @@ window.QUIZ_DATA = [
       "A": "当天",
       "B": "前一天",
       "C": "第二天",
-      "D": "第三\n天。"
+      "D": "第三 天。"
     },
     "q_img": "q1_question_images/Lb5A2042_q.png",
     "a_img": "q1_answer_images/Lb5A2042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2043",
@@ -685,7 +727,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A2043_q.png",
     "a_img": "q1_answer_images/Lb5A2043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A2044",
@@ -701,7 +744,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A2044_q.png",
     "a_img": "q1_answer_images/Lb5A2044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A3045",
@@ -717,7 +761,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A3045_q.png",
     "a_img": "q1_answer_images/Lb5A3045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A3046",
@@ -726,14 +771,15 @@ window.QUIZ_DATA = [
     "q": "下面说法中正确的是：。",
     "a": "B",
     "o": {
-      "B": "电感滤波的特点是体积大、成本高、容易引起电磁\n干扰",
-      "A": "电感滤波是利用电感线圈，抗交直流的特性滤去交流\n\n成分的",
+      "B": "电感滤波的特点是体积大、成本高、容易引起电磁 干扰",
+      "A": "电感滤波是利用电感线圈，抗交直流的特性滤去交流 成分的",
       "C": "电子电路中用电感滤波的比用电容滤波的多",
-      "D": "以\n上说法都错。"
+      "D": "以 上说法都错。"
     },
     "q_img": "q1_question_images/Lb5A3046_q.png",
     "a_img": "q1_answer_images/Lb5A3046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A3047",
@@ -749,7 +795,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A3047_q.png",
     "a_img": "q1_answer_images/Lb5A3047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A3048",
@@ -765,7 +812,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A3048_q.png",
     "a_img": "q1_answer_images/Lb5A3048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A3049",
@@ -776,12 +824,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "装置操作油管",
       "B": "轴心补气",
-      "C": "轴心补气和安\n装励磁引线",
+      "C": "轴心补气和安 装励磁引线",
       "D": "装置操作油管和轴心补气。"
     },
     "q_img": "q1_question_images/Lb5A3049_q.png",
     "a_img": "q1_answer_images/Lb5A3049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A4050",
@@ -797,7 +846,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5A4050_q.png",
     "a_img": "q1_answer_images/Lb5A4050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A4051",
@@ -806,14 +856,15 @@ window.QUIZ_DATA = [
     "q": "对NPN 三极管来说，下面说法正确的是：。",
     "a": "C",
     "o": {
-      "C": "外电路不断地向发射区补充电子，以维持多\n数载流子的浓度差",
-      "A": "当发射结正向偏置时，从发射区来的少数载流子电子\n很容易越过发射结扩散到基区",
-      "B": "扩散到基区的电子全被空\n穴复合掉了",
+      "C": "外电路不断地向发射区补充电子，以维持多 数载流子的浓度差",
+      "A": "当发射结正向偏置时，从发射区来的少数载流子电子 很容易越过发射结扩散到基区",
+      "B": "扩散到基区的电子全被空 穴复合掉了",
       "D": "以上说法都错。"
     },
     "q_img": "q1_question_images/Lb5A4051_q.png",
     "a_img": "q1_answer_images/Lb5A4051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5A4052",
@@ -825,11 +876,12 @@ window.QUIZ_DATA = [
       "A": "熄灭电弧",
       "B": "绝缘",
       "C": "冷却",
-      "D": "润\n滑。"
+      "D": "润 滑。"
     },
     "q_img": "q1_question_images/Lb5A4052_q.png",
     "a_img": "q1_answer_images/Lb5A4052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A1053",
@@ -845,7 +897,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A1053_q.png",
     "a_img": "q1_answer_images/Lb4A1053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A1054",
@@ -861,7 +914,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A1054_q.png",
     "a_img": "q1_answer_images/Lb4A1054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A1055",
@@ -877,7 +931,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A1055_q.png",
     "a_img": "q1_answer_images/Lb4A1055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A2056",
@@ -888,12 +943,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "轴心补气或励磁引线",
       "A": "装置操作油管",
-      "C": "装操\n作油管和轴心补气",
+      "C": "装操 作油管和轴心补气",
       "D": "排水。"
     },
     "q_img": "q1_question_images/Lb4A2056_q.png",
     "a_img": "q1_answer_images/Lb4A2056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A2057",
@@ -909,7 +965,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A2057_q.png",
     "a_img": "q1_answer_images/Lb4A2057_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lb4A2058",
@@ -921,11 +978,12 @@ window.QUIZ_DATA = [
       "C": "无压流",
       "A": "渐变流",
       "B": "有压流",
-      "D": "恒\n定流。"
+      "D": "恒 定流。"
     },
     "q_img": "q1_question_images/Lb4A2058_q.png",
     "a_img": "q1_answer_images/Lb4A2058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A2059",
@@ -941,7 +999,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A2059_q.png",
     "a_img": "q1_answer_images/Lb4A2059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A2060",
@@ -957,7 +1016,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A2060_q.png",
     "a_img": "q1_answer_images/Lb4A2060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A2061",
@@ -973,7 +1033,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A2061_q.png",
     "a_img": "q1_answer_images/Lb4A2061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A2062",
@@ -989,7 +1050,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A2062_q.png",
     "a_img": "q1_answer_images/Lb4A2062_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A3063",
@@ -1001,11 +1063,12 @@ window.QUIZ_DATA = [
       "B": "线电压",
       "A": "相电压",
       "C": "零序电压",
-      "D": "当高压\n侧B 相熔断器熔断时其所接电压表指示的电压Uab 为正常值的\n1/2。"
+      "D": "当高压 侧B 相熔断器熔断时其所接电压表指示的电压Uab 为正常值的 1/2。"
     },
     "q_img": "q1_question_images/Lb4A3063_q.png",
     "a_img": "q1_answer_images/Lb4A3063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A3064",
@@ -1017,11 +1080,12 @@ window.QUIZ_DATA = [
       "C": "滞后90°",
       "A": "超前90°",
       "B": "超前180°",
-      "D": "滞\n后180°。"
+      "D": "滞 后180°。"
     },
     "q_img": "q1_question_images/Lb4A3064_q.png",
     "a_img": "q1_answer_images/Lb4A3064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A4065",
@@ -1032,12 +1096,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "反馈是指将输出信号通过反馈电路送还到输入端",
       "B": "反馈的作用是为了提高放大倍数",
-      "C": "反馈的作用是为了\n提高电路的稳定性",
+      "C": "反馈的作用是为了 提高电路的稳定性",
       "D": "正反馈有利于提高电路的稳定性。"
     },
     "q_img": "q1_question_images/Lb4A4065_q.png",
     "a_img": "q1_answer_images/Lb4A4065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A4066",
@@ -1048,12 +1113,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "直流放大器可以放大交流信号",
       "A": "直流信号一般是指恒定不变的信号",
-      "B": "对直流信号\n可以用多级交流放大器放大，只不过放大倍数比放大交流信号\n时小",
-      "D": "交流信号不能\n放大。"
+      "B": "对直流信号 可以用多级交流放大器放大，只不过放大倍数比放大交流信号 时小",
+      "D": "交流信号不能 放大。"
     },
     "q_img": "q1_question_images/Lb4A4066_q.png",
     "a_img": "q1_answer_images/Lb4A4066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A4067",
@@ -1062,14 +1128,15 @@ window.QUIZ_DATA = [
     "q": "一负载电流相位滞后端电压80°，该负载需电 11 源。",
     "a": "C",
     "o": {
-      "C": "同时提供有功和无\n功",
+      "C": "同时提供有功和无 功",
       "A": "提供无功",
       "B": "提供有功",
       "D": "吸收有功，发出无功。"
     },
     "q_img": "q1_question_images/Lb4A4067_q.png",
     "a_img": "q1_answer_images/Lb4A4067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A4068",
@@ -1085,7 +1152,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A4068_q.png",
     "a_img": "q1_answer_images/Lb4A4068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A4069",
@@ -1101,7 +1169,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A4069_q.png",
     "a_img": "q1_answer_images/Lb4A4069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A4070",
@@ -1117,7 +1186,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A4070_q.png",
     "a_img": "q1_answer_images/Lb4A4070_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A4071",
@@ -1133,7 +1203,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4A4071_q.png",
     "a_img": "q1_answer_images/Lb4A4071_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4A4072",
@@ -1144,12 +1215,13 @@ window.QUIZ_DATA = [
     "o": {
       "D": "内部干扰信号和外部干扰信号。",
       "A": "差模干扰信号和共模干扰信号",
-      "B": "周期性干扰信号\n和非周期性干扰信号",
+      "B": "周期性干扰信号 和非周期性干扰信号",
       "C": "电磁感应干扰信号和静电干扰信号"
     },
     "q_img": "q1_question_images/Lb4A4072_q.png",
     "a_img": "q1_answer_images/Lb4A4072_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A1073",
@@ -1161,11 +1233,12 @@ window.QUIZ_DATA = [
       "B": "协联关系",
       "A": "相联关系",
       "C": "同步关系",
-      "D": "对\n\n立关系。"
+      "D": "对 立关系。"
     },
     "q_img": "q1_question_images/Lb3A1073_q.png",
     "a_img": "q1_answer_images/Lb3A1073_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A2074",
@@ -1181,7 +1254,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3A2074_q.png",
     "a_img": "q1_answer_images/Lb3A2074_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A2075",
@@ -1192,12 +1266,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "有一个接地点",
       "A": "没有接地点",
-      "C": "有两个接地\n点",
+      "C": "有两个接地 点",
       "D": "按现场情况不同，不确定。"
     },
     "q_img": "q1_question_images/Lb3A2075_q.png",
     "a_img": "q1_answer_images/Lb3A2075_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A2076",
@@ -1209,11 +1284,12 @@ window.QUIZ_DATA = [
       "A": "无色无味",
       "B": "有色有毒",
       "C": "无色有毒",
-      "D": "有\n色有味。"
+      "D": "有 色有味。"
     },
     "q_img": "q1_question_images/Lb3A2076_q.png",
     "a_img": "q1_answer_images/Lb3A2076_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A2077",
@@ -1224,12 +1300,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "使转轮的水流排入河床，回收部分能量",
       "A": "使水流在转轮室内形成旋流",
-      "B": "引导水流进入导水\n机构",
-      "D": "为施\n工方便。"
+      "B": "引导水流进入导水 机构",
+      "D": "为施 工方便。"
     },
     "q_img": "q1_question_images/Lb3A2077_q.png",
     "a_img": "q1_answer_images/Lb3A2077_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A2078",
@@ -1241,11 +1318,12 @@ window.QUIZ_DATA = [
       "B": "差动",
       "A": "重瓦斯",
       "C": "复合电压启动过电流",
-      "D": "过\n电压。"
+      "D": "过 电压。"
     },
     "q_img": "q1_question_images/Lb3A2078_q.png",
     "a_img": "q1_answer_images/Lb3A2078_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A3079",
@@ -1254,14 +1332,15 @@ window.QUIZ_DATA = [
     "q": "水轮发电机定子绝缘的吸收比不应小于。",
     "a": "C",
     "o": {
-      "C": "。",
+      "C": "",
       "A": "1.",
-      "B": "1.2；\nC）1.3",
+      "B": "1.2； C）1.3",
       "D": "1.5。"
     },
     "q_img": "q1_question_images/Lb3A3079_q.png",
     "a_img": "q1_answer_images/Lb3A3079_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lb3A3080",
@@ -1270,14 +1349,15 @@ window.QUIZ_DATA = [
     "q": "蓄电池容量用表示。",
     "a": "B",
     "o": {
-      "B": "放电电流与放电时\n间的乘积",
+      "B": "放电电流与放电时 间的乘积",
       "A": "放电功率与放电时间的乘积",
       "C": "充电功率与时间的乘积",
-      "D": "充电电流与\n\n13\n电压的乘积。"
+      "D": "充电电流与 13 电压的乘积。"
     },
     "q_img": "q1_question_images/Lb3A3080_q.png",
     "a_img": "q1_answer_images/Lb3A3080_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A3081",
@@ -1286,14 +1366,15 @@ window.QUIZ_DATA = [
     "q": "发电机正常运行时，气隙磁场由。",
     "a": "C",
     "o": {
-      "C": "转子电流\n与定子电流共同产生",
+      "C": "转子电流 与定子电流共同产生",
       "A": "转子电源产生",
       "B": "定子电流产生",
       "D": "剩磁场产生。"
     },
     "q_img": "q1_question_images/Lb3A3081_q.png",
     "a_img": "q1_answer_images/Lb3A3081_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A3082",
@@ -1309,7 +1390,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3A3082_q.png",
     "a_img": "q1_answer_images/Lb3A3082_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A4083",
@@ -1325,7 +1407,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3A4083_q.png",
     "a_img": "q1_answer_images/Lb3A4083_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A4084",
@@ -1341,7 +1424,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3A4084_q.png",
     "a_img": "q1_answer_images/Lb3A4084_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A4085",
@@ -1357,7 +1441,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3A4085_q.png",
     "a_img": "q1_answer_images/Lb3A4085_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3A5086",
@@ -1373,7 +1458,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3A5086_q.png",
     "a_img": "q1_answer_images/Lb3A5086_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A1087",
@@ -1384,12 +1470,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "开关压力",
       "A": "三相电压电流",
-      "C": "开关动作情况\n和故障持续时间",
+      "C": "开关动作情况 和故障持续时间",
       "D": "故障相别和故障类型。"
     },
     "q_img": "q1_question_images/Lb2A1087_q.png",
     "a_img": "q1_answer_images/Lb2A1087_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A2088",
@@ -1401,11 +1488,12 @@ window.QUIZ_DATA = [
       "C": "200m 以下",
       "A": "90～120m",
       "B": "70～100m",
-      "D": "50～\n140m。"
+      "D": "50～ 140m。"
     },
     "q_img": "q1_question_images/Lb2A2088_q.png",
     "a_img": "q1_answer_images/Lb2A2088_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A2089",
@@ -1414,14 +1502,15 @@ window.QUIZ_DATA = [
     "q": "半导体中空穴电流是由。",
     "a": "B",
     "o": {
-      "B": "价电子填补空穴所\n形成的",
+      "B": "价电子填补空穴所 形成的",
       "A": "自由电子填补空穴所形成的",
       "C": "自由电子定向运动所形成的",
-      "D": "价电子的定向\n运动所形成的。"
+      "D": "价电子的定向 运动所形成的。"
     },
     "q_img": "q1_question_images/Lb2A2089_q.png",
     "a_img": "q1_answer_images/Lb2A2089_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A2090",
@@ -1432,12 +1521,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "水轮机发出额定出力的最低水头",
       "A": "保证水轮机安全稳定运行的最低水头",
-      "B": "允许水轮\n机运行的最高工作水头",
+      "B": "允许水轮 机运行的最高工作水头",
       "D": "水轮机效率最高的水头。"
     },
     "q_img": "q1_question_images/Lb2A2090_q.png",
     "a_img": "q1_answer_images/Lb2A2090_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A2091",
@@ -1446,14 +1536,15 @@ window.QUIZ_DATA = [
     "q": "下列描述跨步电压的大小哪种说法是正确 的？",
     "a": "A",
     "o": {
-      "A": "与入地电流强度成正比，与接地体的距离平方成反\n比",
+      "A": "与入地电流强度成正比，与接地体的距离平方成反 比",
       "B": "与入地电流强度成正比，与接地体的距离成反比",
       "C": "与入地电流强度成反比，与接地体的距离平方成正比",
       "D": "与入地电流强度成正比，与接地体的距离成正比。"
     },
     "q_img": "q1_question_images/Lb2A2091_q.png",
     "a_img": "q1_answer_images/Lb2A2091_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A2092",
@@ -1465,11 +1556,12 @@ window.QUIZ_DATA = [
       "C": "过渡过程",
       "A": "平衡过程",
       "B": "不平衡过程",
-      "D": "非\n稳定过程。\n\n15"
+      "D": "非 稳定过程。 15"
     },
     "q_img": "q1_question_images/Lb2A2092_q.png",
     "a_img": "q1_answer_images/Lb2A2092_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A2093",
@@ -1485,7 +1577,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2A2093_q.png",
     "a_img": "q1_answer_images/Lb2A2093_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lb2A3094",
@@ -1501,7 +1594,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2A3094_q.png",
     "a_img": "q1_answer_images/Lb2A3094_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A3095",
@@ -1517,7 +1611,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2A3095_q.png",
     "a_img": "q1_answer_images/Lb2A3095_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lb2A4096",
@@ -1529,11 +1624,12 @@ window.QUIZ_DATA = [
       "A": "滞后30°",
       "B": "超前30°",
       "C": "滞后120°",
-      "D": "超前\n120°。"
+      "D": "超前 120°。"
     },
     "q_img": "q1_question_images/Lb2A4096_q.png",
     "a_img": "q1_answer_images/Lb2A4096_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A4097",
@@ -1549,7 +1645,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2A4097_q.png",
     "a_img": "q1_answer_images/Lb2A4097_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A4098",
@@ -1561,11 +1658,12 @@ window.QUIZ_DATA = [
       "C": "保护接地",
       "A": "测量用",
       "B": "工作接地",
-      "D": "节省\n导线。"
+      "D": "节省 导线。"
     },
     "q_img": "q1_question_images/Lb2A4098_q.png",
     "a_img": "q1_answer_images/Lb2A4098_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A4099",
@@ -1581,7 +1679,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2A4099_q.png",
     "a_img": "q1_answer_images/Lb2A4099_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2A5100",
@@ -1592,12 +1691,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "本线路全长",
       "B": "相邻一部分",
-      "C": "本线路全长及\n下一线路的一部分",
+      "C": "本线路全长及 下一线路的一部分",
       "D": "相邻线路。"
     },
     "q_img": "q1_question_images/Lb2A5100_q.png",
     "a_img": "q1_answer_images/Lb2A5100_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A1101",
@@ -1613,7 +1713,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A1101_q.png",
     "a_img": "q1_answer_images/Lb1A1101_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A1102",
@@ -1629,7 +1730,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A1102_q.png",
     "a_img": "q1_answer_images/Lb1A1102_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A2103",
@@ -1645,7 +1747,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A2103_q.png",
     "a_img": "q1_answer_images/Lb1A2103_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A2104",
@@ -1654,14 +1757,15 @@ window.QUIZ_DATA = [
     "q": "室内GIS发生故障有气体外逸时，下面描述不 正确的是。",
     "a": "D",
     "o": {
-      "D": "事故后\n3h，工作人员可以无防护措施进入。",
+      "D": "事故后 3h，工作人员可以无防护措施进入。",
       "A": "全体人员立即撤离现场",
       "B": "立即投入全部通风装置",
       "C": "事故发生15min 内只允许抢救人员进入室内"
     },
     "q_img": "q1_question_images/Lb1A2104_q.png",
     "a_img": "q1_answer_images/Lb1A2104_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A2105",
@@ -1670,14 +1774,15 @@ window.QUIZ_DATA = [
     "q": "轴流转桨式水轮机，叶片密封装置的作用是 。",
     "a": "C",
     "o": {
-      "C": "对内防\n油外漏，对外防水渗入",
+      "C": "对内防 油外漏，对外防水渗入",
       "A": "防止水压降低",
       "B": "防止渗入压力油",
       "D": "对内防水外漏，对外防油渗入。"
     },
     "q_img": "q1_question_images/Lb1A2105_q.png",
     "a_img": "q1_answer_images/Lb1A2105_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A2106",
@@ -1686,11 +1791,12 @@ window.QUIZ_DATA = [
     "q": "对于P 型半导体来说，下列说法正确的是： 。",
     "a": "D",
     "o": {
-      "D": "。"
+      "D": ""
     },
     "q_img": "q1_question_images/Lb1A2106_q.png",
     "a_img": "q1_answer_images/Lb1A2106_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lb1A4112",
@@ -1701,12 +1807,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "它对外呈现正电",
       "A": "在本征半导体中掺入微量的五价元素形成的",
-      "B": "它\n的载流子是空穴",
-      "D": "它的多数载流子\n是空穴。"
+      "B": "它 的载流子是空穴",
+      "D": "它的多数载流子 是空穴。"
     },
     "q_img": "q1_question_images/Lb1A4112_q.png",
     "a_img": "q1_answer_images/Lb1A4112_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A3107",
@@ -1722,7 +1829,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A3107_q.png",
     "a_img": "q1_answer_images/Lb1A3107_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A3108",
@@ -1738,7 +1846,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A3108_q.png",
     "a_img": "q1_answer_images/Lb1A3108_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A3109",
@@ -1754,7 +1863,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A3109_q.png",
     "a_img": "q1_answer_images/Lb1A3109_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A3110",
@@ -1770,7 +1880,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A3110_q.png",
     "a_img": "q1_answer_images/Lb1A3110_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A3111",
@@ -1781,12 +1892,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "继电保护装置动作时间",
       "B": "断路器跳闸时间",
-      "C": "继\n电器保护装置动作时间与断路器跳闸时间之和",
-      "D": "电弧启燃\n到熄灭的时间。"
+      "C": "继 电器保护装置动作时间与断路器跳闸时间之和",
+      "D": "电弧启燃 到熄灭的时间。"
     },
     "q_img": "q1_question_images/Lb1A3111_q.png",
     "a_img": "q1_answer_images/Lb1A3111_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A4113",
@@ -1796,13 +1908,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "值班员发现设备缺陷后应马上自行处理",
-      "B": "值班员\n发现设备缺陷后应及时向值长汇报",
-      "C": "对于较大的设备缺陷\n和异常，班值长应予复查",
-      "D": "对系统管辖的设备要汇报调度\n员。"
+      "B": "值班员 发现设备缺陷后应及时向值长汇报",
+      "C": "对于较大的设备缺陷 和异常，班值长应予复查",
+      "D": "对系统管辖的设备要汇报调度 员。"
     },
     "q_img": "q1_question_images/Lb1A4113_q.png",
     "a_img": "q1_answer_images/Lb1A4113_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A4114",
@@ -1818,7 +1931,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A4114_q.png",
     "a_img": "q1_answer_images/Lb1A4114_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lb1A5115",
@@ -1834,7 +1948,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A5115_q.png",
     "a_img": "q1_answer_images/Lb1A5115_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A5116",
@@ -1850,7 +1965,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1A5116_q.png",
     "a_img": "q1_answer_images/Lb1A5116_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1A5117",
@@ -1861,12 +1977,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "U1＞U2，I1＞I2",
       "B": "U1＞U2，I1＜I2",
-      "C": "U1＜U2，I1＞I2；\n\n19",
-      "D": "U1\n＜\nU2\n，\nI1\n＜\nI2\n。\n图A—3"
+      "C": "U1＜U2，I1＞I2； 19",
+      "D": "U1 ＜ U2 ， I1 ＜ I2 。 图A—3"
     },
     "q_img": "q1_question_images/Lb1A5117_q.png",
     "a_img": "q1_answer_images/Lb1A5117_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5A1118",
@@ -1882,7 +1999,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc5A1118_q.png",
     "a_img": "q1_answer_images/Lc5A1118_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5A3119",
@@ -1894,11 +2012,12 @@ window.QUIZ_DATA = [
       "C": "P=KQH",
       "A": "P=9.81QH",
       "B": "P=9.81Q",
-      "D": "E=\n0.00272WH。"
+      "D": "E= 0.00272WH。"
     },
     "q_img": "q1_question_images/Lc5A3119_q.png",
     "a_img": "q1_answer_images/Lc5A3119_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5A4120",
@@ -1914,7 +2033,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc5A4120_q.png",
     "a_img": "q1_answer_images/Lc5A4120_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5A5121",
@@ -1930,7 +2050,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc5A5121_q.png",
     "a_img": "q1_answer_images/Lc5A5121_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lc4A1122",
@@ -1946,7 +2067,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4A1122_q.png",
     "a_img": "q1_answer_images/Lc4A1122_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4A2123",
@@ -1962,7 +2084,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4A2123_q.png",
     "a_img": "q1_answer_images/Lc4A2123_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4A2124",
@@ -1978,7 +2101,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4A2124_q.png",
     "a_img": "q1_answer_images/Lc4A2124_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4A2125",
@@ -1994,7 +2118,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4A2125_q.png",
     "a_img": "q1_answer_images/Lc4A2125_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4A3126",
@@ -2003,14 +2128,15 @@ window.QUIZ_DATA = [
     "q": "高效率区较宽的水轮机型式是：。",
     "a": "D",
     "o": {
-      "D": "轴流转桨\n式。",
+      "D": "轴流转桨 式。",
       "A": "轴流式",
       "B": "转桨式",
       "C": "冲击式"
     },
     "q_img": "q1_question_images/Lc4A3126_q.png",
     "a_img": "q1_answer_images/Lc4A3126_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3A2127",
@@ -2019,14 +2145,15 @@ window.QUIZ_DATA = [
     "q": "水库的工作深度是指：。",
     "a": "B",
     "o": {
-      "B": "正常蓄\n水位与死水位之间的水层深度",
+      "B": "正常蓄 水位与死水位之间的水层深度",
       "A": "防洪限制水位与死水位之间的水层深度",
-      "C": "防洪高水位与死水位之间\n的水层深度",
+      "C": "防洪高水位与死水位之间 的水层深度",
       "D": "设计洪水位与校核洪水位之间的水层深度。"
     },
     "q_img": "q1_question_images/Lc3A2127_q.png",
     "a_img": "q1_answer_images/Lc3A2127_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3A2128",
@@ -2042,7 +2169,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc3A2128_q.png",
     "a_img": "q1_answer_images/Lc3A2128_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3A3129",
@@ -2051,14 +2179,15 @@ window.QUIZ_DATA = [
     "q": "采用电容补偿装置调整系统电压时，对系统来 说。",
     "a": "D",
     "o": {
-      "D": "既补偿了系统的无功容量，又提高了\n系统的电压。",
+      "D": "既补偿了系统的无功容量，又提高了 系统的电压。",
       "A": "调整电压的作用不明显",
       "B": "不起无功补偿的作用",
       "C": "调整电容电流"
     },
     "q_img": "q1_question_images/Lc3A3129_q.png",
     "a_img": "q1_answer_images/Lc3A3129_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3A3130",
@@ -2067,14 +2196,15 @@ window.QUIZ_DATA = [
     "q": "两台阻抗电压不相等的变压器并列运行时，在 负荷分配上",
     "a": "A",
     "o": {
-      "A": ".阻抗电压大的变压器负荷小",
-      "B": ".阻抗电压小的变\n压器负荷小",
-      "C": ".负荷的分配不受阻抗电压的影响",
-      "D": "相\n等。\n\n21"
+      "A": "阻抗电压大的变压器负荷小",
+      "B": "阻抗电压小的变 压器负荷小",
+      "C": "负荷的分配不受阻抗电压的影响",
+      "D": "相 等。 21"
     },
     "q_img": "q1_question_images/Lc3A3130_q.png",
     "a_img": "q1_answer_images/Lc3A3130_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3A4131",
@@ -2090,7 +2220,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc3A4131_q.png",
     "a_img": "q1_answer_images/Lc3A4131_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3A4132",
@@ -2102,11 +2233,12 @@ window.QUIZ_DATA = [
       "A": "幅度最大",
       "B": "幅度最小",
       "C": "幅度不变",
-      "D": "不\n能确定。"
+      "D": "不 能确定。"
     },
     "q_img": "q1_question_images/Lc3A4132_q.png",
     "a_img": "q1_answer_images/Lc3A4132_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2A2133",
@@ -2117,12 +2249,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "吸收比不合格",
       "A": "耐压试验不合格",
-      "C": "绕组严\n重变形，主绝缘可能损伤",
+      "C": "绕组严 重变形，主绝缘可能损伤",
       "D": "绕组防晕层严重破坏。"
     },
     "q_img": "q1_question_images/Lc2A2133_q.png",
     "a_img": "q1_answer_images/Lc2A2133_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2A3134",
@@ -2138,7 +2271,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc2A3134_q.png",
     "a_img": "q1_answer_images/Lc2A3134_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2A4135",
@@ -2147,14 +2281,15 @@ window.QUIZ_DATA = [
     "q": "间隙一定，冲击放电时，击穿电压与冲击波的 有关。",
     "a": "D",
     "o": {
-      "D": "波\n形。",
+      "D": "波 形。",
       "A": "波长",
       "B": "波头",
       "C": "频率"
     },
     "q_img": "q1_question_images/Lc2A4135_q.png",
     "a_img": "q1_answer_images/Lc2A4135_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2A5136",
@@ -2170,7 +2305,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc2A5136_q.png",
     "a_img": "q1_answer_images/Lc2A5136_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2A5137",
@@ -2181,12 +2317,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "其每一跳闸回路应分别由专用的直流熔断器供电",
       "B": "两组跳闸回路可共用一组直流熔断器供电",
-      "C": "其中一组由专用\n的直流熔断器供电，另一组可与一套主保护共用一组直流熔断\n器",
+      "C": "其中一组由专用 的直流熔断器供电，另一组可与一套主保护共用一组直流熔断 器",
       "D": "对直流熔断器无特殊要求。"
     },
     "q_img": "q1_question_images/Lc2A5137_q.png",
     "a_img": "q1_answer_images/Lc2A5137_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1A3139",
@@ -2202,7 +2339,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1A3139_q.png",
     "a_img": "q1_answer_images/Lc1A3139_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1A4140",
@@ -2218,7 +2356,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1A4140_q.png",
     "a_img": "q1_answer_images/Lc1A4140_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Lc1A4141",
@@ -2234,7 +2373,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1A4141_q.png",
     "a_img": "q1_answer_images/Lc1A4141_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1A4142",
@@ -2250,7 +2390,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1A4142_q.png",
     "a_img": "q1_answer_images/Lc1A4142_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1A5143",
@@ -2259,14 +2400,15 @@ window.QUIZ_DATA = [
     "q": "若三相全控桥逆变颠覆，则会发生。",
     "a": "D",
     "o": {
-      "D": "续流。\n\n23",
+      "D": "续流。 23",
       "A": "强励",
       "B": "强减",
       "C": "逆变"
     },
     "q_img": "q1_question_images/Lc1A5143_q.png",
     "a_img": "q1_answer_images/Lc1A5143_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5A1144",
@@ -2278,11 +2420,12 @@ window.QUIZ_DATA = [
       "B": "单点接地",
       "A": "两点接地",
       "C": "多点接地",
-      "D": "屏\n蔽接地。"
+      "D": "屏 蔽接地。"
     },
     "q_img": "q1_question_images/Jd5A1144_q.png",
     "a_img": "q1_answer_images/Jd5A1144_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5A1145",
@@ -2298,7 +2441,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5A1145_q.png",
     "a_img": "q1_answer_images/Jd5A1145_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5A2146",
@@ -2307,14 +2451,15 @@ window.QUIZ_DATA = [
     "q": "空气之所以是贮存压能的良好介质，是因为空 气。",
     "a": "D",
     "o": {
-      "D": "有良好\n的可压缩性。",
+      "D": "有良好 的可压缩性。",
       "A": "易流动",
       "B": "质量轻",
       "C": "贮存方便"
     },
     "q_img": "q1_question_images/Jd5A2146_q.png",
     "a_img": "q1_answer_images/Jd5A2146_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5A2147",
@@ -2330,7 +2475,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5A2147_q.png",
     "a_img": "q1_answer_images/Jd5A2147_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5A2148",
@@ -2346,7 +2492,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5A2148_q.png",
     "a_img": "q1_answer_images/Jd5A2148_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5A3149",
@@ -2362,7 +2509,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5A3149_q.png",
     "a_img": "q1_answer_images/Jd5A3149_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5A4150",
@@ -2378,7 +2526,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5A4150_q.png",
     "a_img": "q1_answer_images/Jd5A4150_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5A5151",
@@ -2389,12 +2538,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "电网参数变化",
       "A": "雷电波侵入",
-      "C": "电压互感器\n铁芯不饱和",
+      "C": "电压互感器 铁芯不饱和",
       "D": "过负荷引起。"
     },
     "q_img": "q1_question_images/Jd5A5151_q.png",
     "a_img": "q1_answer_images/Jd5A5151_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4A1152",
@@ -2410,7 +2560,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4A1152_q.png",
     "a_img": "q1_answer_images/Jd4A1152_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4A1153",
@@ -2426,7 +2577,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4A1153_q.png",
     "a_img": "q1_answer_images/Jd4A1153_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4A2154",
@@ -2438,11 +2590,12 @@ window.QUIZ_DATA = [
       "B": "转子断条",
       "A": "定子线圈接地",
       "C": "三相运行",
-      "D": "基\n础螺栓松动。"
+      "D": "基 础螺栓松动。"
     },
     "q_img": "q1_question_images/Jd4A2154_q.png",
     "a_img": "q1_answer_images/Jd4A2154_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4A2155",
@@ -2458,7 +2611,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4A2155_q.png",
     "a_img": "q1_answer_images/Jd4A2155_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4A2156",
@@ -2474,7 +2628,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4A2156_q.png",
     "a_img": "q1_answer_images/Jd4A2156_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4A2157",
@@ -2486,11 +2641,12 @@ window.QUIZ_DATA = [
       "B": "热游离",
       "A": "碰撞游离",
       "C": "强电场发射",
-      "D": "热\n电发射。"
+      "D": "热 电发射。"
     },
     "q_img": "q1_question_images/Jd4A2157_q.png",
     "a_img": "q1_answer_images/Jd4A2157_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4A3158",
@@ -2502,11 +2658,12 @@ window.QUIZ_DATA = [
       "B": "无功减少",
       "A": "无功增加",
       "C": "无功不变",
-      "D": "不\n确定。"
+      "D": "不 确定。"
     },
     "q_img": "q1_question_images/Jd4A3158_q.png",
     "a_img": "q1_answer_images/Jd4A3158_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4A4159",
@@ -2522,7 +2679,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4A4159_q.png",
     "a_img": "q1_answer_images/Jd4A4159_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3A2160",
@@ -2534,11 +2692,12 @@ window.QUIZ_DATA = [
       "A": "空气进入",
       "B": "木质故障",
       "C": "纸质故障",
-      "D": "油\n故障。"
+      "D": "油 故障。"
     },
     "q_img": "q1_question_images/Jd3A2160_q.png",
     "a_img": "q1_answer_images/Jd3A2160_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3A2161",
@@ -2550,11 +2709,12 @@ window.QUIZ_DATA = [
       "B": "50%～70%",
       "A": "20%～30%",
       "C": "85%",
-      "D": "40%～\n50%。"
+      "D": "40%～ 50%。"
     },
     "q_img": "q1_question_images/Jd3A2161_q.png",
     "a_img": "q1_answer_images/Jd3A2161_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3A3162",
@@ -2566,11 +2726,12 @@ window.QUIZ_DATA = [
       "A": "透平油",
       "B": "绝缘油",
       "C": "空压机油",
-      "D": "齿轮箱\n油。"
+      "D": "齿轮箱 油。"
     },
     "q_img": "q1_question_images/Jd3A3162_q.png",
     "a_img": "q1_answer_images/Jd3A3162_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3A3163",
@@ -2579,14 +2740,15 @@ window.QUIZ_DATA = [
     "q": "关于油品的压力过滤和真空过滤，下列说法错 误的是。",
     "a": "C",
     "o": {
-      "C": "压力过滤是\n\n机械净化，真空过滤是油的再生",
+      "C": "压力过滤是 机械净化，真空过滤是油的再生",
       "A": "工作原理不同",
       "B": "作用不一样",
-      "D": "压力过滤简单、较慢、\n有油耗，真空过滤速度快、质量好、无油耗。"
+      "D": "压力过滤简单、较慢、 有油耗，真空过滤速度快、质量好、无油耗。"
     },
     "q_img": "q1_question_images/Jd3A3163_q.png",
     "a_img": "q1_answer_images/Jd3A3163_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3A4164",
@@ -2602,7 +2764,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd3A4164_q.png",
     "a_img": "q1_answer_images/Jd3A4164_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2A3165",
@@ -2611,14 +2774,15 @@ window.QUIZ_DATA = [
     "q": "起到提高并列运行水轮发电机组运行稳定性 的是。",
     "a": "C",
     "o": {
-      "C": "、转子阻尼线圈",
-      "A": "、转子磁轭",
-      "B": "、定子铁芯",
+      "C": "转子阻尼线圈",
+      "A": "转子磁轭",
+      "B": "定子铁芯",
       "D": "转子集电环"
     },
     "q_img": "q1_question_images/Jd2A3165_q.png",
     "a_img": "q1_answer_images/Jd2A3165_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2A3166",
@@ -2634,7 +2798,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd2A3166_q.png",
     "a_img": "q1_answer_images/Jd2A3166_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2A4167",
@@ -2650,7 +2815,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd2A4167_q.png",
     "a_img": "q1_answer_images/Jd2A4167_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2A4168",
@@ -2666,7 +2832,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd2A4168_q.png",
     "a_img": "q1_answer_images/Jd2A4168_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2A5169",
@@ -2678,11 +2845,12 @@ window.QUIZ_DATA = [
       "C": "高压线圈与低压线圈引线之间的绝缘薄弱",
       "A": "线圈匝间绝缘损伤",
       "B": "外线圈相间绝缘距离过小",
-      "D": "高压线圈\n与高压分接引线之间绝缘薄弱。\n\n27"
+      "D": "高压线圈 与高压分接引线之间绝缘薄弱。 27"
     },
     "q_img": "q1_question_images/Jd2A5169_q.png",
     "a_img": "q1_answer_images/Jd2A5169_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2A5170",
@@ -2698,7 +2866,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd2A5170_q.png",
     "a_img": "q1_answer_images/Jd2A5170_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1A3171",
@@ -2710,11 +2879,12 @@ window.QUIZ_DATA = [
       "A": "工作接地",
       "B": "保护接地",
       "C": "保安接地",
-      "D": "接\n零。"
+      "D": "接 零。"
     },
     "q_img": "q1_question_images/Jd1A3171_q.png",
     "a_img": "q1_answer_images/Jd1A3171_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1A4172",
@@ -2730,7 +2900,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd1A4172_q.png",
     "a_img": "q1_answer_images/Jd1A4172_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1A4173",
@@ -2740,13 +2911,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "一次二次回路均接通",
-      "B": "一次回路接通，二次回路\n断开",
+      "B": "一次回路接通，二次回路 断开",
       "C": "一次回路断开，二次回路接通",
-      "D": "一次二次回路\n均断开。"
+      "D": "一次二次回路 均断开。"
     },
     "q_img": "q1_question_images/Jd1A4173_q.png",
     "a_img": "q1_answer_images/Jd1A4173_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1A4174",
@@ -2758,11 +2930,12 @@ window.QUIZ_DATA = [
       "C": "载有一定负荷",
       "A": "停电",
       "B": "空载",
-      "D": "事故过\n负荷。"
+      "D": "事故过 负荷。"
     },
     "q_img": "q1_question_images/Jd1A4174_q.png",
     "a_img": "q1_answer_images/Jd1A4174_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1A5175",
@@ -2778,7 +2951,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd1A5175_q.png",
     "a_img": "q1_answer_images/Jd1A5175_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1A5176",
@@ -2794,7 +2968,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd1A5176_q.png",
     "a_img": "q1_answer_images/Jd1A5176_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1A5177",
@@ -2806,11 +2981,12 @@ window.QUIZ_DATA = [
       "B": "三次谐波",
       "A": "偶次谐波",
       "C": "五次谐波",
-      "D": "高\n次谐波。"
+      "D": "高 次谐波。"
     },
     "q_img": "q1_question_images/Jd1A5177_q.png",
     "a_img": "q1_answer_images/Jd1A5177_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A1178",
@@ -2826,7 +3002,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A1178_q.png",
     "a_img": "q1_answer_images/Je5A1178_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A1179",
@@ -2842,7 +3019,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A1179_q.png",
     "a_img": "q1_answer_images/Je5A1179_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A1180",
@@ -2858,7 +3036,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A1180_q.png",
     "a_img": "q1_answer_images/Je5A1180_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A1181",
@@ -2869,12 +3048,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "批准的检修时间",
       "A": "工作所需时间",
-      "C": "领导规\n定的时间",
+      "C": "领导规 定的时间",
       "D": "调度批准的时间。"
     },
     "q_img": "q1_question_images/Je5A1181_q.png",
     "a_img": "q1_answer_images/Je5A1181_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A2182",
@@ -2886,11 +3066,12 @@ window.QUIZ_DATA = [
       "B": "粉红色",
       "A": "白色",
       "C": "蓝色",
-      "D": "黄\n色。"
+      "D": "黄 色。"
     },
     "q_img": "q1_question_images/Je5A2182_q.png",
     "a_img": "q1_answer_images/Je5A2182_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A2183",
@@ -2902,11 +3083,12 @@ window.QUIZ_DATA = [
       "C": "尾水",
       "A": "顶盖",
       "B": "廊道",
-      "D": "集水\n井。\n\n29"
+      "D": "集水 井。 29"
     },
     "q_img": "q1_question_images/Je5A2183_q.png",
     "a_img": "q1_answer_images/Je5A2183_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A3184",
@@ -2922,7 +3104,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A3184_q.png",
     "a_img": "q1_answer_images/Je5A3184_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A3185",
@@ -2934,11 +3117,12 @@ window.QUIZ_DATA = [
       "C": "零",
       "A": "正常相电流",
       "B": "三相电流",
-      "D": "三相电\n流的代数和。"
+      "D": "三相电 流的代数和。"
     },
     "q_img": "q1_question_images/Je5A3185_q.png",
     "a_img": "q1_answer_images/Je5A3185_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Je5A3186",
@@ -2954,7 +3138,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A3186_q.png",
     "a_img": "q1_answer_images/Je5A3186_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A3187",
@@ -2965,12 +3150,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "最高交流电压档",
       "A": "最高电阻档",
-      "C": "最高电流\n档",
+      "C": "最高电流 档",
       "D": "OFF 档。"
     },
     "q_img": "q1_question_images/Je5A3187_q.png",
     "a_img": "q1_answer_images/Je5A3187_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A3188",
@@ -2979,14 +3165,15 @@ window.QUIZ_DATA = [
     "q": "多油式断路器中油的主要作用是用来的。",
     "a": "D",
     "o": {
-      "D": "灭\n弧、绝缘及散热。",
+      "D": "灭 弧、绝缘及散热。",
       "A": "熄灭电弧",
       "B": "相间绝缘",
       "C": "对地绝缘"
     },
     "q_img": "q1_question_images/Je5A3188_q.png",
     "a_img": "q1_answer_images/Je5A3188_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A3189",
@@ -3002,7 +3189,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A3189_q.png",
     "a_img": "q1_answer_images/Je5A3189_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A3190",
@@ -3013,12 +3201,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "开启前充水平压",
       "A": "它们有自备的通道",
-      "C": "阀\n门或蝶阀操作方便",
+      "C": "阀 门或蝶阀操作方便",
       "D": "检修排水。"
     },
     "q_img": "q1_question_images/Je5A3190_q.png",
     "a_img": "q1_answer_images/Je5A3190_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A3191",
@@ -3027,14 +3216,15 @@ window.QUIZ_DATA = [
     "q": "离心水泵在检修后第一次启动前，需要灌水、 排气，其目的是。",
     "a": "B",
     "o": {
-      "B": "为使水泵启动后在叶轮进口处产\n生负压",
+      "B": "为使水泵启动后在叶轮进口处产 生负压",
       "A": "防止产生真空",
       "C": "防止水泵过载",
       "D": "防止飞速。"
     },
     "q_img": "q1_question_images/Je5A3191_q.png",
     "a_img": "q1_answer_images/Je5A3191_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A4192",
@@ -3043,14 +3233,15 @@ window.QUIZ_DATA = [
     "q": "分段运行的直流系统，当一套蓄电池组故障时 应。",
     "a": "C",
     "o": {
-      "C": "先将两段母线并联起来，再退出故障组的\n蓄电池和充电设备",
+      "C": "先将两段母线并联起来，再退出故障组的 蓄电池和充电设备",
       "A": "将蓄电池组退出，用充电设备单带负荷",
-      "B": "两段母\n线联络起来运行",
-      "D": "先退出故障组的蓄电池和充电设备，再\n将母线联络运行。"
+      "B": "两段母 线联络起来运行",
+      "D": "先退出故障组的蓄电池和充电设备，再 将母线联络运行。"
     },
     "q_img": "q1_question_images/Je5A4192_q.png",
     "a_img": "q1_answer_images/Je5A4192_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A4193",
@@ -3066,7 +3257,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A4193_q.png",
     "a_img": "q1_answer_images/Je5A4193_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A3194",
@@ -3082,7 +3274,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A3194_q.png",
     "a_img": "q1_answer_images/Je5A3194_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5A4195",
@@ -3098,7 +3291,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A4195_q.png",
     "a_img": "q1_answer_images/Je5A4195_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Je5A4196",
@@ -3114,7 +3308,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5A4196_q.png",
     "a_img": "q1_answer_images/Je5A4196_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A1197",
@@ -3126,11 +3321,12 @@ window.QUIZ_DATA = [
       "C": "调保计算",
       "A": "正常停机",
       "B": "事故停机",
-      "D": "机\n组不飞逸。"
+      "D": "机 组不飞逸。"
     },
     "q_img": "q1_question_images/Je4A1197_q.png",
     "a_img": "q1_answer_images/Je4A1197_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A1198",
@@ -3146,7 +3342,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A1198_q.png",
     "a_img": "q1_answer_images/Je4A1198_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A1199",
@@ -3162,7 +3359,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A1199_q.png",
     "a_img": "q1_answer_images/Je4A1199_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2200",
@@ -3173,12 +3371,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "防止机组飞逸",
       "B": "调节进水口流量",
-      "C": "正常时\n落门停机",
+      "C": "正常时 落门停机",
       "D": "泄水时提门。"
     },
     "q_img": "q1_question_images/Je4A2200_q.png",
     "a_img": "q1_answer_images/Je4A2200_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2201",
@@ -3194,7 +3393,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A2201_q.png",
     "a_img": "q1_answer_images/Je4A2201_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2202",
@@ -3210,7 +3410,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A2202_q.png",
     "a_img": "q1_answer_images/Je4A2202_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2203",
@@ -3226,7 +3427,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A2203_q.png",
     "a_img": "q1_answer_images/Je4A2203_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2204",
@@ -3242,7 +3444,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A2204_q.png",
     "a_img": "q1_answer_images/Je4A2204_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2205",
@@ -3251,14 +3454,15 @@ window.QUIZ_DATA = [
     "q": "电力系统中水电与火电互补是指",
     "a": "A",
     "o": {
-      "A": "丰水期多发水电节省燃料，枯水期多发火电并可供\n暖",
+      "A": "丰水期多发水电节省燃料，枯水期多发火电并可供 暖",
       "B": "火电厂不能承担调频、调峰等任务",
-      "C": "火电费用高，\n而水电费用低两者互补",
-      "D": "火电上网价格高，水电上网价格低\n两者互补。"
+      "C": "火电费用高， 而水电费用低两者互补",
+      "D": "火电上网价格高，水电上网价格低 两者互补。"
     },
     "q_img": "q1_question_images/Je4A2205_q.png",
     "a_img": "q1_answer_images/Je4A2205_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2206",
@@ -3274,7 +3478,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A2206_q.png",
     "a_img": "q1_answer_images/Je4A2206_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2207",
@@ -3286,11 +3491,12 @@ window.QUIZ_DATA = [
       "A": "过机流量",
       "B": "机组转速",
       "C": "机组水头",
-      "D": "机\n组效率。"
+      "D": "机 组效率。"
     },
     "q_img": "q1_question_images/Je4A2207_q.png",
     "a_img": "q1_answer_images/Je4A2207_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2208",
@@ -3301,12 +3507,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "永态转差系数bp",
       "B": "暂态转差系数bt",
-      "C": "局部\n反馈系数",
+      "C": "局部 反馈系数",
       "D": "机组调差率ep。"
     },
     "q_img": "q1_question_images/Je4A2208_q.png",
     "a_img": "q1_answer_images/Je4A2208_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A2209",
@@ -3317,12 +3524,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "自动调节机构",
       "A": "自动控制机构",
-      "C": "自动监视\n机构",
+      "C": "自动监视 机构",
       "D": "自动指示机构。"
     },
     "q_img": "q1_question_images/Je4A2209_q.png",
     "a_img": "q1_answer_images/Je4A2209_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3210",
@@ -3334,11 +3542,12 @@ window.QUIZ_DATA = [
       "C": "暂态反馈",
       "A": "永态反馈",
       "B": "局部反馈",
-      "D": "所\n\n33\n有反馈。"
+      "D": "所 33 有反馈。"
     },
     "q_img": "q1_question_images/Je4A3210_q.png",
     "a_img": "q1_answer_images/Je4A3210_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3211",
@@ -3349,12 +3558,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "自动控制机构",
       "B": "自动调节机构",
-      "C": "自动监视\n机构",
+      "C": "自动监视 机构",
       "D": "自动指示机构。"
     },
     "q_img": "q1_question_images/Je4A3211_q.png",
     "a_img": "q1_answer_images/Je4A3211_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3212",
@@ -3363,14 +3573,15 @@ window.QUIZ_DATA = [
     "q": "机组达到额定转速后投入电网的瞬间，导叶所 达到的开度为。",
     "a": "D",
     "o": {
-      "D": "空\n载开度。",
+      "D": "空 载开度。",
       "A": "起始开度",
       "B": "终了开度",
       "C": "限制开度"
     },
     "q_img": "q1_question_images/Je4A3212_q.png",
     "a_img": "q1_answer_images/Je4A3212_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3213",
@@ -3386,7 +3597,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A3213_q.png",
     "a_img": "q1_answer_images/Je4A3213_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3214",
@@ -3398,11 +3610,12 @@ window.QUIZ_DATA = [
       "D": "调速系统静特性线。",
       "A": "水轮机静特性线",
       "B": "发电机静特性线",
-      "C": "调速\n器静特性线"
+      "C": "调速 器静特性线"
     },
     "q_img": "q1_question_images/Je4A3214_q.png",
     "a_img": "q1_answer_images/Je4A3214_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3215",
@@ -3412,13 +3625,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "增加调速器的有功给定值或增加导叶的开度",
-      "B": "增\n大励磁电流",
+      "B": "增 大励磁电流",
       "C": "减小转速调整",
-      "D": "增大调速器的永态转差\n系数。"
+      "D": "增大调速器的永态转差 系数。"
     },
     "q_img": "q1_question_images/Je4A3215_q.png",
     "a_img": "q1_answer_images/Je4A3215_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3216",
@@ -3434,7 +3648,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A3216_q.png",
     "a_img": "q1_answer_images/Je4A3216_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3217",
@@ -3446,11 +3661,12 @@ window.QUIZ_DATA = [
       "D": "调速系统静特性。",
       "A": "水轮机静特性",
       "B": "发电机静特性",
-      "C": "调速器静\n特性"
+      "C": "调速器静 特性"
     },
     "q_img": "q1_question_images/Je4A3217_q.png",
     "a_img": "q1_answer_images/Je4A3217_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A3218",
@@ -3462,11 +3678,12 @@ window.QUIZ_DATA = [
       "A": "工作接地",
       "B": "保护接地",
       "C": "防雷接地",
-      "D": "安\n全接地。"
+      "D": "安 全接地。"
     },
     "q_img": "q1_question_images/Je4A3218_q.png",
     "a_img": "q1_answer_images/Je4A3218_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A4219",
@@ -3482,7 +3699,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A4219_q.png",
     "a_img": "q1_answer_images/Je4A4219_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A4220",
@@ -3498,7 +3716,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A4220_q.png",
     "a_img": "q1_answer_images/Je4A4220_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A4221",
@@ -3510,11 +3729,12 @@ window.QUIZ_DATA = [
       "D": "振动减小、电流减小。",
       "A": "电流增大",
       "B": "电流减小",
-      "C": "振动变大、电流增\n大"
+      "C": "振动变大、电流增 大"
     },
     "q_img": "q1_question_images/Je4A4221_q.png",
     "a_img": "q1_answer_images/Je4A4221_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A5222",
@@ -3530,7 +3750,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4A5222_q.png",
     "a_img": "q1_answer_images/Je4A5222_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4A5223",
@@ -3540,13 +3761,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "停止油泵运行，检查管路及风闸是否漏油",
-      "B": "保\n持油泵继续运行，同时检查管路是否漏油",
-      "C": "保持油泵继续\n\n35\n运行，同时检查风闸是否漏油",
+      "B": "保 持油泵继续运行，同时检查管路是否漏油",
+      "C": "保持油泵继续 35 运行，同时检查风闸是否漏油",
       "D": "停止油泵运行，立即排油。"
     },
     "q_img": "q1_question_images/Je4A5223_q.png",
     "a_img": "q1_answer_images/Je4A5223_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A2224",
@@ -3558,11 +3780,12 @@ window.QUIZ_DATA = [
       "A": "越大",
       "B": "越小",
       "C": "不变",
-      "D": "不确\n定。"
+      "D": "不确 定。"
     },
     "q_img": "q1_question_images/Je3A2224_q.png",
     "a_img": "q1_answer_images/Je3A2224_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A2225",
@@ -3578,7 +3801,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A2225_q.png",
     "a_img": "q1_answer_images/Je3A2225_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A2226",
@@ -3590,11 +3814,12 @@ window.QUIZ_DATA = [
       "B": "2 人",
       "A": "1 人",
       "C": "3 人",
-      "D": "4\n人。"
+      "D": "4 人。"
     },
     "q_img": "q1_question_images/Je3A2226_q.png",
     "a_img": "q1_answer_images/Je3A2226_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A2227",
@@ -3610,7 +3835,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A2227_q.png",
     "a_img": "q1_answer_images/Je3A2227_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A2228",
@@ -3626,7 +3852,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A2228_q.png",
     "a_img": "q1_answer_images/Je3A2228_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A2229",
@@ -3642,7 +3869,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A2229_q.png",
     "a_img": "q1_answer_images/Je3A2229_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A2230",
@@ -3658,7 +3886,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A2230_q.png",
     "a_img": "q1_answer_images/Je3A2230_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3231",
@@ -3674,7 +3903,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A3231_q.png",
     "a_img": "q1_answer_images/Je3A3231_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3232",
@@ -3690,7 +3920,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A3232_q.png",
     "a_img": "q1_answer_images/Je3A3232_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3233",
@@ -3706,7 +3937,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A3233_q.png",
     "a_img": "q1_answer_images/Je3A3233_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3234",
@@ -3722,7 +3954,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A3234_q.png",
     "a_img": "q1_answer_images/Je3A3234_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3235",
@@ -3738,7 +3971,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A3235_q.png",
     "a_img": "q1_answer_images/Je3A3235_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3236",
@@ -3747,14 +3981,15 @@ window.QUIZ_DATA = [
     "q": "操作转换开关的规范用语是。",
     "a": "D",
     "o": {
-      "D": "切至。\n\n37",
+      "D": "切至。 37",
       "A": "投入、退出",
       "B": "拉开、合上",
       "C": "取下、装上"
     },
     "q_img": "q1_question_images/Je3A3236_q.png",
     "a_img": "q1_answer_images/Je3A3236_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3237",
@@ -3765,12 +4000,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "收集调速系统的漏油，并向油压装置的集油槽输送",
       "B": "给调速系统提供压力油",
-      "C": "收集调速系统的回油，并\n向油压装置的压油槽输送",
+      "C": "收集调速系统的回油，并 向油压装置的压油槽输送",
       "D": "放置油品的油槽。"
     },
     "q_img": "q1_question_images/Je3A3237_q.png",
     "a_img": "q1_answer_images/Je3A3237_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3238",
@@ -3781,12 +4017,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "大于负荷电流",
       "B": "小于负荷电流",
-      "C": "等于负荷\n电流",
+      "C": "等于负荷 电流",
       "D": "不确定。"
     },
     "q_img": "q1_question_images/Je3A3238_q.png",
     "a_img": "q1_answer_images/Je3A3238_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3239",
@@ -3795,14 +4032,15 @@ window.QUIZ_DATA = [
     "q": "在进行倒闸操作时，在检查断路器在断开位置 后，先合隔离开关。",
     "a": "D",
     "o": {
-      "D": "母线\n侧。",
+      "D": "母线 侧。",
       "A": "开关内侧",
       "B": "开关外侧",
       "C": "线路侧"
     },
     "q_img": "q1_question_images/Je3A3239_q.png",
     "a_img": "q1_answer_images/Je3A3239_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A3240",
@@ -3818,7 +4056,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A3240_q.png",
     "a_img": "q1_answer_images/Je3A3240_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A4241",
@@ -3834,7 +4073,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A4241_q.png",
     "a_img": "q1_answer_images/Je3A4241_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A4242",
@@ -3850,7 +4090,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A4242_q.png",
     "a_img": "q1_answer_images/Je3A4242_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A4243",
@@ -3866,7 +4107,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A4243_q.png",
     "a_img": "q1_answer_images/Je3A4243_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A4244",
@@ -3882,7 +4124,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A4244_q.png",
     "a_img": "q1_answer_images/Je3A4244_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A4245",
@@ -3894,11 +4137,12 @@ window.QUIZ_DATA = [
       "A": "高",
       "B": "低",
       "C": "不变",
-      "D": "不\n确定。"
+      "D": "不 确定。"
     },
     "q_img": "q1_question_images/Je3A4245_q.png",
     "a_img": "q1_answer_images/Je3A4245_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Je3A5246",
@@ -3914,7 +4158,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3A5246_q.png",
     "a_img": "q1_answer_images/Je3A5246_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3A5247",
@@ -3926,11 +4171,12 @@ window.QUIZ_DATA = [
       "B": "慢",
       "A": "快",
       "C": "一样",
-      "D": "没关\n系。"
+      "D": "没关 系。"
     },
     "q_img": "q1_question_images/Je3A5247_q.png",
     "a_img": "q1_answer_images/Je3A5247_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Je2A1248",
@@ -3942,11 +4188,12 @@ window.QUIZ_DATA = [
       "A": "电机反转",
       "B": "电机正转",
       "C": "电机不转",
-      "D": "电\n机线圈短路。"
+      "D": "电 机线圈短路。"
     },
     "q_img": "q1_question_images/Je2A1248_q.png",
     "a_img": "q1_answer_images/Je2A1248_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A2249",
@@ -3962,7 +4209,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A2249_q.png",
     "a_img": "q1_answer_images/Je2A2249_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A2250",
@@ -3973,12 +4221,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "汛期防洪要求限制水库兴利允许蓄水的上限水位",
       "A": "水库消落的最低水位",
-      "B": "允许充蓄并能保持的高水\n位",
-      "D": "水库承担下游防洪任务，在调节下游防护对象的防洪标准洪水\n\n39\n时，坝前达到的最高水位。"
+      "B": "允许充蓄并能保持的高水 位",
+      "D": "水库承担下游防洪任务，在调节下游防护对象的防洪标准洪水 39 时，坝前达到的最高水位。"
     },
     "q_img": "q1_question_images/Je2A2250_q.png",
     "a_img": "q1_answer_images/Je2A2250_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A2251",
@@ -3987,14 +4236,15 @@ window.QUIZ_DATA = [
     "q": "机组调差率ep可以通过试验来求得。",
     "a": "C",
     "o": {
-      "C": "甩负荷试\n验",
+      "C": "甩负荷试 验",
       "A": "空载扰动试验",
       "B": "负荷扰动试验",
       "D": "调速器静特性试验。"
     },
     "q_img": "q1_question_images/Je2A2251_q.png",
     "a_img": "q1_answer_images/Je2A2251_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A2252",
@@ -4010,7 +4260,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A2252_q.png",
     "a_img": "q1_answer_images/Je2A2252_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A2253",
@@ -4026,7 +4277,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A2253_q.png",
     "a_img": "q1_answer_images/Je2A2253_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A3254",
@@ -4042,7 +4294,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A3254_q.png",
     "a_img": "q1_answer_images/Je2A3254_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A3255",
@@ -4058,7 +4311,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A3255_q.png",
     "a_img": "q1_answer_images/Je2A3255_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A3256",
@@ -4074,7 +4328,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A3256_q.png",
     "a_img": "q1_answer_images/Je2A3256_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A3257",
@@ -4090,7 +4345,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A3257_q.png",
     "a_img": "q1_answer_images/Je2A3257_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Je2A4258",
@@ -4100,13 +4356,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "接地故障点处零序电压最高",
-      "B": "变压器中性点零序\n电压最高",
+      "B": "变压器中性点零序 电压最高",
       "C": "零序电压的高低与接地电阻无关",
-      "D": "接地故\n障点零序电压最低。"
+      "D": "接地故 障点零序电压最低。"
     },
     "q_img": "q1_question_images/Je2A4258_q.png",
     "a_img": "q1_answer_images/Je2A4258_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A4259",
@@ -4122,7 +4379,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A4259_q.png",
     "a_img": "q1_answer_images/Je2A4259_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A4260",
@@ -4138,7 +4396,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A4260_q.png",
     "a_img": "q1_answer_images/Je2A4260_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A4261",
@@ -4154,7 +4413,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A4261_q.png",
     "a_img": "q1_answer_images/Je2A4261_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A4262",
@@ -4170,7 +4430,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A4262_q.png",
     "a_img": "q1_answer_images/Je2A4262_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A4263",
@@ -4182,11 +4443,12 @@ window.QUIZ_DATA = [
       "D": "自调节作用。",
       "A": "励磁机的调节",
       "B": "调速器的调节",
-      "C": "电压校正\n器的调节"
+      "C": "电压校正 器的调节"
     },
     "q_img": "q1_question_images/Je2A4263_q.png",
     "a_img": "q1_answer_images/Je2A4263_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A4264",
@@ -4198,11 +4460,12 @@ window.QUIZ_DATA = [
       "A": "推力轴承",
       "B": "上导轴承",
       "C": "下导轴承",
-      "D": "41\n水导轴承。"
+      "D": "41 水导轴承。"
     },
     "q_img": "q1_question_images/Je2A4264_q.png",
     "a_img": "q1_answer_images/Je2A4264_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A4265",
@@ -4218,7 +4481,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A4265_q.png",
     "a_img": "q1_answer_images/Je2A4265_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A4266",
@@ -4234,7 +4498,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A4266_q.png",
     "a_img": "q1_answer_images/Je2A4266_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A5267",
@@ -4243,14 +4508,15 @@ window.QUIZ_DATA = [
     "q": "对变压器进行冲击合闸试验的目的有多项，以 下哪项不是该试验的目的：。",
     "a": "A",
     "o": {
-      "D": "校验变压器开关的同\n步性。",
+      "D": "校验变压器开关的同 步性。",
       "A": "检验变压器的机械强度",
-      "B": "检验变压器的保护误动\n情况",
+      "B": "检验变压器的保护误动 情况",
       "C": "检验变压器的绝缘强度"
     },
     "q_img": "q1_question_images/Je2A5267_q.png",
     "a_img": "q1_answer_images/Je2A5267_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A5268",
@@ -4266,7 +4532,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A5268_q.png",
     "a_img": "q1_answer_images/Je2A5268_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2A5269",
@@ -4282,7 +4549,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2A5269_q.png",
     "a_img": "q1_answer_images/Je2A5269_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A1270",
@@ -4298,7 +4566,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A1270_q.png",
     "a_img": "q1_answer_images/Je1A1270_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A2271",
@@ -4310,11 +4579,12 @@ window.QUIZ_DATA = [
       "B": "运行水头",
       "A": "运行流量",
       "C": "运行转速",
-      "D": "机\n组所带负荷。"
+      "D": "机 组所带负荷。"
     },
     "q_img": "q1_question_images/Je1A2271_q.png",
     "a_img": "q1_answer_images/Je1A2271_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A2272",
@@ -4324,13 +4594,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "发电机和主变铁芯饱和而引起过热",
-      "B": "转子过热局\n部灼伤",
+      "B": "转子过热局 部灼伤",
       "C": "励磁机或励磁变过热而损坏",
-      "D": "励磁整流装置\n和励磁控制回路异常。"
+      "D": "励磁整流装置 和励磁控制回路异常。"
     },
     "q_img": "q1_question_images/Je1A2272_q.png",
     "a_img": "q1_answer_images/Je1A2272_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A2273",
@@ -4342,11 +4613,12 @@ window.QUIZ_DATA = [
       "C": "减小涡流",
       "A": "节省材料",
       "B": "缩小体积",
-      "D": "提\n高强度。"
+      "D": "提 高强度。"
     },
     "q_img": "q1_question_images/Je1A2273_q.png",
     "a_img": "q1_answer_images/Je1A2273_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A2274",
@@ -4362,7 +4634,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A2274_q.png",
     "a_img": "q1_answer_images/Je1A2274_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A2275",
@@ -4378,7 +4651,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A2275_q.png",
     "a_img": "q1_answer_images/Je1A2275_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A2276",
@@ -4390,11 +4664,12 @@ window.QUIZ_DATA = [
       "C": "增大",
       "A": "减少",
       "B": "不变",
-      "D": "不一定。\n\n43"
+      "D": "不一定。 43"
     },
     "q_img": "q1_question_images/Je1A2276_q.png",
     "a_img": "q1_answer_images/Je1A2276_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A2277",
@@ -4410,7 +4685,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A2277_q.png",
     "a_img": "q1_answer_images/Je1A2277_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A2278",
@@ -4426,7 +4702,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A2278_q.png",
     "a_img": "q1_answer_images/Je1A2278_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A3279",
@@ -4435,14 +4712,15 @@ window.QUIZ_DATA = [
     "q": "下列哪一项不属于保证安全的技术措施：。",
     "a": "D",
     "o": {
-      "D": "危险点预\n控。",
+      "D": "危险点预 控。",
       "A": "停电",
       "B": "验电",
       "C": "装设接地线"
     },
     "q_img": "q1_question_images/Je1A3279_q.png",
     "a_img": "q1_answer_images/Je1A3279_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A3280",
@@ -4458,7 +4736,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A3280_q.png",
     "a_img": "q1_answer_images/Je1A3280_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A3281",
@@ -4469,12 +4748,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "减小导线长度",
       "A": "提高供电可靠性",
-      "C": "提高运\n行效率",
+      "C": "提高运 行效率",
       "D": "减小备运容量。"
     },
     "q_img": "q1_question_images/Je1A3281_q.png",
     "a_img": "q1_answer_images/Je1A3281_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A4282",
@@ -4490,7 +4770,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A4282_q.png",
     "a_img": "q1_answer_images/Je1A4282_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A4283",
@@ -4506,7 +4787,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A4283_q.png",
     "a_img": "q1_answer_images/Je1A4283_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A4284",
@@ -4515,14 +4797,15 @@ window.QUIZ_DATA = [
     "q": "对水轮机性能起明显作用的汽蚀是。",
     "a": "D",
     "o": {
-      "D": "翼\n型汽蚀。",
+      "D": "翼 型汽蚀。",
       "A": "间隙汽蚀",
       "B": "空腔汽蚀",
       "C": "局部汽蚀"
     },
     "q_img": "q1_question_images/Je1A4284_q.png",
     "a_img": "q1_answer_images/Je1A4284_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A5285",
@@ -4538,7 +4821,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A5285_q.png",
     "a_img": "q1_answer_images/Je1A5285_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A5286",
@@ -4554,7 +4838,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A5286_q.png",
     "a_img": "q1_answer_images/Je1A5286_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A5287",
@@ -4566,11 +4851,12 @@ window.QUIZ_DATA = [
       "A": "头部前倾",
       "B": "头部后仰",
       "C": "头部垫高",
-      "D": "吹\n气力度不够。"
+      "D": "吹 气力度不够。"
     },
     "q_img": "q1_question_images/Je1A5287_q.png",
     "a_img": "q1_answer_images/Je1A5287_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1A5288",
@@ -4586,7 +4872,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1A5288_q.png",
     "a_img": "q1_answer_images/Je1A5288_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5A1289",
@@ -4597,12 +4884,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "高于蓄电池组电压2～3V",
       "A": "和蓄电池组的电压相等",
-      "B": "低于蓄电池组的电压2～\n3V",
-      "D": "对蓄电池组进行浮\n充电。"
+      "B": "低于蓄电池组的电压2～ 3V",
+      "D": "对蓄电池组进行浮 充电。"
     },
     "q_img": "q1_question_images/Jf5A1289_q.png",
     "a_img": "q1_answer_images/Jf5A1289_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5A1290",
@@ -4618,7 +4906,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5A1290_q.png",
     "a_img": "q1_answer_images/Jf5A1290_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5A2291",
@@ -4629,12 +4918,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "不允许短路且应接地",
       "A": "不允许开路",
-      "C": "不允\n许短路",
+      "C": "不允 许短路",
       "D": "不允许接地。"
     },
     "q_img": "q1_question_images/Jf5A2291_q.png",
     "a_img": "q1_answer_images/Jf5A2291_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5A3292",
@@ -4646,11 +4936,12 @@ window.QUIZ_DATA = [
       "B": "不是",
       "A": "是",
       "C": "可以是也可以不是",
-      "D": "不能\n确定。"
+      "D": "不能 确定。"
     },
     "q_img": "q1_question_images/Jf5A3292_q.png",
     "a_img": "q1_answer_images/Jf5A3292_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Jf5A3293",
@@ -4666,7 +4957,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5A3293_q.png",
     "a_img": "q1_answer_images/Jf5A3293_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5A4294",
@@ -4682,7 +4974,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5A4294_q.png",
     "a_img": "q1_answer_images/Jf5A4294_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Jf5A4295",
@@ -4698,7 +4991,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5A4295_q.png",
     "a_img": "q1_answer_images/Jf5A4295_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5A5296",
@@ -4714,7 +5008,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5A5296_q.png",
     "a_img": "q1_answer_images/Jf5A5296_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A1297",
@@ -4730,7 +5025,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4A1297_q.png",
     "a_img": "q1_answer_images/Jf4A1297_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A1298",
@@ -4742,11 +5038,12 @@ window.QUIZ_DATA = [
       "D": "速度相同，方向相同。",
       "A": "无关",
       "B": "速度相同，方向相反",
-      "C": "方向相同，\n速度不同"
+      "C": "方向相同， 速度不同"
     },
     "q_img": "q1_question_images/Jf4A1298_q.png",
     "a_img": "q1_answer_images/Jf4A1298_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A2299",
@@ -4762,7 +5059,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4A2299_q.png",
     "a_img": "q1_answer_images/Jf4A2299_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A2300",
@@ -4778,7 +5076,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4A2300_q.png",
     "a_img": "q1_answer_images/Jf4A2300_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A3301",
@@ -4794,7 +5093,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4A3301_q.png",
     "a_img": "q1_answer_images/Jf4A3301_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A3302",
@@ -4810,7 +5110,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4A3302_q.png",
     "a_img": "q1_answer_images/Jf4A3302_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A5303",
@@ -4826,7 +5127,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4A5303_q.png",
     "a_img": "q1_answer_images/Jf4A5303_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A5304",
@@ -4838,11 +5140,12 @@ window.QUIZ_DATA = [
       "A": "12",
       "B": "24",
       "C": "36",
-      "D": "48。\n\n47"
+      "D": "48。 47"
     },
     "q_img": "q1_question_images/Jf4A5304_q.png",
     "a_img": "q1_answer_images/Jf4A5304_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4A5305",
@@ -4854,11 +5157,12 @@ window.QUIZ_DATA = [
       "A": "完全星形",
       "B": "三角形",
       "C": "不完全星形",
-      "D": "两\n相差接。"
+      "D": "两 相差接。"
     },
     "q_img": "q1_question_images/Jf4A5305_q.png",
     "a_img": "q1_answer_images/Jf4A5305_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3A1306",
@@ -4874,7 +5178,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3A1306_q.png",
     "a_img": "q1_answer_images/Jf3A1306_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3A2307",
@@ -4890,7 +5195,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3A2307_q.png",
     "a_img": "q1_answer_images/Jf3A2307_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Jf3A2308",
@@ -4901,12 +5207,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "组织措施与技术措施",
       "A": "组织措施",
-      "C": "技术措\n施",
+      "C": "技术措 施",
       "D": "安全措施。"
     },
     "q_img": "q1_question_images/Jf3A2308_q.png",
     "a_img": "q1_answer_images/Jf3A2308_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3A3309",
@@ -4918,11 +5225,12 @@ window.QUIZ_DATA = [
       "B": "激磁涌流",
       "A": "空载电流",
       "C": "负荷电流",
-      "D": "短\n路电流。"
+      "D": "短 路电流。"
     },
     "q_img": "q1_question_images/Jf3A3309_q.png",
     "a_img": "q1_answer_images/Jf3A3309_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3A3310",
@@ -4931,14 +5239,15 @@ window.QUIZ_DATA = [
     "q": "在有瓦斯的地方检修时，采取的措施中哪项不 正确。",
     "a": "D",
     "o": {
-      "D": "应备\n有氧气、氨水、脱脂棉等急救药品。",
+      "D": "应备 有氧气、氨水、脱脂棉等急救药品。",
       "A": "必须戴防毒面具",
-      "B": "工作人员不得少于三人，有两\n人担任监护",
+      "B": "工作人员不得少于三人，有两 人担任监护",
       "C": "使用铜制工具，以避免引起火灾"
     },
     "q_img": "q1_question_images/Jf3A3310_q.png",
     "a_img": "q1_answer_images/Jf3A3310_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3A4311",
@@ -4954,7 +5263,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3A4311_q.png",
     "a_img": "q1_answer_images/Jf3A4311_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Jf3A4312",
@@ -4966,11 +5276,12 @@ window.QUIZ_DATA = [
       "B": "大修周期",
       "A": "发电量",
       "C": "厂用电量",
-      "D": "空载\n小时。"
+      "D": "空载 小时。"
     },
     "q_img": "q1_question_images/Jf3A4312_q.png",
     "a_img": "q1_answer_images/Jf3A4312_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3A4313",
@@ -4981,12 +5292,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "重新开启机组至空转",
       "A": "事故停机",
-      "C": "自由制\n动",
+      "C": "自由制 动",
       "D": "允许机组在低转速下继续运转。"
     },
     "q_img": "q1_question_images/Jf3A4313_q.png",
     "a_img": "q1_answer_images/Jf3A4313_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3A5314",
@@ -5002,7 +5314,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3A5314_q.png",
     "a_img": "q1_answer_images/Jf3A5314_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2A2315",
@@ -5018,7 +5331,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2A2315_q.png",
     "a_img": "q1_answer_images/Jf2A2315_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2A3316",
@@ -5027,14 +5341,15 @@ window.QUIZ_DATA = [
     "q": "发电机灭火环管的喷水孔，要求正对。",
     "a": "D",
     "o": {
-      "D": "定\n子线圈端部。",
+      "D": "定 子线圈端部。",
       "A": "定子线圈",
       "B": "磁极",
       "C": "电缆"
     },
     "q_img": "q1_question_images/Jf2A3316_q.png",
     "a_img": "q1_answer_images/Jf2A3316_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2A4317",
@@ -5050,7 +5365,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2A4317_q.png",
     "a_img": "q1_answer_images/Jf2A4317_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2A5318",
@@ -5061,12 +5377,13 @@ window.QUIZ_DATA = [
     "o": {
       "D": "在转动的发电机上清扫励磁滑环。",
       "A": "高压配电室内更换照明需将一次设备停电者",
-      "B": "高\n压设备二次回路上工作需将一次设备停电者",
-      "C": "在已停电的\n高压设备上作业者"
+      "B": "高 压设备二次回路上工作需将一次设备停电者",
+      "C": "在已停电的 高压设备上作业者"
     },
     "q_img": "q1_question_images/Jf2A5318_q.png",
     "a_img": "q1_answer_images/Jf2A5318_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2A5319",
@@ -5082,7 +5399,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2A5319_q.png",
     "a_img": "q1_answer_images/Jf2A5319_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1A4320",
@@ -5098,7 +5416,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1A4320_q.png",
     "a_img": "q1_answer_images/Jf1A4320_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1A4321",
@@ -5114,7 +5433,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1A4321_q.png",
     "a_img": "q1_answer_images/Jf1A4321_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1A4322",
@@ -5126,11 +5446,12 @@ window.QUIZ_DATA = [
       "C": "电弧放电",
       "A": "严重过热",
       "B": "火花放电",
-      "D": "进\n入空气。"
+      "D": "进 入空气。"
     },
     "q_img": "q1_question_images/Jf1A4322_q.png",
     "a_img": "q1_answer_images/Jf1A4322_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1A5323",
@@ -5146,7 +5467,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1A5323_q.png",
     "a_img": "q1_answer_images/Jf1A5323_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1A5324",
@@ -5162,7 +5484,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1A5324_q.png",
     "a_img": "q1_answer_images/Jf1A5324_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "Jf1A5325",
@@ -5171,14 +5494,15 @@ window.QUIZ_DATA = [
     "q": "混流式水轮机转轮下环形状对水轮机转轮的 有较明显影响。",
     "a": "A",
     "o": {
-      "D": "过流和汽蚀性能。\n\n4 .\n1 .\n2\n判断题\n判断下列描述是否正确，对的在括号内打“√”，错的在括\n号内打“³”。",
+      "D": "过流和汽蚀性能。 4 . 1 . 2 判断题 判断下列描述是否正确，对的在括号内打“√”，错的在括 号内打“³”。",
       "A": "强度和刚度",
       "B": "直径和水轮机效率",
-      "C": "过流量\n和转速"
+      "C": "过流量 和转速"
     },
     "q_img": "q1_question_images/Jf1A5325_q.png",
     "a_img": "q1_answer_images/Jf1A5325_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B1001",
@@ -5192,7 +5516,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B1001_q.png",
     "a_img": "q1_answer_images/La5B1001_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B1002",
@@ -5206,7 +5531,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B1002_q.png",
     "a_img": "q1_answer_images/La5B1002_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B1003",
@@ -5220,7 +5546,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B1003_q.png",
     "a_img": "q1_answer_images/La5B1003_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B1004",
@@ -5234,7 +5561,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B1004_q.png",
     "a_img": "q1_answer_images/La5B1004_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B2005",
@@ -5248,7 +5576,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B2005_q.png",
     "a_img": "q1_answer_images/La5B2005_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B2006",
@@ -5262,7 +5591,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B2006_q.png",
     "a_img": "q1_answer_images/La5B2006_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B2007",
@@ -5276,7 +5606,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B2007_q.png",
     "a_img": "q1_answer_images/La5B2007_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B2008",
@@ -5290,7 +5621,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B2008_q.png",
     "a_img": "q1_answer_images/La5B2008_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B3009",
@@ -5304,7 +5636,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B3009_q.png",
     "a_img": "q1_answer_images/La5B3009_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B3010",
@@ -5318,7 +5651,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B3010_q.png",
     "a_img": "q1_answer_images/La5B3010_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B4011",
@@ -5332,7 +5666,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B4011_q.png",
     "a_img": "q1_answer_images/La5B4011_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5B5012",
@@ -5346,7 +5681,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La5B5012_q.png",
     "a_img": "q1_answer_images/La5B5012_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B1013",
@@ -5360,7 +5696,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B1013_q.png",
     "a_img": "q1_answer_images/La4B1013_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B1014",
@@ -5374,7 +5711,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B1014_q.png",
     "a_img": "q1_answer_images/La4B1014_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B1015",
@@ -5388,7 +5726,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B1015_q.png",
     "a_img": "q1_answer_images/La4B1015_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B2016",
@@ -5402,7 +5741,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B2016_q.png",
     "a_img": "q1_answer_images/La4B2016_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B2017",
@@ -5416,7 +5756,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B2017_q.png",
     "a_img": "q1_answer_images/La4B2017_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B2018",
@@ -5430,7 +5771,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B2018_q.png",
     "a_img": "q1_answer_images/La4B2018_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B2019",
@@ -5444,7 +5786,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B2019_q.png",
     "a_img": "q1_answer_images/La4B2019_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B3020",
@@ -5458,7 +5801,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B3020_q.png",
     "a_img": "q1_answer_images/La4B3020_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B4021",
@@ -5472,7 +5816,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B4021_q.png",
     "a_img": "q1_answer_images/La4B4021_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4B5022",
@@ -5486,7 +5831,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La4B5022_q.png",
     "a_img": "q1_answer_images/La4B5022_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3B2023",
@@ -5500,7 +5846,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La3B2023_q.png",
     "a_img": "q1_answer_images/La3B2023_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3B2024",
@@ -5514,7 +5861,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La3B2024_q.png",
     "a_img": "q1_answer_images/La3B2024_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3B3025",
@@ -5528,7 +5876,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La3B3025_q.png",
     "a_img": "q1_answer_images/La3B3025_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3B3026",
@@ -5542,7 +5891,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La3B3026_q.png",
     "a_img": "q1_answer_images/La3B3026_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3B3027",
@@ -5556,7 +5906,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La3B3027_q.png",
     "a_img": "q1_answer_images/La3B3027_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La2B3028",
@@ -5570,7 +5921,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La2B3028_q.png",
     "a_img": "q1_answer_images/La2B3028_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La1B2029",
@@ -5584,7 +5936,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La1B2029_q.png",
     "a_img": "q1_answer_images/La1B2029_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La1B2030",
@@ -5598,7 +5951,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La1B2030_q.png",
     "a_img": "q1_answer_images/La1B2030_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La1B3031",
@@ -5612,7 +5966,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/La1B3031_q.png",
     "a_img": "q1_answer_images/La1B3031_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1032",
@@ -5626,7 +5981,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1032_q.png",
     "a_img": "q1_answer_images/Lb5B1032_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1033",
@@ -5640,7 +5996,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1033_q.png",
     "a_img": "q1_answer_images/Lb5B1033_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1034",
@@ -5654,7 +6011,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1034_q.png",
     "a_img": "q1_answer_images/Lb5B1034_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1035",
@@ -5668,7 +6026,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1035_q.png",
     "a_img": "q1_answer_images/Lb5B1035_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1036",
@@ -5682,7 +6041,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1036_q.png",
     "a_img": "q1_answer_images/Lb5B1036_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1037",
@@ -5696,7 +6056,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1037_q.png",
     "a_img": "q1_answer_images/Lb5B1037_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1038",
@@ -5710,7 +6071,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1038_q.png",
     "a_img": "q1_answer_images/Lb5B1038_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1039",
@@ -5724,7 +6086,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1039_q.png",
     "a_img": "q1_answer_images/Lb5B1039_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B1040",
@@ -5738,7 +6101,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B1040_q.png",
     "a_img": "q1_answer_images/Lb5B1040_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B2041",
@@ -5752,7 +6116,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B2041_q.png",
     "a_img": "q1_answer_images/Lb5B2041_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B2042",
@@ -5766,7 +6131,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B2042_q.png",
     "a_img": "q1_answer_images/Lb5B2042_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B2043",
@@ -5780,7 +6146,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B2043_q.png",
     "a_img": "q1_answer_images/Lb5B2043_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B2044",
@@ -5794,7 +6161,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B2044_q.png",
     "a_img": "q1_answer_images/Lb5B2044_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B2045",
@@ -5808,7 +6176,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B2045_q.png",
     "a_img": "q1_answer_images/Lb5B2045_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B2046",
@@ -5822,7 +6191,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B2046_q.png",
     "a_img": "q1_answer_images/Lb5B2046_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B2047",
@@ -5836,7 +6206,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B2047_q.png",
     "a_img": "q1_answer_images/Lb5B2047_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B3048",
@@ -5850,7 +6221,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B3048_q.png",
     "a_img": "q1_answer_images/Lb5B3048_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B3049",
@@ -5864,7 +6236,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B3049_q.png",
     "a_img": "q1_answer_images/Lb5B3049_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B3050",
@@ -5878,7 +6251,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B3050_q.png",
     "a_img": "q1_answer_images/Lb5B3050_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5B5051",
@@ -5892,7 +6266,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb5B5051_q.png",
     "a_img": "q1_answer_images/Lb5B5051_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B1052",
@@ -5906,7 +6281,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B1052_q.png",
     "a_img": "q1_answer_images/Lb4B1052_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B1053",
@@ -5920,7 +6296,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B1053_q.png",
     "a_img": "q1_answer_images/Lb4B1053_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B1054",
@@ -5934,7 +6311,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B1054_q.png",
     "a_img": "q1_answer_images/Lb4B1054_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B1055",
@@ -5948,7 +6326,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B1055_q.png",
     "a_img": "q1_answer_images/Lb4B1055_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B1056",
@@ -5962,7 +6341,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B1056_q.png",
     "a_img": "q1_answer_images/Lb4B1056_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2057",
@@ -5976,7 +6356,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2057_q.png",
     "a_img": "q1_answer_images/Lb4B2057_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2058",
@@ -5990,7 +6371,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2058_q.png",
     "a_img": "q1_answer_images/Lb4B2058_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2059",
@@ -6004,7 +6386,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2059_q.png",
     "a_img": "q1_answer_images/Lb4B2059_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2060",
@@ -6018,7 +6401,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2060_q.png",
     "a_img": "q1_answer_images/Lb4B2060_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2061",
@@ -6032,7 +6416,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2061_q.png",
     "a_img": "q1_answer_images/Lb4B2061_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2062",
@@ -6046,7 +6431,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2062_q.png",
     "a_img": "q1_answer_images/Lb4B2062_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2063",
@@ -6060,7 +6446,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2063_q.png",
     "a_img": "q1_answer_images/Lb4B2063_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2064",
@@ -6074,7 +6461,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2064_q.png",
     "a_img": "q1_answer_images/Lb4B2064_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B2065",
@@ -6088,7 +6476,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B2065_q.png",
     "a_img": "q1_answer_images/Lb4B2065_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B3066",
@@ -6102,7 +6491,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B3066_q.png",
     "a_img": "q1_answer_images/Lb4B3066_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B3067",
@@ -6116,7 +6506,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B3067_q.png",
     "a_img": "q1_answer_images/Lb4B3067_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B3068",
@@ -6130,7 +6521,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B3068_q.png",
     "a_img": "q1_answer_images/Lb4B3068_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B3069",
@@ -6144,7 +6536,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B3069_q.png",
     "a_img": "q1_answer_images/Lb4B3069_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B3070",
@@ -6158,7 +6551,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B3070_q.png",
     "a_img": "q1_answer_images/Lb4B3070_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B3071",
@@ -6172,7 +6566,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B3071_q.png",
     "a_img": "q1_answer_images/Lb4B3071_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B4072",
@@ -6186,7 +6581,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B4072_q.png",
     "a_img": "q1_answer_images/Lb4B4072_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4B5073",
@@ -6200,7 +6596,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb4B5073_q.png",
     "a_img": "q1_answer_images/Lb4B5073_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B2074",
@@ -6214,7 +6611,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B2074_q.png",
     "a_img": "q1_answer_images/Lb3B2074_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B2075",
@@ -6228,7 +6626,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B2075_q.png",
     "a_img": "q1_answer_images/Lb3B2075_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B2076",
@@ -6242,7 +6641,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B2076_q.png",
     "a_img": "q1_answer_images/Lb3B2076_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B3077",
@@ -6256,7 +6656,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B3077_q.png",
     "a_img": "q1_answer_images/Lb3B3077_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B3078",
@@ -6270,7 +6671,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B3078_q.png",
     "a_img": "q1_answer_images/Lb3B3078_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B3079",
@@ -6284,7 +6686,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B3079_q.png",
     "a_img": "q1_answer_images/Lb3B3079_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B4080",
@@ -6298,7 +6701,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B4080_q.png",
     "a_img": "q1_answer_images/Lb3B4080_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B4081",
@@ -6312,7 +6716,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B4081_q.png",
     "a_img": "q1_answer_images/Lb3B4081_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B4082",
@@ -6326,7 +6731,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B4082_q.png",
     "a_img": "q1_answer_images/Lb3B4082_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B4083",
@@ -6340,7 +6746,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B4083_q.png",
     "a_img": "q1_answer_images/Lb3B4083_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3B5084",
@@ -6354,7 +6761,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb3B5084_q.png",
     "a_img": "q1_answer_images/Lb3B5084_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B1085",
@@ -6368,7 +6776,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B1085_q.png",
     "a_img": "q1_answer_images/Lb2B1085_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B1086",
@@ -6382,7 +6791,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B1086_q.png",
     "a_img": "q1_answer_images/Lb2B1086_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B2087",
@@ -6396,7 +6806,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B2087_q.png",
     "a_img": "q1_answer_images/Lb2B2087_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B2088",
@@ -6410,7 +6821,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B2088_q.png",
     "a_img": "q1_answer_images/Lb2B2088_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B2089",
@@ -6424,7 +6836,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B2089_q.png",
     "a_img": "q1_answer_images/Lb2B2089_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B2090",
@@ -6438,7 +6851,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B2090_q.png",
     "a_img": "q1_answer_images/Lb2B2090_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B3091",
@@ -6452,7 +6866,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B3091_q.png",
     "a_img": "q1_answer_images/Lb2B3091_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B3092",
@@ -6466,7 +6881,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B3092_q.png",
     "a_img": "q1_answer_images/Lb2B3092_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B3093",
@@ -6480,7 +6896,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B3093_q.png",
     "a_img": "q1_answer_images/Lb2B3093_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B3094",
@@ -6494,7 +6911,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B3094_q.png",
     "a_img": "q1_answer_images/Lb2B3094_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B3095",
@@ -6508,7 +6926,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B3095_q.png",
     "a_img": "q1_answer_images/Lb2B3095_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B4096",
@@ -6522,7 +6941,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B4096_q.png",
     "a_img": "q1_answer_images/Lb2B4096_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B4098",
@@ -6536,7 +6956,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B4098_q.png",
     "a_img": "q1_answer_images/Lb2B4098_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B4099",
@@ -6550,7 +6971,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B4099_q.png",
     "a_img": "q1_answer_images/Lb2B4099_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B5100",
@@ -6564,7 +6986,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B5100_q.png",
     "a_img": "q1_answer_images/Lb2B5100_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2B5101",
@@ -6578,7 +7001,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb2B5101_q.png",
     "a_img": "q1_answer_images/Lb2B5101_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B1102",
@@ -6592,7 +7016,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B1102_q.png",
     "a_img": "q1_answer_images/Lb1B1102_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B2103",
@@ -6606,7 +7031,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B2103_q.png",
     "a_img": "q1_answer_images/Lb1B2103_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B2104",
@@ -6620,7 +7046,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B2104_q.png",
     "a_img": "q1_answer_images/Lb1B2104_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B2105",
@@ -6634,7 +7061,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B2105_q.png",
     "a_img": "q1_answer_images/Lb1B2105_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B2106",
@@ -6648,7 +7076,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B2106_q.png",
     "a_img": "q1_answer_images/Lb1B2106_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B2107",
@@ -6662,7 +7091,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B2107_q.png",
     "a_img": "q1_answer_images/Lb1B2107_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B3108",
@@ -6676,7 +7106,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B3108_q.png",
     "a_img": "q1_answer_images/Lb1B3108_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B3109",
@@ -6690,7 +7121,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B3109_q.png",
     "a_img": "q1_answer_images/Lb1B3109_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B3110",
@@ -6704,7 +7136,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B3110_q.png",
     "a_img": "q1_answer_images/Lb1B3110_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B3111",
@@ -6718,7 +7151,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B3111_q.png",
     "a_img": "q1_answer_images/Lb1B3111_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B3112",
@@ -6732,7 +7166,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B3112_q.png",
     "a_img": "q1_answer_images/Lb1B3112_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B4113",
@@ -6746,7 +7181,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B4113_q.png",
     "a_img": "q1_answer_images/Lb1B4113_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B4114",
@@ -6760,7 +7196,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B4114_q.png",
     "a_img": "q1_answer_images/Lb1B4114_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B4115",
@@ -6774,7 +7211,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B4115_q.png",
     "a_img": "q1_answer_images/Lb1B4115_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B4116",
@@ -6788,7 +7226,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B4116_q.png",
     "a_img": "q1_answer_images/Lb1B4116_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B5117",
@@ -6802,7 +7241,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B5117_q.png",
     "a_img": "q1_answer_images/Lb1B5117_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1B5118",
@@ -6816,7 +7256,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lb1B5118_q.png",
     "a_img": "q1_answer_images/Lb1B5118_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5B2119",
@@ -6830,7 +7271,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc5B2119_q.png",
     "a_img": "q1_answer_images/Lc5B2119_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5B3120",
@@ -6844,7 +7286,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc5B3120_q.png",
     "a_img": "q1_answer_images/Lc5B3120_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5B4121",
@@ -6858,7 +7301,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc5B4121_q.png",
     "a_img": "q1_answer_images/Lc5B4121_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5B1122",
@@ -6872,7 +7316,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc5B1122_q.png",
     "a_img": "q1_answer_images/Lc5B1122_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4B1123",
@@ -6886,7 +7331,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4B1123_q.png",
     "a_img": "q1_answer_images/Lc4B1123_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4B2124",
@@ -6900,7 +7346,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4B2124_q.png",
     "a_img": "q1_answer_images/Lc4B2124_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4B2125",
@@ -6914,7 +7361,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4B2125_q.png",
     "a_img": "q1_answer_images/Lc4B2125_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4B2126",
@@ -6928,7 +7376,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4B2126_q.png",
     "a_img": "q1_answer_images/Lc4B2126_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4B3127",
@@ -6942,7 +7391,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4B3127_q.png",
     "a_img": "q1_answer_images/Lc4B3127_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4B4128",
@@ -6956,7 +7406,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc4B4128_q.png",
     "a_img": "q1_answer_images/Lc4B4128_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3B2129",
@@ -6970,7 +7421,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc3B2129_q.png",
     "a_img": "q1_answer_images/Lc3B2129_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3B3130",
@@ -6984,7 +7436,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc3B3130_q.png",
     "a_img": "q1_answer_images/Lc3B3130_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3B4131",
@@ -6998,7 +7451,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc3B4131_q.png",
     "a_img": "q1_answer_images/Lc3B4131_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3B4132",
@@ -7012,7 +7466,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc3B4132_q.png",
     "a_img": "q1_answer_images/Lc3B4132_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2B3133",
@@ -7026,7 +7481,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc2B3133_q.png",
     "a_img": "q1_answer_images/Lc2B3133_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2B3134",
@@ -7040,7 +7496,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc2B3134_q.png",
     "a_img": "q1_answer_images/Lc2B3134_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2B3135",
@@ -7054,7 +7511,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc2B3135_q.png",
     "a_img": "q1_answer_images/Lc2B3135_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2B4136",
@@ -7068,7 +7526,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc2B4136_q.png",
     "a_img": "q1_answer_images/Lc2B4136_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2B4137",
@@ -7082,7 +7541,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc2B4137_q.png",
     "a_img": "q1_answer_images/Lc2B4137_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2B5138",
@@ -7096,7 +7556,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc2B5138_q.png",
     "a_img": "q1_answer_images/Lc2B5138_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1B2139",
@@ -7110,7 +7571,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1B2139_q.png",
     "a_img": "q1_answer_images/Lc1B2139_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1B2140",
@@ -7124,7 +7586,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1B2140_q.png",
     "a_img": "q1_answer_images/Lc1B2140_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1B3141",
@@ -7138,7 +7601,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1B3141_q.png",
     "a_img": "q1_answer_images/Lc1B3141_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1B3142",
@@ -7152,7 +7616,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1B3142_q.png",
     "a_img": "q1_answer_images/Lc1B3142_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1B4143",
@@ -7166,7 +7631,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1B4143_q.png",
     "a_img": "q1_answer_images/Lc1B4143_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1B4144",
@@ -7180,7 +7646,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Lc1B4144_q.png",
     "a_img": "q1_answer_images/Lc1B4144_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B1145",
@@ -7194,7 +7661,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B1145_q.png",
     "a_img": "q1_answer_images/Jd5B1145_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B1146",
@@ -7208,7 +7676,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B1146_q.png",
     "a_img": "q1_answer_images/Jd5B1146_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B1147",
@@ -7222,7 +7691,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B1147_q.png",
     "a_img": "q1_answer_images/Jd5B1147_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B1148",
@@ -7236,7 +7706,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B1148_q.png",
     "a_img": "q1_answer_images/Jd5B1148_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B2149",
@@ -7250,7 +7721,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B2149_q.png",
     "a_img": "q1_answer_images/Jd5B2149_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B2150",
@@ -7264,7 +7736,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B2150_q.png",
     "a_img": "q1_answer_images/Jd5B2150_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B2151",
@@ -7278,7 +7751,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B2151_q.png",
     "a_img": "q1_answer_images/Jd5B2151_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B3152",
@@ -7292,7 +7766,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B3152_q.png",
     "a_img": "q1_answer_images/Jd5B3152_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B3153",
@@ -7306,7 +7781,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B3153_q.png",
     "a_img": "q1_answer_images/Jd5B3153_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B3154",
@@ -7320,7 +7796,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B3154_q.png",
     "a_img": "q1_answer_images/Jd5B3154_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5B5155",
@@ -7334,7 +7811,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd5B5155_q.png",
     "a_img": "q1_answer_images/Jd5B5155_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B1156",
@@ -7348,7 +7826,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B1156_q.png",
     "a_img": "q1_answer_images/Jd4B1156_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B1157",
@@ -7362,7 +7841,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B1157_q.png",
     "a_img": "q1_answer_images/Jd4B1157_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B2158",
@@ -7376,7 +7856,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B2158_q.png",
     "a_img": "q1_answer_images/Jd4B2158_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B2159",
@@ -7390,7 +7871,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B2159_q.png",
     "a_img": "q1_answer_images/Jd4B2159_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B2160",
@@ -7404,7 +7886,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B2160_q.png",
     "a_img": "q1_answer_images/Jd4B2160_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B3161",
@@ -7418,7 +7901,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B3161_q.png",
     "a_img": "q1_answer_images/Jd4B3161_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B3162",
@@ -7432,7 +7916,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B3162_q.png",
     "a_img": "q1_answer_images/Jd4B3162_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B4163",
@@ -7446,7 +7931,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B4163_q.png",
     "a_img": "q1_answer_images/Jd4B4163_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4B4164",
@@ -7460,7 +7946,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd4B4164_q.png",
     "a_img": "q1_answer_images/Jd4B4164_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3B3165",
@@ -7474,7 +7961,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd3B3165_q.png",
     "a_img": "q1_answer_images/Jd3B3165_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3B3166",
@@ -7488,7 +7976,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd3B3166_q.png",
     "a_img": "q1_answer_images/Jd3B3166_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3B3167",
@@ -7502,7 +7991,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd3B3167_q.png",
     "a_img": "q1_answer_images/Jd3B3167_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3B3168",
@@ -7516,7 +8006,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd3B3168_q.png",
     "a_img": "q1_answer_images/Jd3B3168_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3B4169",
@@ -7530,7 +8021,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd3B4169_q.png",
     "a_img": "q1_answer_images/Jd3B4169_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3B4170",
@@ -7544,7 +8036,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd3B4170_q.png",
     "a_img": "q1_answer_images/Jd3B4170_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3B4171",
@@ -7558,7 +8051,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd3B4171_q.png",
     "a_img": "q1_answer_images/Jd3B4171_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2B2172",
@@ -7572,7 +8066,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd2B2172_q.png",
     "a_img": "q1_answer_images/Jd2B2172_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2B2173",
@@ -7586,7 +8081,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd2B2173_q.png",
     "a_img": "q1_answer_images/Jd2B2173_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2B3174",
@@ -7600,7 +8096,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd2B3174_q.png",
     "a_img": "q1_answer_images/Jd2B3174_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2B3175",
@@ -7614,7 +8111,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd2B3175_q.png",
     "a_img": "q1_answer_images/Jd2B3175_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1B2176",
@@ -7628,7 +8126,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd1B2176_q.png",
     "a_img": "q1_answer_images/Jd1B2176_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1B3177",
@@ -7642,7 +8141,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd1B3177_q.png",
     "a_img": "q1_answer_images/Jd1B3177_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1B3178",
@@ -7656,7 +8156,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jd1B3178_q.png",
     "a_img": "q1_answer_images/Jd1B3178_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B1179",
@@ -7670,7 +8171,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B1179_q.png",
     "a_img": "q1_answer_images/Je5B1179_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B1180",
@@ -7684,7 +8186,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B1180_q.png",
     "a_img": "q1_answer_images/Je5B1180_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B1181",
@@ -7698,7 +8201,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B1181_q.png",
     "a_img": "q1_answer_images/Je5B1181_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B1182",
@@ -7712,7 +8216,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B1182_q.png",
     "a_img": "q1_answer_images/Je5B1182_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B1183",
@@ -7726,7 +8231,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B1183_q.png",
     "a_img": "q1_answer_images/Je5B1183_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B1184",
@@ -7740,7 +8246,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B1184_q.png",
     "a_img": "q1_answer_images/Je5B1184_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B1185",
@@ -7754,7 +8261,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B1185_q.png",
     "a_img": "q1_answer_images/Je5B1185_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B1186",
@@ -7768,7 +8276,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B1186_q.png",
     "a_img": "q1_answer_images/Je5B1186_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B2187",
@@ -7782,7 +8291,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B2187_q.png",
     "a_img": "q1_answer_images/Je5B2187_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B2188",
@@ -7796,7 +8306,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B2188_q.png",
     "a_img": "q1_answer_images/Je5B2188_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B2189",
@@ -7810,7 +8321,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B2189_q.png",
     "a_img": "q1_answer_images/Je5B2189_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B2190",
@@ -7824,7 +8336,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B2190_q.png",
     "a_img": "q1_answer_images/Je5B2190_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B2191",
@@ -7838,7 +8351,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B2191_q.png",
     "a_img": "q1_answer_images/Je5B2191_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B2192",
@@ -7852,7 +8366,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B2192_q.png",
     "a_img": "q1_answer_images/Je5B2192_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B2193",
@@ -7866,7 +8381,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B2193_q.png",
     "a_img": "q1_answer_images/Je5B2193_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B2194",
@@ -7880,7 +8396,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B2194_q.png",
     "a_img": "q1_answer_images/Je5B2194_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B3195",
@@ -7894,7 +8411,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B3195_q.png",
     "a_img": "q1_answer_images/Je5B3195_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B3196",
@@ -7908,7 +8426,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B3196_q.png",
     "a_img": "q1_answer_images/Je5B3196_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B3197",
@@ -7922,7 +8441,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B3197_q.png",
     "a_img": "q1_answer_images/Je5B3197_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B3198",
@@ -7936,7 +8456,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B3198_q.png",
     "a_img": "q1_answer_images/Je5B3198_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B4199",
@@ -7950,7 +8471,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B4199_q.png",
     "a_img": "q1_answer_images/Je5B4199_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B4200",
@@ -7964,7 +8486,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B4200_q.png",
     "a_img": "q1_answer_images/Je5B4200_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5B5201",
@@ -7978,7 +8501,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je5B5201_q.png",
     "a_img": "q1_answer_images/Je5B5201_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B1202",
@@ -7992,7 +8516,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B1202_q.png",
     "a_img": "q1_answer_images/Je4B1202_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B1203",
@@ -8006,7 +8531,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B1203_q.png",
     "a_img": "q1_answer_images/Je4B1203_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B1204",
@@ -8020,7 +8546,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B1204_q.png",
     "a_img": "q1_answer_images/Je4B1204_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B1205",
@@ -8034,7 +8561,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B1205_q.png",
     "a_img": "q1_answer_images/Je4B1205_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B1206",
@@ -8048,7 +8576,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B1206_q.png",
     "a_img": "q1_answer_images/Je4B1206_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2207",
@@ -8062,7 +8591,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2207_q.png",
     "a_img": "q1_answer_images/Je4B2207_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2208",
@@ -8076,7 +8606,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2208_q.png",
     "a_img": "q1_answer_images/Je4B2208_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2209",
@@ -8090,7 +8621,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2209_q.png",
     "a_img": "q1_answer_images/Je4B2209_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2210",
@@ -8104,7 +8636,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2210_q.png",
     "a_img": "q1_answer_images/Je4B2210_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2211",
@@ -8118,7 +8651,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2211_q.png",
     "a_img": "q1_answer_images/Je4B2211_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2212",
@@ -8132,7 +8666,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2212_q.png",
     "a_img": "q1_answer_images/Je4B2212_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2213",
@@ -8146,7 +8681,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2213_q.png",
     "a_img": "q1_answer_images/Je4B2213_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2214",
@@ -8160,7 +8696,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2214_q.png",
     "a_img": "q1_answer_images/Je4B2214_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2215",
@@ -8174,7 +8711,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2215_q.png",
     "a_img": "q1_answer_images/Je4B2215_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2216",
@@ -8188,7 +8726,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2216_q.png",
     "a_img": "q1_answer_images/Je4B2216_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2217",
@@ -8202,7 +8741,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2217_q.png",
     "a_img": "q1_answer_images/Je4B2217_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B2218",
@@ -8216,7 +8756,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B2218_q.png",
     "a_img": "q1_answer_images/Je4B2218_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B3219",
@@ -8230,7 +8771,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B3219_q.png",
     "a_img": "q1_answer_images/Je4B3219_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B3220",
@@ -8244,7 +8786,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B3220_q.png",
     "a_img": "q1_answer_images/Je4B3220_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B3221",
@@ -8258,7 +8801,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B3221_q.png",
     "a_img": "q1_answer_images/Je4B3221_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B3222",
@@ -8272,7 +8816,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B3222_q.png",
     "a_img": "q1_answer_images/Je4B3222_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B3223",
@@ -8286,7 +8831,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B3223_q.png",
     "a_img": "q1_answer_images/Je4B3223_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B4224",
@@ -8300,7 +8846,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B4224_q.png",
     "a_img": "q1_answer_images/Je4B4224_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4B5225",
@@ -8314,7 +8861,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je4B5225_q.png",
     "a_img": "q1_answer_images/Je4B5225_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B2226",
@@ -8328,7 +8876,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B2226_q.png",
     "a_img": "q1_answer_images/Je3B2226_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B2227",
@@ -8342,7 +8891,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B2227_q.png",
     "a_img": "q1_answer_images/Je3B2227_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B2228",
@@ -8356,7 +8906,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B2228_q.png",
     "a_img": "q1_answer_images/Je3B2228_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B2229",
@@ -8370,7 +8921,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B2229_q.png",
     "a_img": "q1_answer_images/Je3B2229_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B3230",
@@ -8384,7 +8936,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B3230_q.png",
     "a_img": "q1_answer_images/Je3B3230_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B3231",
@@ -8398,7 +8951,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B3231_q.png",
     "a_img": "q1_answer_images/Je3B3231_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B3232",
@@ -8412,7 +8966,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B3232_q.png",
     "a_img": "q1_answer_images/Je3B3232_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B3233",
@@ -8426,7 +8981,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B3233_q.png",
     "a_img": "q1_answer_images/Je3B3233_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B3234",
@@ -8440,7 +8996,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B3234_q.png",
     "a_img": "q1_answer_images/Je3B3234_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B3235",
@@ -8454,7 +9011,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B3235_q.png",
     "a_img": "q1_answer_images/Je3B3235_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B3236",
@@ -8468,7 +9026,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B3236_q.png",
     "a_img": "q1_answer_images/Je3B3236_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B4237",
@@ -8482,7 +9041,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B4237_q.png",
     "a_img": "q1_answer_images/Je3B4237_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B4238",
@@ -8496,7 +9056,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B4238_q.png",
     "a_img": "q1_answer_images/Je3B4238_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B4239",
@@ -8510,7 +9071,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B4239_q.png",
     "a_img": "q1_answer_images/Je3B4239_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B4240",
@@ -8524,7 +9086,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B4240_q.png",
     "a_img": "q1_answer_images/Je3B4240_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B4241",
@@ -8538,7 +9101,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B4241_q.png",
     "a_img": "q1_answer_images/Je3B4241_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B4242",
@@ -8552,7 +9116,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B4242_q.png",
     "a_img": "q1_answer_images/Je3B4242_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B5243",
@@ -8566,7 +9131,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B5243_q.png",
     "a_img": "q1_answer_images/Je3B5243_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B5244",
@@ -8580,7 +9146,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B5244_q.png",
     "a_img": "q1_answer_images/Je3B5244_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B1245",
@@ -8594,7 +9161,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B1245_q.png",
     "a_img": "q1_answer_images/Je2B1245_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B2246",
@@ -8608,7 +9176,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B2246_q.png",
     "a_img": "q1_answer_images/Je2B2246_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B2247",
@@ -8622,7 +9191,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B2247_q.png",
     "a_img": "q1_answer_images/Je2B2247_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B2248",
@@ -8636,7 +9206,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B2248_q.png",
     "a_img": "q1_answer_images/Je2B2248_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B2249",
@@ -8650,7 +9221,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B2249_q.png",
     "a_img": "q1_answer_images/Je2B2249_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B2250",
@@ -8664,7 +9236,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B2250_q.png",
     "a_img": "q1_answer_images/Je2B2250_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B2251",
@@ -8678,7 +9251,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B2251_q.png",
     "a_img": "q1_answer_images/Je2B2251_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B3252",
@@ -8692,7 +9266,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B3252_q.png",
     "a_img": "q1_answer_images/Je2B3252_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B3253",
@@ -8706,7 +9281,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B3253_q.png",
     "a_img": "q1_answer_images/Je2B3253_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B3254",
@@ -8720,7 +9296,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B3254_q.png",
     "a_img": "q1_answer_images/Je2B3254_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B3255",
@@ -8734,7 +9311,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B3255_q.png",
     "a_img": "q1_answer_images/Je2B3255_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B3256",
@@ -8748,7 +9326,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B3256_q.png",
     "a_img": "q1_answer_images/Je2B3256_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B4257",
@@ -8762,7 +9341,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B4257_q.png",
     "a_img": "q1_answer_images/Je2B4257_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B4258",
@@ -8776,7 +9356,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B4258_q.png",
     "a_img": "q1_answer_images/Je2B4258_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B4259",
@@ -8790,7 +9371,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B4259_q.png",
     "a_img": "q1_answer_images/Je2B4259_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B4260",
@@ -8804,7 +9386,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B4260_q.png",
     "a_img": "q1_answer_images/Je2B4260_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B4261",
@@ -8818,7 +9401,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B4261_q.png",
     "a_img": "q1_answer_images/Je2B4261_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B5262",
@@ -8832,7 +9416,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B5262_q.png",
     "a_img": "q1_answer_images/Je2B5262_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B5263",
@@ -8846,7 +9431,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B5263_q.png",
     "a_img": "q1_answer_images/Je2B5263_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B5264",
@@ -8860,7 +9446,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B5264_q.png",
     "a_img": "q1_answer_images/Je2B5264_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B5265",
@@ -8874,7 +9461,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B5265_q.png",
     "a_img": "q1_answer_images/Je2B5265_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2B5266",
@@ -8888,7 +9476,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je2B5266_q.png",
     "a_img": "q1_answer_images/Je2B5266_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B1167",
@@ -8902,7 +9491,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B1167_q.png",
     "a_img": "q1_answer_images/Je1B1167_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2268",
@@ -8916,7 +9506,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2268_q.png",
     "a_img": "q1_answer_images/Je1B2268_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2269",
@@ -8930,7 +9521,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2269_q.png",
     "a_img": "q1_answer_images/Je1B2269_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2270",
@@ -8944,7 +9536,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2270_q.png",
     "a_img": "q1_answer_images/Je1B2270_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2271",
@@ -8958,7 +9551,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2271_q.png",
     "a_img": "q1_answer_images/Je1B2271_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2272",
@@ -8972,7 +9566,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2272_q.png",
     "a_img": "q1_answer_images/Je1B2272_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2273",
@@ -8986,7 +9581,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2273_q.png",
     "a_img": "q1_answer_images/Je1B2273_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2274",
@@ -9000,7 +9596,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2274_q.png",
     "a_img": "q1_answer_images/Je1B2274_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2275",
@@ -9014,7 +9611,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2275_q.png",
     "a_img": "q1_answer_images/Je1B2275_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B2276",
@@ -9028,7 +9626,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B2276_q.png",
     "a_img": "q1_answer_images/Je1B2276_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B3277",
@@ -9042,7 +9641,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B3277_q.png",
     "a_img": "q1_answer_images/Je1B3277_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B3278",
@@ -9056,7 +9656,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B3278_q.png",
     "a_img": "q1_answer_images/Je1B3278_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B3279",
@@ -9070,7 +9671,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B3279_q.png",
     "a_img": "q1_answer_images/Je1B3279_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B4280",
@@ -9084,7 +9686,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B4280_q.png",
     "a_img": "q1_answer_images/Je1B4280_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B4281",
@@ -9098,7 +9701,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B4281_q.png",
     "a_img": "q1_answer_images/Je1B4281_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B4282",
@@ -9112,7 +9716,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B4282_q.png",
     "a_img": "q1_answer_images/Je1B4282_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B4283",
@@ -9126,7 +9731,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B4283_q.png",
     "a_img": "q1_answer_images/Je1B4283_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B5284",
@@ -9140,7 +9746,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B5284_q.png",
     "a_img": "q1_answer_images/Je1B5284_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B5285",
@@ -9154,7 +9761,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B5285_q.png",
     "a_img": "q1_answer_images/Je1B5285_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B5286",
@@ -9168,7 +9776,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B5286_q.png",
     "a_img": "q1_answer_images/Je1B5286_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1B5287",
@@ -9182,7 +9791,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je1B5287_q.png",
     "a_img": "q1_answer_images/Je1B5287_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5B1288",
@@ -9196,7 +9806,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5B1288_q.png",
     "a_img": "q1_answer_images/Jf5B1288_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5B1289",
@@ -9210,7 +9821,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5B1289_q.png",
     "a_img": "q1_answer_images/Jf5B1289_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5B2290",
@@ -9224,7 +9836,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5B2290_q.png",
     "a_img": "q1_answer_images/Jf5B2290_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5B3291",
@@ -9238,7 +9851,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5B3291_q.png",
     "a_img": "q1_answer_images/Jf5B3291_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5B4292",
@@ -9252,7 +9866,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5B4292_q.png",
     "a_img": "q1_answer_images/Jf5B4292_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5B5293",
@@ -9266,7 +9881,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf5B5293_q.png",
     "a_img": "q1_answer_images/Jf5B5293_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4B1294",
@@ -9280,7 +9896,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4B1294_q.png",
     "a_img": "q1_answer_images/Jf4B1294_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4B2295",
@@ -9294,7 +9911,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4B2295_q.png",
     "a_img": "q1_answer_images/Jf4B2295_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4B2296",
@@ -9308,7 +9926,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4B2296_q.png",
     "a_img": "q1_answer_images/Jf4B2296_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4B3297",
@@ -9322,7 +9941,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4B3297_q.png",
     "a_img": "q1_answer_images/Jf4B3297_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4B3298",
@@ -9336,7 +9956,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4B3298_q.png",
     "a_img": "q1_answer_images/Jf4B3298_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4B4299",
@@ -9350,7 +9971,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4B4299_q.png",
     "a_img": "q1_answer_images/Jf4B4299_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4B5300",
@@ -9364,7 +9986,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf4B5300_q.png",
     "a_img": "q1_answer_images/Jf4B5300_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3B3301",
@@ -9378,7 +10001,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3B3301_q.png",
     "a_img": "q1_answer_images/Jf3B3301_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3B3302",
@@ -9392,7 +10016,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3B3302_q.png",
     "a_img": "q1_answer_images/Jf3B3302_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3B3303",
@@ -9406,7 +10031,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3B3303_q.png",
     "a_img": "q1_answer_images/Jf3B3303_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3B4304",
@@ -9420,7 +10046,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3B4304_q.png",
     "a_img": "q1_answer_images/Jf3B4304_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3B5305",
@@ -9434,7 +10061,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Je3B5305_q.png",
     "a_img": "q1_answer_images/Je3B5305_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3B5306",
@@ -9448,7 +10076,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf3B5306_q.png",
     "a_img": "q1_answer_images/Jf3B5306_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B3307",
@@ -9462,7 +10091,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B3307_q.png",
     "a_img": "q1_answer_images/Jf2B3307_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B3308",
@@ -9476,7 +10106,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B3308_q.png",
     "a_img": "q1_answer_images/Jf2B3308_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B4309",
@@ -9490,7 +10121,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B4309_q.png",
     "a_img": "q1_answer_images/Jf2B4309_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B4310",
@@ -9504,7 +10136,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B4310_q.png",
     "a_img": "q1_answer_images/Jf2B4310_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B4311",
@@ -9518,7 +10151,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B4311_q.png",
     "a_img": "q1_answer_images/Jf2B4311_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B4312",
@@ -9532,7 +10166,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B4312_q.png",
     "a_img": "q1_answer_images/Jf2B4312_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B5313",
@@ -9546,7 +10181,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B5313_q.png",
     "a_img": "q1_answer_images/Jf2B5313_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B5314",
@@ -9560,7 +10196,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B5314_q.png",
     "a_img": "q1_answer_images/Jf2B5314_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2B4315",
@@ -9574,7 +10211,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf2B4315_q.png",
     "a_img": "q1_answer_images/Jf2B4315_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B1316",
@@ -9588,7 +10226,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B1316_q.png",
     "a_img": "q1_answer_images/Jf1B1316_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B2317",
@@ -9602,7 +10241,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B2317_q.png",
     "a_img": "q1_answer_images/Jf1B2317_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B2318",
@@ -9616,7 +10256,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B2318_q.png",
     "a_img": "q1_answer_images/Jf1B2318_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B3319",
@@ -9630,7 +10271,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B3319_q.png",
     "a_img": "q1_answer_images/Jf1B3319_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B3320",
@@ -9644,7 +10286,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B3320_q.png",
     "a_img": "q1_answer_images/Jf1B3320_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B4321",
@@ -9658,7 +10301,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B4321_q.png",
     "a_img": "q1_answer_images/Jf1B4321_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B4322",
@@ -9672,7 +10316,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B4322_q.png",
     "a_img": "q1_answer_images/Jf1B4322_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B4323",
@@ -9686,7 +10331,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B4323_q.png",
     "a_img": "q1_answer_images/Jf1B4323_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B5324",
@@ -9700,7 +10346,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B5324_q.png",
     "a_img": "q1_answer_images/Jf1B5324_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B5325",
@@ -9714,7 +10361,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B5325_q.png",
     "a_img": "q1_answer_images/Jf1B5325_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B5326",
@@ -9728,7 +10376,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B5326_q.png",
     "a_img": "q1_answer_images/Jf1B5326_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1B5327",
@@ -9742,7 +10391,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q1_question_images/Jf1B5327_q.png",
     "a_img": "q1_answer_images/Jf1B5327_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C1001",
@@ -9753,7 +10403,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C1001_q.png",
     "a_img": "q1_answer_images/La5C1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C1002",
@@ -9764,7 +10415,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C1002_q.png",
     "a_img": "q1_answer_images/La5C1002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C1003",
@@ -9775,7 +10427,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C1003_q.png",
     "a_img": "q1_answer_images/La5C1003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C1004",
@@ -9786,7 +10439,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C1004_q.png",
     "a_img": "q1_answer_images/La5C1004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C2005",
@@ -9797,7 +10451,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C2005_q.png",
     "a_img": "q1_answer_images/La5C2005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C2006",
@@ -9808,7 +10463,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C2006_q.png",
     "a_img": "q1_answer_images/La5C2006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C2007",
@@ -9819,7 +10475,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C2007_q.png",
     "a_img": "q1_answer_images/La5C2007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C3008",
@@ -9830,7 +10487,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C3008_q.png",
     "a_img": "q1_answer_images/La5C3008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C5009",
@@ -9841,7 +10499,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C5009_q.png",
     "a_img": "q1_answer_images/La5C5009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5C5010",
@@ -9852,7 +10511,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5C5010_q.png",
     "a_img": "q1_answer_images/La5C5010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4C1011",
@@ -9863,7 +10523,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4C1011_q.png",
     "a_img": "q1_answer_images/La4C1011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4C2012",
@@ -9874,7 +10535,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4C2012_q.png",
     "a_img": "q1_answer_images/La4C2012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4C3013",
@@ -9885,7 +10547,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4C3013_q.png",
     "a_img": "q1_answer_images/La4C3013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4C3014",
@@ -9896,7 +10559,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4C3014_q.png",
     "a_img": "q1_answer_images/La4C3014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4C4015",
@@ -9907,7 +10571,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4C4015_q.png",
     "a_img": "q1_answer_images/La4C4015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4C4016",
@@ -9918,7 +10583,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4C4016_q.png",
     "a_img": "q1_answer_images/La4C4016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3C1017",
@@ -9929,7 +10595,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La3C1017_q.png",
     "a_img": "q1_answer_images/La3C1017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3C2018",
@@ -9940,7 +10607,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La3C2018_q.png",
     "a_img": "q1_answer_images/La3C2018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La2C3019",
@@ -9951,7 +10619,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La2C3019_q.png",
     "a_img": "q1_answer_images/La2C3019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La1C2020",
@@ -9962,7 +10631,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La1C2020_q.png",
     "a_img": "q1_answer_images/La1C2020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C1021",
@@ -9973,7 +10643,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C1021_q.png",
     "a_img": "q1_answer_images/Lb5C1021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C1022",
@@ -9984,7 +10655,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C1022_q.png",
     "a_img": "q1_answer_images/Lb5C1022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C1023",
@@ -9995,7 +10667,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C1023_q.png",
     "a_img": "q1_answer_images/Lb5C1023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C1024",
@@ -10006,7 +10679,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C1024_q.png",
     "a_img": "q1_answer_images/Lb5C1024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C1025",
@@ -10017,7 +10691,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C1025_q.png",
     "a_img": "q1_answer_images/Lb5C1025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C1026",
@@ -10028,7 +10703,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C1026_q.png",
     "a_img": "q1_answer_images/Lb5C1026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C2027",
@@ -10039,7 +10715,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C2027_q.png",
     "a_img": "q1_answer_images/Lb5C2027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C2028",
@@ -10050,7 +10727,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C2028_q.png",
     "a_img": "q1_answer_images/Lb5C2028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C2029",
@@ -10061,7 +10739,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C2029_q.png",
     "a_img": "q1_answer_images/Lb5C2029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C2030",
@@ -10072,7 +10751,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C2030_q.png",
     "a_img": "q1_answer_images/Lb5C2030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C2031",
@@ -10083,7 +10763,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C2031_q.png",
     "a_img": "q1_answer_images/Lb5C2031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C2032",
@@ -10094,7 +10775,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C2032_q.png",
     "a_img": "q1_answer_images/Lb5C2032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C2033",
@@ -10105,7 +10787,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C2033_q.png",
     "a_img": "q1_answer_images/Lb5C2033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C2034",
@@ -10116,7 +10799,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C2034_q.png",
     "a_img": "q1_answer_images/Lb5C2034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C3035",
@@ -10127,7 +10811,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C3035_q.png",
     "a_img": "q1_answer_images/Lb5C3035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C3036",
@@ -10138,7 +10823,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C3036_q.png",
     "a_img": "q1_answer_images/Lb5C3036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C4037",
@@ -10149,7 +10835,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C4037_q.png",
     "a_img": "q1_answer_images/Lb5C4037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5C4038",
@@ -10160,7 +10847,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5C4038_q.png",
     "a_img": "q1_answer_images/Lb5C4038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C1039",
@@ -10171,7 +10859,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C1039_q.png",
     "a_img": "q1_answer_images/Lb4C1039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C1040",
@@ -10182,7 +10871,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C1040_q.png",
     "a_img": "q1_answer_images/Lb4C1040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C2041",
@@ -10193,7 +10883,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C2041_q.png",
     "a_img": "q1_answer_images/Lb4C2041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C2042",
@@ -10204,7 +10895,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C2042_q.png",
     "a_img": "q1_answer_images/Lb4C2042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C2043",
@@ -10215,7 +10907,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C2043_q.png",
     "a_img": "q1_answer_images/Lb4C2043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C2044",
@@ -10226,7 +10919,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C2044_q.png",
     "a_img": "q1_answer_images/Lb4C2044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C3045",
@@ -10237,7 +10931,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C3045_q.png",
     "a_img": "q1_answer_images/Lb4C3045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C3046",
@@ -10248,7 +10943,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C3046_q.png",
     "a_img": "q1_answer_images/Lb4C3046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4C5047",
@@ -10259,7 +10955,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4C5047_q.png",
     "a_img": "q1_answer_images/Lb4C5047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3C2048",
@@ -10270,7 +10967,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3C2048_q.png",
     "a_img": "q1_answer_images/Lb3C2048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3C2049",
@@ -10281,7 +10979,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3C2049_q.png",
     "a_img": "q1_answer_images/Lb3C2049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3C2050",
@@ -10292,7 +10991,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3C2050_q.png",
     "a_img": "q1_answer_images/Lb3C2050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3C4051",
@@ -10303,7 +11003,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3C4051_q.png",
     "a_img": "q1_answer_images/Lb3C4051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3C4052",
@@ -10314,7 +11015,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3C4052_q.png",
     "a_img": "q1_answer_images/Lb3C4052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3C5053",
@@ -10325,7 +11027,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3C5053_q.png",
     "a_img": "q1_answer_images/Lb3C5053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2C2054",
@@ -10336,7 +11039,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2C2054_q.png",
     "a_img": "q1_answer_images/Lb2C2054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2C3055",
@@ -10347,7 +11051,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2C3055_q.png",
     "a_img": "q1_answer_images/Lb2C3055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2C3056",
@@ -10358,7 +11063,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2C3056_q.png",
     "a_img": "q1_answer_images/Lb2C3056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2C3057",
@@ -10369,7 +11075,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2C3057_q.png",
     "a_img": "q1_answer_images/Lb2C3057_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2C4058",
@@ -10380,7 +11087,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2C4058_q.png",
     "a_img": "q1_answer_images/Lb2C4058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1C2059",
@@ -10391,7 +11099,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1C2059_q.png",
     "a_img": "q1_answer_images/Lb1C2059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1C3060",
@@ -10402,7 +11111,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1C3060_q.png",
     "a_img": "q1_answer_images/Lb1C3060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1C3061",
@@ -10413,7 +11123,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1C3061_q.png",
     "a_img": "q1_answer_images/Lb1C3061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1C3062",
@@ -10424,7 +11135,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1C3062_q.png",
     "a_img": "q1_answer_images/Lb1C3062_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1C4063",
@@ -10435,7 +11147,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1C4063_q.png",
     "a_img": "q1_answer_images/Lb1C4063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1C5064",
@@ -10446,7 +11159,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1C5064_q.png",
     "a_img": "q1_answer_images/Lb1C5064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5C1065",
@@ -10457,7 +11171,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5C1065_q.png",
     "a_img": "q1_answer_images/Lc5C1065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5C2066",
@@ -10468,7 +11183,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5C2066_q.png",
     "a_img": "q1_answer_images/Lc5C2066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5C3067",
@@ -10479,7 +11195,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5C3067_q.png",
     "a_img": "q1_answer_images/Lc5C3067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5C4068",
@@ -10490,7 +11207,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5C4068_q.png",
     "a_img": "q1_answer_images/Lc5C4068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5C5069",
@@ -10501,7 +11219,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5C5069_q.png",
     "a_img": "q1_answer_images/Lc5C5069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4C1070",
@@ -10512,7 +11231,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4C1070_q.png",
     "a_img": "q1_answer_images/Lc4C1070_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4C2071",
@@ -10523,7 +11243,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4C2071_q.png",
     "a_img": "q1_answer_images/Lc4C2071_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4C3072",
@@ -10534,7 +11255,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4C3072_q.png",
     "a_img": "q1_answer_images/Lc4C3072_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4C4073",
@@ -10545,7 +11267,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4C4073_q.png",
     "a_img": "q1_answer_images/Lc4C4073_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4C5074",
@@ -10556,7 +11279,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4C5074_q.png",
     "a_img": "q1_answer_images/Lc4C5074_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3C3075",
@@ -10567,7 +11291,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc3C3075_q.png",
     "a_img": "q1_answer_images/Lc3C3075_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3C3076",
@@ -10578,7 +11303,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc3C3076_q.png",
     "a_img": "q1_answer_images/Lc3C3076_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2C3077",
@@ -10589,7 +11315,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc2C3077_q.png",
     "a_img": "q1_answer_images/Lc2C3077_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1C4078",
@@ -10600,7 +11327,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc1C4078_q.png",
     "a_img": "q1_answer_images/Lc1C4078_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C1079",
@@ -10611,7 +11339,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C1079_q.png",
     "a_img": "q1_answer_images/Jd5C1079_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C1080",
@@ -10622,7 +11351,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C1080_q.png",
     "a_img": "q1_answer_images/Jd5C1080_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C1081",
@@ -10633,7 +11363,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C1081_q.png",
     "a_img": "q1_answer_images/Jd5C1081_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C1082",
@@ -10644,7 +11375,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C1082_q.png",
     "a_img": "q1_answer_images/Jd5C1082_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C2083",
@@ -10655,7 +11387,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C2083_q.png",
     "a_img": "q1_answer_images/Jd5C2083_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C2084",
@@ -10666,7 +11399,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C2084_q.png",
     "a_img": "q1_answer_images/Jd5C2084_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C2085",
@@ -10677,7 +11411,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C2085_q.png",
     "a_img": "q1_answer_images/Jd5C2085_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C2086",
@@ -10688,7 +11423,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C2086_q.png",
     "a_img": "q1_answer_images/Jd5C2086_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C3087",
@@ -10699,7 +11435,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C3087_q.png",
     "a_img": "q1_answer_images/Jd5C3087_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C4088",
@@ -10710,7 +11447,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C4088_q.png",
     "a_img": "q1_answer_images/Jd5C4088_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5C5089",
@@ -10721,7 +11459,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5C5089_q.png",
     "a_img": "q1_answer_images/Jd5C5089_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4C1090",
@@ -10732,7 +11471,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4C1090_q.png",
     "a_img": "q1_answer_images/Jd4C1090_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4C2091",
@@ -10743,7 +11483,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4C2091_q.png",
     "a_img": "q1_answer_images/Jd4C2091_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4C3092",
@@ -10754,7 +11495,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4C3092_q.png",
     "a_img": "q1_answer_images/Jd4C3092_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4C4093",
@@ -10765,7 +11507,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4C4093_q.png",
     "a_img": "q1_answer_images/Jd4C4093_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4C5094",
@@ -10776,7 +11519,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4C5094_q.png",
     "a_img": "q1_answer_images/Jd4C5094_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3C3095",
@@ -10787,7 +11531,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd3C3095_q.png",
     "a_img": "q1_answer_images/Jd3C3095_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2C1096",
@@ -10798,7 +11543,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd2C1096_q.png",
     "a_img": "q1_answer_images/Jd2C1096_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1C1097",
@@ -10809,7 +11555,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd1C1097_q.png",
     "a_img": "q1_answer_images/Jd1C1097_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C1098",
@@ -10820,7 +11567,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C1098_q.png",
     "a_img": "q1_answer_images/Je5C1098_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C1099",
@@ -10831,7 +11579,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C1099_q.png",
     "a_img": "q1_answer_images/Je5C1099_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C1100",
@@ -10842,7 +11591,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C1100_q.png",
     "a_img": "q1_answer_images/Je5C1100_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C2101",
@@ -10853,7 +11603,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C2101_q.png",
     "a_img": "q1_answer_images/Je5C2101_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C2102",
@@ -10864,7 +11615,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C2102_q.png",
     "a_img": "q1_answer_images/Je5C2102_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C2103",
@@ -10875,7 +11627,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C2103_q.png",
     "a_img": "q1_answer_images/Je5C2103_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C2104",
@@ -10886,7 +11639,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C2104_q.png",
     "a_img": "q1_answer_images/Je5C2104_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C2105",
@@ -10897,7 +11651,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C2105_q.png",
     "a_img": "q1_answer_images/Je5C2105_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C2106",
@@ -10908,7 +11663,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C2106_q.png",
     "a_img": "q1_answer_images/Je5C2106_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C2107",
@@ -10919,7 +11675,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C2107_q.png",
     "a_img": "q1_answer_images/Je5C2107_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C3108",
@@ -10930,7 +11687,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C3108_q.png",
     "a_img": "q1_answer_images/Je5C3108_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C3109",
@@ -10941,7 +11699,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C3109_q.png",
     "a_img": "q1_answer_images/Je5C3109_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C3110",
@@ -10952,7 +11711,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C3110_q.png",
     "a_img": "q1_answer_images/Je5C3110_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5C5111",
@@ -10963,7 +11723,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5C5111_q.png",
     "a_img": "q1_answer_images/Je5C5111_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C1112",
@@ -10974,7 +11735,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C1112_q.png",
     "a_img": "q1_answer_images/Je4C1112_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C1113",
@@ -10985,7 +11747,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C1113_q.png",
     "a_img": "q1_answer_images/Je4C1113_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C2114",
@@ -10996,7 +11759,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C2114_q.png",
     "a_img": "q1_answer_images/Je4C2114_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C2115",
@@ -11007,7 +11771,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C2115_q.png",
     "a_img": "q1_answer_images/Je4C2115_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C2116",
@@ -11018,7 +11783,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C2116_q.png",
     "a_img": "q1_answer_images/Je4C2116_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C2117",
@@ -11029,7 +11795,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C2117_q.png",
     "a_img": "q1_answer_images/Je4C2117_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C3118",
@@ -11040,7 +11807,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C3118_q.png",
     "a_img": "q1_answer_images/Je4C3118_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C3119",
@@ -11051,7 +11819,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C3119_q.png",
     "a_img": "q1_answer_images/Je4C3119_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C3120",
@@ -11062,7 +11831,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C3120_q.png",
     "a_img": "q1_answer_images/Je4C3120_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C3121",
@@ -11073,7 +11843,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C3121_q.png",
     "a_img": "q1_answer_images/Je4C3121_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C4122",
@@ -11084,7 +11855,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C4122_q.png",
     "a_img": "q1_answer_images/Je4C4122_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4C5123",
@@ -11095,7 +11867,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4C5123_q.png",
     "a_img": "q1_answer_images/Je4C5123_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C2124",
@@ -11106,7 +11879,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C2124_q.png",
     "a_img": "q1_answer_images/Je3C2124_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C2125",
@@ -11117,7 +11891,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C2125_q.png",
     "a_img": "q1_answer_images/Je3C2125_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C2126",
@@ -11128,7 +11903,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C2126_q.png",
     "a_img": "q1_answer_images/Je3C2126_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C3127",
@@ -11139,7 +11915,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C3127_q.png",
     "a_img": "q1_answer_images/Je3C3127_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C3128",
@@ -11150,7 +11927,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C3128_q.png",
     "a_img": "q1_answer_images/Je3C3128_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C3129",
@@ -11161,7 +11939,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C3129_q.png",
     "a_img": "q1_answer_images/Je3C3129_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C4130",
@@ -11172,7 +11951,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C4130_q.png",
     "a_img": "q1_answer_images/Je3C4130_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C4131",
@@ -11183,7 +11963,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C4131_q.png",
     "a_img": "q1_answer_images/Je3C4131_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3C4132",
@@ -11194,7 +11975,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3C4132_q.png",
     "a_img": "q1_answer_images/Je3C4132_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2C1133",
@@ -11205,7 +11987,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2C1133_q.png",
     "a_img": "q1_answer_images/Je2C1133_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2C4134",
@@ -11216,7 +11999,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2C4134_q.png",
     "a_img": "q1_answer_images/Je2C4134_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2C4135",
@@ -11227,7 +12011,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2C4135_q.png",
     "a_img": "q1_answer_images/Je2C4135_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2C4136",
@@ -11238,7 +12023,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2C4136_q.png",
     "a_img": "q1_answer_images/Je2C4136_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2C4137",
@@ -11249,7 +12035,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2C4137_q.png",
     "a_img": "q1_answer_images/Je2C4137_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2C4138",
@@ -11260,7 +12047,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2C4138_q.png",
     "a_img": "q1_answer_images/Je2C4138_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2C5139",
@@ -11271,7 +12059,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2C5139_q.png",
     "a_img": "q1_answer_images/Je2C5139_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2C5140",
@@ -11282,7 +12071,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2C5140_q.png",
     "a_img": "q1_answer_images/Je2C5140_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C2141",
@@ -11293,7 +12083,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C2141_q.png",
     "a_img": "q1_answer_images/Je1C2141_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C2142",
@@ -11304,7 +12095,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C2142_q.png",
     "a_img": "q1_answer_images/Je1C2142_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C3143",
@@ -11315,7 +12107,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C3143_q.png",
     "a_img": "q1_answer_images/Je1C3143_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C3144",
@@ -11326,7 +12119,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C3144_q.png",
     "a_img": "q1_answer_images/Je1C3144_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C4145",
@@ -11337,7 +12131,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C4145_q.png",
     "a_img": "q1_answer_images/Je1C4145_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C4146",
@@ -11348,7 +12143,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C4146_q.png",
     "a_img": "q1_answer_images/Je1C4146_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C5147",
@@ -11359,7 +12155,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C5147_q.png",
     "a_img": "q1_answer_images/Je1C5147_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C5148",
@@ -11370,7 +12167,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C5148_q.png",
     "a_img": "q1_answer_images/Je1C5148_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1C5149",
@@ -11381,7 +12179,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1C5149_q.png",
     "a_img": "q1_answer_images/Je1C5149_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5C1150",
@@ -11392,7 +12191,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5C1150_q.png",
     "a_img": "q1_answer_images/Jf5C1150_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5C1151",
@@ -11403,7 +12203,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5C1151_q.png",
     "a_img": "q1_answer_images/Jf5C1151_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5C2152",
@@ -11414,7 +12215,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5C2152_q.png",
     "a_img": "q1_answer_images/Jf5C2152_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5C3153",
@@ -11425,7 +12227,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5C3153_q.png",
     "a_img": "q1_answer_images/Jf5C3153_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5C4154",
@@ -11436,7 +12239,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5C4154_q.png",
     "a_img": "q1_answer_images/Jf5C4154_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5C5155",
@@ -11447,7 +12251,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5C5155_q.png",
     "a_img": "q1_answer_images/Jf5C5155_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4C1156",
@@ -11458,7 +12263,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf4C1156_q.png",
     "a_img": "q1_answer_images/Jf4C1156_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4C3157",
@@ -11469,7 +12275,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf4C3157_q.png",
     "a_img": "q1_answer_images/Jf4C3157_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4C4158",
@@ -11480,7 +12287,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf4C4158_q.png",
     "a_img": "q1_answer_images/Jf4C4158_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4C5159",
@@ -11491,7 +12299,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf4C5159_q.png",
     "a_img": "q1_answer_images/Jf4C5159_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3C5160",
@@ -11502,7 +12311,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf3C5160_q.png",
     "a_img": "q1_answer_images/Jf3C5160_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3C5161",
@@ -11513,7 +12323,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf3C5161_q.png",
     "a_img": "q1_answer_images/Jf3C5161_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3C5162",
@@ -11524,7 +12335,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf3C5162_q.png",
     "a_img": "q1_answer_images/Jf3C5162_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2C3163",
@@ -11535,7 +12347,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2C3163_q.png",
     "a_img": "q1_answer_images/Jf2C3163_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2C3164",
@@ -11546,7 +12359,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2C3164_q.png",
     "a_img": "q1_answer_images/Jf2C3164_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2C4165",
@@ -11557,7 +12371,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2C4165_q.png",
     "a_img": "q1_answer_images/Jf2C4165_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2C4166",
@@ -11568,7 +12383,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2C4166_q.png",
     "a_img": "q1_answer_images/Jf2C4166_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2C4167",
@@ -11579,7 +12395,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2C4167_q.png",
     "a_img": "q1_answer_images/Jf2C4167_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1C2168",
@@ -11590,7 +12407,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1C2168_q.png",
     "a_img": "q1_answer_images/Jf1C2168_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1C3169",
@@ -11601,7 +12419,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1C3169_q.png",
     "a_img": "q1_answer_images/Jf1C3169_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1C4170",
@@ -11612,7 +12431,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1C4170_q.png",
     "a_img": "q1_answer_images/Jf1C4170_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5D1001",
@@ -11623,7 +12443,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5D1001_q.png",
     "a_img": "q1_answer_images/La5D1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5D1002",
@@ -11634,7 +12455,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5D1002_q.png",
     "a_img": "q1_answer_images/La5D1002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4D1003",
@@ -11645,7 +12467,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4D1003_q.png",
     "a_img": "q1_answer_images/La4D1003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4D2004",
@@ -11656,7 +12479,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4D2004_q.png",
     "a_img": "q1_answer_images/La4D2004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4D4005",
@@ -11667,7 +12491,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4D4005_q.png",
     "a_img": "q1_answer_images/La4D4005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4D5006",
@@ -11678,7 +12503,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4D5006_q.png",
     "a_img": "q1_answer_images/La4D5006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3D3007",
@@ -11689,7 +12515,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La3D3007_q.png",
     "a_img": "q1_answer_images/La3D3007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3D3008",
@@ -11700,7 +12527,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La3D3008_q.png",
     "a_img": "q1_answer_images/La3D3008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La2D2009",
@@ -11711,7 +12539,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La2D2009_q.png",
     "a_img": "q1_answer_images/La2D2009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5D1011",
@@ -11722,7 +12551,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5D1011_q.png",
     "a_img": "q1_answer_images/Lb5D1011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5D2012",
@@ -11733,7 +12563,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5D2012_q.png",
     "a_img": "q1_answer_images/Lb5D2012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5D2013",
@@ -11744,7 +12575,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5D2013_q.png",
     "a_img": "q1_answer_images/Lb5D2013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5D3014",
@@ -11755,7 +12587,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5D3014_q.png",
     "a_img": "q1_answer_images/Lb5D3014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5D4015",
@@ -11766,7 +12599,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5D4015_q.png",
     "a_img": "q1_answer_images/Lb5D4015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5D5016",
@@ -11777,7 +12611,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5D5016_q.png",
     "a_img": "q1_answer_images/Lb5D5016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4D1017",
@@ -11788,7 +12623,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4D1017_q.png",
     "a_img": "q1_answer_images/Lb4D1017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4D2018",
@@ -11799,7 +12635,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4D2018_q.png",
     "a_img": "q1_answer_images/Lb4D2018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4D3019",
@@ -11810,7 +12647,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4D3019_q.png",
     "a_img": "q1_answer_images/Lb4D3019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4D4020",
@@ -11821,7 +12659,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4D4020_q.png",
     "a_img": "q1_answer_images/Lb4D4020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4D5021",
@@ -11832,7 +12671,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4D5021_q.png",
     "a_img": "q1_answer_images/Lb4D5021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3D2022",
@@ -11843,7 +12683,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3D2022_q.png",
     "a_img": "q1_answer_images/Lb3D2022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3D3023",
@@ -11854,7 +12695,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3D3023_q.png",
     "a_img": "q1_answer_images/Lb3D3023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3D3024",
@@ -11865,7 +12707,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3D3024_q.png",
     "a_img": "q1_answer_images/Lb3D3024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3D3025",
@@ -11876,7 +12719,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3D3025_q.png",
     "a_img": "q1_answer_images/Lb3D3025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3D4026",
@@ -11887,7 +12731,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3D4026_q.png",
     "a_img": "q1_answer_images/Lb3D4026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3D5027",
@@ -11898,7 +12743,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3D5027_q.png",
     "a_img": "q1_answer_images/Lb3D5027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2D3028",
@@ -11909,7 +12755,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2D3028_q.png",
     "a_img": "q1_answer_images/Lb2D3028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2D3029",
@@ -11920,7 +12767,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2D3029_q.png",
     "a_img": "q1_answer_images/Lb2D3029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2D4030",
@@ -11931,7 +12779,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2D4030_q.png",
     "a_img": "q1_answer_images/Lb2D4030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2D4031",
@@ -11942,7 +12791,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2D4031_q.png",
     "a_img": "q1_answer_images/Lb2D4031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2D4032",
@@ -11953,7 +12803,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2D4032_q.png",
     "a_img": "q1_answer_images/Lb2D4032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2D5033",
@@ -11964,7 +12815,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2D5033_q.png",
     "a_img": "q1_answer_images/Lb2D5033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1D1034",
@@ -11975,7 +12827,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1D1034_q.png",
     "a_img": "q1_answer_images/Lb1D1034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1D2035",
@@ -11986,7 +12839,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1D2035_q.png",
     "a_img": "q1_answer_images/Lb1D2035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1D3036",
@@ -11997,7 +12851,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1D3036_q.png",
     "a_img": "q1_answer_images/Lb1D3036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1D3037",
@@ -12008,7 +12863,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1D3037_q.png",
     "a_img": "q1_answer_images/Lb1D3037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1D4038",
@@ -12019,7 +12875,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1D4038_q.png",
     "a_img": "q1_answer_images/Lb1D4038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1D4039",
@@ -12030,7 +12887,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1D4039_q.png",
     "a_img": "q1_answer_images/Lb1D4039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1D5040",
@@ -12041,7 +12899,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1D5040_q.png",
     "a_img": "q1_answer_images/Lb1D5040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5D1041",
@@ -12052,7 +12911,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5D1041_q.png",
     "a_img": "q1_answer_images/Lc5D1041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5D2042",
@@ -12063,7 +12923,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5D2042_q.png",
     "a_img": "q1_answer_images/Lc5D2042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4D1043",
@@ -12074,7 +12935,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4D1043_q.png",
     "a_img": "q1_answer_images/Lc4D1043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4D3044",
@@ -12085,7 +12947,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4D3044_q.png",
     "a_img": "q1_answer_images/Lc4D3044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4D4045",
@@ -12096,7 +12959,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4D4045_q.png",
     "a_img": "q1_answer_images/Lc4D4045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4D5046",
@@ -12107,7 +12971,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4D5046_q.png",
     "a_img": "q1_answer_images/Lc4D5046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3D2047",
@@ -12118,7 +12983,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc3D2047_q.png",
     "a_img": "q1_answer_images/Lc3D2047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2D3048",
@@ -12129,7 +12995,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc2D3048_q.png",
     "a_img": "q1_answer_images/Lc2D3048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1D4049",
@@ -12140,7 +13007,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc1D4049_q.png",
     "a_img": "q1_answer_images/Lc1D4049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5D1050",
@@ -12151,7 +13019,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5D1050_q.png",
     "a_img": "q1_answer_images/Jd5D1050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5D2051",
@@ -12162,7 +13031,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5D2051_q.png",
     "a_img": "q1_answer_images/Jd5D2051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4D1052",
@@ -12173,7 +13043,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4D1052_q.png",
     "a_img": "q1_answer_images/Jd4D1052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4D3053",
@@ -12184,7 +13055,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4D3053_q.png",
     "a_img": "q1_answer_images/Jd4D3053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4D4054",
@@ -12195,7 +13067,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4D4054_q.png",
     "a_img": "q1_answer_images/Jd4D4054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4D5055",
@@ -12206,7 +13079,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4D5055_q.png",
     "a_img": "q1_answer_images/Jd4D5055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3D2056",
@@ -12217,7 +13091,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd3D2056_q.png",
     "a_img": "q1_answer_images/Jd3D2056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2D2057",
@@ -12228,7 +13103,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd2D2057_q.png",
     "a_img": "q1_answer_images/Jd2D2057_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1D3058",
@@ -12239,7 +13115,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd1D3058_q.png",
     "a_img": "q1_answer_images/Jd1D3058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5D1059",
@@ -12250,7 +13127,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5D1059_q.png",
     "a_img": "q1_answer_images/Je5D1059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5D2060",
@@ -12261,7 +13139,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5D2060_q.png",
     "a_img": "q1_answer_images/Je5D2060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5D2061",
@@ -12272,7 +13151,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5D2061_q.png",
     "a_img": "q1_answer_images/Je5D2061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5D3062",
@@ -12283,7 +13163,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5D3062_q.png",
     "a_img": "q1_answer_images/Je5D3062_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5D4063",
@@ -12294,7 +13175,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5D4063_q.png",
     "a_img": "q1_answer_images/Je5D4063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5D5064",
@@ -12305,7 +13187,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5D5064_q.png",
     "a_img": "q1_answer_images/Je5D5064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4D1065",
@@ -12316,7 +13199,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4D1065_q.png",
     "a_img": "q1_answer_images/Je4D1065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4D2066",
@@ -12327,7 +13211,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4D2066_q.png",
     "a_img": "q1_answer_images/Je4D2066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4D3067",
@@ -12338,7 +13223,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4D3067_q.png",
     "a_img": "q1_answer_images/Je4D3067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4D4068",
@@ -12349,7 +13235,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4D4068_q.png",
     "a_img": "q1_answer_images/Je4D4068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4D5069",
@@ -12360,7 +13247,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4D5069_q.png",
     "a_img": "q1_answer_images/Je4D5069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D3070",
@@ -12371,7 +13259,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D3070_q.png",
     "a_img": "q1_answer_images/Je3D3070_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D3071",
@@ -12382,7 +13271,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D3071_q.png",
     "a_img": "q1_answer_images/Je3D3071_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D3072",
@@ -12393,7 +13283,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D3072_q.png",
     "a_img": "q1_answer_images/Je3D3072_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D4073",
@@ -12404,7 +13295,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D4073_q.png",
     "a_img": "q1_answer_images/Je3D4073_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D4074",
@@ -12415,7 +13307,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D4074_q.png",
     "a_img": "q1_answer_images/Je3D4074_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D4075",
@@ -12426,7 +13319,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D4075_q.png",
     "a_img": "q1_answer_images/Je3D4075_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D4076",
@@ -12437,7 +13331,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D4076_q.png",
     "a_img": "q1_answer_images/Je3D4076_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D5077",
@@ -12448,7 +13343,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D5077_q.png",
     "a_img": "q1_answer_images/Je3D5077_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3D5078",
@@ -12459,7 +13355,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3D5078_q.png",
     "a_img": "q1_answer_images/Je3D5078_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D3079",
@@ -12470,7 +13367,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D3079_q.png",
     "a_img": "q1_answer_images/Je2D3079_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D4080",
@@ -12481,7 +13379,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D4080_q.png",
     "a_img": "q1_answer_images/Je2D4080_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D4081",
@@ -12492,7 +13391,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D4081_q.png",
     "a_img": "q1_answer_images/Je2D4081_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D4082",
@@ -12503,7 +13403,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D4082_q.png",
     "a_img": "q1_answer_images/Je2D4082_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D4083",
@@ -12514,7 +13415,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D4083_q.png",
     "a_img": "q1_answer_images/Je2D4083_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D4084",
@@ -12525,7 +13427,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D4084_q.png",
     "a_img": "q1_answer_images/Je2D4084_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D4085",
@@ -12536,7 +13439,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D4085_q.png",
     "a_img": "q1_answer_images/Je2D4085_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D5086",
@@ -12547,7 +13451,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D5086_q.png",
     "a_img": "q1_answer_images/Je2D5086_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2D5087",
@@ -12558,7 +13463,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2D5087_q.png",
     "a_img": "q1_answer_images/Je2D5087_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1D2088",
@@ -12569,7 +13475,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1D2088_q.png",
     "a_img": "q1_answer_images/Je1D2088_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1D2089",
@@ -12580,7 +13487,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1D2089_q.png",
     "a_img": "q1_answer_images/Je1D2089_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1D3090",
@@ -12591,7 +13499,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1D3090_q.png",
     "a_img": "q1_answer_images/Je1D3090_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1D3091",
@@ -12602,7 +13511,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1D3091_q.png",
     "a_img": "q1_answer_images/Je1D3091_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1D4092",
@@ -12613,7 +13523,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1D4092_q.png",
     "a_img": "q1_answer_images/Je1D4092_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1D4093",
@@ -12624,7 +13535,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1D4093_q.png",
     "a_img": "q1_answer_images/Je1D4093_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1D5094",
@@ -12635,7 +13547,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1D5094_q.png",
     "a_img": "q1_answer_images/Je1D5094_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5D1095",
@@ -12646,7 +13559,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5D1095_q.png",
     "a_img": "q1_answer_images/Jf5D1095_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5D2096",
@@ -12657,7 +13571,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5D2096_q.png",
     "a_img": "q1_answer_images/Jf5D2096_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4D2097",
@@ -12668,7 +13583,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf4D2097_q.png",
     "a_img": "q1_answer_images/Jf4D2097_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4D3098",
@@ -12679,7 +13595,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf4D3098_q.png",
     "a_img": "q1_answer_images/Jf4D3098_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3D2099",
@@ -12690,7 +13607,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf3D2099_q.png",
     "a_img": "q1_answer_images/Jf3D2099_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3D3100",
@@ -12701,7 +13619,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf3D3100_q.png",
     "a_img": "q1_answer_images/Jf3D3100_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3D3101",
@@ -12712,7 +13631,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf3D3101_q.png",
     "a_img": "q1_answer_images/Jf3D3101_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2D3102",
@@ -12723,7 +13643,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2D3102_q.png",
     "a_img": "q1_answer_images/Jf2D3102_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2D5103",
@@ -12734,7 +13655,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2D5103_q.png",
     "a_img": "q1_answer_images/Jf2D5103_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1D3104",
@@ -12745,7 +13667,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1D3104_q.png",
     "a_img": "q1_answer_images/Jf1D3104_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1D3105",
@@ -12756,7 +13679,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1D3105_q.png",
     "a_img": "q1_answer_images/Jf1D3105_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1D4106",
@@ -12767,7 +13691,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1D4106_q.png",
     "a_img": "q1_answer_images/Jf1D4106_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5E2001",
@@ -12778,7 +13703,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5E2001_q.png",
     "a_img": "q1_answer_images/La5E2001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5E2002",
@@ -12789,7 +13715,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5E2002_q.png",
     "a_img": "q1_answer_images/La5E2002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4E1003",
@@ -12800,7 +13727,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4E1003_q.png",
     "a_img": "q1_answer_images/La4E1003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4E3004",
@@ -12811,7 +13739,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4E3004_q.png",
     "a_img": "q1_answer_images/La4E3004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4E4005",
@@ -12822,7 +13751,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4E4005_q.png",
     "a_img": "q1_answer_images/La4E4005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4E5006",
@@ -12833,7 +13763,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4E5006_q.png",
     "a_img": "q1_answer_images/La4E5006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5E1007",
@@ -12844,7 +13775,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5E1007_q.png",
     "a_img": "q1_answer_images/Lb5E1007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5E2008",
@@ -12855,7 +13787,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5E2008_q.png",
     "a_img": "q1_answer_images/Lb5E2008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4E2009",
@@ -12866,7 +13799,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4E2009_q.png",
     "a_img": "q1_answer_images/Lb4E2009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4E3010",
@@ -12877,7 +13811,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4E3010_q.png",
     "a_img": "q1_answer_images/Lb4E3010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4E4011",
@@ -12888,7 +13823,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4E4011_q.png",
     "a_img": "q1_answer_images/Lb4E4011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3E2012",
@@ -12899,7 +13835,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3E2012_q.png",
     "a_img": "q1_answer_images/Lb3E2012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3E2013",
@@ -12910,7 +13847,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3E2013_q.png",
     "a_img": "q1_answer_images/Lb3E2013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3E3014",
@@ -12921,7 +13859,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3E3014_q.png",
     "a_img": "q1_answer_images/Lb3E3014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3E3015",
@@ -12932,7 +13871,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3E3015_q.png",
     "a_img": "q1_answer_images/Lb3E3015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3E4016",
@@ -12943,7 +13883,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3E4016_q.png",
     "a_img": "q1_answer_images/Lb3E4016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2E2017",
@@ -12954,7 +13895,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2E2017_q.png",
     "a_img": "q1_answer_images/Lb2E2017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2E3018",
@@ -12965,7 +13907,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2E3018_q.png",
     "a_img": "q1_answer_images/Lb2E3018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2E4019",
@@ -12976,7 +13919,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2E4019_q.png",
     "a_img": "q1_answer_images/Lb2E4019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2E4020",
@@ -12987,7 +13931,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2E4020_q.png",
     "a_img": "q1_answer_images/Lb2E4020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1E3021",
@@ -12998,7 +13943,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1E3021_q.png",
     "a_img": "q1_answer_images/Lb1E3021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1E3022",
@@ -13009,7 +13955,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1E3022_q.png",
     "a_img": "q1_answer_images/Lb1E3022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1E4023",
@@ -13020,7 +13967,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1E4023_q.png",
     "a_img": "q1_answer_images/Lb1E4023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1E5024",
@@ -13031,7 +13979,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1E5024_q.png",
     "a_img": "q1_answer_images/Lb1E5024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5E2025",
@@ -13042,7 +13991,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5E2025_q.png",
     "a_img": "q1_answer_images/Lc5E2025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4E1026",
@@ -13053,7 +14003,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4E1026_q.png",
     "a_img": "q1_answer_images/Lc4E1026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4E1027",
@@ -13064,7 +14015,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4E1027_q.png",
     "a_img": "q1_answer_images/Lc4E1027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3E3028",
@@ -13075,7 +14027,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc3E3028_q.png",
     "a_img": "q1_answer_images/Lc3E3028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2E3029",
@@ -13086,7 +14039,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc2E3029_q.png",
     "a_img": "q1_answer_images/Lc2E3029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5E1030",
@@ -13097,7 +14051,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5E1030_q.png",
     "a_img": "q1_answer_images/Jd5E1030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5E2031",
@@ -13108,7 +14063,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5E2031_q.png",
     "a_img": "q1_answer_images/Jd5E2031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4E3032",
@@ -13119,7 +14075,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4E3032_q.png",
     "a_img": "q1_answer_images/Jd4E3032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3E3033",
@@ -13130,7 +14087,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd3E3033_q.png",
     "a_img": "q1_answer_images/Jd3E3033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3E3034",
@@ -13141,7 +14099,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd3E3034_q.png",
     "a_img": "q1_answer_images/Jd3E3034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2E4035",
@@ -13152,7 +14111,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd2E4035_q.png",
     "a_img": "q1_answer_images/Jd2E4035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1E4036",
@@ -13163,7 +14123,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd1E4036_q.png",
     "a_img": "q1_answer_images/Jd1E4036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1E5037",
@@ -13174,7 +14135,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd1E5037_q.png",
     "a_img": "q1_answer_images/Jd1E5037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4E3038",
@@ -13185,7 +14147,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4E3038_q.png",
     "a_img": "q1_answer_images/Je4E3038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3E3039",
@@ -13196,7 +14159,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3E3039_q.png",
     "a_img": "q1_answer_images/Je3E3039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3E3040",
@@ -13207,7 +14171,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3E3040_q.png",
     "a_img": "q1_answer_images/Je3E3040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3E4041",
@@ -13218,7 +14183,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3E4041_q.png",
     "a_img": "q1_answer_images/Je3E4041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2E2042",
@@ -13229,7 +14195,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2E2042_q.png",
     "a_img": "q1_answer_images/Je2E2042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2E2043",
@@ -13240,7 +14207,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2E2043_q.png",
     "a_img": "q1_answer_images/Je2E2043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2E3044",
@@ -13251,7 +14219,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2E3044_q.png",
     "a_img": "q1_answer_images/Je2E3044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2E4045",
@@ -13262,7 +14231,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2E4045_q.png",
     "a_img": "q1_answer_images/Je2E4045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2E4046",
@@ -13273,7 +14243,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2E4046_q.png",
     "a_img": "q1_answer_images/Je2E4046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1E3047",
@@ -13284,7 +14255,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1E3047_q.png",
     "a_img": "q1_answer_images/Je1E3047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1E4048",
@@ -13295,7 +14267,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1E4048_q.png",
     "a_img": "q1_answer_images/Je1E4048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1E5049",
@@ -13306,7 +14279,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1E5049_q.png",
     "a_img": "q1_answer_images/Je1E5049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5E4050",
@@ -13317,7 +14291,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5E4050_q.png",
     "a_img": "q1_answer_images/Jf5E4050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4E2051",
@@ -13328,7 +14303,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf4E2051_q.png",
     "a_img": "q1_answer_images/Jf4E2051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3E3052",
@@ -13339,7 +14315,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf3E3052_q.png",
     "a_img": "q1_answer_images/Jf3E3052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2E4053",
@@ -13350,7 +14327,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2E4053_q.png",
     "a_img": "q1_answer_images/Jf2E4053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1E3054",
@@ -13361,7 +14339,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1E3054_q.png",
     "a_img": "q1_answer_images/Jf1E3054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1E4055",
@@ -13372,7 +14351,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1E4055_q.png",
     "a_img": "q1_answer_images/Jf1E4055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5F1001",
@@ -13383,7 +14363,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5F1001_q.png",
     "a_img": "q1_answer_images/La5F1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5F2002",
@@ -13394,7 +14375,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5F2002_q.png",
     "a_img": "q1_answer_images/La5F2002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La5F3003",
@@ -13405,7 +14387,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La5F3003_q.png",
     "a_img": "q1_answer_images/La5F3003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4F1004",
@@ -13416,7 +14399,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4F1004_q.png",
     "a_img": "q1_answer_images/La4F1004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La4F2005",
@@ -13427,7 +14411,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La4F2005_q.png",
     "a_img": "q1_answer_images/La4F2005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La3F3006",
@@ -13438,7 +14423,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La3F3006_q.png",
     "a_img": "q1_answer_images/La3F3006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La2F2007",
@@ -13449,7 +14435,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La2F2007_q.png",
     "a_img": "q1_answer_images/La2F2007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "La1F4008",
@@ -13460,7 +14447,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/La1F4008_q.png",
     "a_img": "q1_answer_images/La1F4008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5F1009",
@@ -13471,7 +14459,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5F1009_q.png",
     "a_img": "q1_answer_images/Lb5F1009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5F2010",
@@ -13482,7 +14471,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5F2010_q.png",
     "a_img": "q1_answer_images/Lb5F2010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb5F3011",
@@ -13493,7 +14483,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb5F3011_q.png",
     "a_img": "q1_answer_images/Lb5F3011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4F1012",
@@ -13504,7 +14495,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4F1012_q.png",
     "a_img": "q1_answer_images/Lb4F1012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4F2013",
@@ -13515,7 +14507,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4F2013_q.png",
     "a_img": "q1_answer_images/Lb4F2013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4F3014",
@@ -13526,7 +14519,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4F3014_q.png",
     "a_img": "q1_answer_images/Lb4F3014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4F3015",
@@ -13537,7 +14531,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4F3015_q.png",
     "a_img": "q1_answer_images/Lb4F3015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4F4016",
@@ -13548,7 +14543,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4F4016_q.png",
     "a_img": "q1_answer_images/Lb4F4016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb4F5017",
@@ -13559,7 +14555,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb4F5017_q.png",
     "a_img": "q1_answer_images/Lb4F5017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3F2018",
@@ -13570,7 +14567,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3F2018_q.png",
     "a_img": "q1_answer_images/Lb3F2018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3F3019",
@@ -13581,7 +14579,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3F3019_q.png",
     "a_img": "q1_answer_images/Lb3F3019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3F3020",
@@ -13592,7 +14591,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3F3020_q.png",
     "a_img": "q1_answer_images/Lb3F3020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3F3021",
@@ -13603,7 +14603,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3F3021_q.png",
     "a_img": "q1_answer_images/Lb3F3021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3F3022",
@@ -13614,7 +14615,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3F3022_q.png",
     "a_img": "q1_answer_images/Lb3F3022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3F3023",
@@ -13625,7 +14627,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3F3023_q.png",
     "a_img": "q1_answer_images/Lb3F3023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb3F4024",
@@ -13636,7 +14639,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb3F4024_q.png",
     "a_img": "q1_answer_images/Lb3F4024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2F2025",
@@ -13647,7 +14651,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2F2025_q.png",
     "a_img": "q1_answer_images/Lb2F2025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2F2026",
@@ -13658,7 +14663,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2F2026_q.png",
     "a_img": "q1_answer_images/Lb2F2026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2F3027",
@@ -13669,7 +14675,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2F3027_q.png",
     "a_img": "q1_answer_images/Lb2F3027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2F4028",
@@ -13680,7 +14687,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2F4028_q.png",
     "a_img": "q1_answer_images/Lb2F4028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2F4029",
@@ -13691,7 +14699,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2F4029_q.png",
     "a_img": "q1_answer_images/Lb2F4029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2F5030",
@@ -13702,7 +14711,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2F5030_q.png",
     "a_img": "q1_answer_images/Lb2F5030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb2F5031",
@@ -13713,7 +14723,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb2F5031_q.png",
     "a_img": "q1_answer_images/Lb2F5031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1F2032",
@@ -13724,7 +14735,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1F2032_q.png",
     "a_img": "q1_answer_images/Lb1F2032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1F3033",
@@ -13735,7 +14747,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1F3033_q.png",
     "a_img": "q1_answer_images/Lb1F3033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1F3034",
@@ -13746,7 +14759,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1F3034_q.png",
     "a_img": "q1_answer_images/Lb1F3034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1F5035",
@@ -13757,7 +14771,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1F5035_q.png",
     "a_img": "q1_answer_images/Lb1F5035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1F5036",
@@ -13768,7 +14783,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1F5036_q.png",
     "a_img": "q1_answer_images/Lb1F5036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lb1F5037",
@@ -13779,7 +14795,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lb1F5037_q.png",
     "a_img": "q1_answer_images/Lb1F5037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc5F2038",
@@ -13790,7 +14807,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc5F2038_q.png",
     "a_img": "q1_answer_images/Lc5F2038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc4F2039",
@@ -13801,7 +14819,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc4F2039_q.png",
     "a_img": "q1_answer_images/Lc4F2039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc3F3040",
@@ -13812,7 +14831,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc3F3040_q.png",
     "a_img": "q1_answer_images/Lc3F3040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc2F2041",
@@ -13823,7 +14843,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc2F2041_q.png",
     "a_img": "q1_answer_images/Lc2F2041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Lc1F3042",
@@ -13834,7 +14855,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Lc1F3042_q.png",
     "a_img": "q1_answer_images/Lc1F3042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd5F2043",
@@ -13845,7 +14867,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd5F2043_q.png",
     "a_img": "q1_answer_images/Jd5F2043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4F1044",
@@ -13856,7 +14879,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4F1044_q.png",
     "a_img": "q1_answer_images/Jd4F1044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4F2045",
@@ -13867,7 +14891,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4F2045_q.png",
     "a_img": "q1_answer_images/Jd4F2045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4F3046",
@@ -13878,7 +14903,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4F3046_q.png",
     "a_img": "q1_answer_images/Jd4F3046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd4F4047",
@@ -13889,7 +14915,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd4F4047_q.png",
     "a_img": "q1_answer_images/Jd4F4047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd3F4048",
@@ -13900,7 +14927,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd3F4048_q.png",
     "a_img": "q1_answer_images/Jd3F4048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd2F4049",
@@ -13911,7 +14939,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd2F4049_q.png",
     "a_img": "q1_answer_images/Jd2F4049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jd1F3050",
@@ -13922,7 +14951,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jd1F3050_q.png",
     "a_img": "q1_answer_images/Jd1F3050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5F2051",
@@ -13933,7 +14963,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5F2051_q.png",
     "a_img": "q1_answer_images/Je5F2051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5F3052",
@@ -13944,7 +14975,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5F3052_q.png",
     "a_img": "q1_answer_images/Je5F3052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5F4053",
@@ -13955,7 +14987,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5F4053_q.png",
     "a_img": "q1_answer_images/Je5F4053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je5F5054",
@@ -13966,7 +14999,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je5F5054_q.png",
     "a_img": "q1_answer_images/Je5F5054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4F1055",
@@ -13977,7 +15011,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4F1055_q.png",
     "a_img": "q1_answer_images/Je4F1055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4F2056",
@@ -13988,7 +15023,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4F2056_q.png",
     "a_img": "q1_answer_images/Je4F2056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4F3057",
@@ -13999,7 +15035,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4F3057_q.png",
     "a_img": "q1_answer_images/Je4F3057_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4F4058",
@@ -14010,7 +15047,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4F4058_q.png",
     "a_img": "q1_answer_images/Je4F4058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je4F4059",
@@ -14021,7 +15059,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je4F4059_q.png",
     "a_img": "q1_answer_images/Je4F4059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3F2060",
@@ -14032,7 +15071,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3F2060_q.png",
     "a_img": "q1_answer_images/Je3F2060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3F2061",
@@ -14043,7 +15083,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3F2061_q.png",
     "a_img": "q1_answer_images/Je3F2061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3F4062",
@@ -14054,7 +15095,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3F4062_q.png",
     "a_img": "q1_answer_images/Je3F4062_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3F4063",
@@ -14065,7 +15107,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3F4063_q.png",
     "a_img": "q1_answer_images/Je3F4063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3F4064",
@@ -14076,7 +15119,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3F4064_q.png",
     "a_img": "q1_answer_images/Je3F4064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3F5065",
@@ -14087,7 +15131,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3F5065_q.png",
     "a_img": "q1_answer_images/Je3F5065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je3F5066",
@@ -14098,7 +15143,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je3F5066_q.png",
     "a_img": "q1_answer_images/Je3F5066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2F3067",
@@ -14109,7 +15155,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2F3067_q.png",
     "a_img": "q1_answer_images/Je2F3067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2F3068",
@@ -14120,7 +15167,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2F3068_q.png",
     "a_img": "q1_answer_images/Je2F3068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2F4069",
@@ -14131,7 +15179,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2F4069_q.png",
     "a_img": "q1_answer_images/Je2F4069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2F5070",
@@ -14142,7 +15191,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2F5070_q.png",
     "a_img": "q1_answer_images/Je2F5070_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je2F5071",
@@ -14153,7 +15203,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je2F5071_q.png",
     "a_img": "q1_answer_images/Je2F5071_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1F3072",
@@ -14164,7 +15215,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1F3072_q.png",
     "a_img": "q1_answer_images/Je1F3072_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1F3073",
@@ -14175,7 +15227,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1F3073_q.png",
     "a_img": "q1_answer_images/Je1F3073_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1F4074",
@@ -14186,7 +15239,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1F4074_q.png",
     "a_img": "q1_answer_images/Je1F4074_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1F4075",
@@ -14197,7 +15251,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1F4075_q.png",
     "a_img": "q1_answer_images/Je1F4075_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1F4076",
@@ -14208,7 +15263,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1F4076_q.png",
     "a_img": "q1_answer_images/Je1F4076_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Je1F5077",
@@ -14219,7 +15275,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Je1F5077_q.png",
     "a_img": "q1_answer_images/Je1F5077_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf5F3078",
@@ -14230,7 +15287,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf5F3078_q.png",
     "a_img": "q1_answer_images/Jf5F3078_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf4F3079",
@@ -14241,7 +15299,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf4F3079_q.png",
     "a_img": "q1_answer_images/Jf4F3079_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf3F3080",
@@ -14252,7 +15311,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf3F3080_q.png",
     "a_img": "q1_answer_images/Jf3F3080_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf2F4081",
@@ -14263,7 +15323,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf2F4081_q.png",
     "a_img": "q1_answer_images/Jf2F4081_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "Jf1F4082",
@@ -14274,7 +15335,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q1_question_images/Jf1F4082_q.png",
     "a_img": "q1_answer_images/Jf1F4082_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A1001",
@@ -14283,14 +15345,15 @@ window.QUIZ_DATA = [
     "q": "在三相交流电路中所谓三相负载对称是指 。",
     "a": "C",
     "o": {
-      "C": "电阻\n相等、电抗相等、电抗性质相同",
+      "C": "电阻 相等、电抗相等、电抗性质相同",
       "A": "各相阻抗值相等",
       "B": "各相阻抗值不等",
       "D": "阻抗角相等。"
     },
     "q_img": "q2_question_images/E_La5A1001_q.png",
     "a_img": "q2_answer_images/E_La5A1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A1002",
@@ -14299,11 +15362,12 @@ window.QUIZ_DATA = [
     "q": "交流电路中常用P、Q、S 表示有功功率、无 功功率、视在功率，而功率因数是指。",
     "a": "B",
     "o": {
-      "B": "。"
+      "B": ""
     },
     "q_img": "q2_question_images/E_La5A1002_q.png",
     "a_img": "q2_answer_images/E_La5A1002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La5A1003",
@@ -14314,12 +15378,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "磁感应强度",
       "B": "磁力线方向",
-      "C": "通过导体的电\n流",
+      "C": "通过导体的电 流",
       "D": "外加电压。"
     },
     "q_img": "q2_question_images/E_La5A1003_q.png",
     "a_img": "q2_answer_images/E_La5A1003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A2004",
@@ -14328,12 +15393,13 @@ window.QUIZ_DATA = [
     "q": "如负载的有功功率为P, 无功功率为Q, 电压 为U, 电流为I, 确定电抗X 大小的关系式是",
     "a": "A",
     "o": {
-      "A": "。",
-      "D": "鉴\n定\n试\n题\n库\n选\n择\n题\n\n20"
+      "A": "",
+      "D": "鉴 定 试 题 库 选 择 题 20"
     },
     "q_img": "q2_question_images/E_La5A2004_q.png",
     "a_img": "q2_answer_images/E_La5A2004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La5A2005",
@@ -14344,12 +15410,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "相等",
       "B": "差√3倍",
-      "C": "差\n倍",
+      "C": "差 倍",
       "D": "差3倍。"
     },
     "q_img": "q2_question_images/E_La5A2005_q.png",
     "a_img": "q2_answer_images/E_La5A2005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A2006",
@@ -14365,7 +15432,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5A2006_q.png",
     "a_img": "q2_answer_images/E_La5A2006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A3007",
@@ -14381,7 +15449,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5A3007_q.png",
     "a_img": "q2_answer_images/E_La5A3007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A3008",
@@ -14397,7 +15466,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5A3008_q.png",
     "a_img": "q2_answer_images/E_La5A3008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A3009",
@@ -14413,7 +15483,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5A3009_q.png",
     "a_img": "q2_answer_images/E_La5A3009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A4010",
@@ -14429,7 +15500,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5A4010_q.png",
     "a_img": "q2_answer_images/E_La5A4010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A4011",
@@ -14445,7 +15517,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5A4011_q.png",
     "a_img": "q2_answer_images/E_La5A4011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A4012",
@@ -14457,11 +15530,12 @@ window.QUIZ_DATA = [
       "C": "电阻率",
       "A": "电阻",
       "B": "阻抗",
-      "D": "导纳。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n21"
+      "D": "导纳。 选 择 题 鉴 定 试 题 库 21"
     },
     "q_img": "q2_question_images/E_La5A4012_q.png",
     "a_img": "q2_answer_images/E_La5A4012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A5013",
@@ -14473,11 +15547,12 @@ window.QUIZ_DATA = [
       "B": "Q·m",
       "A": "Q·m/mm²",
       "C": "(m·mm²)/Ω",
-      "D": "m/\n(mm²·Ω)。"
+      "D": "m/ (mm²·Ω)。"
     },
     "q_img": "q2_question_images/E_La5A5013_q.png",
     "a_img": "q2_answer_images/E_La5A5013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A5014",
@@ -14493,7 +15568,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5A5014_q.png",
     "a_img": "q2_answer_images/E_La5A5014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5A5015",
@@ -14509,7 +15585,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5A5015_q.png",
     "a_img": "q2_answer_images/E_La5A5015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A1016",
@@ -14525,7 +15602,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A1016_q.png",
     "a_img": "q2_answer_images/E_La4A1016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4A1017",
@@ -14541,7 +15619,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A1017_q.png",
     "a_img": "q2_answer_images/E_La4A1017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4A1018",
@@ -14557,7 +15636,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A1018_q.png",
     "a_img": "q2_answer_images/E_La4A1018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A2019",
@@ -14573,7 +15653,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A2019_q.png",
     "a_img": "q2_answer_images/E_La4A2019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A2020",
@@ -14585,11 +15666,12 @@ window.QUIZ_DATA = [
       "A": "电功率",
       "B": "无功率",
       "C": "视在功率",
-      "D": "有功率\n加无功率。"
+      "D": "有功率 加无功率。"
     },
     "q_img": "q2_question_images/E_La4A2020_q.png",
     "a_img": "q2_answer_images/E_La4A2020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4A2021",
@@ -14600,11 +15682,12 @@ window.QUIZ_DATA = [
     "o": {
       "B": "3",
       "A": "√3",
-      "D": "鉴\n定\n试\n题\n库\n选\n择\n题\n\n22\n选\n择\n题\n鉴\n定\n试\n题\n库"
+      "D": "鉴 定 试 题 库 选 择 题 22 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_La4A2021_q.png",
     "a_img": "q2_answer_images/E_La4A2021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A3024",
@@ -14616,11 +15699,12 @@ window.QUIZ_DATA = [
       "A": "支路电流",
       "B": "回路电流",
       "C": "叠加原理",
-      "D": "戴\n维南原理。"
+      "D": "戴 维南原理。"
     },
     "q_img": "q2_question_images/E_La4A3024_q.png",
     "a_img": "q2_answer_images/E_La4A3024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4A3025",
@@ -14636,7 +15720,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A3025_q.png",
     "a_img": "q2_answer_images/E_La4A3025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4A4026",
@@ -14652,7 +15737,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A4026_q.png",
     "a_img": "q2_answer_images/E_La4A4026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4A4027",
@@ -14666,7 +15752,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A4027_q.png",
     "a_img": "q2_answer_images/E_La4A4027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A4028",
@@ -14677,12 +15764,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "交流毫安级至安培级电流",
       "A": "畸变交流电流",
-      "C": "直\n流微安级电流",
+      "C": "直 流微安级电流",
       "D": "直流大电流。"
     },
     "q_img": "q2_question_images/E_La4A4028_q.png",
     "a_img": "q2_answer_images/E_La4A4028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4A2022",
@@ -14691,11 +15779,12 @@ window.QUIZ_DATA = [
     "q": "对称三相交流电路，中性点电压等于",
     "a": "A",
     "o": {
-      "A": "。"
+      "A": ""
     },
     "q_img": "q2_question_images/E_La4A2022_q.png",
     "a_img": "q2_answer_images/E_La4A2022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A3023",
@@ -14705,13 +15794,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "0",
-      "B": "能。\n\n23",
+      "B": "能。 23",
       "C": "√2",
       "D": "光。"
     },
     "q_img": "q2_question_images/E_La4A3023_q.png",
     "a_img": "q2_answer_images/E_La4A3023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A5029",
@@ -14725,7 +15815,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A5029_q.png",
     "a_img": "q2_answer_images/E_La4A5029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A5030",
@@ -14740,7 +15831,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4A5030_q.png",
     "a_img": "q2_answer_images/E_La4A5030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La4A5031",
@@ -14751,12 +15843,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "与电阻大小成正比",
       "B": "相同",
-      "C": "与电阻大小成\n反比",
+      "C": "与电阻大小成 反比",
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_La4A5031_q.png",
     "a_img": "q2_answer_images/E_La4A5031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3A1032",
@@ -14771,7 +15864,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3A1032_q.png",
     "a_img": "q2_answer_images/E_La3A1032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La3A1033",
@@ -14781,13 +15875,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "1.5",
-      "B": "24\n鉴\n定\n试\n题\n库",
+      "B": "24 鉴 定 试 题 库",
       "C": "12",
-      "D": "6。\n图A-1\n鉴\n定\n试\n题\n库\n选\n择\n题"
+      "D": "6。"
     },
     "q_img": "q2_question_images/E_La3A1033_q.png",
     "a_img": "q2_answer_images/E_La3A1033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3A1034",
@@ -14799,11 +15894,12 @@ window.QUIZ_DATA = [
       "B": "2",
       "A": "3.3",
       "C": "5.5",
-      "D": "4。\n图A-2"
+      "D": "4。"
     },
     "q_img": "q2_question_images/E_La3A1034_q.png",
     "a_img": "q2_answer_images/E_La3A1034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La3A2035",
@@ -14819,7 +15915,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3A2035_q.png",
     "a_img": "q2_answer_images/E_La3A2035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3A2036",
@@ -14833,7 +15930,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3A2036_q.png",
     "a_img": "q2_answer_images/E_La3A2036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La3A2037",
@@ -14843,13 +15941,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "220V、40W 的灯泡易烧坏",
-      "B": "220V、100W\n的灯\n泡易烧坏",
+      "B": "220V、100W 的灯 泡易烧坏",
       "C": "两个灯泡均易烧坏",
       "D": "两个灯泡均正常发光。"
     },
     "q_img": "q2_question_images/E_La3A2037_q.png",
     "a_img": "q2_answer_images/E_La3A2037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3A3038",
@@ -14860,12 +15959,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "P₁<P₂<P3",
       "A": "P₁>P₂>P₃",
-      "C": "P\n₁=P₂=P3",
-      "D": "无\n法比。\n\n25"
+      "C": "P ₁=P₂=P3",
+      "D": "无 法比。 25"
     },
     "q_img": "q2_question_images/E_La3A3038_q.png",
     "a_img": "q2_answer_images/E_La3A3038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3A3039",
@@ -14877,11 +15977,12 @@ window.QUIZ_DATA = [
       "C": "图示位置不动",
       "A": "向外转90°",
       "B": "向里转90°",
-      "D": "旋转180°。\n图A-3"
+      "D": "旋转180°。"
     },
     "q_img": "q2_question_images/E_La3A3039_q.png",
     "a_img": "q2_answer_images/E_La3A3039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3A3040",
@@ -14897,7 +15998,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3A3040_q.png",
     "a_img": "q2_answer_images/E_La3A3040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La3A4041",
@@ -14906,14 +16008,15 @@ window.QUIZ_DATA = [
     "q": "线圈中感应电动势的大小与。",
     "a": "C",
     "o": {
-      "C": "线圈中磁通变化率成正比，还与线圈的匝数成正\n比",
+      "C": "线圈中磁通变化率成正比，还与线圈的匝数成正 比",
       "A": "线圈中磁通的大小成正比",
-      "B": "线圈中磁通的变化量\n成正比",
+      "B": "线圈中磁通的变化量 成正比",
       "D": "线圈中磁通的大小成反比。"
     },
     "q_img": "q2_question_images/E_La3A4041_q.png",
     "a_img": "q2_answer_images/E_La3A4041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3A4042",
@@ -14922,14 +16025,15 @@ window.QUIZ_DATA = [
     "q": "电容器在充电和放电过程中，充电电流与 成正比。",
     "a": "C",
     "o": {
-      "C": "电\n容器两端电压的变化率",
+      "C": "电 容器两端电压的变化率",
       "A": "电容器两端电压",
       "B": "电容器两端电压的变量",
       "D": "电容器两端电压大小。"
     },
     "q_img": "q2_question_images/E_La3A4042_q.png",
     "a_img": "q2_answer_images/E_La3A4042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3A4043",
@@ -14945,7 +16049,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3A4043_q.png",
     "a_img": "q2_answer_images/E_La3A4043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La3A5045",
@@ -14961,7 +16066,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3A5045_q.png",
     "a_img": "q2_answer_images/E_La3A5045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La3A5046",
@@ -14977,7 +16083,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3A5046_q.png",
     "a_img": "q2_answer_images/E_La3A5046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A1047",
@@ -14993,7 +16100,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2A1047_q.png",
     "a_img": "q2_answer_images/E_La2A1047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A1048",
@@ -15002,14 +16110,15 @@ window.QUIZ_DATA = [
     "q": "电压的瞬时值表达式 ,那 么。",
     "a": "B",
     "o": {
-      "B": "电压有效值\n为\n相位角是",
+      "B": "电压有效值 为 相位角是",
       "A": "电压有效值为110V, 相位角是",
-      "C": "电压的有效值为\n位角",
+      "C": "电压的有效值为 位角",
       "D": "电压的最大值为110V, 相位角是"
     },
     "q_img": "q2_question_images/E_La2A1048_q.png",
     "a_img": "q2_answer_images/E_La2A1048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A1049",
@@ -15020,11 +16129,12 @@ window.QUIZ_DATA = [
     "o": {
       "B": "电流滞后电压30°",
       "A": "电流滞后电压40°",
-      "C": "电\n选\n择\n题\n鉴\n定\n试\n题\n库"
+      "C": "电 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_La2A1049_q.png",
     "a_img": "q2_answer_images/E_La2A1049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La3A5044",
@@ -15040,7 +16150,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3A5044_q.png",
     "a_img": "q2_answer_images/E_La3A5044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La2A2050",
@@ -15056,7 +16167,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2A2050_q.png",
     "a_img": "q2_answer_images/E_La2A2050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A2051",
@@ -15068,11 +16180,12 @@ window.QUIZ_DATA = [
       "C": "纯感性的",
       "A": "纯阻性的",
       "B": "纯容性的",
-      "D": "阻\n容性的。"
+      "D": "阻 容性的。"
     },
     "q_img": "q2_question_images/E_La2A2051_q.png",
     "a_img": "q2_answer_images/E_La2A2051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A2052",
@@ -15081,14 +16194,15 @@ window.QUIZ_DATA = [
     "q": "交流电路的功率因数是指。",
     "a": "B",
     "o": {
-      "B": "有功功率与视在功功\n率之比",
+      "B": "有功功率与视在功功 率之比",
       "A": "无功功率与有功功率之比",
       "C": "无功功率与视在功功率之比",
-      "D": "有功功率与无\n功功率之比。"
+      "D": "有功功率与无 功功率之比。"
     },
     "q_img": "q2_question_images/E_La2A2052_q.png",
     "a_img": "q2_answer_images/E_La2A2052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A2053",
@@ -15104,7 +16218,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2A2053_q.png",
     "a_img": "q2_answer_images/E_La2A2053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A3054",
@@ -15120,7 +16235,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2A3054_q.png",
     "a_img": "q2_answer_images/E_La2A3054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La2A3055",
@@ -15132,11 +16248,12 @@ window.QUIZ_DATA = [
       "C": "欧姆定律",
       "A": "基尔霍夫",
       "B": "焦耳定律",
-      "D": "电压超前电流30°。\n\n28\n选\n择\n题\n鉴\n定\n试\n题\n库"
+      "D": "电压超前电流30°。 28 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_La2A3055_q.png",
     "a_img": "q2_answer_images/E_La2A3055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A3056",
@@ -15148,11 +16265,12 @@ window.QUIZ_DATA = [
       "B": "由负向正",
       "A": "由正向负",
       "C": "左右摆动",
-      "D": "无\n法确定。"
+      "D": "无 法确定。"
     },
     "q_img": "q2_question_images/E_La2A3056_q.png",
     "a_img": "q2_answer_images/E_La2A3056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A4057",
@@ -15168,7 +16286,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2A4057_q.png",
     "a_img": "q2_answer_images/E_La2A4057_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A4058",
@@ -15184,7 +16303,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2A4058_q.png",
     "a_img": "q2_answer_images/E_La2A4058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La2A4059",
@@ -15200,7 +16320,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2A4059_q.png",
     "a_img": "q2_answer_images/E_La2A4059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2A4060",
@@ -15216,7 +16337,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2A4060_q.png",
     "a_img": "q2_answer_images/E_La2A4060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A1061",
@@ -15232,7 +16354,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A1061_q.png",
     "a_img": "q2_answer_images/E_La1A1061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A1063",
@@ -15244,11 +16367,12 @@ window.QUIZ_DATA = [
       "C": "等于",
       "A": "大于",
       "B": "小于",
-      "D": "不等于。\n\n29"
+      "D": "不等于。 29"
     },
     "q_img": "q2_question_images/E_La1A1063_q.png",
     "a_img": "q2_answer_images/E_La1A1063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A2064",
@@ -15264,7 +16388,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A2064_q.png",
     "a_img": "q2_answer_images/E_La1A2064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A2065",
@@ -15280,7 +16405,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A2065_q.png",
     "a_img": "q2_answer_images/E_La1A2065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A2066",
@@ -15296,7 +16422,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A2066_q.png",
     "a_img": "q2_answer_images/E_La1A2066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A2067",
@@ -15312,7 +16439,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A2067_q.png",
     "a_img": "q2_answer_images/E_La1A2067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A2068",
@@ -15321,12 +16449,13 @@ window.QUIZ_DATA = [
     "q": "R₁和R₂ 并联后的总电阻是",
     "a": "A",
     "o": {
-      "A": "。",
+      "A": "",
       "C": "RB(R+R)"
     },
     "q_img": "q2_question_images/E_La1A2068_q.png",
     "a_img": "q2_answer_images/E_La1A2068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La1A3069",
@@ -15342,7 +16471,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A3069_q.png",
     "a_img": "q2_answer_images/E_La1A3069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A3070",
@@ -15358,7 +16488,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A3070_q.png",
     "a_img": "q2_answer_images/E_La1A3070_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A3071",
@@ -15374,7 +16505,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A3071_q.png",
     "a_img": "q2_answer_images/E_La1A3071_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A3072",
@@ -15383,11 +16515,12 @@ window.QUIZ_DATA = [
     "q": "通过某一垂直面积的磁力线叫。 选 择 题 鉴 定 试 题 库 30 鉴计 定 试扫 题 库是",
     "a": "B",
     "o": {
-      "B": "。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n30\n鉴计\n定\n试扫\n题\n库是"
+      "B": "选 择 题 鉴 定 试 题 库 30 鉴计 定 试扫 题 库是"
     },
     "q_img": "q2_question_images/E_La1A3072_q.png",
     "a_img": "q2_answer_images/E_La1A3072_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_La1A4074",
@@ -15403,7 +16536,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A4074_q.png",
     "a_img": "q2_answer_images/E_La1A4074_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A4075",
@@ -15412,14 +16546,15 @@ window.QUIZ_DATA = [
     "q": "两个金属板之间电容量的大小与 无关。",
     "a": "D",
     "o": {
-      "D": "外\n加电压。",
+      "D": "外 加电压。",
       "A": "板间距离",
       "B": "板的面积",
       "C": "板间介质"
     },
     "q_img": "q2_question_images/E_La1A4075_q.png",
     "a_img": "q2_answer_images/E_La1A4075_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A4076",
@@ -15435,7 +16570,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A4076_q.png",
     "a_img": "q2_answer_images/E_La1A4076_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A5077",
@@ -15447,11 +16583,12 @@ window.QUIZ_DATA = [
       "B": "发热量小",
       "A": "发热量大",
       "C": "发热量相等",
-      "D": "发热\n量不等。"
+      "D": "发热 量不等。"
     },
     "q_img": "q2_question_images/E_La1A5077_q.png",
     "a_img": "q2_answer_images/E_La1A5077_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A5078",
@@ -15467,7 +16604,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A5078_q.png",
     "a_img": "q2_answer_images/E_La1A5078_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A5079",
@@ -15483,7 +16621,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A5079_q.png",
     "a_img": "q2_answer_images/E_La1A5079_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1A4073",
@@ -15499,7 +16638,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1A4073_q.png",
     "a_img": "q2_answer_images/E_La1A4073_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A1081",
@@ -15515,7 +16655,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5A1081_q.png",
     "a_img": "q2_answer_images/E_Lb5A1081_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb5A1082",
@@ -15531,7 +16672,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5A1082_q.png",
     "a_img": "q2_answer_images/E_Lb5A1082_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A2083",
@@ -15540,12 +16682,13 @@ window.QUIZ_DATA = [
     "q": "用电流表测量通过电灯的电流强度如图A-4 所示，接线正确的是。",
     "a": "C",
     "o": {
-      "C": "图A-4\n鉴\n定\n试\n题\n库\n选\n择\n题",
-      "B": "32\n选\n择\n题\n鉴\n定\n试\n题\n库"
+      "C": "",
+      "B": "32 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Lb5A2083_q.png",
     "a_img": "q2_answer_images/E_Lb5A2083_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb5A2084",
@@ -15554,12 +16697,13 @@ window.QUIZ_DATA = [
     "q": "用电压表直接测量灯泡EL1 两端电压如图 A-5所示，那个接线正确的是。 E E EL1 ELi EL2 EL2",
     "a": "D",
     "o": {
-      "D": "图A-5",
-      "B": "EL1\nEL2"
+      "D": "",
+      "B": "EL1 EL2"
     },
     "q_img": "q2_question_images/E_Lb5A2084_q.png",
     "a_img": "q2_answer_images/E_Lb5A2084_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb5A2085",
@@ -15571,11 +16715,12 @@ window.QUIZ_DATA = [
       "B": "变小",
       "A": "变大",
       "C": "不变",
-      "D": "不一定。\n图A-6"
+      "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb5A2085_q.png",
     "a_img": "q2_answer_images/E_Lb5A2085_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A2086",
@@ -15587,11 +16732,12 @@ window.QUIZ_DATA = [
       "B": "减小",
       "A": "增大",
       "C": "不变",
-      "D": "不一定。\n\n33\n鉴\n定\n试\n题\n库\n选\n择\n题"
+      "D": "不一定。 33 鉴 定 试 题 库 选 择 题"
     },
     "q_img": "q2_question_images/E_Lb5A2086_q.png",
     "a_img": "q2_answer_images/E_Lb5A2086_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A3087",
@@ -15603,11 +16749,12 @@ window.QUIZ_DATA = [
       "B": "变小",
       "A": "变大",
       "C": "不变",
-      "D": "不一定。\n图A-8"
+      "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb5A3087_q.png",
     "a_img": "q2_answer_images/E_Lb5A3087_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A3088",
@@ -15619,11 +16766,12 @@ window.QUIZ_DATA = [
       "A": "增大",
       "B": "不变",
       "C": "减小",
-      "D": "不一定。\n图A-9\n图A-7\n\n34"
+      "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Lb5A3088_q.png",
     "a_img": "q2_answer_images/E_Lb5A3088_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A3089",
@@ -15639,7 +16787,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5A3089_q.png",
     "a_img": "q2_answer_images/E_Lb5A3089_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A3090",
@@ -15651,11 +16800,12 @@ window.QUIZ_DATA = [
       "B": "由暗变亮",
       "A": "由亮变暗",
       "C": "亮度不变",
-      "D": "无\n法确定。\n图A-10"
+      "D": "无 法确定。"
     },
     "q_img": "q2_question_images/E_Lb5A3090_q.png",
     "a_img": "q2_answer_images/E_Lb5A3090_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A4091",
@@ -15667,11 +16817,12 @@ window.QUIZ_DATA = [
       "C": "不变",
       "A": "变大",
       "B": "变小",
-      "D": "无法判断。\n图A- 12"
+      "D": "无法判断。 图A- 12"
     },
     "q_img": "q2_question_images/E_Lb5A4091_q.png",
     "a_img": "q2_answer_images/E_Lb5A4091_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A4092",
@@ -15683,11 +16834,12 @@ window.QUIZ_DATA = [
       "A": "48",
       "B": "36",
       "C": "24",
-      "D": "50。\n选\n择\n题\n鉴\n定\n试\n题\n库\n图A-11\n\n35"
+      "D": "50。 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Lb5A4092_q.png",
     "a_img": "q2_answer_images/E_Lb5A4092_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A5093",
@@ -15696,14 +16848,15 @@ window.QUIZ_DATA = [
     "q": "如图A-14所示，如果S 闭合，则。",
     "a": "B",
     "o": {
-      "B": "电流表读\n数减少，电压表读数减少",
+      "B": "电流表读 数减少，电压表读数减少",
       "A": "电流表读数增大，电压表表读数减少",
-      "C": "电流表读数不变；电压表读数\n减少",
-      "D": "读数均不变。\nR₂\nD\n图A-14"
+      "C": "电流表读数不变；电压表读数 减少",
+      "D": "读数均不变。 R₂ D"
     },
     "q_img": "q2_question_images/E_Lb5A5093_q.png",
     "a_img": "q2_answer_images/E_Lb5A5093_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5A5094",
@@ -15712,12 +16865,13 @@ window.QUIZ_DATA = [
     "q": "如图A-15 所示，是四个用电流表和电压表测 量电流和电压的电路图，正确的是。",
     "a": "D",
     "o": {
-      "D": "图A-15",
+      "D": "",
       "B": "R₃"
     },
     "q_img": "q2_question_images/E_Lb5A5094_q.png",
     "a_img": "q2_answer_images/E_Lb5A5094_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb4A1095",
@@ -15726,11 +16880,13 @@ window.QUIZ_DATA = [
     "q": "如图A-16所示电路用电流表和电压表测量电 阻阻值的两种电路，当电阻R 的阻值较小时，较准确地测量电 鉴 定 试 题 库 选 择 题 图A-13 B R: C 36",
     "a": "A",
     "o": {
-      "D": "图A-16"
+      "A": "",
+      "D": ""
     },
     "q_img": "q2_question_images/E_Lb4A1095_q.png",
     "a_img": "q2_answer_images/E_Lb4A1095_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb4A1096",
@@ -15742,11 +16898,12 @@ window.QUIZ_DATA = [
       "A": "串联电阻",
       "B": "并联电阻",
       "C": "混联电阻",
-      "D": "串\n联电感。"
+      "D": "串 联电感。"
     },
     "q_img": "q2_question_images/E_Lb4A1096_q.png",
     "a_img": "q2_answer_images/E_Lb4A1096_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A1097",
@@ -15755,14 +16912,15 @@ window.QUIZ_DATA = [
     "q": "电功率的计算公式P=UI, 式中的U 表示用电 器两端的电压，I 为通过用电器的电流，此公式适用于。",
     "a": "D",
     "o": {
-      "D": "计算电风扇、电灯泡、蓄电池的\n充电的电功率。",
+      "D": "计算电风扇、电灯泡、蓄电池的 充电的电功率。",
       "A": "计算电风扇的电功率",
       "B": "计算电灯泡的电功率",
-      "C": "计\n算蓄电池充电的电功率"
+      "C": "计 算蓄电池充电的电功率"
     },
     "q_img": "q2_question_images/E_Lb4A1097_q.png",
     "a_img": "q2_answer_images/E_Lb4A1097_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A1098",
@@ -15778,7 +16936,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4A1098_q.png",
     "a_img": "q2_answer_images/E_Lb4A1098_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A1099",
@@ -15790,11 +16949,12 @@ window.QUIZ_DATA = [
       "D": "任何用电器。",
       "A": "纯电阻性的用电器",
       "B": "电动机",
-      "C": "电解、蓄电\n池充电"
+      "C": "电解、蓄电 池充电"
     },
     "q_img": "q2_question_images/E_Lb4A1099_q.png",
     "a_img": "q2_answer_images/E_Lb4A1099_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A1100",
@@ -15803,14 +16963,15 @@ window.QUIZ_DATA = [
     "q": "对导体电阻的大小，可用 来表示，对公 式的理解，有下列说法，说法正确的是。",
     "a": "C",
     "o": {
-      "C": "电阻R 与两端电压和通过的电流的大小无关，\n是\n个恒量",
+      "C": "电阻R 与两端电压和通过的电流的大小无关， 是 个恒量",
       "A": "电流越大，电阻越小",
-      "B": "电路。\n\n37\n比",
+      "B": "电路。 37 比",
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_Lb4A1100_q.png",
     "a_img": "q2_answer_images/E_Lb4A1100_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A1101",
@@ -15826,7 +16987,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4A1101_q.png",
     "a_img": "q2_answer_images/E_Lb4A1101_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A1102",
@@ -15838,11 +17000,12 @@ window.QUIZ_DATA = [
       "B": "并联电阻",
       "A": "串联电阻",
       "C": "混联电阻",
-      "D": "串\n联电容。"
+      "D": "串 联电容。"
     },
     "q_img": "q2_question_images/E_Lb4A1102_q.png",
     "a_img": "q2_answer_images/E_Lb4A1102_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A1103",
@@ -15858,7 +17021,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4A1103_q.png",
     "a_img": "q2_answer_images/E_Lb4A1103_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A2104",
@@ -15870,11 +17034,12 @@ window.QUIZ_DATA = [
       "A": "开路运行",
       "B": "短路运行",
       "C": "负载是容性",
-      "D": "负载\n是感性。"
+      "D": "负载 是感性。"
     },
     "q_img": "q2_question_images/E_Lb4A2104_q.png",
     "a_img": "q2_answer_images/E_Lb4A2104_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A2105",
@@ -15886,11 +17051,12 @@ window.QUIZ_DATA = [
       "B": "短路运行",
       "A": "开路运行",
       "C": "负载是容性",
-      "D": "负载\n是感性。"
+      "D": "负载 是感性。"
     },
     "q_img": "q2_question_images/E_Lb4A2105_q.png",
     "a_img": "q2_answer_images/E_Lb4A2105_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A2106",
@@ -15901,12 +17067,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "相电流",
       "B": "相电流的√3倍",
-      "C": "额定容量除以额\n定电压",
+      "C": "额定容量除以额 定电压",
       "D": "2 倍相电流。"
     },
     "q_img": "q2_question_images/E_Lb4A2106_q.png",
     "a_img": "q2_answer_images/E_Lb4A2106_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A2107",
@@ -15918,11 +17085,12 @@ window.QUIZ_DATA = [
       "B": "√3 倍的相电压",
       "A": "相电压",
       "C": "3 倍相电压",
-      "D": "2\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n38\n选\n择\n题\n鉴\n定\n试\n题\n库\n倍的相电压。"
+      "D": "2 鉴 定 试 题 库 选 择 题 38 选 择 题 鉴 定 试 题 库 倍的相电压。"
     },
     "q_img": "q2_question_images/E_Lb4A2107_q.png",
     "a_img": "q2_answer_images/E_Lb4A2107_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A3108",
@@ -15934,11 +17102,12 @@ window.QUIZ_DATA = [
       "A": "相电压",
       "B": "2 倍相电压",
       "C": "3 倍相电压",
-      "D": "√3\n.\n倍相电压。"
+      "D": "√3 . 倍相电压。"
     },
     "q_img": "q2_question_images/E_Lb4A3108_q.png",
     "a_img": "q2_answer_images/E_Lb4A3108_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A3109",
@@ -15947,14 +17116,15 @@ window.QUIZ_DATA = [
     "q": "对称三相电源三角形连接，线电流等于。",
     "a": "D",
     "o": {
-      "D": "√3\n倍相电流。",
+      "D": "√3 倍相电流。",
       "A": "相电流",
       "B": "3 倍相电流",
       "C": "2 倍相电流"
     },
     "q_img": "q2_question_images/E_Lb4A3109_q.png",
     "a_img": "q2_answer_images/E_Lb4A3109_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A3110",
@@ -15963,14 +17133,15 @@ window.QUIZ_DATA = [
     "q": "所谓对称三相负载就是。",
     "a": "D",
     "o": {
-      "D": "三相负载阻抗相等，且阻抗角\n相等。",
+      "D": "三相负载阻抗相等，且阻抗角 相等。",
       "A": "三个相电流有效值相等",
-      "B": "三个相电压相等且相位\n角互差120°",
-      "C": "三个相电流有效值相等，三个相的相电压\n相等且相位角互差120°"
+      "B": "三个相电压相等且相位 角互差120°",
+      "C": "三个相电流有效值相等，三个相的相电压 相等且相位角互差120°"
     },
     "q_img": "q2_question_images/E_Lb4A3110_q.png",
     "a_img": "q2_answer_images/E_Lb4A3110_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A3111",
@@ -15986,7 +17157,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4A3111_q.png",
     "a_img": "q2_answer_images/E_Lb4A3111_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4A4112",
@@ -16002,7 +17174,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4A4112_q.png",
     "a_img": "q2_answer_images/E_Lb4A4112_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb4A4113",
@@ -16011,14 +17184,15 @@ window.QUIZ_DATA = [
     "q": "两个电阻并联，R₁=2Ω, 通过的电流为5A, R₂=4Ω, 通过的电流应是A。",
     "a": "D",
     "o": {
-      "D": "2.5。\n\n39",
+      "D": "2.5。 39",
       "A": "8",
       "B": "3.5",
       "C": "10"
     },
     "q_img": "q2_question_images/E_Lb4A4113_q.png",
     "a_img": "q2_answer_images/E_Lb4A4113_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb3A1114",
@@ -16033,7 +17207,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A1114_q.png",
     "a_img": "q2_answer_images/E_Lb3A1114_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb3A1115",
@@ -16049,7 +17224,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A1115_q.png",
     "a_img": "q2_answer_images/E_Lb3A1115_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A1116",
@@ -16065,7 +17241,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A1116_q.png",
     "a_img": "q2_answer_images/E_Lb3A1116_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A2117",
@@ -16077,11 +17254,12 @@ window.QUIZ_DATA = [
       "C": "外加电压",
       "A": "导体长度",
       "B": "导体截面",
-      "D": "电\n阻率。"
+      "D": "电 阻率。"
     },
     "q_img": "q2_question_images/E_Lb3A2117_q.png",
     "a_img": "q2_answer_images/E_Lb3A2117_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A2118",
@@ -16097,7 +17275,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A2118_q.png",
     "a_img": "q2_answer_images/E_Lb3A2118_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A2119",
@@ -16113,7 +17292,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A2119_q.png",
     "a_img": "q2_answer_images/E_Lb3A2119_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A3120",
@@ -16124,12 +17304,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "两个阻值之和",
       "A": "两个阻值相乘积",
-      "C": "每个电\n阻的",
-      "D": "3 倍于一个电阻。\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n40"
+      "C": "每个电 阻的",
+      "D": "3 倍于一个电阻。 鉴 定 试 题 库 选 择 题 40"
     },
     "q_img": "q2_question_images/E_Lb3A3120_q.png",
     "a_img": "q2_answer_images/E_Lb3A3120_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A3121",
@@ -16145,7 +17326,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A3121_q.png",
     "a_img": "q2_answer_images/E_Lb3A3121_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A3122",
@@ -16161,7 +17343,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A3122_q.png",
     "a_img": "q2_answer_images/E_Lb3A3122_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A3123",
@@ -16177,7 +17360,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A3123_q.png",
     "a_img": "q2_answer_images/E_Lb3A3123_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A4124",
@@ -16192,7 +17376,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A4124_q.png",
     "a_img": "q2_answer_images/E_Lb3A4124_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb3A4125",
@@ -16208,7 +17393,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A4125_q.png",
     "a_img": "q2_answer_images/E_Lb3A4125_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A4126",
@@ -16220,11 +17406,12 @@ window.QUIZ_DATA = [
       "D": "电压、电流、电阻三者之间。",
       "A": "电压与电流成正比",
       "B": "电压与电流成反比",
-      "C": "电压\n与电阻成正比"
+      "C": "电压 与电阻成正比"
     },
     "q_img": "q2_question_images/E_Lb3A4126_q.png",
     "a_img": "q2_answer_images/E_Lb3A4126_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A4127",
@@ -16236,11 +17423,12 @@ window.QUIZ_DATA = [
       "C": "三个及以上",
       "A": "两个及以上",
       "B": "三个以上",
-      "D": "四\n个以上。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n41"
+      "D": "四 个以上。 选 择 题 鉴 定 试 题 库 41"
     },
     "q_img": "q2_question_images/E_Lb3A4127_q.png",
     "a_img": "q2_answer_images/E_Lb3A4127_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A5128",
@@ -16252,11 +17440,12 @@ window.QUIZ_DATA = [
       "A": "互相吸引",
       "B": "互相排斥",
       "C": "互不反应",
-      "D": "不\n一定。"
+      "D": "不 一定。"
     },
     "q_img": "q2_question_images/E_Lb3A5128_q.png",
     "a_img": "q2_answer_images/E_Lb3A5128_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A5129",
@@ -16272,7 +17461,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3A5129_q.png",
     "a_img": "q2_answer_images/E_Lb3A5129_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3A5130",
@@ -16283,12 +17473,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "各支路电流之和",
       "B": "各支路电流之积",
-      "C": "各支\n路电流倒数和",
+      "C": "各支 路电流倒数和",
       "D": "无法算。"
     },
     "q_img": "q2_question_images/E_Lb3A5130_q.png",
     "a_img": "q2_answer_images/E_Lb3A5130_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A1131",
@@ -16300,11 +17491,12 @@ window.QUIZ_DATA = [
       "A": "欧姆定律",
       "B": "基尔霍夫定律",
       "C": "电压定律",
-      "D": "电\n流定律。"
+      "D": "电 流定律。"
     },
     "q_img": "q2_question_images/E_Lb2A1131_q.png",
     "a_img": "q2_answer_images/E_Lb2A1131_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A1132",
@@ -16313,14 +17505,15 @@ window.QUIZ_DATA = [
     "q": "把几组参数相同的蓄电池并联接入电路中，它 们的。",
     "a": "B",
     "o": {
-      "B": "总电流等于各\n个蓄电池流出电流之和",
+      "B": "总电流等于各 个蓄电池流出电流之和",
       "A": "总电压等于各个蓄电池电压之和",
       "C": "总电阻等于各个蓄电池电阻之和",
       "D": "无法统计。"
     },
     "q_img": "q2_question_images/E_Lb2A1132_q.png",
     "a_img": "q2_answer_images/E_Lb2A1132_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A1133",
@@ -16332,11 +17525,12 @@ window.QUIZ_DATA = [
       "C": "电流方向",
       "A": "磁场强度",
       "B": "磁力线的方向",
-      "D": "电\n压方向。"
+      "D": "电 压方向。"
     },
     "q_img": "q2_question_images/E_Lb2A1133_q.png",
     "a_img": "q2_answer_images/E_Lb2A1133_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A2134",
@@ -16352,7 +17546,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2A2134_q.png",
     "a_img": "q2_answer_images/E_Lb2A2134_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A2135",
@@ -16364,11 +17559,12 @@ window.QUIZ_DATA = [
       "B": "时间长短",
       "A": "电流大小",
       "C": "电压大小",
-      "D": "不\n能确定。"
+      "D": "不 能确定。"
     },
     "q_img": "q2_question_images/E_Lb2A2135_q.png",
     "a_img": "q2_answer_images/E_Lb2A2135_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A2136",
@@ -16377,14 +17573,15 @@ window.QUIZ_DATA = [
     "q": "一个长方形的永久磁铁，若从中间部位锯开 后，则。",
     "a": "B",
     "o": {
-      "B": "成为两个独立的磁\n铁",
+      "B": "成为两个独立的磁 铁",
       "A": "一半是N 极、一半是S 极",
       "C": "两极性消失",
       "D": "不能确定。"
     },
     "q_img": "q2_question_images/E_Lb2A2136_q.png",
     "a_img": "q2_answer_images/E_Lb2A2136_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A3137",
@@ -16400,7 +17597,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2A3137_q.png",
     "a_img": "q2_answer_images/E_Lb2A3137_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A3138",
@@ -16412,11 +17610,12 @@ window.QUIZ_DATA = [
       "B": "右手定则",
       "A": "左手定律",
       "C": "右手螺旋定则",
-      "D": "无\n法制定。"
+      "D": "无 法制定。"
     },
     "q_img": "q2_question_images/E_Lb2A3138_q.png",
     "a_img": "q2_answer_images/E_Lb2A3138_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A3139",
@@ -16432,7 +17631,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2A3139_q.png",
     "a_img": "q2_answer_images/E_Lb2A3139_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A4140",
@@ -16444,11 +17644,12 @@ window.QUIZ_DATA = [
       "B": "非线性",
       "A": "线性",
       "C": "开始是线性",
-      "D": "开始是\n非线性。"
+      "D": "开始是 非线性。"
     },
     "q_img": "q2_question_images/E_Lb2A4140_q.png",
     "a_img": "q2_answer_images/E_Lb2A4140_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A4141",
@@ -16464,7 +17665,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2A4141_q.png",
     "a_img": "q2_answer_images/E_Lb2A4141_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb2A4142",
@@ -16473,12 +17675,13 @@ window.QUIZ_DATA = [
     "q": "二极管的直流电阻R 与外加直流电压U、流 过二极管电流I 的关系是",
     "a": "A",
     "o": {
-      "A": "。",
+      "A": "",
       "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_Lb2A4142_q.png",
     "a_img": "q2_answer_images/E_Lb2A4142_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb2A5143",
@@ -16494,7 +17697,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2A5143_q.png",
     "a_img": "q2_answer_images/E_Lb2A5143_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A5144",
@@ -16510,7 +17714,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2A5144_q.png",
     "a_img": "q2_answer_images/E_Lb2A5144_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2A5145",
@@ -16526,7 +17731,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2A5145_q.png",
     "a_img": "q2_answer_images/E_Lb2A5145_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb1A1146",
@@ -16542,7 +17748,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A1146_q.png",
     "a_img": "q2_answer_images/E_Lb1A1146_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A1147",
@@ -16558,7 +17765,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A1147_q.png",
     "a_img": "q2_answer_images/E_Lb1A1147_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A1148",
@@ -16574,7 +17782,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A1148_q.png",
     "a_img": "q2_answer_images/E_Lb1A1148_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A2149",
@@ -16590,7 +17799,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A2149_q.png",
     "a_img": "q2_answer_images/E_Lb1A2149_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A2150",
@@ -16599,11 +17809,12 @@ window.QUIZ_DATA = [
     "q": "交流放大器中，放大电路的电压放大倍数K 表示的是输出正弦交流电压相量U、有效值U₀、瞬时值u₀ 与 输入的正弦交流电压相量U₁、有效值U₁、瞬时值u₁ 的关系是 。",
     "a": "B",
     "o": {
-      "B": "。"
+      "B": ""
     },
     "q_img": "q2_question_images/E_Lb1A2150_q.png",
     "a_img": "q2_answer_images/E_Lb1A2150_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb1A2151",
@@ -16619,7 +17830,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A2151_q.png",
     "a_img": "q2_answer_images/E_Lb1A2151_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A2152",
@@ -16631,11 +17843,12 @@ window.QUIZ_DATA = [
       "B": "铜比铝好",
       "A": "铝比铜好",
       "C": "铜铝一样",
-      "D": "不\n一定。"
+      "D": "不 一定。"
     },
     "q_img": "q2_question_images/E_Lb1A2152_q.png",
     "a_img": "q2_answer_images/E_Lb1A2152_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A3153",
@@ -16651,7 +17864,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A3153_q.png",
     "a_img": "q2_answer_images/E_Lb1A3153_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A4154",
@@ -16667,7 +17881,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A4154_q.png",
     "a_img": "q2_answer_images/E_Lb1A4154_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A4155",
@@ -16682,7 +17897,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A4155_q.png",
     "a_img": "q2_answer_images/E_Lb1A4155_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb1A4156",
@@ -16698,7 +17914,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A4156_q.png",
     "a_img": "q2_answer_images/E_Lb1A4156_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A5157",
@@ -16714,7 +17931,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A5157_q.png",
     "a_img": "q2_answer_images/E_Lb1A5157_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lb1A5158",
@@ -16730,7 +17948,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A5158_q.png",
     "a_img": "q2_answer_images/E_Lb1A5158_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A5159",
@@ -16746,7 +17965,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1A5159_q.png",
     "a_img": "q2_answer_images/E_Lb1A5159_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1A5160",
@@ -16755,11 +17975,12 @@ window.QUIZ_DATA = [
     "q": "把额定电压为220V 的灯泡接在110V 的电源 上，灯泡的功率是原来的。",
     "a": "C",
     "o": {
-      "C": "。"
+      "C": ""
     },
     "q_img": "q2_question_images/E_Lb1A5160_q.png",
     "a_img": "q2_answer_images/E_Lb1A5160_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lc4A2161",
@@ -16771,11 +17992,12 @@ window.QUIZ_DATA = [
       "B": "减少",
       "A": "增大",
       "C": "不变",
-      "D": "无法确定。\n图A-17\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n46\n鉴\n计\n定\n试\n题\n库\n图A-18"
+      "D": "无法确定。"
     },
     "q_img": "q2_question_images/E_Lc4A2161_q.png",
     "a_img": "q2_answer_images/E_Lc4A2161_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4A2162",
@@ -16784,14 +18006,15 @@ window.QUIZ_DATA = [
     "q": "如图A-18 所示三 极管，用试验方法测得三极各端电 压分别为1端对地-6.2V,2 端对地 -6V,3 端对地-9V,则发射极为。",
     "a": "B",
     "o": {
-      "B": "2\n端",
-      "A": "1\n端",
-      "C": "3\n端",
+      "B": "2 端",
+      "A": "1 端",
+      "C": "3 端",
       "D": "不能定。"
     },
     "q_img": "q2_question_images/E_Lc4A2162_q.png",
     "a_img": "q2_answer_images/E_Lc4A2162_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4A2163",
@@ -16803,11 +18026,12 @@ window.QUIZ_DATA = [
       "A": "上部温度",
       "B": "中部温度",
       "C": "下部温度",
-      "D": "匝\n间温度。"
+      "D": "匝 间温度。"
     },
     "q_img": "q2_question_images/E_Lc4A2163_q.png",
     "a_img": "q2_answer_images/E_Lc4A2163_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4A2164",
@@ -16819,11 +18043,12 @@ window.QUIZ_DATA = [
       "B": "Ic∞=(β+1)Ico",
       "A": "Ie=Lcbo",
       "C": "Lc=βIcdo",
-      "D": "Iceo=\n(β-1)Icbo。"
+      "D": "Iceo= (β-1)Icbo。"
     },
     "q_img": "q2_question_images/E_Lc4A2164_q.png",
     "a_img": "q2_answer_images/E_Lc4A2164_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4A3165",
@@ -16835,11 +18060,12 @@ window.QUIZ_DATA = [
       "C": "共集电极电路",
       "A": "共基极电路",
       "B": "共射极电路",
-      "D": "其他形式。\n图A-19"
+      "D": "其他形式。"
     },
     "q_img": "q2_question_images/E_Lc4A3165_q.png",
     "a_img": "q2_answer_images/E_Lc4A3165_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4A3166",
@@ -16848,13 +18074,14 @@ window.QUIZ_DATA = [
     "q": "三极管集电极的作用是。",
     "a": "C",
     "o": {
-      "C": "收集载\n\n47",
+      "C": "收集载 47",
       "A": "发射载流子",
       "B": "输送和控制载流子"
     },
     "q_img": "q2_question_images/E_Lc4A3166_q.png",
     "a_img": "q2_answer_images/E_Lc4A3166_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lc4A3167",
@@ -16865,12 +18092,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "基极与发射极之间",
       "B": "基极与集电极之间",
-      "C": "发射\n极与集电极之间",
+      "C": "发射 极与集电极之间",
       "D": "其他连接方式。"
     },
     "q_img": "q2_question_images/E_Lc4A3167_q.png",
     "a_img": "q2_answer_images/E_Lc4A3167_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3A2168",
@@ -16881,12 +18109,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "V1 导通，V2截止",
       "B": "V2 导通，V1截止",
-      "C": "V1、\nV2都导通",
-      "D": "V1、V2 都截止。\n图A-20"
+      "C": "V1、 V2都导通",
+      "D": "V1、V2 都截止。"
     },
     "q_img": "q2_question_images/E_Lc3A2168_q.png",
     "a_img": "q2_answer_images/E_Lc3A2168_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3A2169",
@@ -16898,11 +18127,12 @@ window.QUIZ_DATA = [
       "A": "Ie=Lb+Ic",
       "B": "Ic=Ie+Lb",
       "C": "Ib=1c+Ie",
-      "D": "I\nb=Ic-Ie"
+      "D": "I b=Ic-Ie"
     },
     "q_img": "q2_question_images/E_Lc3A2169_q.png",
     "a_img": "q2_answer_images/E_Lc3A2169_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Le3A3170",
@@ -16918,7 +18148,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Le3A3170_q.png",
     "a_img": "q2_answer_images/E_Le3A3170_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Le3A3171",
@@ -16930,11 +18161,12 @@ window.QUIZ_DATA = [
       "A": "烧坏",
       "B": "不工作",
       "C": "工作正常",
-      "D": "不一定。\n\n48\n选\n择\n题\n鉴\n定\n试\n题\n库"
+      "D": "不一定。 48 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Le3A3171_q.png",
     "a_img": "q2_answer_images/E_Le3A3171_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3A3172",
@@ -16946,11 +18178,12 @@ window.QUIZ_DATA = [
       "B": "R×100 挡",
       "A": "R×1 挡",
       "C": "R×100k 挡",
-      "D": "R×\n10挡。"
+      "D": "R× 10挡。"
     },
     "q_img": "q2_question_images/E_Lc3A3172_q.png",
     "a_img": "q2_answer_images/E_Lc3A3172_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3A3173",
@@ -16961,12 +18194,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "正电荷和负电荷构成",
       "A": "电子和空穴构成",
-      "C": "施主\n离子",
+      "C": "施主 离子",
       "D": "施主杂质原子和受主杂质原子构成。"
     },
     "q_img": "q2_question_images/E_Lc3A3173_q.png",
     "a_img": "q2_answer_images/E_Lc3A3173_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3A4174",
@@ -16978,11 +18212,12 @@ window.QUIZ_DATA = [
       "A": "增加",
       "B": "减少",
       "C": "相等",
-      "D": "不变。\n图A-21"
+      "D": "不变。"
     },
     "q_img": "q2_question_images/E_Lc3A4174_q.png",
     "a_img": "q2_answer_images/E_Lc3A4174_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3A4175",
@@ -16992,13 +18227,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "发射区杂质浓度大于基区杂质浓度",
-      "B": "发射区杂质\n浓度小于基区杂质浓度",
-      "C": "发射区杂质浓度等于基区杂质浓\n度",
+      "B": "发射区杂质 浓度小于基区杂质浓度",
+      "C": "发射区杂质浓度等于基区杂质浓 度",
       "D": "发射区杂质浓度大于集电区杂质浓度。"
     },
     "q_img": "q2_question_images/E_Lc3A4175_q.png",
     "a_img": "q2_answer_images/E_Lc3A4175_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3A4176",
@@ -17008,13 +18244,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "价电子填补空穴所形成的",
-      "B": "自由电子填补空穴所\n形成的",
+      "B": "自由电子填补空穴所 形成的",
       "C": "自由电子定价运动所形成的",
-      "D": "价电子的定向\n运动所形成的。"
+      "D": "价电子的定向 运动所形成的。"
     },
     "q_img": "q2_question_images/E_Lc3A4176_q.png",
     "a_img": "q2_answer_images/E_Lc3A4176_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3A5177",
@@ -17023,11 +18260,12 @@ window.QUIZ_DATA = [
     "q": "某一静电场内的电力线如图A-22 所示，",
     "a": "A",
     "o": {
-      "A": "鉴\n定\n试\n题\n库\n选\n择\n题"
+      "A": "鉴 定 试 题 库 选 择 题"
     },
     "q_img": "q2_question_images/E_Lc3A5177_q.png",
     "a_img": "q2_answer_images/E_Lc3A5177_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Lc3A5178",
@@ -17043,7 +18281,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc3A5178_q.png",
     "a_img": "q2_answer_images/E_Lc3A5178_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A1179",
@@ -17053,13 +18292,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "二次电压超前一次电流90°",
-      "B": "二次电压与一次电\n流接近0°",
+      "B": "二次电压与一次电 流接近0°",
       "C": "二次电压滞后一次电流90°",
-      "D": "二次电压\n滞后一次电流30°。"
+      "D": "二次电压 滞后一次电流30°。"
     },
     "q_img": "q2_question_images/E_Jd4A1179_q.png",
     "a_img": "q2_answer_images/E_Jd4A1179_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5A4180",
@@ -17075,7 +18315,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5A4180_q.png",
     "a_img": "q2_answer_images/E_Jd5A4180_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5A4181",
@@ -17087,11 +18328,12 @@ window.QUIZ_DATA = [
       "A": "双臂桥",
       "B": "毫伏表及电流表",
       "C": "单臂电桥",
-      "D": "万\n用表×1Q挡。"
+      "D": "万 用表×1Q挡。"
     },
     "q_img": "q2_question_images/E_Jd5A4181_q.png",
     "a_img": "q2_answer_images/E_Jd5A4181_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5A4182",
@@ -17103,11 +18345,12 @@ window.QUIZ_DATA = [
       "B": "b",
       "A": "a",
       "C": "c",
-      "D": "d。\n图A-22\n\n50"
+      "D": "d。"
     },
     "q_img": "q2_question_images/E_Jd5A4182_q.png",
     "a_img": "q2_answer_images/E_Jd5A4182_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jd5A5184",
@@ -17123,7 +18366,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5A5184_q.png",
     "a_img": "q2_answer_images/E_Jd5A5184_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5A5185",
@@ -17138,7 +18382,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5A5185_q.png",
     "a_img": "q2_answer_images/E_Jd5A5185_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jd5A5186",
@@ -17147,14 +18392,15 @@ window.QUIZ_DATA = [
     "q": "三相绕线式交流电动机通过 方法，可使 电动机反转。",
     "a": "B",
     "o": {
-      "B": "调换静子任意两相电源\n线",
+      "B": "调换静子任意两相电源 线",
       "A": "调换转子任意两根引线",
       "C": "转子引线、静子电源线全部进行调换",
       "D": "不动。"
     },
     "q_img": "q2_question_images/E_Jd5A5186_q.png",
     "a_img": "q2_answer_images/E_Jd5A5186_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A1187",
@@ -17170,7 +18416,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A1187_q.png",
     "a_img": "q2_answer_images/E_Jd4A1187_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A1188",
@@ -17186,7 +18433,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A1188_q.png",
     "a_img": "q2_answer_images/E_Jd4A1188_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A2189",
@@ -17202,7 +18450,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A2189_q.png",
     "a_img": "q2_answer_images/E_Jd4A2189_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A2190",
@@ -17218,7 +18467,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A2190_q.png",
     "a_img": "q2_answer_images/E_Jd4A2190_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5A4183",
@@ -17229,12 +18479,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "低功率因数",
       "A": "高功率因数",
-      "C": "功率因数是1;\n选\n择\n题\n鉴\n定\n试\n题\n库",
-      "D": "功率因数<1。\n\n51"
+      "C": "功率因数是1; 选 择 题 鉴 定 试 题 库",
+      "D": "功率因数<1。 51"
     },
     "q_img": "q2_question_images/E_Jd5A4183_q.png",
     "a_img": "q2_answer_images/E_Jd5A4183_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A3192",
@@ -17245,12 +18496,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "电源一相断开",
       "B": "电源电压过低",
-      "C": "定子绕组\n有短路",
+      "C": "定子绕组 有短路",
       "D": "原因不定。"
     },
     "q_img": "q2_question_images/E_Jd4A3192_q.png",
     "a_img": "q2_answer_images/E_Jd4A3192_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A3193",
@@ -17259,14 +18511,15 @@ window.QUIZ_DATA = [
     "q": "大容量的异步电动机。",
     "a": "B",
     "o": {
-      "B": "在电动机的额定容量不\n超过电源变压器额定容量的20%～30%的条件下，可以直接启\n动",
+      "B": "在电动机的额定容量不 超过电源变压器额定容量的20%～30%的条件下，可以直接启 动",
       "A": "可以无条件的直接启动",
       "C": "据运行现场的具体情况，确定可以直接启动",
-      "D": "不\n一定。"
+      "D": "不 一定。"
     },
     "q_img": "q2_question_images/E_Jd4A3193_q.png",
     "a_img": "q2_answer_images/E_Jd4A3193_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A3194",
@@ -17276,13 +18529,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "为了改善电动机的启动特性",
-      "B": "为了调整电动机的\n速度",
+      "B": "为了调整电动机的 速度",
       "C": "为了减少运行电流",
       "D": "为了减少启动电流。"
     },
     "q_img": "q2_question_images/E_Jd4A3194_q.png",
     "a_img": "q2_answer_images/E_Jd4A3194_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A4195",
@@ -17291,14 +18545,15 @@ window.QUIZ_DATA = [
     "q": "启动多台异步电动机时，可以。",
     "a": "C",
     "o": {
-      "C": "由\n大容量到小容量逐个启动",
+      "C": "由 大容量到小容量逐个启动",
       "A": "一起启动",
       "B": "由小容量到大容量；逐台启动",
       "D": "一齐启动。"
     },
     "q_img": "q2_question_images/E_Jd4A4195_q.png",
     "a_img": "q2_answer_images/E_Jd4A4195_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A4196",
@@ -17314,7 +18569,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A4196_q.png",
     "a_img": "q2_answer_images/E_Jd4A4196_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jd4A4197",
@@ -17329,7 +18585,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A4197_q.png",
     "a_img": "q2_answer_images/E_Jd4A4197_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jd4A2191",
@@ -17345,7 +18602,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A2191_q.png",
     "a_img": "q2_answer_images/E_Jd4A2191_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A5198",
@@ -17354,14 +18612,15 @@ window.QUIZ_DATA = [
     "q": "多台电动机的公用保险丝的额定电流，是按 。",
     "a": "C",
     "o": {
-      "C": "功率最大的一台电动机额定电流的1.5～2.5倍，加上其他\n同时工作的电动机额定电流之和来确定",
+      "C": "功率最大的一台电动机额定电流的1.5～2.5倍，加上其他 同时工作的电动机额定电流之和来确定",
       "A": "其中最大额定电流的3倍",
       "B": "各台额定电流之和",
-      "D": "最大电流的1.5~\n2.5倍。"
+      "D": "最大电流的1.5~ 2.5倍。"
     },
     "q_img": "q2_question_images/E_Jd4A5198_q.png",
     "a_img": "q2_answer_images/E_Jd4A5198_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A5199",
@@ -17377,7 +18636,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A5199_q.png",
     "a_img": "q2_answer_images/E_Jd4A5199_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4A5200",
@@ -17393,7 +18653,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4A5200_q.png",
     "a_img": "q2_answer_images/E_Jd4A5200_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A1201",
@@ -17402,14 +18663,15 @@ window.QUIZ_DATA = [
     "q": "零序电流，只有发生 才会出现。",
     "a": "C",
     "o": {
-      "C": "接地故障或非全相运\n行时",
+      "C": "接地故障或非全相运 行时",
       "A": "相间故障",
       "B": "振荡时",
       "D": "短路。"
     },
     "q_img": "q2_question_images/E_Jd3A1201_q.png",
     "a_img": "q2_answer_images/E_Jd3A1201_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A1202",
@@ -17425,7 +18687,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A1202_q.png",
     "a_img": "q2_answer_images/E_Jd3A1202_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A1203",
@@ -17441,7 +18704,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A1203_q.png",
     "a_img": "q2_answer_images/E_Jd3A1203_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A2204",
@@ -17457,7 +18721,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A2204_q.png",
     "a_img": "q2_answer_images/E_Jd3A2204_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A2205",
@@ -17473,7 +18738,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A2205_q.png",
     "a_img": "q2_answer_images/E_Jd3A2205_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jd3A2206",
@@ -17489,7 +18755,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A2206_q.png",
     "a_img": "q2_answer_images/E_Jd3A2206_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A3207",
@@ -17505,7 +18772,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A3207_q.png",
     "a_img": "q2_answer_images/E_Jd3A3207_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A3208",
@@ -17521,7 +18789,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A3208_q.png",
     "a_img": "q2_answer_images/E_Jd3A3208_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A3209",
@@ -17537,7 +18806,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A3209_q.png",
     "a_img": "q2_answer_images/E_Jd3A3209_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A4210",
@@ -17553,7 +18823,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A4210_q.png",
     "a_img": "q2_answer_images/E_Jd3A4210_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A4211",
@@ -17565,11 +18836,12 @@ window.QUIZ_DATA = [
       "C": "温度过高",
       "A": "电压过高",
       "B": "电流过大",
-      "D": "温\n度不变。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n54\n选\n择\n题\n鉴\n定\n试\n题\n库"
+      "D": "温 度不变。 选 择 题 鉴 定 试 题 库 54 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Jd3A4211_q.png",
     "a_img": "q2_answer_images/E_Jd3A4211_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A4212",
@@ -17580,12 +18852,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "变压器升压",
       "B": "增加线路截面减少电阻",
-      "C": "提\n高功率因数减少无功",
+      "C": "提 高功率因数减少无功",
       "D": "增加有功。"
     },
     "q_img": "q2_question_images/E_Jd3A4212_q.png",
     "a_img": "q2_answer_images/E_Jd3A4212_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A5213",
@@ -17601,7 +18874,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A5213_q.png",
     "a_img": "q2_answer_images/E_Jd3A5213_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3A5214",
@@ -17617,7 +18891,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3A5214_q.png",
     "a_img": "q2_answer_images/E_Jd3A5214_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A1215",
@@ -17633,7 +18908,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A1215_q.png",
     "a_img": "q2_answer_images/E_Jd2A1215_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A1216",
@@ -17649,7 +18925,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A1216_q.png",
     "a_img": "q2_answer_images/E_Jd2A1216_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A2217",
@@ -17665,7 +18942,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A2217_q.png",
     "a_img": "q2_answer_images/E_Jd2A2217_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A2218",
@@ -17681,7 +18959,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A2218_q.png",
     "a_img": "q2_answer_images/E_Jd2A2218_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A3219",
@@ -17693,11 +18972,12 @@ window.QUIZ_DATA = [
       "A": "影响小",
       "B": "影响大",
       "C": "无影响",
-      "D": "有影响。\n\n55"
+      "D": "有影响。 55"
     },
     "q_img": "q2_question_images/E_Jd2A3219_q.png",
     "a_img": "q2_answer_images/E_Jd2A3219_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A3220",
@@ -17713,7 +18993,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A3220_q.png",
     "a_img": "q2_answer_images/E_Jd2A3220_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A3221",
@@ -17729,7 +19010,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A3221_q.png",
     "a_img": "q2_answer_images/E_Jd2A3221_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A4222",
@@ -17745,7 +19027,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A4222_q.png",
     "a_img": "q2_answer_images/E_Jd2A4222_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A4223",
@@ -17761,7 +19044,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A4223_q.png",
     "a_img": "q2_answer_images/E_Jd2A4223_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A4224",
@@ -17777,7 +19061,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A4224_q.png",
     "a_img": "q2_answer_images/E_Jd2A4224_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A5225",
@@ -17793,7 +19078,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2A5225_q.png",
     "a_img": "q2_answer_images/E_Jd2A5225_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A5226",
@@ -17804,12 +19090,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "伸胀性小",
       "A": "热稳定性差",
-      "C": "击穿电压低于闪\n络电压",
-      "D": "不变。\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n56"
+      "C": "击穿电压低于闪 络电压",
+      "D": "不变。 鉴 定 试 题 库 选 择 题 56"
     },
     "q_img": "q2_question_images/E_Jd2A5226_q.png",
     "a_img": "q2_answer_images/E_Jd2A5226_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2A5227",
@@ -17821,11 +19108,12 @@ window.QUIZ_DATA = [
       "A": "较短",
       "B": "较长",
       "C": "时长时短",
-      "D": "不变。\ny"
+      "D": "不变。 y"
     },
     "q_img": "q2_question_images/E_Jd2A5227_q.png",
     "a_img": "q2_answer_images/E_Jd2A5227_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A1228",
@@ -17841,7 +19129,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A1228_q.png",
     "a_img": "q2_answer_images/E_Jd1A1228_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A1229",
@@ -17857,7 +19146,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A1229_q.png",
     "a_img": "q2_answer_images/E_Jd1A1229_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A1230",
@@ -17873,7 +19163,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A1230_q.png",
     "a_img": "q2_answer_images/E_Jd1A1230_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A2231",
@@ -17889,7 +19180,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A2231_q.png",
     "a_img": "q2_answer_images/E_Jd1A2231_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A2232",
@@ -17905,7 +19197,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A2232_q.png",
     "a_img": "q2_answer_images/E_Jd1A2232_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A2233",
@@ -17921,7 +19214,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A2233_q.png",
     "a_img": "q2_answer_images/E_Jd1A2233_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A3234",
@@ -17937,7 +19231,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A3234_q.png",
     "a_img": "q2_answer_images/E_Jd1A3234_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A3235",
@@ -17953,7 +19248,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A3235_q.png",
     "a_img": "q2_answer_images/E_Jd1A3235_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A3236",
@@ -17969,7 +19265,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A3236_q.png",
     "a_img": "q2_answer_images/E_Jd1A3236_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A4237",
@@ -17981,11 +19278,12 @@ window.QUIZ_DATA = [
       "C": "反馈元件",
       "A": "保护用元件",
       "B": "测量用元件",
-      "D": "正\n反馈元件。"
+      "D": "正 反馈元件。"
     },
     "q_img": "q2_question_images/E_Jd1A4237_q.png",
     "a_img": "q2_answer_images/E_Jd1A4237_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A4238",
@@ -18001,7 +19299,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A4238_q.png",
     "a_img": "q2_answer_images/E_Jd1A4238_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A4239",
@@ -18017,7 +19316,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A4239_q.png",
     "a_img": "q2_answer_images/E_Jd1A4239_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A5240",
@@ -18033,7 +19333,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A5240_q.png",
     "a_img": "q2_answer_images/E_Jd1A5240_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A5241",
@@ -18043,13 +19344,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "接地故障点零序电压最高",
-      "B": "变压器中性点接地处零\n序电压最高",
+      "B": "变压器中性点接地处零 序电压最高",
       "C": "接地电阻大的地方零序电压最高",
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Jd1A5241_q.png",
     "a_img": "q2_answer_images/E_Jd1A5241_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A5242",
@@ -18058,14 +19360,15 @@ window.QUIZ_DATA = [
     "q": "发生接地故障时人体距离接地体越近，跨步电 压越高，越远越低，一般情况下距离接地体m 跨步电压 视为零。",
     "a": "B",
     "o": {
-      "B": "20\n以外",
+      "B": "20 以外",
       "A": "10 以内",
       "C": "30",
       "D": "40。"
     },
     "q_img": "q2_question_images/E_Jd1A5242_q.png",
     "a_img": "q2_answer_images/E_Jd1A5242_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A1243",
@@ -18081,7 +19384,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A1243_q.png",
     "a_img": "q2_answer_images/E_Je5A1243_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A1244",
@@ -18090,14 +19394,15 @@ window.QUIZ_DATA = [
     "q": "求解直流复杂电路中某一支路的电压、电流或 功率时，采用 计算较为方便。",
     "a": "D",
     "o": {
-      "D": "戴\n维南定律。",
+      "D": "戴 维南定律。",
       "A": "支路电流法",
       "B": "节点电压法",
       "C": "回路电流法"
     },
     "q_img": "q2_question_images/E_Je5A1244_q.png",
     "a_img": "q2_answer_images/E_Je5A1244_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A1245",
@@ -18113,7 +19418,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A1245_q.png",
     "a_img": "q2_answer_images/E_Je5A1245_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A2246",
@@ -18129,7 +19435,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A2246_q.png",
     "a_img": "q2_answer_images/E_Je5A2246_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A2247",
@@ -18145,7 +19452,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A2247_q.png",
     "a_img": "q2_answer_images/E_Je5A2247_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A2248",
@@ -18161,7 +19469,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A2248_q.png",
     "a_img": "q2_answer_images/E_Je5A2248_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A3249",
@@ -18173,11 +19482,12 @@ window.QUIZ_DATA = [
       "A": "不变",
       "B": "均降低",
       "C": "一个低两个高",
-      "D": "无规\n律变化。"
+      "D": "无规 律变化。"
     },
     "q_img": "q2_question_images/E_Je5A3249_q.png",
     "a_img": "q2_answer_images/E_Je5A3249_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A3250",
@@ -18193,7 +19503,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A3250_q.png",
     "a_img": "q2_answer_images/E_Je5A3250_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A3251",
@@ -18209,7 +19520,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A3251_q.png",
     "a_img": "q2_answer_images/E_Je5A3251_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A4252",
@@ -18225,7 +19537,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A4252_q.png",
     "a_img": "q2_answer_images/E_Je5A4252_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A4253",
@@ -18237,11 +19550,12 @@ window.QUIZ_DATA = [
       "C": "旋转磁场",
       "A": "恒定磁场",
       "B": "脉动磁场",
-      "D": "永\n动磁场。"
+      "D": "永 动磁场。"
     },
     "q_img": "q2_question_images/E_Je5A4253_q.png",
     "a_img": "q2_answer_images/E_Je5A4253_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A4254",
@@ -18253,11 +19567,12 @@ window.QUIZ_DATA = [
       "B": "三次谐波",
       "A": "偶次谐波",
       "C": "五次谐波",
-      "D": "高\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n60\n次谐波。"
+      "D": "高 选 择 题 鉴 定 试 题 库 60 次谐波。"
     },
     "q_img": "q2_question_images/E_Je5A4254_q.png",
     "a_img": "q2_answer_images/E_Je5A4254_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A5255",
@@ -18273,7 +19588,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A5255_q.png",
     "a_img": "q2_answer_images/E_Je5A5255_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Je5A5256",
@@ -18282,14 +19598,15 @@ window.QUIZ_DATA = [
     "q": "发电机在带负荷运行时，发电机与负载之间只 存在着能量。",
     "a": "C",
     "o": {
-      "C": "消耗过程和交换过\n程",
+      "C": "消耗过程和交换过 程",
       "A": "消耗过程",
       "B": "交换过程",
       "D": "不一定。"
     },
     "q_img": "q2_question_images/E_Je5A5256_q.png",
     "a_img": "q2_answer_images/E_Je5A5256_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5A5257",
@@ -18305,7 +19622,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5A5257_q.png",
     "a_img": "q2_answer_images/E_Je5A5257_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A1258",
@@ -18317,11 +19635,12 @@ window.QUIZ_DATA = [
       "A": "感性的",
       "B": "容性的",
       "C": "感性和容性的",
-      "D": "都\n不是。"
+      "D": "都 不是。"
     },
     "q_img": "q2_question_images/E_Je4A1258_q.png",
     "a_img": "q2_answer_images/E_Je4A1258_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A1259",
@@ -18337,7 +19656,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A1259_q.png",
     "a_img": "q2_answer_images/E_Je4A1259_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A1260",
@@ -18346,14 +19666,15 @@ window.QUIZ_DATA = [
     "q": "发电机定子绕组的测温元件，通常都埋设在 。",
     "a": "C",
     "o": {
-      "C": "上、\n下层线棒之间",
+      "C": "上、 下层线棒之间",
       "A": "上层线棒槽口处",
       "B": "下层线棒与铁芯之间",
       "D": "下层线棒槽口处。"
     },
     "q_img": "q2_question_images/E_Je4A1260_q.png",
     "a_img": "q2_answer_images/E_Je4A1260_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A2261",
@@ -18369,7 +19690,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A2261_q.png",
     "a_img": "q2_answer_images/E_Je4A2261_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A2262",
@@ -18385,7 +19707,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A2262_q.png",
     "a_img": "q2_answer_images/E_Je4A2262_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A2263",
@@ -18394,14 +19717,15 @@ window.QUIZ_DATA = [
     "q": "发电机带部分有功负荷运行，转子磁极轴线与 定子磁极轴线的相互位置是。",
     "a": "C",
     "o": {
-      "C": "限制调压\n环流",
+      "C": "限制调压 环流",
       "A": "限制负载电流",
       "B": "限制激磁电流",
       "D": "不限电流。"
     },
     "q_img": "q2_question_images/E_Je4A2263_q.png",
     "a_img": "q2_answer_images/E_Je4A2263_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A3264",
@@ -18417,7 +19741,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A3264_q.png",
     "a_img": "q2_answer_images/E_Je4A3264_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A3265",
@@ -18433,7 +19758,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A3265_q.png",
     "a_img": "q2_answer_images/E_Je4A3265_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A3266",
@@ -18449,7 +19775,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A3266_q.png",
     "a_img": "q2_answer_images/E_Je4A3266_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A4267",
@@ -18461,11 +19788,12 @@ window.QUIZ_DATA = [
       "C": "相量差",
       "A": "代数和",
       "B": "相量和",
-      "D": "无关。\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n62"
+      "D": "无关。 鉴 定 试 题 库 选 择 题 62"
     },
     "q_img": "q2_question_images/E_Je4A4267_q.png",
     "a_img": "q2_answer_images/E_Je4A4267_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A4268",
@@ -18481,7 +19809,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A4268_q.png",
     "a_img": "q2_answer_images/E_Je4A4268_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Je4A4269",
@@ -18497,7 +19826,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A4269_q.png",
     "a_img": "q2_answer_images/E_Je4A4269_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A5270",
@@ -18513,7 +19843,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A5270_q.png",
     "a_img": "q2_answer_images/E_Je4A5270_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A5271",
@@ -18529,7 +19860,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A5271_q.png",
     "a_img": "q2_answer_images/E_Je4A5271_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A5272",
@@ -18545,7 +19877,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A5272_q.png",
     "a_img": "q2_answer_images/E_Je4A5272_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4A5273",
@@ -18561,7 +19894,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4A5273_q.png",
     "a_img": "q2_answer_images/E_Je4A5273_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A1274",
@@ -18573,11 +19907,12 @@ window.QUIZ_DATA = [
       "C": "铁损和铜损",
       "A": "电流",
       "B": "电压",
-      "D": "电感。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n63"
+      "D": "电感。 选 择 题 鉴 定 试 题 库 63"
     },
     "q_img": "q2_question_images/E_Je3A1274_q.png",
     "a_img": "q2_answer_images/E_Je3A1274_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A1275",
@@ -18586,14 +19921,15 @@ window.QUIZ_DATA = [
     "q": "变压器一次侧为额定电压时，其二次侧电压。",
     "a": "B",
     "o": {
-      "B": "随着负载电流的大小和功率因数\n的高低而变化",
+      "B": "随着负载电流的大小和功率因数 的高低而变化",
       "A": "必然是额定值",
       "C": "随着所带负载的性质而变化",
-      "D": "无变化\n规律。"
+      "D": "无变化 规律。"
     },
     "q_img": "q2_question_images/E_Je3A1275_q.png",
     "a_img": "q2_answer_images/E_Je3A1275_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A1276",
@@ -18605,11 +19941,12 @@ window.QUIZ_DATA = [
       "A": "空载电流",
       "B": "负荷电流",
       "C": "三相不平衡电流",
-      "D": "零\n序电流。"
+      "D": "零 序电流。"
     },
     "q_img": "q2_question_images/E_Je3A1276_q.png",
     "a_img": "q2_answer_images/E_Je3A1276_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A2277",
@@ -18621,11 +19958,12 @@ window.QUIZ_DATA = [
       "B": "负荷电流",
       "A": "空载电流",
       "C": "三相不平衡电流",
-      "D": "负\n序电流。"
+      "D": "负 序电流。"
     },
     "q_img": "q2_question_images/E_Je3A2277_q.png",
     "a_img": "q2_answer_images/E_Je3A2277_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A2278",
@@ -18637,11 +19975,12 @@ window.QUIZ_DATA = [
       "B": "相间短路",
       "A": "单相接地",
       "C": "人身触电",
-      "D": "三\n相短路。"
+      "D": "三 相短路。"
     },
     "q_img": "q2_question_images/E_Je3A2278_q.png",
     "a_img": "q2_answer_images/E_Je3A2278_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A2279",
@@ -18650,14 +19989,15 @@ window.QUIZ_DATA = [
     "q": "对于经常性反复启动而且启动载荷量大的机 械，通常采用。",
     "a": "C",
     "o": {
-      "C": "绕线式电\n动机",
+      "C": "绕线式电 动机",
       "A": "深槽式电动机",
       "B": "双鼠笼电动机",
       "D": "鼠笼电动机。"
     },
     "q_img": "q2_question_images/E_Je3A2279_q.png",
     "a_img": "q2_answer_images/E_Je3A2279_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A3280",
@@ -18673,7 +20013,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3A3280_q.png",
     "a_img": "q2_answer_images/E_Je3A3280_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A3281",
@@ -18689,7 +20030,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3A3281_q.png",
     "a_img": "q2_answer_images/E_Je3A3281_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A3282",
@@ -18705,7 +20047,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3A3282_q.png",
     "a_img": "q2_answer_images/E_Je3A3282_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A4283",
@@ -18721,7 +20064,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3A4283_q.png",
     "a_img": "q2_answer_images/E_Je3A4283_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A4284",
@@ -18737,7 +20081,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3A4284_q.png",
     "a_img": "q2_answer_images/E_Je3A4284_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A4285",
@@ -18753,7 +20098,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3A4285_q.png",
     "a_img": "q2_answer_images/E_Je3A4285_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A5286",
@@ -18764,12 +20110,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "不装熔断器",
       "B": "应装熔断器",
-      "C": "应装过负荷小\n开关",
+      "C": "应装过负荷小 开关",
       "D": "不装过负荷小开关。"
     },
     "q_img": "q2_question_images/E_Je3A5286_q.png",
     "a_img": "q2_answer_images/E_Je3A5286_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A5287",
@@ -18785,7 +20132,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3A5287_q.png",
     "a_img": "q2_answer_images/E_Je3A5287_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3A5288",
@@ -18801,7 +20149,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3A5288_q.png",
     "a_img": "q2_answer_images/E_Je3A5288_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A1289",
@@ -18810,14 +20159,15 @@ window.QUIZ_DATA = [
     "q": "电动机在运行中，从系统吸收无功功率，其作 用是。",
     "a": "C",
     "o": {
-      "C": "既建立磁\n场，又进行能量转换",
+      "C": "既建立磁 场，又进行能量转换",
       "A": "建立磁场",
       "B": "进行电磁能量转换",
       "D": "不建立磁场。"
     },
     "q_img": "q2_question_images/E_Je2A1289_q.png",
     "a_img": "q2_answer_images/E_Je2A1289_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A1290",
@@ -18829,11 +20179,12 @@ window.QUIZ_DATA = [
       "A": "相位补偿",
       "B": "电流补偿",
       "C": "电压补偿",
-      "D": "过\n补偿。"
+      "D": "过 补偿。"
     },
     "q_img": "q2_question_images/E_Je2A1290_q.png",
     "a_img": "q2_answer_images/E_Je2A1290_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A1291",
@@ -18849,7 +20200,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2A1291_q.png",
     "a_img": "q2_answer_images/E_Je2A1291_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A2292",
@@ -18861,11 +20213,12 @@ window.QUIZ_DATA = [
       "A": "同步电动机",
       "B": "异步电动机",
       "C": "异步发电机",
-      "D": "同\n步发电机。"
+      "D": "同 步发电机。"
     },
     "q_img": "q2_question_images/E_Je2A2292_q.png",
     "a_img": "q2_answer_images/E_Je2A2292_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A2293",
@@ -18874,14 +20227,15 @@ window.QUIZ_DATA = [
     "q": "发电机变为同步电动机运行时，最主要的是对 造成危害。",
     "a": "C",
     "o": {
-      "C": "汽轮机尾部的叶\n片",
+      "C": "汽轮机尾部的叶 片",
       "A": "发电机本身",
       "B": "电力系统",
       "D": "汽机大轴。"
     },
     "q_img": "q2_question_images/E_Je2A2293_q.png",
     "a_img": "q2_answer_images/E_Je2A2293_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A3294",
@@ -18897,7 +20251,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2A3294_q.png",
     "a_img": "q2_answer_images/E_Je2A3294_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A3295",
@@ -18913,7 +20268,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2A3295_q.png",
     "a_img": "q2_answer_images/E_Je2A3295_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A3296",
@@ -18929,7 +20285,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2A3296_q.png",
     "a_img": "q2_answer_images/E_Je2A3296_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A3297",
@@ -18945,7 +20302,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2A3297_q.png",
     "a_img": "q2_answer_images/E_Je2A3297_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A4298",
@@ -18961,7 +20319,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2A4298_q.png",
     "a_img": "q2_answer_images/E_Je2A4298_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A4299",
@@ -18973,11 +20332,12 @@ window.QUIZ_DATA = [
       "C": "平方",
       "A": "大小",
       "B": "√3 倍",
-      "D": "√2\n倍。"
+      "D": "√2 倍。"
     },
     "q_img": "q2_question_images/E_Je2A4299_q.png",
     "a_img": "q2_answer_images/E_Je2A4299_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A4300",
@@ -18989,11 +20349,12 @@ window.QUIZ_DATA = [
       "B": "小于",
       "A": "大于",
       "C": "等于",
-      "D": "近似于。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n67"
+      "D": "近似于。 选 择 题 鉴 定 试 题 库 67"
     },
     "q_img": "q2_question_images/E_Je2A4300_q.png",
     "a_img": "q2_answer_images/E_Je2A4300_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A5301",
@@ -19009,7 +20370,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2A5301_q.png",
     "a_img": "q2_answer_images/E_Je2A5301_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A5302",
@@ -19021,11 +20383,12 @@ window.QUIZ_DATA = [
       "A": "带延时的过流",
       "B": "差动",
       "C": "匝间短路",
-      "D": "电\n流速断。"
+      "D": "电 流速断。"
     },
     "q_img": "q2_question_images/E_Je2A5302_q.png",
     "a_img": "q2_answer_images/E_Je2A5302_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2A5303",
@@ -19036,12 +20399,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "灭磁开关突然断开",
       "A": "灭磁开关突然合入",
-      "C": "励磁\n回路突然发生一点接地",
+      "C": "励磁 回路突然发生一点接地",
       "D": "励磁回路发生两点接地。"
     },
     "q_img": "q2_question_images/E_Je2A5303_q.png",
     "a_img": "q2_answer_images/E_Je2A5303_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A1304",
@@ -19050,14 +20414,15 @@ window.QUIZ_DATA = [
     "q": "发电机在运行中直流励磁机电刷冒火，其电磁 方面的原因主要是。",
     "a": "C",
     "o": {
-      "C": "换\n向不良",
+      "C": "换 向不良",
       "A": "电刷上弹簧压力不均",
       "B": "整流子表面不清洁",
       "D": "电刷受压力太大。"
     },
     "q_img": "q2_question_images/E_Je1A1304_q.png",
     "a_img": "q2_answer_images/E_Je1A1304_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A1305",
@@ -19068,12 +20433,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "向下倾斜的外特性",
       "A": "转速相同",
-      "C": "励磁方式\n相同",
+      "C": "励磁方式 相同",
       "D": "向上倾斜外特性。"
     },
     "q_img": "q2_question_images/E_Je1A1305_q.png",
     "a_img": "q2_answer_images/E_Je1A1305_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A1306",
@@ -19089,7 +20455,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1A1306_q.png",
     "a_img": "q2_answer_images/E_Je1A1306_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A1307",
@@ -19101,11 +20468,12 @@ window.QUIZ_DATA = [
       "B": "有一定影响",
       "A": "没有影响",
       "C": "影响很大",
-      "D": "不一\n定有影响。"
+      "D": "不一 定有影响。"
     },
     "q_img": "q2_question_images/E_Je1A1307_q.png",
     "a_img": "q2_answer_images/E_Je1A1307_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A2308",
@@ -19121,7 +20489,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1A2308_q.png",
     "a_img": "q2_answer_images/E_Je1A2308_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A2309",
@@ -19130,14 +20499,15 @@ window.QUIZ_DATA = [
     "q": "发电机振荡成失步时，一般采取增加发电机励 磁，其目的是。",
     "a": "C",
     "o": {
-      "C": "增\n加定子与转子磁极间的拉力",
+      "C": "增 加定子与转子磁极间的拉力",
       "A": "提高发电机电压",
       "B": "多向系统输出无功",
       "D": "增加输出电流。"
     },
     "q_img": "q2_question_images/E_Je1A2309_q.png",
     "a_img": "q2_answer_images/E_Je1A2309_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A3310",
@@ -19153,7 +20523,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1A3310_q.png",
     "a_img": "q2_answer_images/E_Je1A3310_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A3311",
@@ -19165,11 +20536,12 @@ window.QUIZ_DATA = [
       "B": "96% 以上",
       "A": "95%以上",
       "C": "96%以下",
-      "D": "95%\n以下。"
+      "D": "95% 以下。"
     },
     "q_img": "q2_question_images/E_Je1A3311_q.png",
     "a_img": "q2_answer_images/E_Je1A3311_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A3312",
@@ -19185,7 +20557,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1A3312_q.png",
     "a_img": "q2_answer_images/E_Je1A3312_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1A3313",
@@ -19201,7 +20574,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1A3313_q.png",
     "a_img": "q2_answer_images/E_Jd1A3313_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A4314",
@@ -19213,11 +20587,12 @@ window.QUIZ_DATA = [
       "A": "卫生设施",
       "B": "通风条件",
       "C": "照明条件",
-      "D": "调\n温设施。"
+      "D": "调 温设施。"
     },
     "q_img": "q2_question_images/E_Je1A4314_q.png",
     "a_img": "q2_answer_images/E_Je1A4314_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A4315",
@@ -19228,12 +20603,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "电流、有功表",
       "A": "电流、电压表",
-      "C": "电压、有\n功表",
+      "C": "电压、有 功表",
       "D": "电流、无功表。"
     },
     "q_img": "q2_question_images/E_Je1A4315_q.png",
     "a_img": "q2_answer_images/E_Je1A4315_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A4316",
@@ -19249,7 +20625,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1A4316_q.png",
     "a_img": "q2_answer_images/E_Je1A4316_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5317",
@@ -19260,12 +20637,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "电压不稳定",
       "A": "电压继续降低",
-      "C": "电压波形畸\n变；.",
+      "C": "电压波形畸 变；.",
       "D": "不变。"
     },
     "q_img": "q2_question_images/E_Je1A5317_q.png",
     "a_img": "q2_answer_images/E_Je1A5317_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5318",
@@ -19281,7 +20659,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1A5318_q.png",
     "a_img": "q2_answer_images/E_Je1A5318_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5319",
@@ -19290,14 +20669,15 @@ window.QUIZ_DATA = [
     "q": "发电机如果在运行中功率因数过高(cosφ=1) 会使发电机。",
     "a": "C",
     "o": {
-      "C": "静态稳定性\n降低",
+      "C": "静态稳定性 降低",
       "A": "功角减小",
       "B": "动态稳定性降低",
       "D": "功角增大。"
     },
     "q_img": "q2_question_images/E_Je1A5319_q.png",
     "a_img": "q2_answer_images/E_Je1A5319_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5320",
@@ -19306,14 +20686,15 @@ window.QUIZ_DATA = [
     "q": "发电机在带负荷不平衡的条件下运行时，转子 温度最高。",
     "a": "C",
     "o": {
-      "C": "两端的槽楔和套箍在本\n鉴\n定\n试\n题\n库\n选\n择\n题\n器小间内必须设有良好的",
+      "C": "两端的槽楔和套箍在本 鉴 定 试 题 库 选 择 题 器小间内必须设有良好的",
       "A": "本体",
-      "B": "。\n\n70\n体上嵌装处",
+      "B": "70 体上嵌装处",
       "D": "定子绕组。"
     },
     "q_img": "q2_question_images/E_Je1A5320_q.png",
     "a_img": "q2_answer_images/E_Je1A5320_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5321",
@@ -19325,11 +20706,12 @@ window.QUIZ_DATA = [
       "A": "发热条件",
       "B": "振动条件",
       "C": "磁场均匀性",
-      "D": "电流\n性。"
+      "D": "电流 性。"
     },
     "q_img": "q2_question_images/E_Je1A5321_q.png",
     "a_img": "q2_answer_images/E_Je1A5321_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5322",
@@ -19345,7 +20727,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1A5322_q.png",
     "a_img": "q2_answer_images/E_Je1A5322_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5323",
@@ -19361,7 +20744,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1A5323_q.png",
     "a_img": "q2_answer_images/E_Je1A5323_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5324",
@@ -19372,12 +20756,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "短路电压越大",
       "A": "短路电压越小",
-      "C": "短路电压\n不固定",
+      "C": "短路电压 不固定",
       "D": "短路电压与其无关。"
     },
     "q_img": "q2_question_images/E_Je1A5324_q.png",
     "a_img": "q2_answer_images/E_Je1A5324_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5325",
@@ -19388,12 +20773,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "电磁力矩大于阻力矩",
       "B": "阻力矩大于电磁力矩",
-      "C": "电\n磁力矩等于阻力矩",
+      "C": "电 磁力矩等于阻力矩",
       "D": "不确定。"
     },
     "q_img": "q2_question_images/E_Je1A5325_q.png",
     "a_img": "q2_answer_images/E_Je1A5325_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1A5326",
@@ -19405,11 +20791,12 @@ window.QUIZ_DATA = [
       "B": "转速下降",
       "A": "转速不变",
       "C": "停止转动",
-      "D": "转\n速上升。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n71"
+      "D": "转 速上升。 选 择 题 鉴 定 试 题 库 71"
     },
     "q_img": "q2_question_images/E_Je1A5326_q.png",
     "a_img": "q2_answer_images/E_Je1A5326_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A1327",
@@ -19425,7 +20812,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A1327_q.png",
     "a_img": "q2_answer_images/E_Jf4A1327_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A1328",
@@ -19441,7 +20829,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A1328_q.png",
     "a_img": "q2_answer_images/E_Jf4A1328_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jf4A1329",
@@ -19453,11 +20842,12 @@ window.QUIZ_DATA = [
       "B": "安全和健康",
       "A": "安全和经济",
       "C": "安全和培训",
-      "D": "安\n全和防护。"
+      "D": "安 全和防护。"
     },
     "q_img": "q2_question_images/E_Jf4A1329_q.png",
     "a_img": "q2_answer_images/E_Jf4A1329_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A2330",
@@ -19473,7 +20863,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A2330_q.png",
     "a_img": "q2_answer_images/E_Jf4A2330_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A2331",
@@ -19489,7 +20880,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A2331_q.png",
     "a_img": "q2_answer_images/E_Jf4A2331_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A2332",
@@ -19499,13 +20891,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "发电设备全年发电量除以发电设备额定容量",
-      "B": "发\n电设备额定容量除以发电设备全年发电量",
-      "C": "发电设备全年\n发电量除以年供电量",
+      "B": "发 电设备额定容量除以发电设备全年发电量",
+      "C": "发电设备全年 发电量除以年供电量",
       "D": "全年电量除以设备有效值。"
     },
     "q_img": "q2_question_images/E_Jf4A2332_q.png",
     "a_img": "q2_answer_images/E_Jf4A2332_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A3333",
@@ -19516,12 +20909,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "35KV 及以上",
       "A": "10k V以下",
-      "C": "35kV 及以下；\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n72",
+      "C": "35kV 及以下； 鉴 定 试 题 库 选 择 题 72",
       "D": "66kV。"
     },
     "q_img": "q2_question_images/E_Jf4A3333_q.png",
     "a_img": "q2_answer_images/E_Jf4A3333_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A3334",
@@ -19533,11 +20927,12 @@ window.QUIZ_DATA = [
       "B": "弯曲特性",
       "A": "膨胀特性",
       "C": "电阻增大特性",
-      "D": "电\n阻减小特性。"
+      "D": "电 阻减小特性。"
     },
     "q_img": "q2_question_images/E_Jf4A3334_q.png",
     "a_img": "q2_answer_images/E_Jf4A3334_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A4335",
@@ -19549,11 +20944,12 @@ window.QUIZ_DATA = [
       "B": "乙比甲小",
       "A": "甲比乙小",
       "C": "甲乙一样",
-      "D": "无\n规律性。"
+      "D": "无 规律性。"
     },
     "q_img": "q2_question_images/E_Jf4A4335_q.png",
     "a_img": "q2_answer_images/E_Jf4A4335_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A4336",
@@ -19569,7 +20965,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A4336_q.png",
     "a_img": "q2_answer_images/E_Jf4A4336_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A4337",
@@ -19585,7 +20982,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A4337_q.png",
     "a_img": "q2_answer_images/E_Jf4A4337_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A4338",
@@ -19601,7 +20999,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A4338_q.png",
     "a_img": "q2_answer_images/E_Jf4A4338_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A5339",
@@ -19617,7 +21016,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A5339_q.png",
     "a_img": "q2_answer_images/E_Jf4A5339_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4A5340",
@@ -19633,7 +21033,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf4A5340_q.png",
     "a_img": "q2_answer_images/E_Jf4A5340_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3A1342",
@@ -19649,7 +21050,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf3A1342_q.png",
     "a_img": "q2_answer_images/E_Jf3A1342_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3A2343",
@@ -19665,7 +21067,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf3A2343_q.png",
     "a_img": "q2_answer_images/E_Jf3A2343_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3A2344",
@@ -19681,7 +21084,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf3A2344_q.png",
     "a_img": "q2_answer_images/E_Jf3A2344_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3A3345",
@@ -19692,12 +21096,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "甲表高于乙表",
       "B": "乙表高于甲表",
-      "C": "甲乙表一\n样",
+      "C": "甲乙表一 样",
       "D": "不可比。"
     },
     "q_img": "q2_question_images/E_Jf3A3345_q.png",
     "a_img": "q2_answer_images/E_Jf3A3345_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3A3346",
@@ -19708,12 +21113,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "指示不正常",
       "B": "指示被测负线端电压",
-      "C": "线圈\n被短路",
-      "D": "烧坏。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n74"
+      "C": "线圈 被短路",
+      "D": "烧坏。 选 择 题 鉴 定 试 题 库 74"
     },
     "q_img": "q2_question_images/E_Jf3A3346_q.png",
     "a_img": "q2_answer_images/E_Jf3A3346_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3A3347",
@@ -19722,14 +21128,15 @@ window.QUIZ_DATA = [
     "q": "如果把电流表直接并联在被测负载电路中，则 电流表。",
     "a": "C",
     "o": {
-      "C": "线圈将\n负载短路",
+      "C": "线圈将 负载短路",
       "A": "指示不正常",
       "B": "指示被测负载电流",
       "D": "烧坏。"
     },
     "q_img": "q2_question_images/E_Jf3A3347_q.png",
     "a_img": "q2_answer_images/E_Jf3A3347_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3A5348",
@@ -19741,11 +21148,12 @@ window.QUIZ_DATA = [
       "A": "零",
       "B": "一相电流值",
       "C": "三相电流的代数和",
-      "D": "无\n穷大。"
+      "D": "无 穷大。"
     },
     "q_img": "q2_question_images/E_Jf3A5348_q.png",
     "a_img": "q2_answer_images/E_Jf3A5348_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jf3A5349",
@@ -19761,7 +21169,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf3A5349_q.png",
     "a_img": "q2_answer_images/E_Jf3A5349_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3A5350",
@@ -19772,12 +21181,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "先装接地端",
       "A": "先装中相后装两边相",
-      "C": "先装\n导体端",
+      "C": "先装 导体端",
       "D": "随意装。"
     },
     "q_img": "q2_question_images/E_Jf3A5350_q.png",
     "a_img": "q2_answer_images/E_Jf3A5350_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A1351",
@@ -19793,7 +21203,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf2A1351_q.png",
     "a_img": "q2_answer_images/E_Jf2A1351_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A1352",
@@ -19805,11 +21216,12 @@ window.QUIZ_DATA = [
       "C": "六个月一次",
       "A": "每年一次",
       "B": "每月一次",
-      "D": "三\n个月。"
+      "D": "三 个月。"
     },
     "q_img": "q2_question_images/E_Jf2A1352_q.png",
     "a_img": "q2_answer_images/E_Jf2A1352_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A1353",
@@ -19821,11 +21233,12 @@ window.QUIZ_DATA = [
       "B": "每半年一次",
       "A": "每年一次",
       "C": "每季度一次",
-      "D": "一\n个月一次。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n75"
+      "D": "一 个月一次。 选 择 题 鉴 定 试 题 库 75"
     },
     "q_img": "q2_question_images/E_Jf2A1353_q.png",
     "a_img": "q2_answer_images/E_Jf2A1353_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A2354",
@@ -19841,7 +21254,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf2A2354_q.png",
     "a_img": "q2_answer_images/E_Jf2A2354_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A3355",
@@ -19857,7 +21271,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf2A3355_q.png",
     "a_img": "q2_answer_images/E_Jf2A3355_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A3356",
@@ -19873,7 +21288,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf2A3356_q.png",
     "a_img": "q2_answer_images/E_Jf2A3356_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A4357",
@@ -19885,11 +21301,12 @@ window.QUIZ_DATA = [
       "B": "E 端子",
       "A": "L 端子",
       "C": "G 端子",
-      "D": "不需。\n5."
+      "D": "不需。 5."
     },
     "q_img": "q2_question_images/E_Jf2A4357_q.png",
     "a_img": "q2_answer_images/E_Jf2A4357_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A4358",
@@ -19905,7 +21322,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf2A4358_q.png",
     "a_img": "q2_answer_images/E_Jf2A4358_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A5359",
@@ -19921,7 +21339,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf2A5359_q.png",
     "a_img": "q2_answer_images/E_Jf2A5359_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A5360",
@@ -19937,7 +21356,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf2A5360_q.png",
     "a_img": "q2_answer_images/E_Jf2A5360_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A5361",
@@ -19946,14 +21366,15 @@ window.QUIZ_DATA = [
     "q": "蓄电池浮充电运行，如果直流母线电压下降， 超过许可范围时则应 恢复电压。 鉴 定 试 题 库 选 择 题 76 选 择 题 鉴 定 试 题 库",
     "a": "C",
     "o": {
-      "C": "增\n加浮充电流",
+      "C": "增 加浮充电流",
       "A": "切断部分直流负载",
       "B": "增加蓄电池投入的个数",
       "D": "减小浮充电流。"
     },
     "q_img": "q2_question_images/E_Jf2A5361_q.png",
     "a_img": "q2_answer_images/E_Jf2A5361_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2A5362",
@@ -19969,7 +21390,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf2A5362_q.png",
     "a_img": "q2_answer_images/E_Jf2A5362_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A3363",
@@ -19980,12 +21402,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "U AB超前UA30°",
       "B": "UAB滞后UA30°",
-      "C": "UAB\n超前UA120°",
+      "C": "UAB 超前UA120°",
       "D": "U ᴀB滞后UA120°。"
     },
     "q_img": "q2_question_images/E_Jf1A3363_q.png",
     "a_img": "q2_answer_images/E_Jf1A3363_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A2364",
@@ -20001,7 +21424,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A2364_q.png",
     "a_img": "q2_answer_images/E_Jf1A2364_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A2365",
@@ -20013,11 +21437,12 @@ window.QUIZ_DATA = [
       "A": "定子端部",
       "B": "定子铁芯",
       "C": "转子绕组",
-      "D": "转\n子铁芯。"
+      "D": "转 子铁芯。"
     },
     "q_img": "q2_question_images/E_Jf1A2365_q.png",
     "a_img": "q2_answer_images/E_Jf1A2365_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4366",
@@ -20033,7 +21458,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4366_q.png",
     "a_img": "q2_answer_images/E_Jf1A4366_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4367",
@@ -20042,14 +21468,15 @@ window.QUIZ_DATA = [
     "q": "线圈中感应电动势的大小与。",
     "a": "C",
     "o": {
-      "C": "线圈中磁通的变化率成正比，还与线圈的匝数成\n正比",
+      "C": "线圈中磁通的变化率成正比，还与线圈的匝数成 正比",
       "A": "线圈中磁通的大小成正比",
-      "B": "线圈中的磁通变化量\n成正比",
+      "B": "线圈中的磁通变化量 成正比",
       "D": "线圈中磁通的大小成反比。"
     },
     "q_img": "q2_question_images/E_Jf1A4367_q.png",
     "a_img": "q2_answer_images/E_Jf1A4367_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4368",
@@ -20060,12 +21487,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "实际的保护范围缩小",
       "A": "实际的保护范围增大",
-      "C": "实\n际的保护范围不变",
+      "C": "实 际的保护范围不变",
       "D": "保护失去选择性。"
     },
     "q_img": "q2_question_images/E_Jf1A4368_q.png",
     "a_img": "q2_answer_images/E_Jf1A4368_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4369",
@@ -20081,7 +21509,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4369_q.png",
     "a_img": "q2_answer_images/E_Jf1A4369_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4370",
@@ -20091,13 +21520,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "电流保护范围变小，电压保护范围变大",
-      "B": "电流保\n护范围变小，电压保护范围变小",
-      "C": "电流保护范围变大，电\n压保护范围变小",
+      "B": "电流保 护范围变小，电压保护范围变小",
+      "C": "电流保护范围变大，电 压保护范围变小",
       "D": "电流保护范围变大，电压保护范围变大。"
     },
     "q_img": "q2_question_images/E_Jf1A4370_q.png",
     "a_img": "q2_answer_images/E_Jf1A4370_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4371",
@@ -20109,11 +21539,12 @@ window.QUIZ_DATA = [
       "A": "正序",
       "B": "正序和负序",
       "C": "负序和零序",
-      "D": "正\n序、负序及零序。"
+      "D": "正 序、负序及零序。"
     },
     "q_img": "q2_question_images/E_Jf1A4371_q.png",
     "a_img": "q2_answer_images/E_Jf1A4371_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4372",
@@ -20129,7 +21560,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4372_q.png",
     "a_img": "q2_answer_images/E_Jf1A4372_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4373",
@@ -20145,7 +21577,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4373_q.png",
     "a_img": "q2_answer_images/E_Jf1A4373_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4374",
@@ -20154,14 +21587,15 @@ window.QUIZ_DATA = [
     "q": "发电机逆功率保护的主要作用是。",
     "a": "C",
     "o": {
-      "C": "防止\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n78\n选\n择\n题\n鉴\n定\n试\n题\n库\n汽轮机叶片过热损坏",
+      "C": "防止 鉴 定 试 题 库 选 择 题 78 选 择 题 鉴 定 试 题 库 汽轮机叶片过热损坏",
       "A": "防止发电机失步",
       "B": "防止发电机进相运行",
       "D": "防止汽轮机带厂用电运行。"
     },
     "q_img": "q2_question_images/E_Jf1A4374_q.png",
     "a_img": "q2_answer_images/E_Jf1A4374_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4375",
@@ -20177,7 +21611,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4375_q.png",
     "a_img": "q2_answer_images/E_Jf1A4375_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4376",
@@ -20189,11 +21624,12 @@ window.QUIZ_DATA = [
       "B": "热游离",
       "A": "碰撞游离",
       "C": "去游离",
-      "D": "强电场\n发射。"
+      "D": "强电场 发射。"
     },
     "q_img": "q2_question_images/E_Jf1A4376_q.png",
     "a_img": "q2_answer_images/E_Jf1A4376_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4377",
@@ -20202,14 +21638,15 @@ window.QUIZ_DATA = [
     "q": "若X₁z=X₂z, 则同一故障点的i(2)ch与i (3)ch 之比为",
     "a": "A",
     "o": {
-      "A": "。",
+      "A": "",
       "B": "1",
       "C": "√3",
       "D": "255."
     },
     "q_img": "q2_question_images/E_Jf1A4377_q.png",
     "a_img": "q2_answer_images/E_Jf1A4377_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jf1A4378",
@@ -20225,7 +21662,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4378_q.png",
     "a_img": "q2_answer_images/E_Jf1A4378_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4379",
@@ -20237,11 +21675,12 @@ window.QUIZ_DATA = [
       "C": "全双工通信",
       "A": "半工通信",
       "B": "半双工通信",
-      "D": "微\n波通信。"
+      "D": "微 波通信。"
     },
     "q_img": "q2_question_images/E_Jf1A4379_q.png",
     "a_img": "q2_answer_images/E_Jf1A4379_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4380",
@@ -20257,7 +21696,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4380_q.png",
     "a_img": "q2_answer_images/E_Jf1A4380_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4381",
@@ -20267,13 +21707,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "一次回路中的工作电流",
-      "B": "一次及二次回路中的工\n电流",
+      "B": "一次及二次回路中的工 电流",
       "C": "二次回路中的工作电流",
-      "D": "与一次及二次回路中\n的工作电流无关。"
+      "D": "与一次及二次回路中 的工作电流无关。"
     },
     "q_img": "q2_question_images/E_Jf1A4381_q.png",
     "a_img": "q2_answer_images/E_Jf1A4381_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4382",
@@ -20282,14 +21723,15 @@ window.QUIZ_DATA = [
     "q": "阻抗继电器中接入第三相电压，是为了。",
     "a": "B",
     "o": {
-      "B": "防止保护安装处反向两相金属性短路时方向阻\n抗继电器误动作",
-      "A": "防止保护安装处正向两相金属性短路时方向阻抗继电\n器不动作",
-      "C": "防止保护安装处正向三相短路时方向阻\n抗继电器不动作",
+      "B": "防止保护安装处反向两相金属性短路时方向阻 抗继电器误动作",
+      "A": "防止保护安装处正向两相金属性短路时方向阻抗继电 器不动作",
+      "C": "防止保护安装处正向三相短路时方向阻 抗继电器不动作",
       "D": "提高灵敏度。"
     },
     "q_img": "q2_question_images/E_Jf1A4382_q.png",
     "a_img": "q2_answer_images/E_Jf1A4382_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4383",
@@ -20305,7 +21747,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4383_q.png",
     "a_img": "q2_answer_images/E_Jf1A4383_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4384",
@@ -20317,11 +21760,12 @@ window.QUIZ_DATA = [
       "C": "95%",
       "A": "85%",
       "B": "90%",
-      "D": "100%。\n15"
+      "D": "100%。 15"
     },
     "q_img": "q2_question_images/E_Jf1A4384_q.png",
     "a_img": "q2_answer_images/E_Jf1A4384_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4385",
@@ -20332,12 +21776,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "不管距离远近，基本上电压一样高",
       "A": "故障点距母线越近，电压越高",
-      "B": "故障点距母线越\n近，电压越低",
-      "D": "不\n确定。"
+      "B": "故障点距母线越 近，电压越低",
+      "D": "不 确定。"
     },
     "q_img": "q2_question_images/E_Jf1A4385_q.png",
     "a_img": "q2_answer_images/E_Jf1A4385_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4386",
@@ -20346,14 +21791,15 @@ window.QUIZ_DATA = [
     "q": "中性点不接地电网，发生单相接地时，故障线 路始端的零序电流i。与零序电压U。的相位关系是。",
     "a": "B",
     "o": {
-      "B": "3i₀\n滞后3U₀90°",
+      "B": "3i₀ 滞后3U₀90°",
       "A": "3i₀ 超前3U₀90°",
-      "C": "3i₀\n超前3U。110°",
-      "D": "3i₀ 滞后3U。110°。\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n80"
+      "C": "3i₀ 超前3U。110°",
+      "D": "3i₀ 滞后3U。110°。 鉴 定 试 题 库 选 择 题 80"
     },
     "q_img": "q2_question_images/E_Jf1A4386_q.png",
     "a_img": "q2_answer_images/E_Jf1A4386_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4387",
@@ -20365,11 +21811,12 @@ window.QUIZ_DATA = [
       "A": "不接地",
       "B": "直接接地",
       "C": "经电阻接地",
-      "D": "经\n电感接地。"
+      "D": "经 电感接地。"
     },
     "q_img": "q2_question_images/E_Jf1A4387_q.png",
     "a_img": "q2_answer_images/E_Jf1A4387_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4388",
@@ -20385,7 +21832,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4388_q.png",
     "a_img": "q2_answer_images/E_Jf1A4388_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4389",
@@ -20400,7 +21848,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4389_q.png",
     "a_img": "q2_answer_images/E_Jf1A4389_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jf1A4390",
@@ -20412,11 +21861,12 @@ window.QUIZ_DATA = [
       "C": "两相短路接地",
       "A": "两相短路",
       "B": "三相短路",
-      "D": "三\n相短路接地。"
+      "D": "三 相短路接地。"
     },
     "q_img": "q2_question_images/E_Jf1A4390_q.png",
     "a_img": "q2_answer_images/E_Jf1A4390_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4391",
@@ -20432,7 +21882,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4391_q.png",
     "a_img": "q2_answer_images/E_Jf1A4391_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jf1A4392",
@@ -20441,14 +21892,15 @@ window.QUIZ_DATA = [
     "q": "距离保护装置一般由 组成。",
     "a": "D",
     "o": {
-      "D": "测量部分、启动部分、振荡\n闭锁部分、二次电压回路断线失压闭锁部分、逻辑部分。\n选\n择\n题\n鉴\n定\n试\n题\n库\n\n81",
+      "D": "测量部分、启动部分、振荡 闭锁部分、二次电压回路断线失压闭锁部分、逻辑部分。 选 择 题 鉴 定 试 题 库 81",
       "A": "测量部分、启动部分",
-      "B": "测量部分、启动部分、振\n荡闭锁部分",
-      "C": "测量部分、启动部分、振荡闭锁部分、二次\n电压回路断线失压闭锁部分"
+      "B": "测量部分、启动部分、振 荡闭锁部分",
+      "C": "测量部分、启动部分、振荡闭锁部分、二次 电压回路断线失压闭锁部分"
     },
     "q_img": "q2_question_images/E_Jf1A4392_q.png",
     "a_img": "q2_answer_images/E_Jf1A4392_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4393",
@@ -20464,7 +21916,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4393_q.png",
     "a_img": "q2_answer_images/E_Jf1A4393_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4394",
@@ -20476,11 +21929,12 @@ window.QUIZ_DATA = [
       "A": "105%",
       "B": "110%",
       "C": "115%",
-      "D": "120%。\n选\n择\n题"
+      "D": "120%。 选 择 题"
     },
     "q_img": "q2_question_images/E_Jf1A4394_q.png",
     "a_img": "q2_answer_images/E_Jf1A4394_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4395",
@@ -20496,7 +21950,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4395_q.png",
     "a_img": "q2_answer_images/E_Jf1A4395_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4396",
@@ -20512,7 +21967,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4396_q.png",
     "a_img": "q2_answer_images/E_Jf1A4396_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4397",
@@ -20528,7 +21984,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4397_q.png",
     "a_img": "q2_answer_images/E_Jf1A4397_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4398",
@@ -20544,7 +22001,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4398_q.png",
     "a_img": "q2_answer_images/E_Jf1A4398_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4399",
@@ -20560,7 +22018,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4399_q.png",
     "a_img": "q2_answer_images/E_Jf1A4399_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4400",
@@ -20571,12 +22030,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "网络阻抗减小",
       "A": "网络阻抗增大",
-      "C": "网络阻抗\n鉴\n定\n试\n题\n库\n\n82\n选\n择\n题\n鉴\n定\n试\n题\n库\n既可增大也可减小",
+      "C": "网络阻抗 鉴 定 试 题 库 82 选 择 题 鉴 定 试 题 库 既可增大也可减小",
       "D": "网络阻抗不变。"
     },
     "q_img": "q2_question_images/E_Jf1A4400_q.png",
     "a_img": "q2_answer_images/E_Jf1A4400_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4401",
@@ -20588,11 +22048,12 @@ window.QUIZ_DATA = [
       "B": "成反比",
       "A": "成正比",
       "C": "平方成正比",
-      "D": "立方\n成反比。"
+      "D": "立方 成反比。"
     },
     "q_img": "q2_question_images/E_Jf1A4401_q.png",
     "a_img": "q2_answer_images/E_Jf1A4401_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4402",
@@ -20608,7 +22069,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4402_q.png",
     "a_img": "q2_answer_images/E_Jf1A4402_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jf1A4403",
@@ -20619,12 +22081,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "滞后零序电压90°",
       "A": "零序电压90°",
-      "C": "和零序\n电压同相位",
+      "C": "和零序 电压同相位",
       "D": "滞后零序电压45。"
     },
     "q_img": "q2_question_images/E_Jf1A4403_q.png",
     "a_img": "q2_answer_images/E_Jf1A4403_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4404",
@@ -20634,13 +22097,14 @@ window.QUIZ_DATA = [
     "a": "A",
     "o": {
       "A": "滞后于BC相同电压一个线路阻抗角",
-      "B": "滞后于B\n相电压一个线路阻抗角",
+      "B": "滞后于B 相电压一个线路阻抗角",
       "C": "滞后于C相电压一个线路阻抗角",
       "D": "超前BC 相间电压一个线路阻抗角。"
     },
     "q_img": "q2_question_images/E_Jf1A4404_q.png",
     "a_img": "q2_answer_images/E_Jf1A4404_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4405",
@@ -20656,7 +22120,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4405_q.png",
     "a_img": "q2_answer_images/E_Jf1A4405_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4406",
@@ -20668,11 +22133,12 @@ window.QUIZ_DATA = [
       "A": "调整特性",
       "B": "负载特性曲线",
       "C": "外特性曲线",
-      "D": "励磁特性曲线。\n\n83"
+      "D": "励磁特性曲线。 83"
     },
     "q_img": "q2_question_images/E_Jf1A4406_q.png",
     "a_img": "q2_answer_images/E_Jf1A4406_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4407",
@@ -20688,7 +22154,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4407_q.png",
     "a_img": "q2_answer_images/E_Jf1A4407_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4408",
@@ -20699,12 +22166,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "中压侧出现过电压",
       "B": "高压侧出现过电压",
-      "C": "高压\n侧、中压侧都出现过电压",
+      "C": "高压 侧、中压侧都出现过电压",
       "D": "以上三种情况以外的。"
     },
     "q_img": "q2_question_images/E_Jf1A4408_q.png",
     "a_img": "q2_answer_images/E_Jf1A4408_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4409",
@@ -20715,12 +22183,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "正序分量",
       "B": "负序分量",
-      "C": "正序分量和负序分\n量",
+      "C": "正序分量和负序分 量",
       "D": "零序分量。"
     },
     "q_img": "q2_question_images/E_Jf1A4409_q.png",
     "a_img": "q2_answer_images/E_Jf1A4409_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4410",
@@ -20736,7 +22205,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4410_q.png",
     "a_img": "q2_answer_images/E_Jf1A4410_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jf1A4411",
@@ -20747,12 +22217,13 @@ window.QUIZ_DATA = [
     "o": {
       "C": "二次回路额定电流不同产生的不平衡电流",
       "A": "励磁涌流产生的不平衡电流",
-      "B": "两侧相位不同产生\n的不平衡电流",
+      "B": "两侧相位不同产生 的不平衡电流",
       "D": "两侧电流互感器的型号不同产生的不平衡电流。"
     },
     "q_img": "q2_question_images/E_Jf1A4411_q.png",
     "a_img": "q2_answer_images/E_Jf1A4411_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4412",
@@ -20763,12 +22234,13 @@ window.QUIZ_DATA = [
     "o": {
       "B": "中性点接地的数目",
       "A": "短路点距电源的远近",
-      "C": "系\n统电压等级的高低",
+      "C": "系 统电压等级的高低",
       "D": "短路类型。"
     },
     "q_img": "q2_question_images/E_Jf1A4412_q.png",
     "a_img": "q2_answer_images/E_Jf1A4412_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4413",
@@ -20780,11 +22252,12 @@ window.QUIZ_DATA = [
       "B": "高",
       "A": "低",
       "C": "不变",
-      "D": "不一定。\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n84\n选\n择\n题\n鉴\n定\n试\n题\n库"
+      "D": "不一定。 鉴 定 试 题 库 选 择 题 84 选 择 题 鉴 定 试 题 库"
     },
     "q_img": "q2_question_images/E_Jf1A4413_q.png",
     "a_img": "q2_answer_images/E_Jf1A4413_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": true
   },
   {
     "id": "E_Jf1A4414",
@@ -20800,7 +22273,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4414_q.png",
     "a_img": "q2_answer_images/E_Jf1A4414_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4415",
@@ -20809,14 +22283,15 @@ window.QUIZ_DATA = [
     "q": "电力系统出现两相短路时，短路点距母线的远 近与母线上负序电压值的关系是。",
     "a": "B",
     "o": {
-      "B": "距故障点越近负序\n电压越高",
+      "B": "距故障点越近负序 电压越高",
       "A": "距故障点越远负序电压越高",
       "C": "与故障点位置无关",
-      "D": "距故障点越近负序电\n压越低。"
+      "D": "距故障点越近负序电 压越低。"
     },
     "q_img": "q2_question_images/E_Jf1A4415_q.png",
     "a_img": "q2_answer_images/E_Jf1A4415_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4416",
@@ -20832,7 +22307,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4416_q.png",
     "a_img": "q2_answer_images/E_Jf1A4416_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4417",
@@ -20848,7 +22324,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4417_q.png",
     "a_img": "q2_answer_images/E_Jf1A4417_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4418",
@@ -20860,11 +22337,12 @@ window.QUIZ_DATA = [
       "A": "断路器拒动",
       "B": "断路器误动",
       "C": "保护误动",
-      "D": "保\n护拒动。"
+      "D": "保 护拒动。"
     },
     "q_img": "q2_question_images/E_Jf1A4418_q.png",
     "a_img": "q2_answer_images/E_Jf1A4418_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4419",
@@ -20875,12 +22353,13 @@ window.QUIZ_DATA = [
     "o": {
       "A": "提高保护的灵敏度",
       "B": "提高保护的选择性",
-      "C": "提高\n保护的可靠性",
+      "C": "提高 保护的可靠性",
       "D": "提高保护的速动性。"
     },
     "q_img": "q2_question_images/E_Jf1A4419_q.png",
     "a_img": "q2_answer_images/E_Jf1A4419_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4420",
@@ -20896,7 +22375,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4420_q.png",
     "a_img": "q2_answer_images/E_Jf1A4420_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4421",
@@ -20912,7 +22392,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jf1A4421_q.png",
     "a_img": "q2_answer_images/E_Jf1A4421_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1A4422",
@@ -20924,11 +22405,12 @@ window.QUIZ_DATA = [
       "A": "带延时的过流",
       "B": "差动",
       "C": "匝间短路",
-      "D": "电\n流速断。\n鉴\n定\n试\n题\n库\n选\n择\n题\n\n86\n鉴\n定\n试\n题\n库\n4. 1.2\n判断题\n判断下列描述是否正确，对的在括号内打“√”,错的在括\n号内打“×”。"
+      "D": "电 流速断。 鉴 定 试 题 库 选 择 题 86 鉴 定 试 题 库 4. 1.2 判断题 判断下列描述是否正确，对的在括号内打“√”,错的在括 号内打“×”。"
     },
     "q_img": "q2_question_images/E_Jf1A4422_q.png",
     "a_img": "q2_answer_images/E_Jf1A4422_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5B1001",
@@ -20942,7 +22424,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5B1001_q.png",
     "a_img": "q2_answer_images/E_La5B1001_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5B2002",
@@ -20956,7 +22439,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5B2002_q.png",
     "a_img": "q2_answer_images/E_La5B2002_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5B3003",
@@ -20970,7 +22454,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5B3003_q.png",
     "a_img": "q2_answer_images/E_La5B3003_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5B4004",
@@ -20984,7 +22469,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5B4004_q.png",
     "a_img": "q2_answer_images/E_La5B4004_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5B4005",
@@ -20998,7 +22484,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5B4005_q.png",
     "a_img": "q2_answer_images/E_La5B4005_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5B4006",
@@ -21012,7 +22499,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5B4006_q.png",
     "a_img": "q2_answer_images/E_La5B4006_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5B5007",
@@ -21026,7 +22514,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La5B5007_q.png",
     "a_img": "q2_answer_images/E_La5B5007_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4B1008",
@@ -21040,7 +22529,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4B1008_q.png",
     "a_img": "q2_answer_images/E_La4B1008_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4B2009",
@@ -21054,7 +22544,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4B2009_q.png",
     "a_img": "q2_answer_images/E_La4B2009_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4B3010",
@@ -21068,7 +22559,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4B3010_q.png",
     "a_img": "q2_answer_images/E_La4B3010_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4B3011",
@@ -21082,7 +22574,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4B3011_q.png",
     "a_img": "q2_answer_images/E_La4B3011_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4B4012",
@@ -21096,7 +22589,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4B4012_q.png",
     "a_img": "q2_answer_images/E_La4B4012_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4B5013",
@@ -21110,7 +22604,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4B5013_q.png",
     "a_img": "q2_answer_images/E_La4B5013_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4B5014",
@@ -21124,7 +22619,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La4B5014_q.png",
     "a_img": "q2_answer_images/E_La4B5014_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3B1015",
@@ -21138,7 +22634,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3B1015_q.png",
     "a_img": "q2_answer_images/E_La3B1015_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3B2016",
@@ -21152,7 +22649,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3B2016_q.png",
     "a_img": "q2_answer_images/E_La3B2016_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3B3017",
@@ -21166,7 +22664,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3B3017_q.png",
     "a_img": "q2_answer_images/E_La3B3017_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3B3018",
@@ -21180,7 +22679,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3B3018_q.png",
     "a_img": "q2_answer_images/E_La3B3018_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3B3019",
@@ -21194,7 +22694,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3B3019_q.png",
     "a_img": "q2_answer_images/E_La3B3019_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3B4020",
@@ -21208,7 +22709,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3B4020_q.png",
     "a_img": "q2_answer_images/E_La3B4020_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3B5021",
@@ -21222,7 +22724,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La3B5021_q.png",
     "a_img": "q2_answer_images/E_La3B5021_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2B1022",
@@ -21236,7 +22739,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2B1022_q.png",
     "a_img": "q2_answer_images/E_La2B1022_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2B1023",
@@ -21250,7 +22754,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2B1023_q.png",
     "a_img": "q2_answer_images/E_La2B1023_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2B2024",
@@ -21264,7 +22769,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2B2024_q.png",
     "a_img": "q2_answer_images/E_La2B2024_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2B3025",
@@ -21278,7 +22784,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2B3025_q.png",
     "a_img": "q2_answer_images/E_La2B3025_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2B3026",
@@ -21292,7 +22799,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2B3026_q.png",
     "a_img": "q2_answer_images/E_La2B3026_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2B4027",
@@ -21306,7 +22814,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2B4027_q.png",
     "a_img": "q2_answer_images/E_La2B4027_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2B5028",
@@ -21320,7 +22829,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La2B5028_q.png",
     "a_img": "q2_answer_images/E_La2B5028_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1B1029",
@@ -21334,7 +22844,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1B1029_q.png",
     "a_img": "q2_answer_images/E_La1B1029_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1B2030",
@@ -21348,7 +22859,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1B2030_q.png",
     "a_img": "q2_answer_images/E_La1B2030_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1B3031",
@@ -21362,7 +22874,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1B3031_q.png",
     "a_img": "q2_answer_images/E_La1B3031_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1B4032",
@@ -21376,7 +22889,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1B4032_q.png",
     "a_img": "q2_answer_images/E_La1B4032_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1B5033",
@@ -21390,7 +22904,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_La1B5033_q.png",
     "a_img": "q2_answer_images/E_La1B5033_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5B1034",
@@ -21404,7 +22919,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5B1034_q.png",
     "a_img": "q2_answer_images/E_Lb5B1034_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5B1035",
@@ -21418,7 +22934,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5B1035_q.png",
     "a_img": "q2_answer_images/E_Lb5B1035_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5B2036",
@@ -21432,7 +22949,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5B2036_q.png",
     "a_img": "q2_answer_images/E_Lb5B2036_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5B2037",
@@ -21446,7 +22964,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5B2037_q.png",
     "a_img": "q2_answer_images/E_Lb5B2037_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5B3038",
@@ -21460,7 +22979,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5B3038_q.png",
     "a_img": "q2_answer_images/E_Lb5B3038_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5B3039",
@@ -21474,7 +22994,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5B3039_q.png",
     "a_img": "q2_answer_images/E_Lb5B3039_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5B4040",
@@ -21488,7 +23009,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5B4040_q.png",
     "a_img": "q2_answer_images/E_Lb5B4040_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5B5041",
@@ -21502,7 +23024,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb5B5041_q.png",
     "a_img": "q2_answer_images/E_Lb5B5041_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4B1042",
@@ -21516,7 +23039,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4B1042_q.png",
     "a_img": "q2_answer_images/E_Lb4B1042_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4B2043",
@@ -21530,7 +23054,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4B2043_q.png",
     "a_img": "q2_answer_images/E_Lb4B2043_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4B3044",
@@ -21544,7 +23069,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4B3044_q.png",
     "a_img": "q2_answer_images/E_Lb4B3044_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4B3045",
@@ -21558,7 +23084,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4B3045_q.png",
     "a_img": "q2_answer_images/E_Lb4B3045_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4B4046",
@@ -21572,7 +23099,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4B4046_q.png",
     "a_img": "q2_answer_images/E_Lb4B4046_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4B5047",
@@ -21586,7 +23114,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb4B5047_q.png",
     "a_img": "q2_answer_images/E_Lb4B5047_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B1048",
@@ -21600,7 +23129,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B1048_q.png",
     "a_img": "q2_answer_images/E_Lb3B1048_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B1049",
@@ -21614,7 +23144,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B1049_q.png",
     "a_img": "q2_answer_images/E_Lb3B1049_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B2050",
@@ -21628,7 +23159,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B2050_q.png",
     "a_img": "q2_answer_images/E_Lb3B2050_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B2051",
@@ -21642,7 +23174,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B2051_q.png",
     "a_img": "q2_answer_images/E_Lb3B2051_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B3052",
@@ -21656,7 +23189,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B3052_q.png",
     "a_img": "q2_answer_images/E_Lb3B3052_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B3053",
@@ -21670,7 +23204,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B3053_q.png",
     "a_img": "q2_answer_images/E_Lb3B3053_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B4054",
@@ -21684,7 +23219,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B4054_q.png",
     "a_img": "q2_answer_images/E_Lb3B4054_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B4055",
@@ -21698,7 +23234,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B4055_q.png",
     "a_img": "q2_answer_images/E_Lb3B4055_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B5056",
@@ -21712,7 +23249,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B5056_q.png",
     "a_img": "q2_answer_images/E_Lb3B5056_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3B5057",
@@ -21726,7 +23264,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb3B5057_q.png",
     "a_img": "q2_answer_images/E_Lb3B5057_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B1058",
@@ -21740,7 +23279,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B1058_q.png",
     "a_img": "q2_answer_images/E_Lb2B1058_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B1059",
@@ -21754,7 +23294,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B1059_q.png",
     "a_img": "q2_answer_images/E_Lb2B1059_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B1060",
@@ -21768,7 +23309,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B1060_q.png",
     "a_img": "q2_answer_images/E_Lb2B1060_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B1061",
@@ -21782,7 +23324,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B1061_q.png",
     "a_img": "q2_answer_images/E_Lb2B1061_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B2062",
@@ -21796,7 +23339,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B2062_q.png",
     "a_img": "q2_answer_images/E_Lb2B2062_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B2063",
@@ -21810,7 +23354,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B2063_q.png",
     "a_img": "q2_answer_images/E_Lb2B2063_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B3064",
@@ -21824,7 +23369,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B3064_q.png",
     "a_img": "q2_answer_images/E_Lb2B3064_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B3065",
@@ -21838,7 +23384,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B3065_q.png",
     "a_img": "q2_answer_images/E_Lb2B3065_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B3066",
@@ -21852,7 +23399,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B3066_q.png",
     "a_img": "q2_answer_images/E_Lb2B3066_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B3067",
@@ -21866,7 +23414,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B3067_q.png",
     "a_img": "q2_answer_images/E_Lb2B3067_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B3068",
@@ -21880,7 +23429,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B3068_q.png",
     "a_img": "q2_answer_images/E_Lb2B3068_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B4069",
@@ -21894,7 +23444,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B4069_q.png",
     "a_img": "q2_answer_images/E_Lb2B4069_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B4070",
@@ -21908,7 +23459,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B4070_q.png",
     "a_img": "q2_answer_images/E_Lb2B4070_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B4071",
@@ -21922,7 +23474,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B4071_q.png",
     "a_img": "q2_answer_images/E_Lb2B4071_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2B5072",
@@ -21936,7 +23489,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb2B5072_q.png",
     "a_img": "q2_answer_images/E_Lb2B5072_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B1073",
@@ -21950,7 +23504,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B1073_q.png",
     "a_img": "q2_answer_images/E_Lb1B1073_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B1074",
@@ -21964,7 +23519,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B1074_q.png",
     "a_img": "q2_answer_images/E_Lb1B1074_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B1075",
@@ -21978,7 +23534,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B1075_q.png",
     "a_img": "q2_answer_images/E_Lb1B1075_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B2076",
@@ -21992,7 +23549,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B2076_q.png",
     "a_img": "q2_answer_images/E_Lb1B2076_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B2077",
@@ -22006,7 +23564,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B2077_q.png",
     "a_img": "q2_answer_images/E_Lb1B2077_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B2078",
@@ -22020,7 +23579,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B2078_q.png",
     "a_img": "q2_answer_images/E_Lb1B2078_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B2079",
@@ -22034,7 +23594,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B2079_q.png",
     "a_img": "q2_answer_images/E_Lb1B2079_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B2080",
@@ -22048,7 +23609,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B2080_q.png",
     "a_img": "q2_answer_images/E_Lb1B2080_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B3081",
@@ -22062,7 +23624,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B3081_q.png",
     "a_img": "q2_answer_images/E_Lb1B3081_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B3082",
@@ -22076,7 +23639,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B3082_q.png",
     "a_img": "q2_answer_images/E_Lb1B3082_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B3083",
@@ -22090,7 +23654,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B3083_q.png",
     "a_img": "q2_answer_images/E_Lb1B3083_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B3084",
@@ -22104,7 +23669,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B3084_q.png",
     "a_img": "q2_answer_images/E_Lb1B3084_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B3085",
@@ -22118,7 +23684,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B3085_q.png",
     "a_img": "q2_answer_images/E_Lb1B3085_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B4086",
@@ -22132,7 +23699,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B4086_q.png",
     "a_img": "q2_answer_images/E_Lb1B4086_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B4087",
@@ -22146,7 +23714,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B4087_q.png",
     "a_img": "q2_answer_images/E_Lb1B4087_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B4088",
@@ -22160,7 +23729,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B4088_q.png",
     "a_img": "q2_answer_images/E_Lb1B4088_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1B5089",
@@ -22174,7 +23744,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lb1B5089_q.png",
     "a_img": "q2_answer_images/E_Lb1B5089_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5B1090",
@@ -22188,7 +23759,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc5B1090_q.png",
     "a_img": "q2_answer_images/E_Lc5B1090_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5B2091",
@@ -22202,7 +23774,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc5B2091_q.png",
     "a_img": "q2_answer_images/E_Lc5B2091_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5B3092",
@@ -22216,7 +23789,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc5B3092_q.png",
     "a_img": "q2_answer_images/E_Lc5B3092_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5B4093",
@@ -22230,7 +23804,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc5B4093_q.png",
     "a_img": "q2_answer_images/E_Lc5B4093_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5B4094",
@@ -22244,7 +23819,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc5B4094_q.png",
     "a_img": "q2_answer_images/E_Lc5B4094_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5B5095",
@@ -22258,7 +23834,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc5B5095_q.png",
     "a_img": "q2_answer_images/E_Lc5B5095_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5B5096",
@@ -22272,7 +23849,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc5B5096_q.png",
     "a_img": "q2_answer_images/E_Lc5B5096_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4B1097",
@@ -22286,7 +23864,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc4B1097_q.png",
     "a_img": "q2_answer_images/E_Lc4B1097_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4B1098",
@@ -22300,7 +23879,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc4B1098_q.png",
     "a_img": "q2_answer_images/E_Lc4B1098_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4B2099",
@@ -22314,7 +23894,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc4B2099_q.png",
     "a_img": "q2_answer_images/E_Lc4B2099_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4B2100",
@@ -22328,7 +23909,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc4B2100_q.png",
     "a_img": "q2_answer_images/E_Lc4B2100_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4B2101",
@@ -22342,7 +23924,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc4B2101_q.png",
     "a_img": "q2_answer_images/E_Lc4B2101_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4B3102",
@@ -22356,7 +23939,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc4B3102_q.png",
     "a_img": "q2_answer_images/E_Lc4B3102_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4B4103",
@@ -22370,7 +23954,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc4B4103_q.png",
     "a_img": "q2_answer_images/E_Lc4B4103_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3B4104",
@@ -22384,7 +23969,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc3B4104_q.png",
     "a_img": "q2_answer_images/E_Lc3B4104_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3B5105",
@@ -22398,7 +23984,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc3B5105_q.png",
     "a_img": "q2_answer_images/E_Lc3B5105_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Le3B5106",
@@ -22412,7 +23999,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Le3B5106_q.png",
     "a_img": "q2_answer_images/E_Le3B5106_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B1107",
@@ -22426,7 +24014,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B1107_q.png",
     "a_img": "q2_answer_images/E_Lc2B1107_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B1108",
@@ -22440,7 +24029,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B1108_q.png",
     "a_img": "q2_answer_images/E_Lc2B1108_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Le2B2109",
@@ -22454,7 +24044,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Le2B2109_q.png",
     "a_img": "q2_answer_images/E_Le2B2109_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B2110",
@@ -22468,7 +24059,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B2110_q.png",
     "a_img": "q2_answer_images/E_Lc2B2110_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B3111",
@@ -22482,7 +24074,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B3111_q.png",
     "a_img": "q2_answer_images/E_Lc2B3111_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B3112",
@@ -22496,7 +24089,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B3112_q.png",
     "a_img": "q2_answer_images/E_Lc2B3112_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B4113",
@@ -22510,7 +24104,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B4113_q.png",
     "a_img": "q2_answer_images/E_Lc2B4113_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B4114",
@@ -22524,7 +24119,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B4114_q.png",
     "a_img": "q2_answer_images/E_Lc2B4114_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B5115",
@@ -22538,7 +24134,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B5115_q.png",
     "a_img": "q2_answer_images/E_Lc2B5115_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc2B5116",
@@ -22552,7 +24149,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc2B5116_q.png",
     "a_img": "q2_answer_images/E_Lc2B5116_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B1117",
@@ -22566,7 +24164,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B1117_q.png",
     "a_img": "q2_answer_images/E_Lc1B1117_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B2118",
@@ -22580,7 +24179,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B2118_q.png",
     "a_img": "q2_answer_images/E_Lc1B2118_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B2119",
@@ -22594,7 +24194,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B2119_q.png",
     "a_img": "q2_answer_images/E_Lc1B2119_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B2120",
@@ -22608,7 +24209,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B2120_q.png",
     "a_img": "q2_answer_images/E_Lc1B2120_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B2121",
@@ -22622,7 +24224,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B2121_q.png",
     "a_img": "q2_answer_images/E_Lc1B2121_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B3122",
@@ -22636,7 +24239,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B3122_q.png",
     "a_img": "q2_answer_images/E_Lc1B3122_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B3123",
@@ -22650,7 +24254,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B3123_q.png",
     "a_img": "q2_answer_images/E_Lc1B3123_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B4124",
@@ -22664,7 +24269,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B4124_q.png",
     "a_img": "q2_answer_images/E_Lc1B4124_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B4125",
@@ -22678,7 +24284,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B4125_q.png",
     "a_img": "q2_answer_images/E_Lc1B4125_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc1B4126",
@@ -22692,7 +24299,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Lc1B4126_q.png",
     "a_img": "q2_answer_images/E_Lc1B4126_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Le1B5127",
@@ -22706,7 +24314,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Le1B5127_q.png",
     "a_img": "q2_answer_images/E_Le1B5127_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Le1B5128",
@@ -22720,7 +24329,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Le1B5128_q.png",
     "a_img": "q2_answer_images/E_Le1B5128_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B1129",
@@ -22734,7 +24344,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B1129_q.png",
     "a_img": "q2_answer_images/E_Jd5B1129_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B1130",
@@ -22748,7 +24359,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B1130_q.png",
     "a_img": "q2_answer_images/E_Jd5B1130_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B1131",
@@ -22762,7 +24374,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B1131_q.png",
     "a_img": "q2_answer_images/E_Jd5B1131_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B2132",
@@ -22776,7 +24389,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B2132_q.png",
     "a_img": "q2_answer_images/E_Jd5B2132_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B2133",
@@ -22790,7 +24404,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B2133_q.png",
     "a_img": "q2_answer_images/E_Jd5B2133_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B2134",
@@ -22804,7 +24419,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B2134_q.png",
     "a_img": "q2_answer_images/E_Jd5B2134_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B3135",
@@ -22818,7 +24434,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B3135_q.png",
     "a_img": "q2_answer_images/E_Jd5B3135_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B3136",
@@ -22832,7 +24449,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B3136_q.png",
     "a_img": "q2_answer_images/E_Jd5B3136_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B3137",
@@ -22846,7 +24464,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B3137_q.png",
     "a_img": "q2_answer_images/E_Jd5B3137_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B4138",
@@ -22860,7 +24479,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B4138_q.png",
     "a_img": "q2_answer_images/E_Jd5B4138_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B4139",
@@ -22874,7 +24494,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B4139_q.png",
     "a_img": "q2_answer_images/E_Jd5B4139_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B5140",
@@ -22888,7 +24509,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B5140_q.png",
     "a_img": "q2_answer_images/E_Jd5B5140_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B5141",
@@ -22902,7 +24524,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B5141_q.png",
     "a_img": "q2_answer_images/E_Jd5B5141_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5B5142",
@@ -22916,7 +24539,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd5B5142_q.png",
     "a_img": "q2_answer_images/E_Jd5B5142_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B1143",
@@ -22930,7 +24554,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B1143_q.png",
     "a_img": "q2_answer_images/E_Jd4B1143_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B1144",
@@ -22944,7 +24569,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B1144_q.png",
     "a_img": "q2_answer_images/E_Jd4B1144_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B1145",
@@ -22958,7 +24584,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B1145_q.png",
     "a_img": "q2_answer_images/E_Jd4B1145_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B2146",
@@ -22972,7 +24599,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B2146_q.png",
     "a_img": "q2_answer_images/E_Jd4B2146_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B2147",
@@ -22986,7 +24614,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B2147_q.png",
     "a_img": "q2_answer_images/E_Jd4B2147_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B2148",
@@ -23000,7 +24629,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B2148_q.png",
     "a_img": "q2_answer_images/E_Jd4B2148_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B3149",
@@ -23014,7 +24644,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B3149_q.png",
     "a_img": "q2_answer_images/E_Jd4B3149_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B3150",
@@ -23028,7 +24659,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B3150_q.png",
     "a_img": "q2_answer_images/E_Jd4B3150_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B3151",
@@ -23042,7 +24674,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B3151_q.png",
     "a_img": "q2_answer_images/E_Jd4B3151_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B4152",
@@ -23056,7 +24689,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B4152_q.png",
     "a_img": "q2_answer_images/E_Jd4B4152_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B4153",
@@ -23070,7 +24704,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B4153_q.png",
     "a_img": "q2_answer_images/E_Jd4B4153_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B4154",
@@ -23084,7 +24719,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B4154_q.png",
     "a_img": "q2_answer_images/E_Jd4B4154_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B5155",
@@ -23098,7 +24734,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B5155_q.png",
     "a_img": "q2_answer_images/E_Jd4B5155_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B5156",
@@ -23112,7 +24749,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B5156_q.png",
     "a_img": "q2_answer_images/E_Jd4B5156_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4B5157",
@@ -23126,7 +24764,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd4B5157_q.png",
     "a_img": "q2_answer_images/E_Jd4B5157_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B1158",
@@ -23140,7 +24779,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B1158_q.png",
     "a_img": "q2_answer_images/E_Jd3B1158_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B1159",
@@ -23154,7 +24794,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B1159_q.png",
     "a_img": "q2_answer_images/E_Jd3B1159_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B1160",
@@ -23168,7 +24809,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B1160_q.png",
     "a_img": "q2_answer_images/E_Jd3B1160_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B2161",
@@ -23182,7 +24824,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B2161_q.png",
     "a_img": "q2_answer_images/E_Jd3B2161_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B2162",
@@ -23196,7 +24839,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B2162_q.png",
     "a_img": "q2_answer_images/E_Jd3B2162_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B2163",
@@ -23210,7 +24854,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B2163_q.png",
     "a_img": "q2_answer_images/E_Jd3B2163_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B3164",
@@ -23224,7 +24869,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B3164_q.png",
     "a_img": "q2_answer_images/E_Jd3B3164_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B3165",
@@ -23238,7 +24884,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B3165_q.png",
     "a_img": "q2_answer_images/E_Jd3B3165_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B3166",
@@ -23252,7 +24899,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B3166_q.png",
     "a_img": "q2_answer_images/E_Jd3B3166_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B4167",
@@ -23266,7 +24914,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B4167_q.png",
     "a_img": "q2_answer_images/E_Jd3B4167_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B4168",
@@ -23280,7 +24929,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B4168_q.png",
     "a_img": "q2_answer_images/E_Jd3B4168_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B4169",
@@ -23294,7 +24944,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B4169_q.png",
     "a_img": "q2_answer_images/E_Jd3B4169_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B5170",
@@ -23308,7 +24959,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B5170_q.png",
     "a_img": "q2_answer_images/E_Jd3B5170_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B5171",
@@ -23322,7 +24974,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B5171_q.png",
     "a_img": "q2_answer_images/E_Jd3B5171_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B5172",
@@ -23336,7 +24989,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B5172_q.png",
     "a_img": "q2_answer_images/E_Jd3B5172_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3B5173",
@@ -23350,7 +25004,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd3B5173_q.png",
     "a_img": "q2_answer_images/E_Jd3B5173_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B1174",
@@ -23364,7 +25019,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B1174_q.png",
     "a_img": "q2_answer_images/E_Jd2B1174_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B1175",
@@ -23378,7 +25034,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B1175_q.png",
     "a_img": "q2_answer_images/E_Jd2B1175_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B1176",
@@ -23392,7 +25049,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B1176_q.png",
     "a_img": "q2_answer_images/E_Jd2B1176_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B2177",
@@ -23406,7 +25064,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B2177_q.png",
     "a_img": "q2_answer_images/E_Jd2B2177_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B2178",
@@ -23420,7 +25079,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B2178_q.png",
     "a_img": "q2_answer_images/E_Jd2B2178_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B2179",
@@ -23434,7 +25094,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B2179_q.png",
     "a_img": "q2_answer_images/E_Jd2B2179_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B3180",
@@ -23448,7 +25109,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B3180_q.png",
     "a_img": "q2_answer_images/E_Jd2B3180_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B3181",
@@ -23462,7 +25124,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B3181_q.png",
     "a_img": "q2_answer_images/E_Jd2B3181_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B4182",
@@ -23476,7 +25139,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B4182_q.png",
     "a_img": "q2_answer_images/E_Jd2B4182_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B4183",
@@ -23490,7 +25154,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B4183_q.png",
     "a_img": "q2_answer_images/E_Jd2B4183_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B4184",
@@ -23504,7 +25169,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B4184_q.png",
     "a_img": "q2_answer_images/E_Jd2B4184_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B5185",
@@ -23518,7 +25184,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B5185_q.png",
     "a_img": "q2_answer_images/E_Jd2B5185_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B5186",
@@ -23532,7 +25199,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B5186_q.png",
     "a_img": "q2_answer_images/E_Jd2B5186_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2B5187",
@@ -23546,7 +25214,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd2B5187_q.png",
     "a_img": "q2_answer_images/E_Jd2B5187_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B1188",
@@ -23560,7 +25229,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B1188_q.png",
     "a_img": "q2_answer_images/E_Jd1B1188_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B1189",
@@ -23574,7 +25244,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B1189_q.png",
     "a_img": "q2_answer_images/E_Jd1B1189_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B1190",
@@ -23588,7 +25259,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B1190_q.png",
     "a_img": "q2_answer_images/E_Jd1B1190_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B1191",
@@ -23602,7 +25274,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B1191_q.png",
     "a_img": "q2_answer_images/E_Jd1B1191_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B2192",
@@ -23616,7 +25289,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B2192_q.png",
     "a_img": "q2_answer_images/E_Jd1B2192_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B2193",
@@ -23630,7 +25304,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B2193_q.png",
     "a_img": "q2_answer_images/E_Jd1B2193_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B2194",
@@ -23644,7 +25319,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B2194_q.png",
     "a_img": "q2_answer_images/E_Jd1B2194_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B3195",
@@ -23658,7 +25334,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B3195_q.png",
     "a_img": "q2_answer_images/E_Jd1B3195_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B3196",
@@ -23672,7 +25349,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B3196_q.png",
     "a_img": "q2_answer_images/E_Jd1B3196_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B3197",
@@ -23686,7 +25364,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B3197_q.png",
     "a_img": "q2_answer_images/E_Jd1B3197_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B4198",
@@ -23700,7 +25379,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B4198_q.png",
     "a_img": "q2_answer_images/E_Jd1B4198_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B4299",
@@ -23714,7 +25394,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B4299_q.png",
     "a_img": "q2_answer_images/E_Jd1B4299_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B4200",
@@ -23728,7 +25409,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B4200_q.png",
     "a_img": "q2_answer_images/E_Jd1B4200_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B5201",
@@ -23742,7 +25424,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B5201_q.png",
     "a_img": "q2_answer_images/E_Jd1B5201_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B5202",
@@ -23756,7 +25439,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B5202_q.png",
     "a_img": "q2_answer_images/E_Jd1B5202_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1B5203",
@@ -23770,7 +25454,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Jd1B5203_q.png",
     "a_img": "q2_answer_images/E_Jd1B5203_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B1204",
@@ -23784,7 +25469,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B1204_q.png",
     "a_img": "q2_answer_images/E_Je5B1204_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B1205",
@@ -23798,7 +25484,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B1205_q.png",
     "a_img": "q2_answer_images/E_Je5B1205_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B1206",
@@ -23812,7 +25499,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B1206_q.png",
     "a_img": "q2_answer_images/E_Je5B1206_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2207",
@@ -23826,7 +25514,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2207_q.png",
     "a_img": "q2_answer_images/E_Je5B2207_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2208",
@@ -23840,7 +25529,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2208_q.png",
     "a_img": "q2_answer_images/E_Je5B2208_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2209",
@@ -23854,7 +25544,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2209_q.png",
     "a_img": "q2_answer_images/E_Je5B2209_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2210",
@@ -23868,7 +25559,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2210_q.png",
     "a_img": "q2_answer_images/E_Je5B2210_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3211",
@@ -23882,7 +25574,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3211_q.png",
     "a_img": "q2_answer_images/E_Je5B3211_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3212",
@@ -23896,7 +25589,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3212_q.png",
     "a_img": "q2_answer_images/E_Je5B3212_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3213",
@@ -23910,7 +25604,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3213_q.png",
     "a_img": "q2_answer_images/E_Je5B3213_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3214",
@@ -23924,7 +25619,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3214_q.png",
     "a_img": "q2_answer_images/E_Je5B3214_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3215",
@@ -23938,7 +25634,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3215_q.png",
     "a_img": "q2_answer_images/E_Je5B3215_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3216",
@@ -23952,7 +25649,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3216_q.png",
     "a_img": "q2_answer_images/E_Je5B3216_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2217",
@@ -23966,7 +25664,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2217_q.png",
     "a_img": "q2_answer_images/E_Je5B2217_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2218",
@@ -23980,7 +25679,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2218_q.png",
     "a_img": "q2_answer_images/E_Je5B2218_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2219",
@@ -23994,7 +25694,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2219_q.png",
     "a_img": "q2_answer_images/E_Je5B2219_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2220",
@@ -24008,7 +25709,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2220_q.png",
     "a_img": "q2_answer_images/E_Je5B2220_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2221",
@@ -24022,7 +25724,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2221_q.png",
     "a_img": "q2_answer_images/E_Je5B2221_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2222",
@@ -24036,7 +25739,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2222_q.png",
     "a_img": "q2_answer_images/E_Je5B2222_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B2223",
@@ -24050,7 +25754,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B2223_q.png",
     "a_img": "q2_answer_images/E_Je5B2223_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3224",
@@ -24064,7 +25769,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3224_q.png",
     "a_img": "q2_answer_images/E_Je5B3224_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3225",
@@ -24078,7 +25784,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3225_q.png",
     "a_img": "q2_answer_images/E_Je5B3225_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3226",
@@ -24092,7 +25799,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3226_q.png",
     "a_img": "q2_answer_images/E_Je5B3226_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3227",
@@ -24106,7 +25814,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3227_q.png",
     "a_img": "q2_answer_images/E_Je5B3227_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3228",
@@ -24120,7 +25829,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3228_q.png",
     "a_img": "q2_answer_images/E_Je5B3228_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3229",
@@ -24134,7 +25844,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3229_q.png",
     "a_img": "q2_answer_images/E_Je5B3229_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3230",
@@ -24148,7 +25859,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3230_q.png",
     "a_img": "q2_answer_images/E_Je5B3230_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3231",
@@ -24162,7 +25874,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3231_q.png",
     "a_img": "q2_answer_images/E_Je5B3231_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B3232",
@@ -24176,7 +25889,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B3232_q.png",
     "a_img": "q2_answer_images/E_Je5B3232_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B4233",
@@ -24190,7 +25904,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B4233_q.png",
     "a_img": "q2_answer_images/E_Je5B4233_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B4234",
@@ -24204,7 +25919,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B4234_q.png",
     "a_img": "q2_answer_images/E_Je5B4234_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B4235",
@@ -24218,7 +25934,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B4235_q.png",
     "a_img": "q2_answer_images/E_Je5B4235_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B4236",
@@ -24232,7 +25949,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B4236_q.png",
     "a_img": "q2_answer_images/E_Je5B4236_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B4237",
@@ -24246,7 +25964,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B4237_q.png",
     "a_img": "q2_answer_images/E_Je5B4237_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B4238",
@@ -24260,7 +25979,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B4238_q.png",
     "a_img": "q2_answer_images/E_Je5B4238_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B5239",
@@ -24274,7 +25994,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B5239_q.png",
     "a_img": "q2_answer_images/E_Je5B5239_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B5240",
@@ -24288,7 +26009,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B5240_q.png",
     "a_img": "q2_answer_images/E_Je5B5240_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B5241",
@@ -24302,7 +26024,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B5241_q.png",
     "a_img": "q2_answer_images/E_Je5B5241_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5B5242",
@@ -24316,7 +26039,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je5B5242_q.png",
     "a_img": "q2_answer_images/E_Je5B5242_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B1243",
@@ -24330,7 +26054,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B1243_q.png",
     "a_img": "q2_answer_images/E_Je4B1243_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B1244",
@@ -24344,7 +26069,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B1244_q.png",
     "a_img": "q2_answer_images/E_Je4B1244_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B1245",
@@ -24358,7 +26084,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B1245_q.png",
     "a_img": "q2_answer_images/E_Je4B1245_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B2246",
@@ -24372,7 +26099,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B2246_q.png",
     "a_img": "q2_answer_images/E_Je4B2246_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B2247",
@@ -24386,7 +26114,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B2247_q.png",
     "a_img": "q2_answer_images/E_Je4B2247_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B2248",
@@ -24400,7 +26129,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B2248_q.png",
     "a_img": "q2_answer_images/E_Je4B2248_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B2249",
@@ -24414,7 +26144,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B2249_q.png",
     "a_img": "q2_answer_images/E_Je4B2249_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B2250",
@@ -24428,7 +26159,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B2250_q.png",
     "a_img": "q2_answer_images/E_Je4B2250_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B3251",
@@ -24442,7 +26174,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B3251_q.png",
     "a_img": "q2_answer_images/E_Je4B3251_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B3252",
@@ -24456,7 +26189,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B3252_q.png",
     "a_img": "q2_answer_images/E_Je4B3252_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B3253",
@@ -24470,7 +26204,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B3253_q.png",
     "a_img": "q2_answer_images/E_Je4B3253_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B3254",
@@ -24484,7 +26219,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B3254_q.png",
     "a_img": "q2_answer_images/E_Je4B3254_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B3255",
@@ -24498,7 +26234,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B3255_q.png",
     "a_img": "q2_answer_images/E_Je4B3255_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B3256",
@@ -24512,7 +26249,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B3256_q.png",
     "a_img": "q2_answer_images/E_Je4B3256_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B3257",
@@ -24526,7 +26264,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B3257_q.png",
     "a_img": "q2_answer_images/E_Je4B3257_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B3258",
@@ -24540,7 +26279,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B3258_q.png",
     "a_img": "q2_answer_images/E_Je4B3258_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4259",
@@ -24554,7 +26294,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4259_q.png",
     "a_img": "q2_answer_images/E_Je4B4259_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4260",
@@ -24568,7 +26309,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4260_q.png",
     "a_img": "q2_answer_images/E_Je4B4260_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4261",
@@ -24582,7 +26324,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4261_q.png",
     "a_img": "q2_answer_images/E_Je4B4261_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4262",
@@ -24596,7 +26339,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4262_q.png",
     "a_img": "q2_answer_images/E_Je4B4262_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4263",
@@ -24610,7 +26354,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4263_q.png",
     "a_img": "q2_answer_images/E_Je4B4263_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4264",
@@ -24624,7 +26369,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4264_q.png",
     "a_img": "q2_answer_images/E_Je4B4264_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4265",
@@ -24638,7 +26384,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4265_q.png",
     "a_img": "q2_answer_images/E_Je4B4265_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4266",
@@ -24652,7 +26399,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4266_q.png",
     "a_img": "q2_answer_images/E_Je4B4266_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4267",
@@ -24666,7 +26414,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4267_q.png",
     "a_img": "q2_answer_images/E_Je4B4267_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4268",
@@ -24680,7 +26429,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4268_q.png",
     "a_img": "q2_answer_images/E_Je4B4268_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B4269",
@@ -24694,7 +26444,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B4269_q.png",
     "a_img": "q2_answer_images/E_Je4B4269_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B5270",
@@ -24708,7 +26459,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B5270_q.png",
     "a_img": "q2_answer_images/E_Je4B5270_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B5271",
@@ -24722,7 +26474,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B5271_q.png",
     "a_img": "q2_answer_images/E_Je4B5271_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B5272",
@@ -24736,7 +26489,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B5272_q.png",
     "a_img": "q2_answer_images/E_Je4B5272_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4B5273",
@@ -24750,7 +26504,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je4B5273_q.png",
     "a_img": "q2_answer_images/E_Je4B5273_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B1274",
@@ -24764,7 +26519,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B1274_q.png",
     "a_img": "q2_answer_images/E_Je3B1274_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B1275",
@@ -24778,7 +26534,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B1275_q.png",
     "a_img": "q2_answer_images/E_Je3B1275_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B1276",
@@ -24792,7 +26549,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B1276_q.png",
     "a_img": "q2_answer_images/E_Je3B1276_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B2277",
@@ -24806,7 +26564,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B2277_q.png",
     "a_img": "q2_answer_images/E_Je3B2277_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B2278",
@@ -24820,7 +26579,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B2278_q.png",
     "a_img": "q2_answer_images/E_Je3B2278_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B2279",
@@ -24834,7 +26594,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B2279_q.png",
     "a_img": "q2_answer_images/E_Je3B2279_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B2280",
@@ -24848,7 +26609,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B2280_q.png",
     "a_img": "q2_answer_images/E_Je3B2280_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B2281",
@@ -24862,7 +26624,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B2281_q.png",
     "a_img": "q2_answer_images/E_Je3B2281_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B2282",
@@ -24876,7 +26639,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B2282_q.png",
     "a_img": "q2_answer_images/E_Je3B2282_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B2283",
@@ -24890,7 +26654,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B2283_q.png",
     "a_img": "q2_answer_images/E_Je3B2283_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B2284",
@@ -24904,7 +26669,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B2284_q.png",
     "a_img": "q2_answer_images/E_Je3B2284_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3285",
@@ -24918,7 +26684,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3285_q.png",
     "a_img": "q2_answer_images/E_Je3B3285_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3286",
@@ -24932,7 +26699,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3286_q.png",
     "a_img": "q2_answer_images/E_Je3B3286_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3287",
@@ -24946,7 +26714,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3287_q.png",
     "a_img": "q2_answer_images/E_Je3B3287_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3288",
@@ -24960,7 +26729,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3288_q.png",
     "a_img": "q2_answer_images/E_Je3B3288_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3289",
@@ -24974,7 +26744,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3289_q.png",
     "a_img": "q2_answer_images/E_Je3B3289_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3290",
@@ -24988,7 +26759,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3290_q.png",
     "a_img": "q2_answer_images/E_Je3B3290_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3291",
@@ -25002,7 +26774,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3291_q.png",
     "a_img": "q2_answer_images/E_Je3B3291_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3292",
@@ -25016,7 +26789,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3292_q.png",
     "a_img": "q2_answer_images/E_Je3B3292_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B3293",
@@ -25030,7 +26804,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B3293_q.png",
     "a_img": "q2_answer_images/E_Je3B3293_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B4294",
@@ -25044,7 +26819,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B4294_q.png",
     "a_img": "q2_answer_images/E_Je3B4294_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B4295",
@@ -25058,7 +26834,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B4295_q.png",
     "a_img": "q2_answer_images/E_Je3B4295_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B4296",
@@ -25072,7 +26849,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B4296_q.png",
     "a_img": "q2_answer_images/E_Je3B4296_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B4297",
@@ -25086,7 +26864,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B4297_q.png",
     "a_img": "q2_answer_images/E_Je3B4297_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3B4298",
@@ -25100,7 +26879,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je3B4298_q.png",
     "a_img": "q2_answer_images/E_Je3B4298_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B1299",
@@ -25114,7 +26894,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B1299_q.png",
     "a_img": "q2_answer_images/E_Je2B1299_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B1300",
@@ -25128,7 +26909,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B1300_q.png",
     "a_img": "q2_answer_images/E_Je2B1300_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B1301",
@@ -25142,7 +26924,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B1301_q.png",
     "a_img": "q2_answer_images/E_Je2B1301_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B1302",
@@ -25156,7 +26939,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B1302_q.png",
     "a_img": "q2_answer_images/E_Je2B1302_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B1303",
@@ -25170,7 +26954,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B1303_q.png",
     "a_img": "q2_answer_images/E_Je2B1303_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B1304",
@@ -25184,7 +26969,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B1304_q.png",
     "a_img": "q2_answer_images/E_Je2B1304_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B1305",
@@ -25198,7 +26984,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B1305_q.png",
     "a_img": "q2_answer_images/E_Je2B1305_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B1306",
@@ -25212,7 +26999,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B1306_q.png",
     "a_img": "q2_answer_images/E_Je2B1306_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B2307",
@@ -25226,7 +27014,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B2307_q.png",
     "a_img": "q2_answer_images/E_Je2B2307_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B2308",
@@ -25240,7 +27029,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B2308_q.png",
     "a_img": "q2_answer_images/E_Je2B2308_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B2309",
@@ -25254,7 +27044,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B2309_q.png",
     "a_img": "q2_answer_images/E_Je2B2309_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B3310",
@@ -25268,7 +27059,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B3310_q.png",
     "a_img": "q2_answer_images/E_Je2B3310_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B3311",
@@ -25282,7 +27074,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B3311_q.png",
     "a_img": "q2_answer_images/E_Je2B3311_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4312",
@@ -25296,7 +27089,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4312_q.png",
     "a_img": "q2_answer_images/E_Je2B4312_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4313",
@@ -25310,7 +27104,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4313_q.png",
     "a_img": "q2_answer_images/E_Je2B4313_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4314",
@@ -25324,7 +27119,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4314_q.png",
     "a_img": "q2_answer_images/E_Je2B4314_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4315",
@@ -25338,7 +27134,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4315_q.png",
     "a_img": "q2_answer_images/E_Je2B4315_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4316",
@@ -25352,7 +27149,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4316_q.png",
     "a_img": "q2_answer_images/E_Je2B4316_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4317",
@@ -25366,7 +27164,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4317_q.png",
     "a_img": "q2_answer_images/E_Je2B4317_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4318",
@@ -25380,7 +27179,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4318_q.png",
     "a_img": "q2_answer_images/E_Je2B4318_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4319",
@@ -25394,7 +27194,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4319_q.png",
     "a_img": "q2_answer_images/E_Je2B4319_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4320",
@@ -25408,7 +27209,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4320_q.png",
     "a_img": "q2_answer_images/E_Je2B4320_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4321",
@@ -25422,7 +27224,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4321_q.png",
     "a_img": "q2_answer_images/E_Je2B4321_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4322",
@@ -25436,7 +27239,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4322_q.png",
     "a_img": "q2_answer_images/E_Je2B4322_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B4323",
@@ -25450,7 +27254,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B4323_q.png",
     "a_img": "q2_answer_images/E_Je2B4323_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B5324",
@@ -25464,7 +27269,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B5324_q.png",
     "a_img": "q2_answer_images/E_Je2B5324_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B5325",
@@ -25478,7 +27284,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B5325_q.png",
     "a_img": "q2_answer_images/E_Je2B5325_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B5326",
@@ -25492,7 +27299,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B5326_q.png",
     "a_img": "q2_answer_images/E_Je2B5326_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2B5327",
@@ -25506,7 +27314,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je2B5327_q.png",
     "a_img": "q2_answer_images/E_Je2B5327_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B1328",
@@ -25520,7 +27329,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B1328_q.png",
     "a_img": "q2_answer_images/E_Je1B1328_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B1329",
@@ -25534,7 +27344,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B1329_q.png",
     "a_img": "q2_answer_images/E_Je1B1329_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B1330",
@@ -25548,7 +27359,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B1330_q.png",
     "a_img": "q2_answer_images/E_Je1B1330_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B1331",
@@ -25562,7 +27374,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B1331_q.png",
     "a_img": "q2_answer_images/E_Je1B1331_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B1332",
@@ -25576,7 +27389,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B1332_q.png",
     "a_img": "q2_answer_images/E_Je1B1332_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B1333",
@@ -25590,7 +27404,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B1333_q.png",
     "a_img": "q2_answer_images/E_Je1B1333_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B2334",
@@ -25604,7 +27419,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B2334_q.png",
     "a_img": "q2_answer_images/E_Je1B2334_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B2335",
@@ -25618,7 +27434,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B2335_q.png",
     "a_img": "q2_answer_images/E_Je1B2335_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B2336",
@@ -25632,7 +27449,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B2336_q.png",
     "a_img": "q2_answer_images/E_Je1B2336_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B2337",
@@ -25646,7 +27464,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B2337_q.png",
     "a_img": "q2_answer_images/E_Je1B2337_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B2338",
@@ -25660,7 +27479,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B2338_q.png",
     "a_img": "q2_answer_images/E_Je1B2338_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B2339",
@@ -25674,7 +27494,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B2339_q.png",
     "a_img": "q2_answer_images/E_Je1B2339_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B3340",
@@ -25688,7 +27509,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B3340_q.png",
     "a_img": "q2_answer_images/E_Je1B3340_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B3341",
@@ -25702,7 +27524,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B3341_q.png",
     "a_img": "q2_answer_images/E_Je1B3341_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B3342",
@@ -25716,7 +27539,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B3342_q.png",
     "a_img": "q2_answer_images/E_Je1B3342_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B3343",
@@ -25730,7 +27554,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B3343_q.png",
     "a_img": "q2_answer_images/E_Je1B3343_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4344",
@@ -25744,7 +27569,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4344_q.png",
     "a_img": "q2_answer_images/E_Je1B4344_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4345",
@@ -25758,7 +27584,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4345_q.png",
     "a_img": "q2_answer_images/E_Je1B4345_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4346",
@@ -25772,7 +27599,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4346_q.png",
     "a_img": "q2_answer_images/E_Je1B4346_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4347",
@@ -25786,7 +27614,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4347_q.png",
     "a_img": "q2_answer_images/E_Je1B4347_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4348",
@@ -25800,7 +27629,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4348_q.png",
     "a_img": "q2_answer_images/E_Je1B4348_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4349",
@@ -25814,7 +27644,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4349_q.png",
     "a_img": "q2_answer_images/E_Je1B4349_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4350",
@@ -25828,7 +27659,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4350_q.png",
     "a_img": "q2_answer_images/E_Je1B4350_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4351",
@@ -25842,7 +27674,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4351_q.png",
     "a_img": "q2_answer_images/E_Je1B4351_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B4352",
@@ -25856,7 +27689,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B4352_q.png",
     "a_img": "q2_answer_images/E_Je1B4352_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5353",
@@ -25870,7 +27704,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5353_q.png",
     "a_img": "q2_answer_images/E_Je1B5353_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5354",
@@ -25884,7 +27719,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5354_q.png",
     "a_img": "q2_answer_images/E_Je1B5354_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5355",
@@ -25898,7 +27734,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5355_q.png",
     "a_img": "q2_answer_images/E_Je1B5355_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5356",
@@ -25912,7 +27749,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5356_q.png",
     "a_img": "q2_answer_images/E_Je1B5356_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5357",
@@ -25926,7 +27764,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5357_q.png",
     "a_img": "q2_answer_images/E_Je1B5357_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5358",
@@ -25940,7 +27779,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5358_q.png",
     "a_img": "q2_answer_images/E_Je1B5358_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5359",
@@ -25954,7 +27794,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5359_q.png",
     "a_img": "q2_answer_images/E_Je1B5359_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5360",
@@ -25968,7 +27809,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5360_q.png",
     "a_img": "q2_answer_images/E_Je1B5360_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5361",
@@ -25982,7 +27824,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5361_q.png",
     "a_img": "q2_answer_images/E_Je1B5361_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5362",
@@ -25996,7 +27839,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5362_q.png",
     "a_img": "q2_answer_images/E_Je1B5362_a.png",
-    "explain": "该说法错误。"
+    "explain": "该说法错误。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5363",
@@ -26010,7 +27854,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5363_q.png",
     "a_img": "q2_answer_images/E_Je1B5363_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5364",
@@ -26024,7 +27869,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5364_q.png",
     "a_img": "q2_answer_images/E_Je1B5364_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1B5365",
@@ -26038,7 +27884,8 @@ window.QUIZ_DATA = [
     },
     "q_img": "q2_question_images/E_Je1B5365_q.png",
     "a_img": "q2_answer_images/E_Je1B5365_a.png",
-    "explain": "该说法正确。"
+    "explain": "该说法正确。",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5C1001",
@@ -26049,7 +27896,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5C1001_q.png",
     "a_img": "q2_answer_images/E_Lb5C1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5C1002",
@@ -26060,7 +27908,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5C1002_q.png",
     "a_img": "q2_answer_images/E_Lb5C1002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5C3003",
@@ -26071,7 +27920,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5C3003_q.png",
     "a_img": "q2_answer_images/E_Lb5C3003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5C4004",
@@ -26082,7 +27932,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5C4004_q.png",
     "a_img": "q2_answer_images/E_Lb5C4004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5C5005",
@@ -26093,7 +27944,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5C5005_q.png",
     "a_img": "q2_answer_images/E_Lb5C5005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4C1006",
@@ -26104,7 +27956,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4C1006_q.png",
     "a_img": "q2_answer_images/E_Lb4C1006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4C1007",
@@ -26115,7 +27968,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4C1007_q.png",
     "a_img": "q2_answer_images/E_Lb4C1007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4C2008",
@@ -26126,7 +27980,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4C2008_q.png",
     "a_img": "q2_answer_images/E_Lb4C2008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4C3009",
@@ -26137,7 +27992,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4C3009_q.png",
     "a_img": "q2_answer_images/E_Lb4C3009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4C4010",
@@ -26148,7 +28004,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4C4010_q.png",
     "a_img": "q2_answer_images/E_Lb4C4010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4C5011",
@@ -26159,7 +28016,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4C5011_q.png",
     "a_img": "q2_answer_images/E_Lb4C5011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3C1012",
@@ -26170,7 +28028,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3C1012_q.png",
     "a_img": "q2_answer_images/E_Lb3C1012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3C2013",
@@ -26181,7 +28040,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3C2013_q.png",
     "a_img": "q2_answer_images/E_Lb3C2013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3C2014",
@@ -26192,7 +28052,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3C2014_q.png",
     "a_img": "q2_answer_images/E_Lb3C2014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3C3015",
@@ -26203,7 +28064,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3C3015_q.png",
     "a_img": "q2_answer_images/E_Lb3C3015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3C4016",
@@ -26214,7 +28076,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3C4016_q.png",
     "a_img": "q2_answer_images/E_Lb3C4016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3C5017",
@@ -26225,7 +28088,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3C5017_q.png",
     "a_img": "q2_answer_images/E_Lb3C5017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2C1018",
@@ -26236,7 +28100,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2C1018_q.png",
     "a_img": "q2_answer_images/E_Lb2C1018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2C1019",
@@ -26247,7 +28112,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2C1019_q.png",
     "a_img": "q2_answer_images/E_Lb2C1019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2C2020",
@@ -26258,7 +28124,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2C2020_q.png",
     "a_img": "q2_answer_images/E_Lb2C2020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2C3021",
@@ -26269,7 +28136,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2C3021_q.png",
     "a_img": "q2_answer_images/E_Lb2C3021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2C4022",
@@ -26280,7 +28148,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2C4022_q.png",
     "a_img": "q2_answer_images/E_Lb2C4022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2C5023",
@@ -26291,7 +28160,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2C5023_q.png",
     "a_img": "q2_answer_images/E_Lb2C5023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1C1024",
@@ -26302,7 +28172,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1C1024_q.png",
     "a_img": "q2_answer_images/E_Lb1C1024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1C2025",
@@ -26313,7 +28184,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1C2025_q.png",
     "a_img": "q2_answer_images/E_Lb1C2025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1C3026",
@@ -26324,7 +28196,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1C3026_q.png",
     "a_img": "q2_answer_images/E_Lb1C3026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1C4027",
@@ -26335,7 +28208,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1C4027_q.png",
     "a_img": "q2_answer_images/E_Lb1C4027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1C5028",
@@ -26346,7 +28220,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1C5028_q.png",
     "a_img": "q2_answer_images/E_Lb1C5028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5C1029",
@@ -26357,7 +28232,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc5C1029_q.png",
     "a_img": "q2_answer_images/E_Lc5C1029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5C2030",
@@ -26368,7 +28244,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc5C2030_q.png",
     "a_img": "q2_answer_images/E_Lc5C2030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5C3031",
@@ -26379,7 +28256,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc5C3031_q.png",
     "a_img": "q2_answer_images/E_Lc5C3031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5C4032",
@@ -26390,7 +28268,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc5C4032_q.png",
     "a_img": "q2_answer_images/E_Lc5C4032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc5C5033",
@@ -26401,7 +28280,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc5C5033_q.png",
     "a_img": "q2_answer_images/E_Lc5C5033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4C1034",
@@ -26412,7 +28292,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc4C1034_q.png",
     "a_img": "q2_answer_images/E_Lc4C1034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4C2035",
@@ -26423,7 +28304,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc4C2035_q.png",
     "a_img": "q2_answer_images/E_Lc4C2035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4C3036",
@@ -26434,7 +28316,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc4C3036_q.png",
     "a_img": "q2_answer_images/E_Lc4C3036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4C4037",
@@ -26445,7 +28328,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc4C4037_q.png",
     "a_img": "q2_answer_images/E_Lc4C4037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc4C5038",
@@ -26456,7 +28340,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc4C5038_q.png",
     "a_img": "q2_answer_images/E_Lc4C5038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3C1039",
@@ -26467,7 +28352,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc3C1039_q.png",
     "a_img": "q2_answer_images/E_Lc3C1039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3C2040",
@@ -26478,7 +28364,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc3C2040_q.png",
     "a_img": "q2_answer_images/E_Lc3C2040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3C3041",
@@ -26489,7 +28376,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc3C3041_q.png",
     "a_img": "q2_answer_images/E_Lc3C3041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lc3C4042",
@@ -26500,7 +28388,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lc3C4042_q.png",
     "a_img": "q2_answer_images/E_Lc3C4042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5C1043",
@@ -26511,7 +28400,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5C1043_q.png",
     "a_img": "q2_answer_images/E_Jd5C1043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5C1044",
@@ -26522,7 +28412,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5C1044_q.png",
     "a_img": "q2_answer_images/E_Jd5C1044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5C2045",
@@ -26533,7 +28424,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5C2045_q.png",
     "a_img": "q2_answer_images/E_Jd5C2045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5C3046",
@@ -26544,7 +28436,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5C3046_q.png",
     "a_img": "q2_answer_images/E_Jd5C3046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5C4047",
@@ -26555,7 +28448,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5C4047_q.png",
     "a_img": "q2_answer_images/E_Jd5C4047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5C5048",
@@ -26566,7 +28460,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5C5048_q.png",
     "a_img": "q2_answer_images/E_Jd5C5048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4C2050",
@@ -26577,7 +28472,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4C2050_q.png",
     "a_img": "q2_answer_images/E_Jd4C2050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4C2051",
@@ -26588,7 +28484,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4C2051_q.png",
     "a_img": "q2_answer_images/E_Jd4C2051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4C3052",
@@ -26599,7 +28496,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4C3052_q.png",
     "a_img": "q2_answer_images/E_Jd4C3052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4C4053",
@@ -26610,7 +28508,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4C4053_q.png",
     "a_img": "q2_answer_images/E_Jd4C4053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4C5054",
@@ -26621,7 +28520,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4C5054_q.png",
     "a_img": "q2_answer_images/E_Jd4C5054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3C1055",
@@ -26632,7 +28532,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3C1055_q.png",
     "a_img": "q2_answer_images/E_Jd3C1055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3C2056",
@@ -26643,7 +28544,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3C2056_q.png",
     "a_img": "q2_answer_images/E_Jd3C2056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3C4058",
@@ -26654,7 +28556,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3C4058_q.png",
     "a_img": "q2_answer_images/E_Jd3C4058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3C5059",
@@ -26665,7 +28568,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3C5059_q.png",
     "a_img": "q2_answer_images/E_Jd3C5059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C1060",
@@ -26676,7 +28580,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C1060_q.png",
     "a_img": "q2_answer_images/E_Jd2C1060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C2061",
@@ -26687,7 +28592,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C2061_q.png",
     "a_img": "q2_answer_images/E_Jd2C2061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C3062",
@@ -26698,7 +28604,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C3062_q.png",
     "a_img": "q2_answer_images/E_Jd2C3062_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C3063",
@@ -26709,7 +28616,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C3063_q.png",
     "a_img": "q2_answer_images/E_Jd2C3063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C3064",
@@ -26720,7 +28628,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C3064_q.png",
     "a_img": "q2_answer_images/E_Jd2C3064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C4065",
@@ -26731,7 +28640,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4065_q.png",
     "a_img": "q2_answer_images/E_Jd2C4065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C4066",
@@ -26742,7 +28652,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4066_q.png",
     "a_img": "q2_answer_images/E_Jd2C4066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C4067",
@@ -26753,7 +28664,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4067_q.png",
     "a_img": "q2_answer_images/E_Jd2C4067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C4068",
@@ -26764,7 +28676,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4068_q.png",
     "a_img": "q2_answer_images/E_Jd2C4068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C4069",
@@ -26775,7 +28688,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C4069_q.png",
     "a_img": "q2_answer_images/E_Jd2C4069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C5071",
@@ -26786,7 +28700,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C5071_q.png",
     "a_img": "q2_answer_images/E_Jd2C5071_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C5072",
@@ -26797,7 +28712,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C5072_q.png",
     "a_img": "q2_answer_images/E_Jd2C5072_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2C5073",
@@ -26808,7 +28724,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2C5073_q.png",
     "a_img": "q2_answer_images/E_Jd2C5073_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C1074",
@@ -26819,7 +28736,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C1074_q.png",
     "a_img": "q2_answer_images/E_Jd1C1074_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C1075",
@@ -26830,7 +28748,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C1075_q.png",
     "a_img": "q2_answer_images/E_Jd1C1075_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C1076",
@@ -26841,7 +28760,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C1076_q.png",
     "a_img": "q2_answer_images/E_Jd1C1076_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C2077",
@@ -26852,7 +28772,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C2077_q.png",
     "a_img": "q2_answer_images/E_Jd1C2077_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C2078",
@@ -26863,7 +28784,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C2078_q.png",
     "a_img": "q2_answer_images/E_Jd1C2078_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C2079",
@@ -26874,7 +28796,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C2079_q.png",
     "a_img": "q2_answer_images/E_Jd1C2079_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C3080",
@@ -26885,7 +28808,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C3080_q.png",
     "a_img": "q2_answer_images/E_Jd1C3080_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C3081",
@@ -26896,7 +28820,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C3081_q.png",
     "a_img": "q2_answer_images/E_Jd1C3081_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C4082",
@@ -26907,7 +28832,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C4082_q.png",
     "a_img": "q2_answer_images/E_Jd1C4082_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C4083",
@@ -26918,7 +28844,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C4083_q.png",
     "a_img": "q2_answer_images/E_Jd1C4083_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C5084",
@@ -26929,7 +28856,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5084_q.png",
     "a_img": "q2_answer_images/E_Jd1C5084_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C5085",
@@ -26940,7 +28868,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5085_q.png",
     "a_img": "q2_answer_images/E_Jd1C5085_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C5086",
@@ -26951,7 +28880,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5086_q.png",
     "a_img": "q2_answer_images/E_Jd1C5086_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C5087",
@@ -26962,7 +28892,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5087_q.png",
     "a_img": "q2_answer_images/E_Jd1C5087_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1C5088",
@@ -26973,7 +28904,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1C5088_q.png",
     "a_img": "q2_answer_images/E_Jd1C5088_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C1089",
@@ -26984,7 +28916,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C1089_q.png",
     "a_img": "q2_answer_images/E_Je5C1089_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C1090",
@@ -26995,7 +28928,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C1090_q.png",
     "a_img": "q2_answer_images/E_Je5C1090_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C1091",
@@ -27006,7 +28940,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C1091_q.png",
     "a_img": "q2_answer_images/E_Je5C1091_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C1092",
@@ -27017,7 +28952,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C1092_q.png",
     "a_img": "q2_answer_images/E_Je5C1092_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C2093",
@@ -27028,7 +28964,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C2093_q.png",
     "a_img": "q2_answer_images/E_Je5C2093_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C2094",
@@ -27039,7 +28976,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C2094_q.png",
     "a_img": "q2_answer_images/E_Je5C2094_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C2095",
@@ -27050,7 +28988,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C2095_q.png",
     "a_img": "q2_answer_images/E_Je5C2095_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C2096",
@@ -27061,7 +29000,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C2096_q.png",
     "a_img": "q2_answer_images/E_Je5C2096_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C3097",
@@ -27072,7 +29012,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C3097_q.png",
     "a_img": "q2_answer_images/E_Je5C3097_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C3098",
@@ -27083,7 +29024,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C3098_q.png",
     "a_img": "q2_answer_images/E_Je5C3098_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5C3099",
@@ -27094,7 +29036,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5C3099_q.png",
     "a_img": "q2_answer_images/E_Je5C3099_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C1100",
@@ -27105,7 +29048,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C1100_q.png",
     "a_img": "q2_answer_images/E_Je4C1100_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C1101",
@@ -27116,7 +29060,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C1101_q.png",
     "a_img": "q2_answer_images/E_Je4C1101_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C1102",
@@ -27127,7 +29072,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C1102_q.png",
     "a_img": "q2_answer_images/E_Je4C1102_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C1103",
@@ -27138,7 +29084,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C1103_q.png",
     "a_img": "q2_answer_images/E_Je4C1103_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C2104",
@@ -27149,7 +29096,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C2104_q.png",
     "a_img": "q2_answer_images/E_Je4C2104_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C2105",
@@ -27160,7 +29108,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C2105_q.png",
     "a_img": "q2_answer_images/E_Je4C2105_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C2106",
@@ -27171,7 +29120,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C2106_q.png",
     "a_img": "q2_answer_images/E_Je4C2106_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C2107",
@@ -27182,7 +29132,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C2107_q.png",
     "a_img": "q2_answer_images/E_Je4C2107_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C3108",
@@ -27193,7 +29144,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C3108_q.png",
     "a_img": "q2_answer_images/E_Je4C3108_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C3109",
@@ -27204,7 +29156,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C3109_q.png",
     "a_img": "q2_answer_images/E_Je4C3109_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C4110",
@@ -27215,7 +29168,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C4110_q.png",
     "a_img": "q2_answer_images/E_Je4C4110_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C4111",
@@ -27226,7 +29180,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C4111_q.png",
     "a_img": "q2_answer_images/E_Je4C4111_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4C4112",
@@ -27237,7 +29192,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4C4112_q.png",
     "a_img": "q2_answer_images/E_Je4C4112_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C1113",
@@ -27248,7 +29204,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C1113_q.png",
     "a_img": "q2_answer_images/E_Je3C1113_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C1114",
@@ -27259,7 +29216,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C1114_q.png",
     "a_img": "q2_answer_images/E_Je3C1114_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C2115",
@@ -27270,7 +29228,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C2115_q.png",
     "a_img": "q2_answer_images/E_Je3C2115_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C2116",
@@ -27281,7 +29240,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C2116_q.png",
     "a_img": "q2_answer_images/E_Je3C2116_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C2117",
@@ -27292,7 +29252,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C2117_q.png",
     "a_img": "q2_answer_images/E_Je3C2117_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C3118",
@@ -27303,7 +29264,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C3118_q.png",
     "a_img": "q2_answer_images/E_Je3C3118_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C3119",
@@ -27314,7 +29276,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C3119_q.png",
     "a_img": "q2_answer_images/E_Je3C3119_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C3120",
@@ -27325,7 +29288,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C3120_q.png",
     "a_img": "q2_answer_images/E_Je3C3120_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C4121",
@@ -27336,7 +29300,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C4121_q.png",
     "a_img": "q2_answer_images/E_Je3C4121_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C5122",
@@ -27347,7 +29312,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C5122_q.png",
     "a_img": "q2_answer_images/E_Je3C5122_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C5123",
@@ -27358,7 +29324,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C5123_q.png",
     "a_img": "q2_answer_images/E_Je3C5123_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C5124",
@@ -27369,7 +29336,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C5124_q.png",
     "a_img": "q2_answer_images/E_Je3C5124_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C5125",
@@ -27380,7 +29348,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C5125_q.png",
     "a_img": "q2_answer_images/E_Je3C5125_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3C5126",
@@ -27391,7 +29360,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3C5126_q.png",
     "a_img": "q2_answer_images/E_Je3C5126_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C1127",
@@ -27402,7 +29372,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C1127_q.png",
     "a_img": "q2_answer_images/E_Je2C1127_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C1128",
@@ -27413,7 +29384,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C1128_q.png",
     "a_img": "q2_answer_images/E_Je2C1128_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C1129",
@@ -27424,7 +29396,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C1129_q.png",
     "a_img": "q2_answer_images/E_Je2C1129_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C1130",
@@ -27435,7 +29408,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C1130_q.png",
     "a_img": "q2_answer_images/E_Je2C1130_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C1131",
@@ -27446,7 +29420,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C1131_q.png",
     "a_img": "q2_answer_images/E_Je2C1131_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C2133",
@@ -27457,7 +29432,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C2133_q.png",
     "a_img": "q2_answer_images/E_Je2C2133_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C2134",
@@ -27468,7 +29444,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C2134_q.png",
     "a_img": "q2_answer_images/E_Je2C2134_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C2135",
@@ -27479,7 +29456,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C2135_q.png",
     "a_img": "q2_answer_images/E_Je2C2135_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C2136",
@@ -27490,7 +29468,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C2136_q.png",
     "a_img": "q2_answer_images/E_Je2C2136_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C2132",
@@ -27501,7 +29480,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C2132_q.png",
     "a_img": "q2_answer_images/E_Je2C2132_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C2137",
@@ -27512,7 +29492,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C2137_q.png",
     "a_img": "q2_answer_images/E_Je2C2137_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C3138",
@@ -27523,7 +29504,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C3138_q.png",
     "a_img": "q2_answer_images/E_Je2C3138_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C3139",
@@ -27534,7 +29516,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C3139_q.png",
     "a_img": "q2_answer_images/E_Je2C3139_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C3140",
@@ -27545,7 +29528,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C3140_q.png",
     "a_img": "q2_answer_images/E_Je2C3140_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C4141",
@@ -27556,7 +29540,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C4141_q.png",
     "a_img": "q2_answer_images/E_Je2C4141_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C4142",
@@ -27567,7 +29552,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C4142_q.png",
     "a_img": "q2_answer_images/E_Je2C4142_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C5143",
@@ -27578,7 +29564,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C5143_q.png",
     "a_img": "q2_answer_images/E_Je2C5143_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C5144",
@@ -27589,7 +29576,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C5144_q.png",
     "a_img": "q2_answer_images/E_Je2C5144_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C5145",
@@ -27600,7 +29588,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C5145_q.png",
     "a_img": "q2_answer_images/E_Je2C5145_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2C5146",
@@ -27611,7 +29600,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2C5146_q.png",
     "a_img": "q2_answer_images/E_Je2C5146_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C1147",
@@ -27622,7 +29612,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C1147_q.png",
     "a_img": "q2_answer_images/E_Je1C1147_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C1148",
@@ -27633,7 +29624,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C1148_q.png",
     "a_img": "q2_answer_images/E_Je1C1148_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C1149",
@@ -27644,7 +29636,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C1149_q.png",
     "a_img": "q2_answer_images/E_Je1C1149_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C1150",
@@ -27655,7 +29648,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C1150_q.png",
     "a_img": "q2_answer_images/E_Je1C1150_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C1151",
@@ -27666,7 +29660,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C1151_q.png",
     "a_img": "q2_answer_images/E_Je1C1151_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C2153",
@@ -27677,7 +29672,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C2153_q.png",
     "a_img": "q2_answer_images/E_Je1C2153_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C2154",
@@ -27688,7 +29684,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C2154_q.png",
     "a_img": "q2_answer_images/E_Je1C2154_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C2155",
@@ -27699,7 +29696,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C2155_q.png",
     "a_img": "q2_answer_images/E_Je1C2155_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C3156",
@@ -27710,7 +29708,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C3156_q.png",
     "a_img": "q2_answer_images/E_Je1C3156_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C3157",
@@ -27721,7 +29720,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C3157_q.png",
     "a_img": "q2_answer_images/E_Je1C3157_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C3158",
@@ -27732,7 +29732,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C3158_q.png",
     "a_img": "q2_answer_images/E_Je1C3158_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C4159",
@@ -27743,7 +29744,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C4159_q.png",
     "a_img": "q2_answer_images/E_Je1C4159_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C4160",
@@ -27754,7 +29756,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C4160_q.png",
     "a_img": "q2_answer_images/E_Je1C4160_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C5161",
@@ -27765,7 +29768,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C5161_q.png",
     "a_img": "q2_answer_images/E_Je1C5161_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1C5162",
@@ -27776,7 +29780,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1C5162_q.png",
     "a_img": "q2_answer_images/E_Je1C5162_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf5C1163",
@@ -27787,7 +29792,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf5C1163_q.png",
     "a_img": "q2_answer_images/E_Jf5C1163_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf5C2164",
@@ -27798,7 +29804,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf5C2164_q.png",
     "a_img": "q2_answer_images/E_Jf5C2164_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf5C3165",
@@ -27809,7 +29816,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf5C3165_q.png",
     "a_img": "q2_answer_images/E_Jf5C3165_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf5C4166",
@@ -27820,7 +29828,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf5C4166_q.png",
     "a_img": "q2_answer_images/E_Jf5C4166_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf5C5167",
@@ -27831,7 +29840,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf5C5167_q.png",
     "a_img": "q2_answer_images/E_Jf5C5167_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4C1169",
@@ -27842,7 +29852,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf4C1169_q.png",
     "a_img": "q2_answer_images/E_Jf4C1169_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4C2170",
@@ -27853,7 +29864,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf4C2170_q.png",
     "a_img": "q2_answer_images/E_Jf4C2170_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4C3171",
@@ -27864,7 +29876,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf4C3171_q.png",
     "a_img": "q2_answer_images/E_Jf4C3171_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4C4172",
@@ -27875,7 +29888,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf4C4172_q.png",
     "a_img": "q2_answer_images/E_Jf4C4172_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf4C5173",
@@ -27886,7 +29900,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf4C5173_q.png",
     "a_img": "q2_answer_images/E_Jf4C5173_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3C3176",
@@ -27897,7 +29912,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf3C3176_q.png",
     "a_img": "q2_answer_images/E_Jf3C3176_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3C4177",
@@ -27908,7 +29924,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf3C4177_q.png",
     "a_img": "q2_answer_images/E_Jf3C4177_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2C1180",
@@ -27919,7 +29936,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2C1180_q.png",
     "a_img": "q2_answer_images/E_Jf2C1180_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2C1181",
@@ -27930,7 +29948,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2C1181_q.png",
     "a_img": "q2_answer_images/E_Jf2C1181_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2C3182",
@@ -27941,7 +29960,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2C3182_q.png",
     "a_img": "q2_answer_images/E_Jf2C3182_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2C4183",
@@ -27952,7 +29972,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2C4183_q.png",
     "a_img": "q2_answer_images/E_Jf2C4183_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2C4184",
@@ -27963,7 +29984,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2C4184_q.png",
     "a_img": "q2_answer_images/E_Jf2C4184_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2C5185",
@@ -27974,7 +29996,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2C5185_q.png",
     "a_img": "q2_answer_images/E_Jf2C5185_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C1187",
@@ -27985,7 +30008,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C1187_q.png",
     "a_img": "q2_answer_images/E_Jf1C1187_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C1188",
@@ -27996,7 +30020,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C1188_q.png",
     "a_img": "q2_answer_images/E_Jf1C1188_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C2189",
@@ -28007,7 +30032,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C2189_q.png",
     "a_img": "q2_answer_images/E_Jf1C2189_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C2190",
@@ -28018,7 +30044,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C2190_q.png",
     "a_img": "q2_answer_images/E_Jf1C2190_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C3191",
@@ -28029,7 +30056,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C3191_q.png",
     "a_img": "q2_answer_images/E_Jf1C3191_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C3192",
@@ -28040,7 +30068,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C3192_q.png",
     "a_img": "q2_answer_images/E_Jf1C3192_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C4193",
@@ -28051,7 +30080,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C4193_q.png",
     "a_img": "q2_answer_images/E_Jf1C4193_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5194",
@@ -28062,7 +30092,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5194_q.png",
     "a_img": "q2_answer_images/E_Jf1C5194_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5195",
@@ -28073,7 +30104,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5195_q.png",
     "a_img": "q2_answer_images/E_Jf1C5195_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5196",
@@ -28084,7 +30116,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5196_q.png",
     "a_img": "q2_answer_images/E_Jf1C5196_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5197",
@@ -28095,7 +30128,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5197_q.png",
     "a_img": "q2_answer_images/E_Jf1C5197_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5198",
@@ -28106,7 +30140,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5198_q.png",
     "a_img": "q2_answer_images/E_Jf1C5198_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5199",
@@ -28117,7 +30152,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5199_q.png",
     "a_img": "q2_answer_images/E_Jf1C5199_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5200",
@@ -28128,7 +30164,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5200_q.png",
     "a_img": "q2_answer_images/E_Jf1C5200_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5201",
@@ -28139,7 +30176,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5201_q.png",
     "a_img": "q2_answer_images/E_Jf1C5201_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1C5202",
@@ -28150,7 +30188,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1C5202_q.png",
     "a_img": "q2_answer_images/E_Jf1C5202_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D1001",
@@ -28161,7 +30200,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D1001_q.png",
     "a_img": "q2_answer_images/E_La5D1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D1002",
@@ -28172,7 +30212,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D1002_q.png",
     "a_img": "q2_answer_images/E_La5D1002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D2003",
@@ -28183,7 +30224,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D2003_q.png",
     "a_img": "q2_answer_images/E_La5D2003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D2004",
@@ -28194,7 +30236,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D2004_q.png",
     "a_img": "q2_answer_images/E_La5D2004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D3005",
@@ -28205,7 +30248,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D3005_q.png",
     "a_img": "q2_answer_images/E_La5D3005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D3006",
@@ -28216,7 +30260,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D3006_q.png",
     "a_img": "q2_answer_images/E_La5D3006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D4007",
@@ -28227,7 +30272,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D4007_q.png",
     "a_img": "q2_answer_images/E_La5D4007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D4008",
@@ -28238,7 +30284,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D4008_q.png",
     "a_img": "q2_answer_images/E_La5D4008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D5009",
@@ -28249,7 +30296,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D5009_q.png",
     "a_img": "q2_answer_images/E_La5D5009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5D5010",
@@ -28260,7 +30308,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5D5010_q.png",
     "a_img": "q2_answer_images/E_La5D5010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D1011",
@@ -28271,7 +30320,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D1011_q.png",
     "a_img": "q2_answer_images/E_La4D1011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D1012",
@@ -28282,7 +30332,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D1012_q.png",
     "a_img": "q2_answer_images/E_La4D1012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D2013",
@@ -28293,7 +30344,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D2013_q.png",
     "a_img": "q2_answer_images/E_La4D2013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D2014",
@@ -28304,7 +30356,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D2014_q.png",
     "a_img": "q2_answer_images/E_La4D2014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D3015",
@@ -28315,7 +30368,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D3015_q.png",
     "a_img": "q2_answer_images/E_La4D3015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D3016",
@@ -28326,7 +30380,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D3016_q.png",
     "a_img": "q2_answer_images/E_La4D3016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D4017",
@@ -28337,7 +30392,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D4017_q.png",
     "a_img": "q2_answer_images/E_La4D4017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D4018",
@@ -28348,7 +30404,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D4018_q.png",
     "a_img": "q2_answer_images/E_La4D4018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D5019",
@@ -28359,7 +30416,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D5019_q.png",
     "a_img": "q2_answer_images/E_La4D5019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4D5020",
@@ -28370,7 +30428,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4D5020_q.png",
     "a_img": "q2_answer_images/E_La4D5020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D1021",
@@ -28381,7 +30440,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D1021_q.png",
     "a_img": "q2_answer_images/E_La3D1021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D1022",
@@ -28392,7 +30452,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D1022_q.png",
     "a_img": "q2_answer_images/E_La3D1022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D2023",
@@ -28403,7 +30464,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D2023_q.png",
     "a_img": "q2_answer_images/E_La3D2023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D2024",
@@ -28414,7 +30476,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D2024_q.png",
     "a_img": "q2_answer_images/E_La3D2024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D3025",
@@ -28425,7 +30488,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D3025_q.png",
     "a_img": "q2_answer_images/E_La3D3025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D3026",
@@ -28436,7 +30500,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D3026_q.png",
     "a_img": "q2_answer_images/E_La3D3026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D4027",
@@ -28447,7 +30512,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D4027_q.png",
     "a_img": "q2_answer_images/E_La3D4027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D4028",
@@ -28458,7 +30524,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D4028_q.png",
     "a_img": "q2_answer_images/E_La3D4028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D5029",
@@ -28469,7 +30536,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D5029_q.png",
     "a_img": "q2_answer_images/E_La3D5029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3D5030",
@@ -28480,7 +30548,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3D5030_q.png",
     "a_img": "q2_answer_images/E_La3D5030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D1031",
@@ -28491,7 +30560,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D1031_q.png",
     "a_img": "q2_answer_images/E_La2D1031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D1032",
@@ -28502,7 +30572,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D1032_q.png",
     "a_img": "q2_answer_images/E_La2D1032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D2033",
@@ -28513,7 +30584,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D2033_q.png",
     "a_img": "q2_answer_images/E_La2D2033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D2034",
@@ -28524,7 +30596,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D2034_q.png",
     "a_img": "q2_answer_images/E_La2D2034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D3035",
@@ -28535,7 +30608,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D3035_q.png",
     "a_img": "q2_answer_images/E_La2D3035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D3036",
@@ -28546,7 +30620,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D3036_q.png",
     "a_img": "q2_answer_images/E_La2D3036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D4037",
@@ -28557,7 +30632,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D4037_q.png",
     "a_img": "q2_answer_images/E_La2D4037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D4038",
@@ -28568,7 +30644,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D4038_q.png",
     "a_img": "q2_answer_images/E_La2D4038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D5039",
@@ -28579,7 +30656,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D5039_q.png",
     "a_img": "q2_answer_images/E_La2D5039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2D5040",
@@ -28590,7 +30668,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2D5040_q.png",
     "a_img": "q2_answer_images/E_La2D5040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D1041",
@@ -28601,7 +30680,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D1041_q.png",
     "a_img": "q2_answer_images/E_La1D1041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D1042",
@@ -28612,7 +30692,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D1042_q.png",
     "a_img": "q2_answer_images/E_La1D1042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D2043",
@@ -28623,7 +30704,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D2043_q.png",
     "a_img": "q2_answer_images/E_La1D2043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D2044",
@@ -28634,7 +30716,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D2044_q.png",
     "a_img": "q2_answer_images/E_La1D2044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D3045",
@@ -28645,7 +30728,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D3045_q.png",
     "a_img": "q2_answer_images/E_La1D3045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D3046",
@@ -28656,7 +30740,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D3046_q.png",
     "a_img": "q2_answer_images/E_La1D3046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D3047",
@@ -28667,7 +30752,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D3047_q.png",
     "a_img": "q2_answer_images/E_La1D3047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D4048",
@@ -28678,7 +30764,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D4048_q.png",
     "a_img": "q2_answer_images/E_La1D4048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D5049",
@@ -28689,7 +30776,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D5049_q.png",
     "a_img": "q2_answer_images/E_La1D5049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1D5050",
@@ -28700,7 +30788,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1D5050_q.png",
     "a_img": "q2_answer_images/E_La1D5050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D1051",
@@ -28711,7 +30800,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D1051_q.png",
     "a_img": "q2_answer_images/E_Lb5D1051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D1052",
@@ -28722,7 +30812,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D1052_q.png",
     "a_img": "q2_answer_images/E_Lb5D1052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D2053",
@@ -28733,7 +30824,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D2053_q.png",
     "a_img": "q2_answer_images/E_Lb5D2053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D1054",
@@ -28744,7 +30836,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D1054_q.png",
     "a_img": "q2_answer_images/E_Lb5D1054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D3055",
@@ -28755,7 +30848,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D3055_q.png",
     "a_img": "q2_answer_images/E_Lb5D3055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D3056",
@@ -28766,7 +30860,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D3056_q.png",
     "a_img": "q2_answer_images/E_Lb5D3056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D4057",
@@ -28777,7 +30872,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D4057_q.png",
     "a_img": "q2_answer_images/E_Lb5D4057_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D4058",
@@ -28788,7 +30884,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D4058_q.png",
     "a_img": "q2_answer_images/E_Lb5D4058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5D5059",
@@ -28799,7 +30896,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5D5059_q.png",
     "a_img": "q2_answer_images/E_Lb5D5059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D1060",
@@ -28810,7 +30908,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1060_q.png",
     "a_img": "q2_answer_images/E_Lb4D1060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D1061",
@@ -28821,7 +30920,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1061_q.png",
     "a_img": "q2_answer_images/E_Lb4D1061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D1062",
@@ -28832,7 +30932,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1062_q.png",
     "a_img": "q2_answer_images/E_Lb4D1062_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D2063",
@@ -28843,7 +30944,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D2063_q.png",
     "a_img": "q2_answer_images/E_Lb4D2063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D2064",
@@ -28854,7 +30956,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D2064_q.png",
     "a_img": "q2_answer_images/E_Lb4D2064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D3065",
@@ -28865,7 +30968,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D3065_q.png",
     "a_img": "q2_answer_images/E_Lb4D3065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D4066",
@@ -28876,7 +30980,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D4066_q.png",
     "a_img": "q2_answer_images/E_Lb4D4066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D4067",
@@ -28887,7 +30992,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D4067_q.png",
     "a_img": "q2_answer_images/E_Lb4D4067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D4068",
@@ -28898,7 +31004,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D4068_q.png",
     "a_img": "q2_answer_images/E_Lb4D4068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D5069",
@@ -28909,7 +31016,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D5069_q.png",
     "a_img": "q2_answer_images/E_Lb4D5069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D5070",
@@ -28920,7 +31028,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D5070_q.png",
     "a_img": "q2_answer_images/E_Lb4D5070_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D1071",
@@ -28931,7 +31040,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1071_q.png",
     "a_img": "q2_answer_images/E_Lb4D1071_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D1072",
@@ -28942,7 +31052,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D1072_q.png",
     "a_img": "q2_answer_images/E_Lb4D1072_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4D2073",
@@ -28953,7 +31064,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4D2073_q.png",
     "a_img": "q2_answer_images/E_Lb4D2073_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3D2074",
@@ -28964,7 +31076,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3D2074_q.png",
     "a_img": "q2_answer_images/E_Lb3D2074_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3D3075",
@@ -28975,7 +31088,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3D3075_q.png",
     "a_img": "q2_answer_images/E_Lb3D3075_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3D3076",
@@ -28986,7 +31100,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3D3076_q.png",
     "a_img": "q2_answer_images/E_Lb3D3076_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3D4077",
@@ -28997,7 +31112,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3D4077_q.png",
     "a_img": "q2_answer_images/E_Lb3D4077_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3D4078",
@@ -29008,7 +31124,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3D4078_q.png",
     "a_img": "q2_answer_images/E_Lb3D4078_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3D5079",
@@ -29019,7 +31136,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3D5079_q.png",
     "a_img": "q2_answer_images/E_Lb3D5079_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2D5080",
@@ -29030,7 +31148,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2D5080_q.png",
     "a_img": "q2_answer_images/E_Je2D5080_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2D1081",
@@ -29041,7 +31160,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2D1081_q.png",
     "a_img": "q2_answer_images/E_Lb2D1081_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2D1082",
@@ -29052,7 +31172,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2D1082_q.png",
     "a_img": "q2_answer_images/E_Lb2D1082_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2D2083",
@@ -29063,7 +31184,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2D2083_q.png",
     "a_img": "q2_answer_images/E_Lb2D2083_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2D2084",
@@ -29074,7 +31196,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2D2084_q.png",
     "a_img": "q2_answer_images/E_Lb2D2084_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2D3085",
@@ -29085,7 +31208,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2D3085_q.png",
     "a_img": "q2_answer_images/E_Lb2D3085_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2D3086",
@@ -29096,7 +31220,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2D3086_q.png",
     "a_img": "q2_answer_images/E_Lb2D3086_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D5087",
@@ -29107,7 +31232,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5087_q.png",
     "a_img": "q2_answer_images/E_Lb1D5087_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D5088",
@@ -29118,7 +31244,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5088_q.png",
     "a_img": "q2_answer_images/E_Lb1D5088_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D5089",
@@ -29129,7 +31256,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5089_q.png",
     "a_img": "q2_answer_images/E_Lb1D5089_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D5090",
@@ -29140,7 +31268,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5090_q.png",
     "a_img": "q2_answer_images/E_Lb1D5090_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D5091",
@@ -29151,7 +31280,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5091_q.png",
     "a_img": "q2_answer_images/E_Lb1D5091_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D5092",
@@ -29162,7 +31292,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5092_q.png",
     "a_img": "q2_answer_images/E_Lb1D5092_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D5093",
@@ -29173,7 +31304,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5093_q.png",
     "a_img": "q2_answer_images/E_Lb1D5093_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D4094",
@@ -29184,7 +31316,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D4094_q.png",
     "a_img": "q2_answer_images/E_Lb1D4094_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1D5095",
@@ -29195,7 +31328,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1D5095_q.png",
     "a_img": "q2_answer_images/E_Lb1D5095_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5D1096",
@@ -29206,7 +31340,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5D1096_q.png",
     "a_img": "q2_answer_images/E_Jd5D1096_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5D1097",
@@ -29217,7 +31352,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5D1097_q.png",
     "a_img": "q2_answer_images/E_Jd5D1097_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5D2098",
@@ -29228,7 +31364,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5D2098_q.png",
     "a_img": "q2_answer_images/E_Jd5D2098_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5D3099",
@@ -29239,7 +31376,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5D3099_q.png",
     "a_img": "q2_answer_images/E_Jd5D3099_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Ld5D4100",
@@ -29250,7 +31388,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Ld5D4100_q.png",
     "a_img": "q2_answer_images/E_Ld5D4100_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4D1101",
@@ -29261,7 +31400,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4D1101_q.png",
     "a_img": "q2_answer_images/E_Jd4D1101_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4D2102",
@@ -29272,7 +31412,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4D2102_q.png",
     "a_img": "q2_answer_images/E_Jd4D2102_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4D5103",
@@ -29283,7 +31424,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4D5103_q.png",
     "a_img": "q2_answer_images/E_Jd4D5103_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3D1104",
@@ -29294,7 +31436,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3D1104_q.png",
     "a_img": "q2_answer_images/E_Jd3D1104_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3D2105",
@@ -29305,7 +31448,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3D2105_q.png",
     "a_img": "q2_answer_images/E_Jd3D2105_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3D3106",
@@ -29316,7 +31460,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3D3106_q.png",
     "a_img": "q2_answer_images/E_Jd3D3106_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3D4107",
@@ -29327,7 +31472,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3D4107_q.png",
     "a_img": "q2_answer_images/E_Jd3D4107_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2D3108",
@@ -29338,7 +31484,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2D3108_q.png",
     "a_img": "q2_answer_images/E_Jd2D3108_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2D4109",
@@ -29349,7 +31496,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2D4109_q.png",
     "a_img": "q2_answer_images/E_Jd2D4109_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2D5110",
@@ -29360,7 +31508,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2D5110_q.png",
     "a_img": "q2_answer_images/E_Jd2D5110_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2D5111",
@@ -29371,7 +31520,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2D5111_q.png",
     "a_img": "q2_answer_images/E_Jd2D5111_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D3112",
@@ -29382,7 +31532,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D3112_q.png",
     "a_img": "q2_answer_images/E_Jd1D3112_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D3113",
@@ -29393,7 +31544,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3113_q.png",
     "a_img": "q2_answer_images/E_Jb1D3113_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D3114",
@@ -29404,7 +31556,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3114_q.png",
     "a_img": "q2_answer_images/E_Jb1D3114_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D3115",
@@ -29415,7 +31568,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3115_q.png",
     "a_img": "q2_answer_images/E_Jb1D3115_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D3116",
@@ -29426,7 +31580,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3116_q.png",
     "a_img": "q2_answer_images/E_Jb1D3116_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D3117",
@@ -29437,7 +31592,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3117_q.png",
     "a_img": "q2_answer_images/E_Jb1D3117_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D3118",
@@ -29448,7 +31604,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D3118_q.png",
     "a_img": "q2_answer_images/E_Jb1D3118_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D4119",
@@ -29459,7 +31616,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D4119_q.png",
     "a_img": "q2_answer_images/E_Jb1D4119_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D4120",
@@ -29470,7 +31628,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D4120_q.png",
     "a_img": "q2_answer_images/E_Jb1D4120_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jb1D4121",
@@ -29481,7 +31640,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jb1D4121_q.png",
     "a_img": "q2_answer_images/E_Jb1D4121_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D1122",
@@ -29492,7 +31652,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D1122_q.png",
     "a_img": "q2_answer_images/E_Jd1D1122_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D2123",
@@ -29503,7 +31664,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D2123_q.png",
     "a_img": "q2_answer_images/E_Jd1D2123_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D2124",
@@ -29514,7 +31676,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D2124_q.png",
     "a_img": "q2_answer_images/E_Jd1D2124_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D2125",
@@ -29525,7 +31688,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D2125_q.png",
     "a_img": "q2_answer_images/E_Jd1D2125_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D3126",
@@ -29536,7 +31700,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D3126_q.png",
     "a_img": "q2_answer_images/E_Jd1D3126_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D3127",
@@ -29547,7 +31712,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D3127_q.png",
     "a_img": "q2_answer_images/E_Jd1D3127_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D3128",
@@ -29558,7 +31724,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D3128_q.png",
     "a_img": "q2_answer_images/E_Jd1D3128_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D4129",
@@ -29569,7 +31736,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D4129_q.png",
     "a_img": "q2_answer_images/E_Jd1D4129_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D4130",
@@ -29580,7 +31748,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D4130_q.png",
     "a_img": "q2_answer_images/E_Jd1D4130_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1D5131",
@@ -29591,7 +31760,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1D5131_q.png",
     "a_img": "q2_answer_images/E_Jd1D5131_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5E1001",
@@ -29602,7 +31772,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5E1001_q.png",
     "a_img": "q2_answer_images/E_La5E1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5E2002",
@@ -29613,7 +31784,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5E2002_q.png",
     "a_img": "q2_answer_images/E_La5E2002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5E3003",
@@ -29624,7 +31796,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5E3003_q.png",
     "a_img": "q2_answer_images/E_La5E3003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5E4004",
@@ -29635,7 +31808,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5E4004_q.png",
     "a_img": "q2_answer_images/E_La5E4004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La5E5005",
@@ -29646,7 +31820,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La5E5005_q.png",
     "a_img": "q2_answer_images/E_La5E5005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4E1006",
@@ -29657,7 +31832,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4E1006_q.png",
     "a_img": "q2_answer_images/E_La4E1006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4E3008",
@@ -29668,7 +31844,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4E3008_q.png",
     "a_img": "q2_answer_images/E_La4E3008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4E4009",
@@ -29679,7 +31856,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4E4009_q.png",
     "a_img": "q2_answer_images/E_La4E4009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4E2007",
@@ -29690,7 +31868,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4E2007_q.png",
     "a_img": "q2_answer_images/E_La4E2007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La4E5010",
@@ -29701,7 +31880,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La4E5010_q.png",
     "a_img": "q2_answer_images/E_La4E5010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3E1011",
@@ -29712,7 +31892,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3E1011_q.png",
     "a_img": "q2_answer_images/E_La3E1011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3E2012",
@@ -29723,7 +31904,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3E2012_q.png",
     "a_img": "q2_answer_images/E_La3E2012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3E3013",
@@ -29734,7 +31916,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3E3013_q.png",
     "a_img": "q2_answer_images/E_La3E3013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La3E5014",
@@ -29745,7 +31928,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La3E5014_q.png",
     "a_img": "q2_answer_images/E_La3E5014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2E1015",
@@ -29756,7 +31940,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2E1015_q.png",
     "a_img": "q2_answer_images/E_La2E1015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2E2016",
@@ -29767,7 +31952,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2E2016_q.png",
     "a_img": "q2_answer_images/E_La2E2016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2E3017",
@@ -29778,7 +31964,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2E3017_q.png",
     "a_img": "q2_answer_images/E_La2E3017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2E4018",
@@ -29789,7 +31976,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2E4018_q.png",
     "a_img": "q2_answer_images/E_La2E4018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La2E5019",
@@ -29800,7 +31988,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La2E5019_q.png",
     "a_img": "q2_answer_images/E_La2E5019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1E1020",
@@ -29811,7 +32000,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1E1020_q.png",
     "a_img": "q2_answer_images/E_La1E1020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1E2021",
@@ -29822,7 +32012,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1E2021_q.png",
     "a_img": "q2_answer_images/E_La1E2021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1E3022",
@@ -29833,7 +32024,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1E3022_q.png",
     "a_img": "q2_answer_images/E_La1E3022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1E4023",
@@ -29844,7 +32036,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1E4023_q.png",
     "a_img": "q2_answer_images/E_La1E4023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5E1025",
@@ -29855,7 +32048,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5E1025_q.png",
     "a_img": "q2_answer_images/E_Lb5E1025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5E2026",
@@ -29866,7 +32060,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5E2026_q.png",
     "a_img": "q2_answer_images/E_Lb5E2026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_La1E5024",
@@ -29877,7 +32072,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_La1E5024_q.png",
     "a_img": "q2_answer_images/E_La1E5024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5E3027",
@@ -29888,7 +32084,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5E3027_q.png",
     "a_img": "q2_answer_images/E_Lb5E3027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5E4028",
@@ -29899,7 +32096,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5E4028_q.png",
     "a_img": "q2_answer_images/E_Lb5E4028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb5E5029",
@@ -29910,7 +32108,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb5E5029_q.png",
     "a_img": "q2_answer_images/E_Lb5E5029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4E1030",
@@ -29921,7 +32120,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4E1030_q.png",
     "a_img": "q2_answer_images/E_Lb4E1030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4E2031",
@@ -29932,7 +32132,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4E2031_q.png",
     "a_img": "q2_answer_images/E_Lb4E2031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4E3032",
@@ -29943,7 +32144,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4E3032_q.png",
     "a_img": "q2_answer_images/E_Lb4E3032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4E4033",
@@ -29954,7 +32156,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4E4033_q.png",
     "a_img": "q2_answer_images/E_Lb4E4033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb4E5034",
@@ -29965,7 +32168,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb4E5034_q.png",
     "a_img": "q2_answer_images/E_Lb4E5034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3E1035",
@@ -29976,7 +32180,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3E1035_q.png",
     "a_img": "q2_answer_images/E_Lb3E1035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3E2036",
@@ -29987,7 +32192,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3E2036_q.png",
     "a_img": "q2_answer_images/E_Lb3E2036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3E3037",
@@ -29998,7 +32204,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3E3037_q.png",
     "a_img": "q2_answer_images/E_Lb3E3037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3E5039",
@@ -30009,7 +32216,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3E5039_q.png",
     "a_img": "q2_answer_images/E_Lb3E5039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb3F4038",
@@ -30020,7 +32228,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb3F4038_q.png",
     "a_img": "q2_answer_images/E_Lb3F4038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2E1040",
@@ -30031,7 +32240,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2E1040_q.png",
     "a_img": "q2_answer_images/E_Lb2E1040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2E2041",
@@ -30042,7 +32252,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2E2041_q.png",
     "a_img": "q2_answer_images/E_Lb2E2041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2E3042",
@@ -30053,7 +32264,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2E3042_q.png",
     "a_img": "q2_answer_images/E_Lb2E3042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2E4044",
@@ -30064,7 +32276,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2E4044_q.png",
     "a_img": "q2_answer_images/E_Lb2E4044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1E1045",
@@ -30075,7 +32288,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1E1045_q.png",
     "a_img": "q2_answer_images/E_Lb1E1045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb2E4043",
@@ -30086,7 +32300,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb2E4043_q.png",
     "a_img": "q2_answer_images/E_Lb2E4043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1E2046",
@@ -30097,7 +32312,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1E2046_q.png",
     "a_img": "q2_answer_images/E_Lb1E2046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Lb1E3047",
@@ -30108,7 +32324,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Lb1E3047_q.png",
     "a_img": "q2_answer_images/E_Lb1E3047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5E1048",
@@ -30119,7 +32336,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5E1048_q.png",
     "a_img": "q2_answer_images/E_Jd5E1048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5E1049",
@@ -30130,7 +32348,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5E1049_q.png",
     "a_img": "q2_answer_images/E_Jd5E1049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5E1050",
@@ -30141,7 +32360,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5E1050_q.png",
     "a_img": "q2_answer_images/E_Jd5E1050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5E2051",
@@ -30152,7 +32372,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5E2051_q.png",
     "a_img": "q2_answer_images/E_Jd5E2051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5E3052",
@@ -30163,7 +32384,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5E3052_q.png",
     "a_img": "q2_answer_images/E_Jd5E3052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5E4053",
@@ -30174,7 +32396,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5E4053_q.png",
     "a_img": "q2_answer_images/E_Jd5E4053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd5E5054",
@@ -30185,7 +32408,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd5E5054_q.png",
     "a_img": "q2_answer_images/E_Jd5E5054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4E1055",
@@ -30196,7 +32420,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4E1055_q.png",
     "a_img": "q2_answer_images/E_Jd4E1055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4E2056",
@@ -30207,7 +32432,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4E2056_q.png",
     "a_img": "q2_answer_images/E_Jd4E2056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4E3057",
@@ -30218,7 +32444,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4E3057_q.png",
     "a_img": "q2_answer_images/E_Jd4E3057_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4E4058",
@@ -30229,7 +32456,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4E4058_q.png",
     "a_img": "q2_answer_images/E_Jd4E4058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4E5059",
@@ -30240,7 +32468,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4E5059_q.png",
     "a_img": "q2_answer_images/E_Jd4E5059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3E1060",
@@ -30251,7 +32480,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3E1060_q.png",
     "a_img": "q2_answer_images/E_Jd3E1060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3E2061",
@@ -30262,7 +32492,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3E2061_q.png",
     "a_img": "q2_answer_images/E_Jd3E2061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3E3062",
@@ -30273,7 +32504,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3E3062_q.png",
     "a_img": "q2_answer_images/E_Jd3E3062_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3E4063",
@@ -30284,7 +32516,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3E4063_q.png",
     "a_img": "q2_answer_images/E_Jd3E4063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3E5064",
@@ -30295,7 +32528,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3E5064_q.png",
     "a_img": "q2_answer_images/E_Jd3E5064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3E5065",
@@ -30306,7 +32540,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3E5065_q.png",
     "a_img": "q2_answer_images/E_Jd3E5065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2E4066",
@@ -30317,7 +32552,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2E4066_q.png",
     "a_img": "q2_answer_images/E_Jd2E4066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2E5067",
@@ -30328,7 +32564,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2E5067_q.png",
     "a_img": "q2_answer_images/E_Jd2E5067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1E1068",
@@ -30339,7 +32576,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1E1068_q.png",
     "a_img": "q2_answer_images/E_Jd1E1068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1E2069",
@@ -30350,7 +32588,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1E2069_q.png",
     "a_img": "q2_answer_images/E_Jd1E2069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1E3070",
@@ -30361,7 +32600,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1E3070_q.png",
     "a_img": "q2_answer_images/E_Jd1E3070_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1E4071",
@@ -30372,7 +32612,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1E4071_q.png",
     "a_img": "q2_answer_images/E_Jd1E4071_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1E5072",
@@ -30383,7 +32624,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1E5072_q.png",
     "a_img": "q2_answer_images/E_Jd1E5072_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E1074",
@@ -30394,7 +32636,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E1074_q.png",
     "a_img": "q2_answer_images/E_Je5E1074_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E1075",
@@ -30405,7 +32648,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E1075_q.png",
     "a_img": "q2_answer_images/E_Je5E1075_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1E5073",
@@ -30416,7 +32660,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1E5073_q.png",
     "a_img": "q2_answer_images/E_Jd1E5073_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E2076",
@@ -30427,7 +32672,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E2076_q.png",
     "a_img": "q2_answer_images/E_Je5E2076_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E3077",
@@ -30438,7 +32684,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E3077_q.png",
     "a_img": "q2_answer_images/E_Je5E3077_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E4078",
@@ -30449,7 +32696,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E4078_q.png",
     "a_img": "q2_answer_images/E_Je5E4078_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E4079",
@@ -30460,7 +32708,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E4079_q.png",
     "a_img": "q2_answer_images/E_Je5E4079_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E4080",
@@ -30471,7 +32720,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E4080_q.png",
     "a_img": "q2_answer_images/E_Je5E4080_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E5081",
@@ -30482,7 +32732,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E5081_q.png",
     "a_img": "q2_answer_images/E_Je5E5081_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je5E2082",
@@ -30493,7 +32744,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je5E2082_q.png",
     "a_img": "q2_answer_images/E_Je5E2082_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4E1083",
@@ -30504,7 +32756,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4E1083_q.png",
     "a_img": "q2_answer_images/E_Je4E1083_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4E3084",
@@ -30515,7 +32768,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4E3084_q.png",
     "a_img": "q2_answer_images/E_Je4E3084_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4E4085",
@@ -30526,7 +32780,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4E4085_q.png",
     "a_img": "q2_answer_images/E_Je4E4085_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4E5086",
@@ -30537,7 +32792,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4E5086_q.png",
     "a_img": "q2_answer_images/E_Je4E5086_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3E1087",
@@ -30548,7 +32804,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3E1087_q.png",
     "a_img": "q2_answer_images/E_Je3E1087_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3E2088",
@@ -30559,7 +32816,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3E2088_q.png",
     "a_img": "q2_answer_images/E_Je3E2088_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3E3089",
@@ -30570,7 +32828,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3E3089_q.png",
     "a_img": "q2_answer_images/E_Je3E3089_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3E4090",
@@ -30581,7 +32840,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3E4090_q.png",
     "a_img": "q2_answer_images/E_Je3E4090_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3E5091",
@@ -30592,7 +32852,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3E5091_q.png",
     "a_img": "q2_answer_images/E_Je3E5091_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2E1092",
@@ -30603,7 +32864,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2E1092_q.png",
     "a_img": "q2_answer_images/E_Je2E1092_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2E2093",
@@ -30614,7 +32876,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2E2093_q.png",
     "a_img": "q2_answer_images/E_Je2E2093_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2E3094",
@@ -30625,7 +32888,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2E3094_q.png",
     "a_img": "q2_answer_images/E_Je2E3094_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2E4095",
@@ -30636,7 +32900,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2E4095_q.png",
     "a_img": "q2_answer_images/E_Je2E4095_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2E5096",
@@ -30647,7 +32912,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2E5096_q.png",
     "a_img": "q2_answer_images/E_Je2E5096_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1E1097",
@@ -30658,7 +32924,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1E1097_q.png",
     "a_img": "q2_answer_images/E_Je1E1097_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1E2098",
@@ -30669,7 +32936,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1E2098_q.png",
     "a_img": "q2_answer_images/E_Je1E2098_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1E3099",
@@ -30680,7 +32948,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1E3099_q.png",
     "a_img": "q2_answer_images/E_Je1E3099_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1F4100",
@@ -30691,7 +32960,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1F4100_q.png",
     "a_img": "q2_answer_images/E_Je1F4100_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1E5101",
@@ -30702,7 +32972,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1E5101_q.png",
     "a_img": "q2_answer_images/E_Je1E5101_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3E1103",
@@ -30713,7 +32984,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf3E1103_q.png",
     "a_img": "q2_answer_images/E_Jf3E1103_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je1E5102",
@@ -30724,7 +32996,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je1E5102_q.png",
     "a_img": "q2_answer_images/E_Je1E5102_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3E2104",
@@ -30735,7 +33008,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf3E2104_q.png",
     "a_img": "q2_answer_images/E_Jf3E2104_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3E5105",
@@ -30746,7 +33020,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf3E5105_q.png",
     "a_img": "q2_answer_images/E_Jf3E5105_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2E1106",
@@ -30757,7 +33032,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2E1106_q.png",
     "a_img": "q2_answer_images/E_Jf2E1106_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2E2107",
@@ -30768,7 +33044,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2E2107_q.png",
     "a_img": "q2_answer_images/E_Jf2E2107_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf2E3108",
@@ -30779,7 +33056,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf2E3108_q.png",
     "a_img": "q2_answer_images/E_Jf2E3108_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4F1001",
@@ -30790,7 +33068,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4F1001_q.png",
     "a_img": "q2_answer_images/E_Jd4F1001_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4F2002",
@@ -30801,7 +33080,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4F2002_q.png",
     "a_img": "q2_answer_images/E_Jd4F2002_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4F3003",
@@ -30812,7 +33092,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4F3003_q.png",
     "a_img": "q2_answer_images/E_Jd4F3003_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4F4004",
@@ -30823,7 +33104,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4F4004_q.png",
     "a_img": "q2_answer_images/E_Jd4F4004_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd4F5005",
@@ -30834,7 +33116,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd4F5005_q.png",
     "a_img": "q2_answer_images/E_Jd4F5005_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F1006",
@@ -30845,7 +33128,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F1006_q.png",
     "a_img": "q2_answer_images/E_Jd3F1006_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F2007",
@@ -30856,7 +33140,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F2007_q.png",
     "a_img": "q2_answer_images/E_Jd3F2007_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F3008",
@@ -30867,7 +33152,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F3008_q.png",
     "a_img": "q2_answer_images/E_Jd3F3008_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F4009",
@@ -30878,7 +33164,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4009_q.png",
     "a_img": "q2_answer_images/E_Jd3F4009_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F4010",
@@ -30889,7 +33176,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4010_q.png",
     "a_img": "q2_answer_images/E_Jd3F4010_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F4011",
@@ -30900,7 +33188,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4011_q.png",
     "a_img": "q2_answer_images/E_Jd3F4011_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F4012",
@@ -30911,7 +33200,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4012_q.png",
     "a_img": "q2_answer_images/E_Jd3F4012_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F4013",
@@ -30922,7 +33212,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4013_q.png",
     "a_img": "q2_answer_images/E_Jd3F4013_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F4014",
@@ -30933,7 +33224,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4014_q.png",
     "a_img": "q2_answer_images/E_Jd3F4014_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F4015",
@@ -30944,7 +33236,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F4015_q.png",
     "a_img": "q2_answer_images/E_Jd3F4015_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F5016",
@@ -30955,7 +33248,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5016_q.png",
     "a_img": "q2_answer_images/E_Jd3F5016_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F5017",
@@ -30966,7 +33260,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5017_q.png",
     "a_img": "q2_answer_images/E_Jd3F5017_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F5018",
@@ -30977,7 +33272,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5018_q.png",
     "a_img": "q2_answer_images/E_Jd3F5018_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F5019",
@@ -30988,7 +33284,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5019_q.png",
     "a_img": "q2_answer_images/E_Jd3F5019_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd3F5020",
@@ -30999,7 +33296,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd3F5020_q.png",
     "a_img": "q2_answer_images/E_Jd3F5020_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F1021",
@@ -31010,7 +33308,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F1021_q.png",
     "a_img": "q2_answer_images/E_Jd2F1021_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F2022",
@@ -31021,7 +33320,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F2022_q.png",
     "a_img": "q2_answer_images/E_Jd2F2022_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F2023",
@@ -31032,7 +33332,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F2023_q.png",
     "a_img": "q2_answer_images/E_Jd2F2023_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F2024",
@@ -31043,7 +33344,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F2024_q.png",
     "a_img": "q2_answer_images/E_Jd2F2024_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F3025",
@@ -31054,7 +33356,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F3025_q.png",
     "a_img": "q2_answer_images/E_Jd2F3025_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F4026",
@@ -31065,7 +33368,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4026_q.png",
     "a_img": "q2_answer_images/E_Jd2F4026_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F4027",
@@ -31076,7 +33380,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4027_q.png",
     "a_img": "q2_answer_images/E_Jd2F4027_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F4028",
@@ -31087,7 +33392,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4028_q.png",
     "a_img": "q2_answer_images/E_Jd2F4028_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F4029",
@@ -31098,7 +33404,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4029_q.png",
     "a_img": "q2_answer_images/E_Jd2F4029_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F4030",
@@ -31109,7 +33416,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F4030_q.png",
     "a_img": "q2_answer_images/E_Jd2F4030_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F5031",
@@ -31120,7 +33428,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5031_q.png",
     "a_img": "q2_answer_images/E_Jd2F5031_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F5032",
@@ -31131,7 +33440,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5032_q.png",
     "a_img": "q2_answer_images/E_Jd2F5032_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F5033",
@@ -31142,7 +33452,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5033_q.png",
     "a_img": "q2_answer_images/E_Jd2F5033_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F5034",
@@ -31153,7 +33464,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5034_q.png",
     "a_img": "q2_answer_images/E_Jd2F5034_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F5035",
@@ -31164,7 +33476,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5035_q.png",
     "a_img": "q2_answer_images/E_Jd2F5035_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F5036",
@@ -31175,7 +33488,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5036_q.png",
     "a_img": "q2_answer_images/E_Jd2F5036_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd2F5037",
@@ -31186,7 +33500,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd2F5037_q.png",
     "a_img": "q2_answer_images/E_Jd2F5037_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F1038",
@@ -31197,7 +33512,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1038_q.png",
     "a_img": "q2_answer_images/E_Jd1F1038_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F1039",
@@ -31208,7 +33524,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1039_q.png",
     "a_img": "q2_answer_images/E_Jd1F1039_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F1040",
@@ -31219,7 +33536,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1040_q.png",
     "a_img": "q2_answer_images/E_Jd1F1040_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F1041",
@@ -31230,7 +33548,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1041_q.png",
     "a_img": "q2_answer_images/E_Jd1F1041_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F1042",
@@ -31241,7 +33560,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F1042_q.png",
     "a_img": "q2_answer_images/E_Jd1F1042_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F2043",
@@ -31252,7 +33572,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2043_q.png",
     "a_img": "q2_answer_images/E_Jd1F2043_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F2044",
@@ -31263,7 +33584,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2044_q.png",
     "a_img": "q2_answer_images/E_Jd1F2044_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F2045",
@@ -31274,7 +33596,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2045_q.png",
     "a_img": "q2_answer_images/E_Jd1F2045_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F2046",
@@ -31285,7 +33608,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2046_q.png",
     "a_img": "q2_answer_images/E_Jd1F2046_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F2047",
@@ -31296,7 +33620,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2047_q.png",
     "a_img": "q2_answer_images/E_Jd1F2047_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F2048",
@@ -31307,7 +33632,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F2048_q.png",
     "a_img": "q2_answer_images/E_Jd1F2048_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F3049",
@@ -31318,7 +33644,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F3049_q.png",
     "a_img": "q2_answer_images/E_Jd1F3049_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F4050",
@@ -31329,7 +33656,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F4050_q.png",
     "a_img": "q2_answer_images/E_Jd1F4050_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F5051",
@@ -31340,7 +33668,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F5051_q.png",
     "a_img": "q2_answer_images/E_Jd1F5051_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F5052",
@@ -31351,7 +33680,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F5052_q.png",
     "a_img": "q2_answer_images/E_Jd1F5052_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F5053",
@@ -31362,7 +33692,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F5053_q.png",
     "a_img": "q2_answer_images/E_Jd1F5053_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jd1F5054",
@@ -31373,7 +33704,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jd1F5054_q.png",
     "a_img": "q2_answer_images/E_Jd1F5054_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je4F1055",
@@ -31384,7 +33716,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je4F1055_q.png",
     "a_img": "q2_answer_images/E_Je4F1055_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2F1056",
@@ -31395,7 +33728,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2F1056_q.png",
     "a_img": "q2_answer_images/E_Je2F1056_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3F2057",
@@ -31406,7 +33740,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3F2057_q.png",
     "a_img": "q2_answer_images/E_Je3F2057_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3F2058",
@@ -31417,7 +33752,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3F2058_q.png",
     "a_img": "q2_answer_images/E_Je3F2058_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3F3059",
@@ -31428,7 +33764,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3F3059_q.png",
     "a_img": "q2_answer_images/E_Je3F3059_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3F3060",
@@ -31439,7 +33776,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3F3060_q.png",
     "a_img": "q2_answer_images/E_Je3F3060_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2F4061",
@@ -31450,7 +33788,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2F4061_q.png",
     "a_img": "q2_answer_images/E_Je2F4061_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je2F4062",
@@ -31461,7 +33800,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je2F4062_q.png",
     "a_img": "q2_answer_images/E_Je2F4062_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3F4063",
@@ -31472,7 +33812,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3F4063_q.png",
     "a_img": "q2_answer_images/E_Je3F4063_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Je3F5064",
@@ -31483,7 +33824,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Je3F5064_q.png",
     "a_img": "q2_answer_images/E_Je3F5064_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf3F3065",
@@ -31494,7 +33836,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf3F3065_q.png",
     "a_img": "q2_answer_images/E_Jf3F3065_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1F1066",
@@ -31505,7 +33848,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1F1066_q.png",
     "a_img": "q2_answer_images/E_Jf1F1066_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1F2067",
@@ -31516,7 +33860,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1F2067_q.png",
     "a_img": "q2_answer_images/E_Jf1F2067_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1F2068",
@@ -31527,7 +33872,8 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1F2068_q.png",
     "a_img": "q2_answer_images/E_Jf1F2068_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   },
   {
     "id": "E_Jf1F1069",
@@ -31538,6 +33884,7 @@ window.QUIZ_DATA = [
     "o": null,
     "q_img": "q2_question_images/E_Jf1F1069_q.png",
     "a_img": "q2_answer_images/E_Jf1F1069_a.png",
-    "explain": ""
+    "explain": "",
+    "show_q_img_in_question": false
   }
 ];

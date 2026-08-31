@@ -1180,9 +1180,10 @@ function setPlanFilter(type) {
 }
 
 function buildPlan() {
-  // 按题型分组
+  // 按题型分组（排除不考题）
   const byType = {};
   allQuestions.forEach(q => {
+    if (skipBook.includes(q.id)) return; // 排除不考题
     if (!byType[q.type]) byType[q.type] = [];
     byType[q.type].push(q.id);
   });
@@ -1864,7 +1865,7 @@ function renderWrongList() {
   const filtered = wrongListFilterType === 'all' ? wrongBook : wrongBook.filter(qid => {
     const q = allQuestions.find(x => x.id === qid);
     return q && q.type === wrongListFilterType;
-  });
+  }).filter(qid => !skipBook.includes(qid)); // 排除不考题
   if (filtered.length === 0) { empty.style.display = 'block'; return; }
   empty.style.display = 'none';
   filtered.forEach(qid => {
@@ -1889,8 +1890,9 @@ let wrongListFilterType = 'all';
 let wrongTrainFilterType = 'all';
 
 function getFilteredWrongBook() {
-  if (wrongTrainFilterType === 'all') return [...wrongBook];
-  return wrongBook.filter(qid => {
+  let result = wrongBook.filter(qid => !skipBook.includes(qid)); // 排除不考题
+  if (wrongTrainFilterType === 'all') return result;
+  return result.filter(qid => {
     const q = allQuestions.find(x => x.id === qid);
     return q && q.type === wrongTrainFilterType;
   });
@@ -2113,7 +2115,7 @@ function renderFavList() {
   const filtered = favFilterType === 'all' ? favorites : favorites.filter(qid => {
     const q = allQuestions.find(x => x.id === qid);
     return q && q.type === favFilterType;
-  });
+  }).filter(qid => !skipBook.includes(qid)); // 排除不考题
   if (filtered.length === 0) { empty.style.display = 'block'; return; }
   empty.style.display = 'none';
   filtered.forEach(qid => {
@@ -2150,7 +2152,7 @@ function createListItem(q, type) {
 function openFromList(qid, type) {
   let idx = filteredQuestions.findIndex(q => q.id === qid);
   if (idx < 0) {
-    filteredQuestions = [...allQuestions];
+    filteredQuestions = allQuestions.filter(q => !skipBook.includes(q.id)); // 排除不考题
     document.getElementById('typeFilter').value = '';
     idx = filteredQuestions.findIndex(q => q.id === qid);
   }
@@ -2176,7 +2178,8 @@ function removeFromList(qid, type, event) {
 // ============ 筛选与工具 ============
 function filterByType() {
   const type = document.getElementById('typeFilter').value;
-  filteredQuestions = type ? allQuestions.filter(q => q.type === type) : [...allQuestions];
+  const activeQuestions = allQuestions.filter(q => !skipBook.includes(q.id)); // 排除不考题
+  filteredQuestions = type ? activeQuestions.filter(q => q.type === type) : [...activeQuestions];
   currentIndex = 0;
   renderQuestion();
 }
@@ -2497,18 +2500,45 @@ function saveSkip() {
 
 function toggleSkipMark() {
   const q = filteredQuestions[currentIndex];
-  const idx = skipBook.indexOf(q.id);
-  if (idx > -1) {
-    skipBook.splice(idx, 1);
+  const wasSkipped = skipBook.includes(q.id);
+  
+  if (wasSkipped) {
+    // 恢复考题：从skipBook中移除
+    const idx = skipBook.indexOf(q.id);
+    if (idx > -1) skipBook.splice(idx, 1);
   } else {
+    // 标记为不考题：添加到skipBook
     skipBook.push(q.id);
   }
   saveSkip();
-  updateSkipButton();
-  // 如果标记为不考题，自动跳转到下一题
-  if (idx === -1 && currentIndex < filteredQuestions.length - 1) {
-    setTimeout(() => nextQuestion(), 300);
+  
+  // 重新过滤filteredQuestions，排除不考题
+  const currentQid = q.id;
+  const typeFilter = document.getElementById('typeFilter').value;
+  let activeQuestions = allQuestions.filter(x => !skipBook.includes(x.id));
+  if (typeFilter) activeQuestions = activeQuestions.filter(x => x.type === typeFilter);
+  filteredQuestions = activeQuestions;
+  
+  // 调整currentIndex
+  if (wasSkipped) {
+    // 恢复后，跳转到恢复的题目
+    const newIdx = filteredQuestions.findIndex(x => x.id === currentQid);
+    currentIndex = newIdx >= 0 ? newIdx : 0;
+  } else {
+    // 标记为不考题后，跳转到下一题
+    if (currentIndex >= filteredQuestions.length) {
+      currentIndex = filteredQuestions.length - 1;
+    }
+    if (currentIndex < 0) currentIndex = 0;
   }
+  
+  renderQuestion();
+  updateStats();
+}
+
+function updateStats() {
+  const activeCount = allQuestions.filter(q => !skipBook.includes(q.id)).length;
+  document.getElementById('stats').textContent = `共 ${activeCount} 题`;
 }
 
 function updateSkipButton() {
@@ -2559,6 +2589,12 @@ function restoreSkipQuestion(qid) {
   if (idx > -1) {
     skipBook.splice(idx, 1);
     saveSkip();
+    // 重新过滤filteredQuestions，将恢复的题目加回来
+    const typeFilter = document.getElementById('typeFilter').value;
+    let activeQuestions = allQuestions.filter(x => !skipBook.includes(x.id));
+    if (typeFilter) activeQuestions = activeQuestions.filter(x => x.type === typeFilter);
+    filteredQuestions = activeQuestions;
+    updateStats();
     renderSkipList();
   }
 }
@@ -2567,6 +2603,12 @@ function clearAllSkipConfirm() {
   if (confirm('确定要清空所有不考题吗？')) {
     skipBook = [];
     saveSkip();
+    // 重新过滤filteredQuestions，将所有恢复的题目加回来
+    const typeFilter = document.getElementById('typeFilter').value;
+    let activeQuestions = allQuestions.filter(x => !skipBook.includes(x.id));
+    if (typeFilter) activeQuestions = activeQuestions.filter(x => x.type === typeFilter);
+    filteredQuestions = activeQuestions;
+    updateStats();
     renderSkipList();
   }
 }
@@ -2580,7 +2622,15 @@ function jumpToQuestion(qid) {
       skipBook.splice(skipIdx, 1);
       saveSkip();
     }
-    currentIndex = idx;
+    // 重新过滤filteredQuestions，将恢复的题目加回来
+    const typeFilter = document.getElementById('typeFilter').value;
+    let activeQuestions = allQuestions.filter(x => !skipBook.includes(x.id));
+    if (typeFilter) activeQuestions = activeQuestions.filter(x => x.type === typeFilter);
+    filteredQuestions = activeQuestions;
+    // 跳转到恢复的题目
+    const newIdx = filteredQuestions.findIndex(x => x.id === qid);
+    currentIndex = newIdx >= 0 ? newIdx : 0;
+    updateStats();
     switchMode('quiz');
     renderQuestion();
   }

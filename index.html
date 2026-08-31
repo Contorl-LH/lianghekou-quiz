@@ -1619,7 +1619,10 @@ function switchMode(mode) {
   document.getElementById('wrongMode').classList.toggle('active', mode === 'wrong');
   document.getElementById('favMode').classList.toggle('active', mode === 'fav');
   const skipMode = document.getElementById('skipMode');
-  if (skipMode) skipMode.classList.toggle('active', mode === 'skip');
+  if (skipMode) {
+    skipMode.classList.toggle('active', mode === 'skip');
+    skipMode.style.display = mode === 'skip' ? 'block' : 'none';
+  }
 
   const showBottomNav = (mode === 'quiz' || (mode === 'plan' && document.getElementById('planQuiz').style.display === 'block'));
   document.getElementById('bottomNav').style.display = showBottomNav ? 'flex' : 'none';

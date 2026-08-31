@@ -1081,16 +1081,7 @@
 
 <div class="zoom-overlay" id="zoomOverlay" onclick="closeZoom()"></div>
 
-<div class="modal-overlay" id="confirmModal">
-  <div class="modal-box">
-    <h3 id="modalTitle">确认操作</h3>
-    <p id="modalText">确定要执行此操作吗？</p>
-    <div class="modal-buttons">
-      <button class="cancel" onclick="closeModal()">取消</button>
-      <button class="confirm" id="modalConfirm" onclick="confirmAction()">确定</button>
-    </div>
-  </div>
-</div>
+
 
 
 
@@ -2206,31 +2197,23 @@ function toggleToolbar() {
   document.querySelector('.toolbar-toggle').classList.toggle('open');
 }
 
-// ============ 确认弹窗 ============
-let modalAction = null;
+// ============ 确认操作（使用原生confirm） ============
 function clearWrongConfirm() {
   if (wrongBook.length === 0) { alert('错题本已是空的'); return; }
-  document.getElementById('modalTitle').textContent = '清空错题本';
-  document.getElementById('modalText').textContent = `确定要清空全部 ${wrongBook.length} 道错题吗？此操作不可恢复。`;
-  modalAction = 'clearWrong';
-  document.getElementById('confirmModal').classList.add('show');
-}
-function closeModal() {
-  document.getElementById('confirmModal').classList.remove('show');
-  modalAction = null;
-}
-function confirmAction() {
-  if (modalAction === 'clearWrong') {
+  if (confirm(`确定要清空全部 ${wrongBook.length} 道错题吗？此操作不可恢复。`)) {
     wrongBook = [];
     saveWrong();
     updateActionButtons();
-  } else if (modalAction === 'resetPlan') {
+    renderWrongList();
+  }
+}
+function resetPlanConfirm() {
+  if (confirm('确定要重置10天刷题计划吗？所有进度将被清除。')) {
     planData = { started: false, startDate: null, currentDay: 0, completed: {} };
     savePlan();
     initPlanData();
     renderPlanOverview();
   }
-  closeModal();
 }
 
 // ============ 图片放大 ============

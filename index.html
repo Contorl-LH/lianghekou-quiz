@@ -1007,11 +1007,17 @@
           <div class="answer-options" id="wrongTrainAnswerOptions"></div>
           <div class="result-tip" id="wrongTrainResultTip"></div>
           <div class="action-row">
+            <button class="action-btn" onclick="wrongTrainPrev()">⬅ 上一题</button>
+            <button class="action-btn answer-btn" onclick="wrongTrainShowAnswer()">💡 显示答案</button>
+            <button class="action-btn" onclick="wrongTrainNext()">下一题 ➡</button>
+          </div>
+          <div class="action-row">
             <button class="action-btn done-mark" id="wrongTrainMasteredBtn" onclick="wrongTrainMarkMastered()">✅ 已掌握</button>
             <button class="action-btn wrong-mark" id="wrongTrainRemoveBtn" onclick="wrongTrainRemove()">❌ 移出错题</button>
           </div>
           <div class="answer-section" id="wrongTrainAnswerSection">
             <span class="answer-label">参考答案</span>
+            <div class="answer-text" id="wrongTrainAnswerText"></div>
             <img id="wrongTrainAImg" src="" alt="答案" onclick="toggleZoom(this)">
           </div>
         </div>
@@ -2017,10 +2023,15 @@ function renderWrongTrainQuestion() {
   document.getElementById('wrongTrainResultTip').className = 'result-tip';
   document.getElementById('wrongTrainResultTip').textContent = '';
   document.getElementById('wrongTrainAnswerSection').classList.remove('show');
+  document.getElementById('wrongTrainAnswerText').textContent = '';
+  // 重置显示答案按钮文字
+  const showAnswerBtn = document.querySelector('#wrongTrainCard .answer-btn');
+  if (showAnswerBtn) showAnswerBtn.textContent = '💡 显示答案';
 }
 
 function wrongTrainSelectOption(opt) {
-  const qid = wrongBook[wrongTrainIndex];
+  const filteredWrong = getFilteredWrongBook();
+  const qid = filteredWrong[wrongTrainIndex];
   const q = allQuestions.find(x => x.id === qid);
   const correct = q.a;
   const buttons = document.querySelectorAll('#wrongTrainAnswerOptions .option-btn');
@@ -2073,6 +2084,24 @@ function wrongTrainNext() {
   } else {
     alert('错题训练完成！已完成所有错题。');
     backToWrongList();
+  }
+}
+
+function wrongTrainShowAnswer() {
+  const section = document.getElementById('wrongTrainAnswerSection');
+  section.classList.toggle('show');
+  const btn = event.target;
+  if (section.classList.contains('show')) {
+    btn.textContent = '🙈 隐藏答案';
+    // 显示答案文字
+    const filteredWrong = getFilteredWrongBook();
+    const qid = filteredWrong[wrongTrainIndex];
+    const q = allQuestions.find(x => x.id === qid);
+    if (q) {
+      document.getElementById('wrongTrainAnswerText').textContent = q.a || '';
+    }
+  } else {
+    btn.textContent = '💡 显示答案';
   }
 }
 

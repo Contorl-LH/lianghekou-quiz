@@ -1003,7 +1003,7 @@
           <span class="type-badge" id="wrongTrainTypeBadge">--</span>
         </div>
         <div class="card-body">
-          <img id="wrongTrainQImg" src="" alt="题干" onclick="toggleZoom(this)">
+          <img id="wrongTrainQImg" src="" alt="题干" style="display:none">
           <div class="answer-options" id="wrongTrainAnswerOptions"></div>
           <div class="result-tip" id="wrongTrainResultTip"></div>
           <div class="action-row">
@@ -1016,6 +1016,8 @@
             <button class="action-btn wrong-mark" id="wrongTrainRemoveBtn" onclick="wrongTrainRemove()">❌ 移出错题</button>
           </div>
           <div class="answer-section" id="wrongTrainAnswerSection">
+            <span class="answer-label">题目图片</span>
+            <img id="wrongTrainAnswerQImg" src="" alt="题干" onclick="toggleZoom(this)">
             <span class="answer-label">参考答案</span>
             <div class="answer-text" id="wrongTrainAnswerText"></div>
             <img id="wrongTrainAImg" src="" alt="答案" onclick="toggleZoom(this)">
@@ -2005,6 +2007,7 @@ function renderWrongTrainQuestion() {
   badge.className = 'type-badge type-' + q.type;
   document.getElementById('wrongTrainQImg').src = q.q_img;
   document.getElementById('wrongTrainAImg').src = q.a_img;
+  document.getElementById('wrongTrainAnswerQImg').src = q.q_img;
   
   // 选择题选项
   const optsDiv = document.getElementById('wrongTrainAnswerOptions');

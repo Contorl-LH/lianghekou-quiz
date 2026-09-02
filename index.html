@@ -1003,6 +1003,7 @@
           <span class="type-badge" id="wrongTrainTypeBadge">--</span>
         </div>
         <div class="card-body">
+          <div class="question-text" id="wrongTrainQuestionText"></div>
           <img id="wrongTrainQImg" src="" alt="题干" style="display:none">
           <div class="answer-options" id="wrongTrainAnswerOptions"></div>
           <div class="result-tip" id="wrongTrainResultTip"></div>
@@ -2005,6 +2006,7 @@ function renderWrongTrainQuestion() {
   const badge = document.getElementById('wrongTrainTypeBadge');
   badge.textContent = typeNames[q.type] || q.type;
   badge.className = 'type-badge type-' + q.type;
+  document.getElementById('wrongTrainQuestionText').textContent = q.q || '';
   document.getElementById('wrongTrainQImg').src = q.q_img;
   document.getElementById('wrongTrainAImg').src = q.a_img;
   document.getElementById('wrongTrainAnswerQImg').src = q.q_img;

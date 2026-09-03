@@ -845,6 +845,7 @@
       <option value="F">论述题</option>
     </select>
   </label>
+  <span class="type-stats" id="typeStats" style="font-size:13px;color:#666;background:#f0f4f8;padding:6px 12px;border-radius:8px;margin-left:8px;"></span>
   <label>跳转：<input type="text" id="jumpInput" placeholder="题号如 LA5A1001"></label>
   <button class="btn-primary" onclick="jumpTo()">跳转</button>
   <button class="btn-secondary" onclick="shuffleQuestions()">随机</button>
@@ -1673,6 +1674,7 @@ function init() {
   restoreQuizProgress(); // 恢复上次做题位置
   updateBadges();
   renderQuestion();
+  updateTypeStats();
   initSwipe();
   const activeCount = allQuestions.filter(q => !skipBook.includes(q.id)).length;
   document.getElementById('stats').textContent = `共 ${activeCount} 题`;
@@ -1927,6 +1929,7 @@ function toggleDoneMark() {
   else doneBook.push(qid);
   saveDone();
   updateActionButtons();
+  updateTypeStats();
 }
 
 function toggleAnswer() {
@@ -2557,6 +2560,21 @@ function filterByType() {
   }
   currentIndex = firstUndoneIndex;
   renderQuestion();
+  updateTypeStats();
+}
+function updateTypeStats() {
+  const type = document.getElementById('typeFilter').value;
+  const typeNames = {A: '选择题', B: '判断题', C: '简答题', D: '计算题', E: '绘图题', F: '论述题'};
+  const activeQuestions = allQuestions.filter(q => !skipBook.includes(q.id));
+  const filtered = type ? activeQuestions.filter(q => q.type === type) : activeQuestions;
+  const total = filtered.length;
+  const done = filtered.filter(q => doneBook.includes(q.id)).length;
+  const undone = total - done;
+  const typeName = type ? typeNames[type] : '全部题型';
+  const statsEl = document.getElementById('typeStats');
+  if (statsEl) {
+    statsEl.textContent = typeName + '｜共' + total + '题｜已完成' + done + '｜未做' + undone;
+  }
 }
 function jumpTo() {
   const input = document.getElementById('jumpInput').value.trim().toUpperCase();

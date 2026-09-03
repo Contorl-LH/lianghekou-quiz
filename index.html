@@ -1053,20 +1053,72 @@
 
   <!-- 收藏夹模式 -->
   <div class="list-mode" id="favMode">
-    <div class="list-type-filter" id="favTypeFilter">
-      <button class="type-filter-btn active" data-type="all" onclick="setFavFilter('all')">全部</button>
-      <button class="type-filter-btn" data-type="A" onclick="setFavFilter('A')">选择</button>
-      <button class="type-filter-btn" data-type="B" onclick="setFavFilter('B')">判断</button>
-      <button class="type-filter-btn" data-type="C" onclick="setFavFilter('C')">简答</button>
-      <button class="type-filter-btn" data-type="D" onclick="setFavFilter('D')">计算</button>
-      <button class="type-filter-btn" data-type="E" onclick="setFavFilter('E')">绘图</button>
-      <button class="type-filter-btn" data-type="F" onclick="setFavFilter('F')">论述</button>
+    <div id="favTrainMode" style="display:none">
+      <div class="plan-quiz-header">
+        <button class="plan-back-btn" onclick="backToFavList()">← 返回列表</button>
+        <span class="plan-quiz-title">收藏训练</span>
+        <span class="plan-quiz-progress" id="favTrainProgress">0/0</span>
+      </div>
+      <div class="plan-type-filter" id="favTrainTypeFilter" style="margin:0 0 8px 0">
+        <button class="type-filter-btn active" data-type="all" onclick="setFavTrainFilter('all')">全部</button>
+        <button class="type-filter-btn" data-type="A" onclick="setFavTrainFilter('A')">选择</button>
+        <button class="type-filter-btn" data-type="B" onclick="setFavTrainFilter('B')">判断</button>
+        <button class="type-filter-btn" data-type="C" onclick="setFavTrainFilter('C')">简答</button>
+        <button class="type-filter-btn" data-type="D" onclick="setFavTrainFilter('D')">计算</button>
+        <button class="type-filter-btn" data-type="E" onclick="setFavTrainFilter('E')">绘图</button>
+        <button class="type-filter-btn" data-type="F" onclick="setFavTrainFilter('F')">论述</button>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="favTrainProgressFill" style="width:0%"></div></div>
+      <div class="card" id="favTrainCard">
+        <div class="card-header">
+          <span class="qid" id="favTrainQid">--</span>
+          <span class="type-badge" id="favTrainTypeBadge">--</span>
+        </div>
+        <div class="card-body">
+          <div class="question-text" id="favTrainQuestionText"></div>
+          <img id="favTrainQImg" src="" alt="题干" style="display:none">
+          <div class="answer-options" id="favTrainAnswerOptions"></div>
+          <div class="result-tip" id="favTrainResultTip"></div>
+          <div class="action-row">
+            <button class="action-btn" onclick="favTrainPrev()">⬅ 上一题</button>
+            <button class="action-btn answer-btn" onclick="favTrainShowAnswer()">💡 显示答案</button>
+            <button class="action-btn" onclick="favTrainNext()">下一题 ➡</button>
+          </div>
+          <div class="action-row">
+            <button class="action-btn fav" id="favTrainFavBtn" onclick="favTrainToggleFavorite()">⭐ 已收藏</button>
+            <button class="action-btn done-mark" id="favTrainRemoveBtn" onclick="favTrainRemove()">❌ 取消收藏</button>
+          </div>
+          <div class="answer-section" id="favTrainAnswerSection">
+            <span class="answer-label">题目图片</span>
+            <img id="favTrainAnswerQImg" src="" alt="题干" onclick="toggleZoom(this)">
+            <span class="answer-label">参考答案</span>
+            <div class="answer-text" id="favTrainAnswerText"></div>
+            <img id="favTrainAImg" src="" alt="答案" onclick="toggleZoom(this)">
+          </div>
+        </div>
+      </div>
+      <div class="hint">收藏训练：选择题作答后自动跳转 | 点击"取消收藏"移出收藏夹</div>
     </div>
-    <div class="question-list" id="favList"></div>
-    <div class="empty-list" id="favEmpty" style="display:none">
-      <div class="icon">⭐</div>
-      <div>还没有收藏的题目</div>
-      <div style="font-size:12px;margin-top:6px">答题时点击"收藏"按钮添加</div>
+    <div id="favListMode">
+      <div class="plan-header" style="padding:12px 16px">
+        <h2 style="margin:0;font-size:18px">⭐ 收藏夹</h2>
+        <button class="btn-primary" style="margin-top:10px" onclick="startFavTrain()">开始收藏训练</button>
+      </div>
+      <div class="plan-type-filter" id="favListTypeFilter" style="margin:0 16px 10px 16px">
+        <button class="type-filter-btn active" data-type="all" onclick="setFavFilter('all')">全部</button>
+        <button class="type-filter-btn" data-type="A" onclick="setFavFilter('A')">选择</button>
+        <button class="type-filter-btn" data-type="B" onclick="setFavFilter('B')">判断</button>
+        <button class="type-filter-btn" data-type="C" onclick="setFavFilter('C')">简答</button>
+        <button class="type-filter-btn" data-type="D" onclick="setFavFilter('D')">计算</button>
+        <button class="type-filter-btn" data-type="E" onclick="setFavFilter('E')">绘图</button>
+        <button class="type-filter-btn" data-type="F" onclick="setFavFilter('F')">论述</button>
+      </div>
+      <div class="question-list" id="favList"></div>
+      <div class="empty-list" id="favEmpty" style="display:none">
+        <div class="icon">⭐</div>
+        <div>还没有收藏的题目</div>
+        <div style="font-size:12px;margin-top:6px">答题时点击"收藏"按钮添加</div>
+      </div>
     </div>
   </div>
 </div>
@@ -2142,6 +2194,214 @@ function wrongTrainPrev() {
   if (wrongTrainIndex > 0) {
     wrongTrainIndex--;
     renderWrongTrainQuestion();
+  }
+}
+
+// ============ 收藏训练 ============
+let favTrainIndex = 0;
+let favTrainFilterType = 'all';
+
+function getFilteredFavorites() {
+  let result = favorites.filter(qid => !skipBook.includes(qid)); // 排除不考题
+  if (favTrainFilterType === 'all') return result;
+  return result.filter(qid => {
+    const q = allQuestions.find(x => x.id === qid);
+    return q && q.type === favTrainFilterType;
+  });
+}
+
+function startFavTrain() {
+  const filtered = getFilteredFavorites();
+  if (filtered.length === 0) {
+    alert('该题型暂无收藏题目');
+    return;
+  }
+  favTrainIndex = 0;
+  document.getElementById('favListMode').style.display = 'none';
+  document.getElementById('favTrainMode').style.display = 'block';
+  document.getElementById('bottomNav').style.display = 'none';
+  renderFavTrainQuestion();
+}
+
+function setFavTrainFilter(type) {
+  favTrainFilterType = type;
+  document.querySelectorAll('#favTrainTypeFilter .type-filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.type === type);
+  });
+  favTrainIndex = 0;
+  renderFavTrainQuestion();
+}
+
+function backToFavList() {
+  document.getElementById('favTrainMode').style.display = 'none';
+  document.getElementById('favListMode').style.display = 'block';
+  document.getElementById('bottomNav').style.display = 'flex';
+  renderFavList();
+}
+
+function renderFavTrainQuestion() {
+  const filteredFav = getFilteredFavorites();
+  if (filteredFav.length === 0) {
+    alert('该题型暂无收藏题目');
+    backToFavList();
+    return;
+  }
+  if (favTrainIndex >= filteredFav.length) favTrainIndex = filteredFav.length - 1;
+  if (favTrainIndex < 0) favTrainIndex = 0;
+  
+  // 找到第一道能找到的题目
+  let q = null;
+  let qid = null;
+  while (favTrainIndex < filteredFav.length) {
+    qid = filteredFav[favTrainIndex];
+    q = allQuestions.find(x => x.id === qid);
+    if (q) break;
+    favTrainIndex++;
+  }
+  if (!q) {
+    alert('该题型暂无有效收藏题目');
+    backToFavList();
+    return;
+  }
+  
+  const filteredFav2 = getFilteredFavorites();
+  document.getElementById('favTrainProgress').textContent = `${favTrainIndex+1}/${filteredFav2.length}`;
+  document.getElementById('favTrainProgressFill').style.width = ((favTrainIndex+1)/filteredFav2.length*100) + '%';
+  document.getElementById('favTrainQid').textContent = q.id;
+  const badge = document.getElementById('favTrainTypeBadge');
+  badge.textContent = typeNames[q.type] || q.type;
+  badge.className = 'type-badge type-' + q.type;
+  document.getElementById('favTrainQuestionText').textContent = q.q || '';
+  document.getElementById('favTrainQImg').src = q.q_img;
+  document.getElementById('favTrainAImg').src = q.a_img;
+  document.getElementById('favTrainAnswerQImg').src = q.q_img;
+  
+  // 更新收藏按钮状态
+  const favTrainIsFav = favorites.includes(q.id);
+  const favTrainFavBtn = document.getElementById('favTrainFavBtn');
+  if (favTrainFavBtn) {
+    favTrainFavBtn.innerHTML = favTrainIsFav ? '⭐ 已收藏' : '⭐ 收藏';
+    favTrainFavBtn.classList.toggle('active', favTrainIsFav);
+  }
+  
+  // 选择题选项
+  const optsDiv = document.getElementById('favTrainAnswerOptions');
+  optsDiv.innerHTML = '';
+  if (q.type === 'A' && q.o) {
+    Object.keys(q.o).sort().forEach(key => {
+      const btn = document.createElement('button');
+      btn.className = 'option-btn';
+      btn.dataset.opt = key;
+      btn.innerHTML = `<span class="opt-letter">${key}</span><span>${q.o[key]}</span>`;
+      btn.onclick = () => favTrainSelectOption(key);
+      optsDiv.appendChild(btn);
+    });
+  }
+  
+  document.getElementById('favTrainResultTip').className = 'result-tip';
+  document.getElementById('favTrainResultTip').textContent = '';
+  document.getElementById('favTrainAnswerSection').classList.remove('show');
+  document.getElementById('favTrainAnswerText').textContent = '';
+  // 重置显示答案按钮文字
+  const showAnswerBtn = document.querySelector('#favTrainCard .answer-btn');
+  if (showAnswerBtn) showAnswerBtn.textContent = '💡 显示答案';
+}
+
+function favTrainSelectOption(opt) {
+  const filteredFav = getFilteredFavorites();
+  const qid = filteredFav[favTrainIndex];
+  const q = allQuestions.find(x => x.id === qid);
+  const correct = q.a;
+  const buttons = document.querySelectorAll('#favTrainAnswerOptions .option-btn');
+  buttons.forEach(btn => {
+    btn.classList.add('disabled');
+    if (btn.dataset.opt === correct) btn.classList.add('correct');
+    if (btn.dataset.opt === opt && opt !== correct) btn.classList.add('wrong');
+  });
+  const tip = document.getElementById('favTrainResultTip');
+  if (opt === correct) {
+    tip.className = 'result-tip correct show';
+    tip.textContent = '✓ 回答正确！';
+  } else {
+    tip.className = 'result-tip wrong show';
+    tip.textContent = `✗ 回答错误，正确答案是 ${correct}`;
+  }
+  // 1秒后自动跳转下一题
+  setTimeout(() => {
+    favTrainNext();
+  }, 1000);
+}
+
+function favTrainToggleFavorite() {
+  const filteredFav = getFilteredFavorites();
+  const qid = filteredFav[favTrainIndex];
+  const idx = favorites.indexOf(qid);
+  if (idx >= 0) {
+    favorites.splice(idx, 1);
+  } else {
+    favorites.push(qid);
+  }
+  saveFav();
+  // 更新按钮状态
+  const btn = document.getElementById('favTrainFavBtn');
+  if (btn) {
+    const isFav = favorites.includes(qid);
+    btn.innerHTML = isFav ? '⭐ 已收藏' : '⭐ 收藏';
+    btn.classList.toggle('active', isFav);
+  }
+}
+
+function favTrainRemove() {
+  const filteredFav = getFilteredFavorites();
+  const qid = filteredFav[favTrainIndex];
+  const idx = favorites.indexOf(qid);
+  if (idx >= 0) favorites.splice(idx, 1);
+  saveFav();
+  updateBadges();
+  // 自动跳转下一题
+  const newFiltered = getFilteredFavorites();
+  if (newFiltered.length === 0) {
+    alert('该题型收藏题目已全部取消收藏！');
+    backToFavList();
+    return;
+  }
+  if (favTrainIndex >= newFiltered.length) favTrainIndex = newFiltered.length - 1;
+  renderFavTrainQuestion();
+}
+
+function favTrainNext() {
+  const filteredFav = getFilteredFavorites();
+  if (favTrainIndex < filteredFav.length - 1) {
+    favTrainIndex++;
+    renderFavTrainQuestion();
+  } else {
+    alert('收藏训练完成！已完成所有收藏题目。');
+    backToFavList();
+  }
+}
+
+function favTrainPrev() {
+  if (favTrainIndex > 0) {
+    favTrainIndex--;
+    renderFavTrainQuestion();
+  }
+}
+
+function favTrainShowAnswer() {
+  const section = document.getElementById('favTrainAnswerSection');
+  section.classList.toggle('show');
+  const btn = event.target;
+  if (section.classList.contains('show')) {
+    btn.textContent = '🙈 隐藏答案';
+    // 显示答案文字
+    const filteredFav = getFilteredFavorites();
+    const qid = filteredFav[favTrainIndex];
+    const q = allQuestions.find(x => x.id === qid);
+    if (q) {
+      document.getElementById('favTrainAnswerText').textContent = q.a || '';
+    }
+  } else {
+    btn.textContent = '💡 显示答案';
   }
 }
 

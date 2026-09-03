@@ -1680,6 +1680,19 @@ function resetPlanConfirm() {
 function init() {
   buildPlan();
   initPlanData();
+  // 数据迁移：将10天计划中已完成的题目同步到普通答题的已完成记录
+  const planDoneIds = Object.keys(planData.completed).filter(k => planData.completed[k]);
+  let migrated = 0;
+  planDoneIds.forEach(qid => {
+    if (!doneBook.includes(qid)) {
+      doneBook.push(qid);
+      migrated++;
+    }
+  });
+  if (migrated > 0) {
+    saveDone();
+    console.log('数据迁移完成：同步了' + migrated + '道10天计划已完成题目到普通答题记录');
+  }
   restoreQuizProgress(); // 恢复上次做题位置
   updateBadges();
   renderQuestion();

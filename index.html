@@ -1013,6 +1013,7 @@
             <button class="action-btn" onclick="wrongTrainNext()">下一题 ➡</button>
           </div>
           <div class="action-row">
+            <button class="action-btn fav" id="wrongTrainFavBtn" onclick="wrongTrainToggleFavorite()">⭐ 收藏</button>
             <button class="action-btn done-mark" id="wrongTrainMasteredBtn" onclick="wrongTrainMarkMastered()">✅ 已掌握</button>
             <button class="action-btn wrong-mark" id="wrongTrainRemoveBtn" onclick="wrongTrainRemove()">❌ 移出错题</button>
           </div>
@@ -2011,6 +2012,14 @@ function renderWrongTrainQuestion() {
   document.getElementById('wrongTrainAImg').src = q.a_img;
   document.getElementById('wrongTrainAnswerQImg').src = q.q_img;
   
+  // 更新收藏按钮状态
+  const wrongTrainIsFav = favorites.includes(q.id);
+  const wrongTrainFavBtn = document.getElementById('wrongTrainFavBtn');
+  if (wrongTrainFavBtn) {
+    wrongTrainFavBtn.innerHTML = wrongTrainIsFav ? '⭐ 已收藏' : '⭐ 收藏';
+    wrongTrainFavBtn.classList.toggle('active', wrongTrainIsFav);
+  }
+  
   // 选择题选项
   const optsDiv = document.getElementById('wrongTrainAnswerOptions');
   optsDiv.innerHTML = '';
@@ -2089,6 +2098,25 @@ function wrongTrainNext() {
   } else {
     alert('错题训练完成！已完成所有错题。');
     backToWrongList();
+  }
+}
+
+function wrongTrainToggleFavorite() {
+  const filteredWrong = getFilteredWrongBook();
+  const qid = filteredWrong[wrongTrainIndex];
+  const idx = favorites.indexOf(qid);
+  if (idx >= 0) {
+    favorites.splice(idx, 1);
+  } else {
+    favorites.push(qid);
+  }
+  saveFav();
+  // 更新按钮状态
+  const btn = document.getElementById('wrongTrainFavBtn');
+  if (btn) {
+    const isFav = favorites.includes(qid);
+    btn.innerHTML = isFav ? '⭐ 已收藏' : '⭐ 收藏';
+    btn.classList.toggle('active', isFav);
   }
 }
 

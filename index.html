@@ -1742,7 +1742,13 @@ function switchMode(mode) {
     if (listMode) listMode.style.display = 'block';
     renderWrongList();
   }
-  if (mode === 'fav') renderFavList();
+  if (mode === 'fav') {
+    const favTrainMode = document.getElementById('favTrainMode');
+    const favListMode = document.getElementById('favListMode');
+    if (favTrainMode) favTrainMode.style.display = 'none';
+    if (favListMode) favListMode.style.display = 'block';
+    renderFavList();
+  }
   if (mode === 'skip') renderSkipList();
 }
 

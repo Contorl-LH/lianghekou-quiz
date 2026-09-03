@@ -1285,7 +1285,7 @@ function savePlan() {
 }
 
 function isPlanDone(qid) {
-  return planData.completed[qid] === true;
+  return planData.completed[qid] === true || doneBook.includes(qid);
 }
 
 function getDayCompletedCount(day) {
@@ -1293,7 +1293,9 @@ function getDayCompletedCount(day) {
 }
 
 function getTotalCompleted() {
-  return Object.keys(planData.completed).filter(k => planData.completed[k]).length;
+  const planDone = Object.keys(planData.completed).filter(k => planData.completed[k]);
+  const allDone = new Set([...planDone, ...doneBook]);
+  return allDone.size;
 }
 
 function renderPlanOverview() {
@@ -1530,7 +1532,9 @@ function planSelectOption(opt) {
   // 自动标记已做
   if (!isPlanDone(qid)) {
     planData.completed[qid] = true;
+    if (!doneBook.includes(qid)) doneBook.push(qid);
     savePlan();
+    saveDone();
     document.getElementById('planDoneBtn').classList.add('active');
     document.getElementById('planDoneBtn').innerHTML = '✅ 已完成';
   }
@@ -1555,11 +1559,16 @@ function togglePlanDone() {
   const qid = planDays[planCurrentDay][planQuizIndex];
   if (isPlanDone(qid)) {
     delete planData.completed[qid];
+    const idx = doneBook.indexOf(qid);
+    if (idx >= 0) doneBook.splice(idx, 1);
     savePlan();
+    saveDone();
     renderPlanQuestion();
   } else {
     planData.completed[qid] = true;
+    if (!doneBook.includes(qid)) doneBook.push(qid);
     savePlan();
+    saveDone();
     // 标记已做后自动跳到下一题（延迟500ms让用户看到标记效果）
     const doneBtn = document.getElementById('planDoneBtn');
     doneBtn.classList.add('active');
@@ -1925,9 +1934,15 @@ function saveDone() {
 function toggleDoneMark() {
   const qid = filteredQuestions[currentIndex].id;
   const idx = doneBook.indexOf(qid);
-  if (idx >= 0) doneBook.splice(idx, 1);
-  else doneBook.push(qid);
+  if (idx >= 0) {
+    doneBook.splice(idx, 1);
+    delete planData.completed[qid];
+  } else {
+    doneBook.push(qid);
+    planData.completed[qid] = true;
+  }
   saveDone();
+  savePlan();
   updateActionButtons();
   updateTypeStats();
 }

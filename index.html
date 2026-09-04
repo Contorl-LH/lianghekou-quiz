@@ -2955,6 +2955,11 @@ function toggleSkipMark() {
   
   renderQuestion();
   updateStats();
+  // 重新构建10天计划，确保不考题变更后10天计划同步更新
+  buildPlan();
+  if (currentMode === 'plan') {
+    renderPlanOverview();
+  }
 }
 
 function updateStats() {
@@ -3017,6 +3022,11 @@ function restoreSkipQuestion(qid) {
     filteredQuestions = activeQuestions;
     updateStats();
     renderSkipList();
+    // 重新构建10天计划，确保恢复不考题后10天计划同步更新
+    buildPlan();
+    if (currentMode === 'plan') {
+      renderPlanOverview();
+    }
   }
 }
 
@@ -3031,6 +3041,11 @@ function clearAllSkipConfirm() {
     filteredQuestions = activeQuestions;
     updateStats();
     renderSkipList();
+    // 重新构建10天计划，确保清空不考题后10天计划同步更新
+    buildPlan();
+    if (currentMode === 'plan') {
+      renderPlanOverview();
+    }
   }
 }
 

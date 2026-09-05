@@ -2794,13 +2794,14 @@ async function uploadToSupabase() {
   
   try {
     const data = {
-      v: 1,
+      v: 2,
       t: Date.now(),
       wrong: localStorage.getItem('quiz_wrong_book') || '[]',
       fav: localStorage.getItem('quiz_favorites') || '[]',
       done: localStorage.getItem('quiz_done_book') || '[]',
       plan: localStorage.getItem('quiz_10day_plan') || 'null',
-      prog: localStorage.getItem('quiz_progress') || 'null'
+      prog: localStorage.getItem('quiz_progress') || 'null',
+      skip: localStorage.getItem('quiz_skip_book') || '[]'
     };
     
     const { error } = await supabaseClient
@@ -2842,6 +2843,7 @@ async function downloadFromSupabase() {
       if (d.done) localStorage.setItem('quiz_done_book', d.done);
       if (d.plan) localStorage.setItem('quiz_10day_plan', d.plan);
       if (d.prog) localStorage.setItem('quiz_progress', d.prog);
+      if (d.skip) localStorage.setItem('quiz_skip_book', d.skip);
       
       // 重新加载内存数据
       wrongBook = JSON.parse(localStorage.getItem('quiz_wrong_book') || '[]');
@@ -2849,10 +2851,14 @@ async function downloadFromSupabase() {
       doneBook = JSON.parse(localStorage.getItem('quiz_done_book') || '[]');
       planData = JSON.parse(localStorage.getItem('quiz_10day_plan') || 'null');
       quizProgress = JSON.parse(localStorage.getItem('quiz_progress') || 'null');
+      skipBook = JSON.parse(localStorage.getItem('quiz_skip_book') || '[]');
+      
+      // 重新构建10天计划（不考题变更后）
+      buildPlan();
       
       updateBadges();
       renderQuestion();
-      alert('数据下载成功！已覆盖本地数据');
+      alert('数据下载成功！已覆盖本地数据（含不考题）');
     } else {
       alert('云端没有数据');
     }
